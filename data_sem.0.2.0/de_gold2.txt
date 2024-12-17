@@ -1,0 +1,20744 @@
+Pierce	PER
+wohnt	ENS
+in	REL
+der	DEF
+E.~28th~Street	GEO
+.	NIL
+
+Bob	PER
+war	PST
+sehr	INT
+glücklich	IST
+.	NIL
+
+Haben	ENS
+Sie	PRO
+eine	DIS
+Kreditkarte	CON
+?	QUE
+
+Ich	PRO
+habe	NOW
+das	DEF
+Buch	CON
+für	REL
+zehn	QUC
+Dollar	UOM
+gekauft	EXT
+.	NIL
+
+Sie	PRO
+bewaffneten	EPS
+sich	REF
+mit	REL
+Gewehren	CON
+.	NIL
+
+Grüezi	GRE
+.	NIL
+
+Wo	QUE
+sind	ENS
+wir	PRO
+?	QUE
+
+Es	PRO
+ist	NOW
+sehr	INT
+stickig	IST
+.	NIL
+
+Ich	PRO
+komme	ENS
+aus	REL
+Portugal	GPE
+.	NIL
+
+Hallo	GRE
+!	EMP
+
+http://www.anl.siemens.de/news/press_d.html	CTC
+
+Ich	PRO
+weiß	ENS
+nicht	NOT
+,	NIL
+wo	QUE
+Tom	PER
+s	HAS
+Büro	CON
+ist	ENS
+.	NIL
+
+Ich	PRO
+will	ENS
+über	REL
+den	DEF
+Wolken	CON
+fliegen	EXS
+.	NIL
+
+Es	NIL
+kamen	EPS
+nur	XCL
+sechs	QUC
+Leute	CON
+zu	REL
+der	DEF
+Feier	CON
+.	NIL
+
+Er	PRO
+fällt	ENS
+Bäume	CON
+auf	REL
+dem	DEF
+Berg	CON
+.	NIL
+
+Tom	PER
+fotografierte	EPS
+seinen	HAS
+Hund	CON
+und	COO
+schickte	EPS
+das	DEF
+Bild	CON
+Maria	PER
+.	NIL
+
+Tom	PER
+ist	NOW
+genial	IST
+.	NIL
+
+Er	PRO
+wechselte	EPS
+den	DEF
+verletzten	IST
+Spieler	ROL
+aus	REL
+.	NIL
+
+Ich	PRO
+muss	NEC
+scheißen	EXS
+.	NIL
+
+Der	DEF
+Zahnarzt	ROL
+hat	NOW
+mir	PRO
+meinen	HAS
+schlechten	IST
+Zahn	CON
+gezogen	EXT
+.	NIL
+
+Sie	PRO
+ist	ENS
+keine	NOT
+gute	IST
+Köchin	ROL
+.	NIL
+
+Senator	ROL
+Kerry	PER
+galt	EPS
+als	REL
+Liberaler	CON
+.	NIL
+
+Das	DEF
+Auto	CON
+überschreitet	ENS
+die	DEF
+Geschwindigkeitsbegrenzung	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+ein	DIS
+Verräter	ROL
+.	NIL
+
+Wir	PRO
+sind	NOW
+unglücklich	IST
+.	NIL
+
+Sue	PER
+hob	EPS
+einen	DIS
+Bleistift	CON
+vom	DEF
+Fußboden	CON
+auf	REL
+.	NIL
+
+Der	DEF
+Prinz	ROL
+erschlug	EPS
+den	DEF
+Drachen	CON
+.	NIL
+
+Ich	PRO
+schreibe	ENS
+Gedichte	CON
+.	NIL
+
+Wen	QUE
+hast	NOW
+du	PRO
+gewählt	EXT
+?	QUE
+
+Ted	PER
+liebt	ENS
+seine	HAS
+Frau	ROL
+Elizabeth	PER
+.	NIL
+
+Sie	PRO
+haben	NOW
+das	DEF
+Schiff	CON
+aufgegeben	EXT
+.	NIL
+
+Ich	PRO
+kann	POS
+Tom	PER
+im	REL
+Schach	CON
+nicht	NOT
+schlagen	EXS
+.	NIL
+
+Jeder	AND
+kennt	ENS
+jeden	AND
+.	NIL
+
+Das	PRO
+ist	ENS
+der	DEF
+Dachs	CON
+!	EMP
+
+Der	DEF
+Teich	CON
+ist	NOW
+ausgetrocknet	EXT
+.	NIL
+
+Tom	PER
+war	EPS
+ein	DIS
+Erpresser	ROL
+.	NIL
+
+Ich	PRO
+habe	NOW
+mir	PRO
+eine	DIS
+neue	IST
+Brille	CON
+gekauft	EXT
+.	NIL
+
+Du	PRO
+bist	NOW
+ungezogen	EXT
+.	NIL
+
+Alle	AND
+Schüler	ROL
+sind	NOW
+anwesend	IST
+.	NIL
+
+Ich	PRO
+hustete	EPS
+.	NIL
+
+Mein	HAS
+Vater	ROL
+mag	ENS
+starken	IST
+Kaffee	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+in	REL
+dem	DEF
+Geschäft	CON
+einen	DIS
+Hut	CON
+gekauft	EXT
+.	NIL
+
+Mein	HAS
+Chef	ROL
+leidet	ENS
+an	REL
+einer	DIS
+schlimmen	IST
+Erkältung	CON
+.	NIL
+
+Daisuke	PER
+erklomm	EPS
+den	DEF
+Gipfel	CON
+.	NIL
+
+Sie	PRO
+wusch	EPS
+einen	DIS
+Teppich	CON
+.	NIL
+
+Sie	PRO
+zeigte	EPS
+ihm	PRO
+das	DEF
+Foto	CON
+.	NIL
+
+Tom	PER
+öffnete	EPS
+den	DEF
+Gefrierschrank	CON
+und	COO
+nahm	EPS
+das	DEF
+Eis	CON
+heraus	REL
+.	NIL
+
+Dieser	PRX
+verdammte	IST
+Computer	CON
+funktioniert	ENS
+nicht	NOT
+.	NIL
+
+Er	PRO
+bereitete	EPS
+mir	PRO
+das	DEF
+Abendessen	CON
+zu	REL
+.	NIL
+
+Ich	PRO
+räuspere	ENS
+mich	REF
+.	NIL
+
+Das	DEF
+Wörterbuch	CON
+enthält	ENS
+ungefähr	APX
+eine~halbe~Million	QUC
+Wörter	CON
+.	NIL
+
+Ihre	HAS
+Zähne	CON
+waren	PST
+weiß	COL
+.	NIL
+
+Ich	PRO
+habe	NOW
+Kekse	CON
+gebacken	EXT
+.	NIL
+
+Ich	PRO
+traf	EPS
+sie	PRO
+zufällig	IST
+auf	REL
+der	DEF
+Straße	CON
+.	NIL
+
+Das	DST
+ist	ENS
+ein	DIS
+alter	DEG
+Hut	CON
+.	NIL
+
+Er	PRO
+ist	ENS
+kein	NOT
+guter	IST
+Fahrer	ROL
+.	NIL
+
+Alle	AND
+hatten	PST
+Hunger	IST
+.	NIL
+
+Liu~Bei	PER
+und	GRP
+Zhuge~Liang	PER
+sind	ENS
+ein	DIS
+unschlagbares	IST
+Team	CON
+.	NIL
+
+Er	PRO
+langweilt	ENS
+jeden	AND
+.	NIL
+
+Tom	PER
+ist	NOW
+vor	PST
+drei	QUC
+Jahren	UOM
+gestorben	EXT
+.	NIL
+
+Schall	CON
+ist	NOW
+weniger	LES
+schnell	IST
+als	REL
+Licht	CON
+.	NIL
+
+Russland	GPE
+wies	EPS
+beide	AND
+Forderungen	CON
+zurück	REL
+.	NIL
+
+Er	PRO
+ist	NOW
+sehr	INT
+sachkundig	IST
+.	NIL
+
+Ich	PRO
+fühlte	EPS
+einen	DIS
+heftigen	IST
+Schmerz	CON
+.	NIL
+
+Kraft	ORG
+verkaufte	EPS
+Celestial~Seasonings	ORG
+.	NIL
+
+9	QUC
+Menschen	CON
+wurden	PST
+von	REL
+Raman~Raghav	PER
+ermordet	EXS
+.	NIL
+
+Charles~de~Gaulle	PER
+starb	EPS
+im	DEF
+Jahre	CON
+1970	YOC
+.	NIL
+
+Ich	PRO
+streckte	EPS
+meine	HAS
+Hand	CON
+nach	REL
+dem	DEF
+Buch	CON
+aus	REL
+.	NIL
+
+Sie	PRO
+wusste	EPS
+,	NIL
+dass	SUB
+John	PER
+sie	PRO
+liebte	EPS
+.	NIL
+
+Sie	PRO
+beleidigte	EPS
+ihn	PRO
+.	NIL
+
+Maria	PER
+wurde	PST
+von	REL
+Piraten	ROL
+entführt	EXS
+.	NIL
+
+Ich	PRO
+habe	NOW
+gerade	IST
+deinen	HAS
+Brief	CON
+bekommen	EXT
+.	NIL
+
+Sie	PRO
+pflanzten	EPS
+Apfelbäume	CON
+.	NIL
+
+Der	DEF
+Löwe	CON
+brüllt	ENS
+.	NIL
+
+Beethoven	PER
+hat	NOW
+neun	QUC
+Sinfonien	CON
+geschrieben	EXT
+.	NIL
+
+Sie	PRO
+gehorcht	ENS
+ihm	PRO
+.	NIL
+
+Zweitausendfünfhundert	QUC
+britische	GPO
+Soldaten	ROL
+bewachten	EPS
+die	DEF
+Grenze	CON
+.	NIL
+
+Sie	PRO
+ist	NOW
+in~keiner~Weise	NOT
+egoistisch	IST
+.	NIL
+
+Toms	PER
+Strategie	CON
+geht	ENS
+nicht	NOT
+auf	REL
+.	NIL
+
+Mit	REL
+wem	QUE
+spreche	ENS
+ich	PRO
+?	QUE
+
+Sie	PRO
+hat	NOW
+ihm	PRO
+eine	DIS
+Uhr	CON
+gegeben	EXT
+.	NIL
+
+Das	DEF
+Pferd	CON
+ist	NOW
+nicht	NOT
+weiß	COL
+.	NIL
+
+Wir	PRO
+arbeiten	ENS
+für	REL
+Sie	PRO
+.	NIL
+
+Das	PRO
+ganze	AND
+Geld	CON
+war	PST
+weg	IST
+.	NIL
+
+Ich	PRO
+bin	NOW
+größer	MOR
+als	REL
+er	PRO
+.	NIL
+
+Der	DEF
+Gefangene	ROL
+wurde	PST
+freigelassen	EXS
+.	NIL
+
+Tom	PER
+kann	POS
+überhaupt	EMP
+nicht	NOT
+schwimmen	EXS
+.	NIL
+
+Tom	PER
+hat	NOW
+einen	DIS
+Geigerzähler	CON
+gekauft	EXT
+.	NIL
+
+Es	PRO
+ist	NOW
+unter	REL
+dem	DEF
+Bett	CON
+versteckt	EXS
+.	NIL
+
+Furzen	EXG
+ist	NOW
+unartig	IST
+
+Wie	QUE
+viele	QUV
+Personen	CON
+sind	NOW
+gestorben	EXT
+?	QUE
+
+Tom	PER
+hat	PST
+keinen	NOT
+Gesetzen	CON
+zuwidergehandelt	EXT
+.	NIL
+
+Tom	PER
+ist	NOW
+nicht	NOT
+berühmt	IST
+.	NIL
+
+Lämmchen	CON
+sind	NOW
+sehr	INT
+süß	IST
+.	NIL
+
+Er	PRO
+spricht	ENS
+fünf	QUC
+Sprachen	CON
+.	NIL
+
+Ich	PRO
+mache	ENS
+eine	DIS
+Ausbildung	CON
+bei	REL
+Ford	ORG
+.	NIL
+
+Vielleicht	POS
+hat	NOW
+Tom	PER
+Mary	PER
+geküsst	EXT
+.	NIL
+
+Ihr	HAS
+Hund	CON
+ist	NOW
+nicht	NOT
+besonders	INT
+flink	DEG
+.	NIL
+
+Ich	PRO
+komme	ENS
+aus	REL
+Tōkyō	GPE
+,	REL
+Japan	GPE
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihm	PRO
+das	DEF
+Geld	CON
+gegeben	EXT
+.	NIL
+
+Du	PRO
+hast	NOW
+mit	REL
+ihr	PRO
+geschlafen	EXT
+?	QUE
+
+Tom	PER
+lernt	ENS
+gerade	NOW
+in	REL
+der	DEF
+Bibliothek	CON
+.	NIL
+
+Dieser	PRX
+Pinguin	CON
+ist	NOW
+echt	INT
+süß	IST
+!	EMP
+
+Ich	PRO
+verwechsle	ENS
+John	PER
+immer	AND
+mit	REL
+Paul	PER
+.	NIL
+
+Tom	PER
+umarmte	EPS
+Mary	PER
+.	NIL
+
+Sie	PRO
+trägt	ENS
+falsche	IST
+Wimpern	CON
+.	NIL
+
+Tom	PER
+war	EPS
+schon	ALT
+dreimal	QUC
+in	REL
+Boston	GPE
+.	NIL
+
+Sie	PRO
+verwechselte	EPS
+mich	REF
+mit	REL
+meinem	HAS
+Bruder	ROL
+.	NIL
+
+Tom	PER
+und	GRP
+Maria	PER
+spielten	EPS
+Schach	CON
+.	NIL
+
+Tom	PER
+grillt	ENS
+Fleisch	CON
+.	NIL
+
+Ich	PRO
+wurde	PST
+von	REL
+Außerirdischen	CON
+entführt	EXS
+.	NIL
+
+Wessen	HAS
+Handtasche	CON
+ist	ENS
+das	PRX
+?	QUE
+
+Unsere	HAS
+Mannschaft	CON
+gewann	EPS
+3~zu~0	SCO
+gegen	REL
+die	DEF
+Lions	ORG
+.	NIL
+
+Der	DEF
+Gemüsehändler	ROL
+ist	NOW
+sehr	INT
+freundlich	IST
+zu	REL
+seinen	HAS
+Kunden	ROL
+.	NIL
+
+Kens	PER
+Hund	CON
+ist	NOW
+weiß	COL
+.	NIL
+
+Mein	HAS
+Vater	ROL
+ist	NOW
+zwei	QUC
+Jahre	UOM
+jünger	MOR
+als	REL
+meine	HAS
+Mutter	ROL
+.	NIL
+
+Der	DEF
+berühmte	IST
+Dirigent	ROL
+lebt	ENS
+in	REL
+New~York	GPE
+.	NIL
+
+Der	DEF
+Dieb	ROL
+sagte	EPS
+der	DEF
+Polizei	CON
+,	NIL
+er	PRO
+habe	NOW
+nichts	NOT
+gestohlen	EXT
+.	NIL
+
+Wir	PRO
+sind	NOW
+beeindruckt	IST
+.	NIL
+
+Er	PRO
+hat	NOW
+das	DEF
+Auto	CON
+entworfen	EXT
+.	NIL
+
+Sasaki~Sadako	PER
+starb	EPS
+am	REL
+25.	DOM
+Oktober	MOY
+1955	YOC
+.	NIL
+
+Du	PRO
+trägst	ENS
+dein	HAS
+T-Shirt	CON
+verkehrt~herum	IST
+.	NIL
+
+Dieses	PRX
+Gemälde	CON
+von	REL
+Rembrandt	PER
+ist	ENS
+ein	DIS
+Meisterwerk	CON
+.	NIL
+
+Mary	PER
+ölte	EPS
+ihr	HAS
+Fahrrad	CON
+.	NIL
+
+Tom	PER
+wartet	ENS
+auf	REL
+Maria	PER
+.	NIL
+
+Er	PRO
+ist	NOW
+reich	IST
+,	NIL
+er	PRO
+braucht	ENS
+kein	NOT
+Geld	CON
+!	EMP
+
+Ich	PRO
+kann	POS
+reiten	EXS
+.	NIL
+
+Charles~de~Gaulle	PER
+starb	EPS
+im	DEF
+Jahre	CON
+1970	YOC
+.	NIL
+
+Alfred~Nobel	PER
+erfand	EPS
+1866	YOC
+das	DEF
+Dynamit	CON
+.	NIL
+
+Tom	PER
+ist	NOW
+größer	MOR
+als	REL
+seine	HAS
+Mutter	ROL
+.	NIL
+
+Das	DEF
+Dach	CON
+meines	HAS
+Hauses	CON
+ist	NOW
+rot	COL
+.	NIL
+
+Ich	PRO
+kenne	ENS
+keine	NOT
+von	REL
+ihnen	PRO
+.	NIL
+
+Er	PRO
+mag	ENS
+keine	NOT
+Katzen	CON
+.	NIL
+
+Herr	ROL
+Smith	PER
+kam	EPS
+.	NIL
+
+Mir	PRO
+tut	NOW
+der	DEF
+Arsch	CON
+weh	EXS
+.	NIL
+
+Sie	PRO
+trägt	ENS
+eine	DIS
+Sonnenbrille	CON
+.	NIL
+
+Er	PRO
+lernt	ENS
+Chinesisch	CON
+.	NIL
+
+Er	PRO
+braute	EPS
+Bier	CON
+.	NIL
+
+Sie	PRO
+leidet	ENS
+an	REL
+einer	DIS
+ansteckenden	IST
+Krankheit	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+in	REL
+Russland	GPE
+geboren	EXT
+.	NIL
+
+Tom	PER
+verschüttete	EPS
+die	DEF
+Milch	CON
+.	NIL
+
+Es	NIL
+gibt	ENS
+auch	ALT
+französische	GPO
+Touristen	ROL
+.	NIL
+
+Dieser	PRX
+Rasenmäher	CON
+läuft	ENS
+mit	REL
+Benzin	CON
+.	NIL
+
+Seine	HAS
+Rede	CON
+langweilte	EPS
+mich	PRO
+.	NIL
+
+Diese	PRX
+Enzyklopädie	CON
+gehört	ENS
+meiner	HAS
+Frau	ROL
+.	NIL
+
+Tom	PER
+entfernte	EPS
+den	DEF
+Splitter	CON
+aus	REL
+Maria	PER
+s	HAS
+Finger	CON
+.	NIL
+
+Er	PRO
+fasste	EPS
+ihr	PRO
+auf	REL
+die	DEF
+Schulter	CON
+.	NIL
+
+Ich	PRO
+möchte	ENS
+einen	DIS
+englischen	GPO
+Muffin	CON
+.	NIL
+
+Tom	PER
+rannte	EPS
+ins	DEF
+Haus	CON
+.	NIL
+
+Die	DEF
+Katze	CON
+miaut	ENS
+.	NIL
+
+Die	DEF
+Versammlung	CON
+wählte	EPS
+wieder	ALT
+.	NIL
+
+Ich	PRO
+habe	NOW
+dir	PRO
+etwas	DIS
+mitgebracht	EXT
+.	NIL
+
+Er	PRO
+ist	NOW
+stockbetrunken	IST
+.	NIL
+
+Ich	PRO
+bin	NOW
+nicht	NOT
+dreißig	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Der	DEF
+amerikanische	GPO
+Junge	CON
+sprach	EPS
+gebrochenes	IST
+Japanisch	CON
+.	NIL
+
+Mir	PRO
+gefällt	ENS
+frische	IST
+Luft	CON
+.	NIL
+
+Der	DEF
+See	CON
+ist	NOW
+sehr	INT
+tief	DEG
+.	NIL
+
+Die	DEF
+Wölfin	CON
+heult	ENS
+.	NIL
+
+Sie	PRO
+vergab	EPS
+ihm	PRO
+.	NIL
+
+Ich	PRO
+esse	ENS
+Käse	CON
+.	NIL
+
+Tom	PER
+schäkerte	EPS
+mit	REL
+der	DEF
+Kellnerin	ROL
+.	NIL
+
+Tom	PER
+hat	ENS
+Krebs	CON
+.	NIL
+
+Diese	PRX
+Arbeit	CON
+ist	NOW
+auf~keinen~Fall	NOT
+einfach	IST
+.	NIL
+
+Der	DEF
+Schmerz	CON
+wird	FUT
+nachlassen	EXS
+.	NIL
+
+Tom	PER
+legte	EPS
+sein	HAS
+Portemonnaie	CON
+auf	REL
+den	DEF
+Tisch	CON
+.	NIL
+
+Sie	PRO
+kam	EPS
+nach	REL
+Tokio	GPE
+,	NIL
+als	REL
+sie	PRO
+18	QUC
+war	PST
+.	NIL
+
+Sie	PRO
+wohnt	ENS
+in	REL
+irgendeinem	DIS
+Dorf	CON
+in	REL
+Indien	GPE
+.	NIL
+
+Mir	PRO
+tut	NOW
+das	DEF
+Handgelenk	CON
+weh	EXS
+.	NIL
+
+Der	DEF
+Vorsitzende	ROL
+trat	EPS
+plötzlich	IST
+zurück	REL
+.	NIL
+
+Tom	PER
+ist	NOW
+groß	DEG
+.	NIL
+
+Dieses	PRX
+Auto	CON
+wurde	PST
+in	REL
+Japan	GPE
+produziert	EXS
+.	NIL
+
+Sie	PRO
+legte	EPS
+die	DEF
+Zeitschrift	CON
+auf	REL
+den	DEF
+Tisch	CON
+.	NIL
+
+Maria	PER
+liebt	ENS
+ihr	HAS
+Pferdchen	CON
+.	NIL
+
+Ich	PRO
+ziele	ENS
+auf	REL
+jene	DST
+Ente	CON
+.	NIL
+
+Sie	PRO
+ist	NOW
+sehr	INT
+geschickt	IST
+mit	REL
+der	DEF
+Säge	CON
+.	NIL
+
+Das	DST
+missfiel	EPS
+allen	AND
+.	NIL
+
+Sie	PRO
+klopfte	EPS
+ihrem	HAS
+Sohn	ROL
+auf	REL
+die	DEF
+Schulter	CON
+.	NIL
+
+Ich	PRO
+schäme	ENS
+mich	NIL
+nicht	NOT
+.	NIL
+
+Ich	PRO
+hatte	EPS
+heute	NOW
+Nasenbluten	CON
+.	NIL
+
+Das	DEF
+kleine	IST
+Mädchen	CON
+nuckelt	ENS
+an	REL
+seinem	HAS
+Finger	CON
+.	NIL
+
+Er	PRO
+hackt	ENS
+jeden	AND
+Tag	CON
+Holz	CON
+.	NIL
+
+Diese	PRX
+CD	CON
+kostet	ENS
+10	QUC
+Dollar	UOM
+.	NIL
+
+Wir	PRO
+klettern	ENS
+auf	REL
+die	DEF
+Palme	CON
+.	NIL
+
+Einige	QUV
+Kinder	CON
+spielen	ENS
+im	DEF
+Sand	CON
+.	NIL
+
+Die	DEF
+Wolken	CON
+hängen	ENS
+in	REL
+der	DEF
+Luft	CON
+.	NIL
+
+Ich	PRO
+sah	EPS
+sie	PRO
+nie	NOT
+wieder	ALT
+.	NIL
+
+Er	PRO
+versuchte	EPS
+,	NIL
+über	REL
+den	DEF
+Fluss	CON
+zu	NIL
+schwimmen	EXS
+.	NIL
+
+Ich	PRO
+habe	NOW
+dein	HAS
+Buch	CON
+im	DEF
+Auto	CON
+gelassen	EXT
+.	NIL
+
+Wer	QUE
+hat	NOW
+sie	PRO
+umgebracht	EXT
+?	QUE
+
+Das	DEF
+Hotel	CON
+wurde	PST
+niedergebrannt	EXS
+.	NIL
+
+Niemand	NOT
+kann	POS
+dieses	PRX
+Problem	CON
+lösen	EXS
+.	NIL
+
+Er	PRO
+spielt	ENS
+Golf	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+alt	DEG
+.	NIL
+
+Mein	HAS
+Vater	ROL
+hat	NOW
+den	DEF
+Briefkasten	CON
+rot	COL
+gestrichen	EXT
+.	NIL
+
+Tennis	CON
+ist	NOW
+mein	HAS
+Lieblingssport	CON
+.	NIL
+
+Morgen	FUT
+fahre	EFS
+ich	PRO
+nach	REL
+Paris	GPE
+.	NIL
+
+Sie	PRO
+ist	NOW
+in	REL
+ihn	PRO
+verliebt	IST
+.	NIL
+
+Logistik	CON
+.	NIL
+
+Tom	PER
+ist	ENS
+ein	DIS
+aggressiver	IST
+Autofahrer	ROL
+.	NIL
+
+Tom	PER
+sagte	EPS
+etwas	DIS
+.	NIL
+
+Mein	HAS
+Papagei	CON
+ist	NOW
+gestern	PST
+gestorben	EXT
+.	NIL
+
+Tom	PER
+hat	NOW
+sein	HAS
+Diplom	CON
+an	REL
+die	DEF
+Wand	CON
+gehängt	EXT
+.	NIL
+
+Tom	PER
+stalkt	ENS
+mich	PRO
+.	NIL
+
+Tom	PER
+hat	NOW
+geklatscht	EXT
+.	NIL
+
+Er	PRO
+isst	ENS
+.	NIL
+
+Er	PRO
+schmiedete	EPS
+den	DEF
+Stahl	CON
+und	AND
+fertigte	EPS
+ein	DIS
+Schwert	CON
+an	REL
+.	NIL
+
+Tracy	PER
+hat	NOW
+ihre	HAS
+Brille	CON
+verloren	EXT
+.	NIL
+
+Ich	PRO
+trinke	ENS
+überhaupt	EMP
+keinen	NOT
+Kaffee	CON
+.	NIL
+
+Er	PRO
+liegt	ENS
+auf	REL
+der	DEF
+Bank	CON
+.	NIL
+
+Tom	PER
+schläft	ENS
+nicht	NOT
+.	NIL
+
+Ihr	PRO
+schuldet	ENS
+mir	PRO
+1.000	QUC
+$	UOM
+.	NIL
+
+Tom	PER
+hat	NOW
+bar	CON
+bezahlt	EXT
+.	NIL
+
+Ich	PRO
+spreche	ENS
+Japanisch	CON
+,	REL
+Englisch	CON
+und	GRP
+Französisch	CON
+.	NIL
+
+Tom	PER
+bäckt	ENS
+eine	DIS
+Pizza	CON
+.	NIL
+
+Sein	HAS
+Zeh	CON
+blutet	ENS
+.	NIL
+
+Tom	PER
+sucht	ENS
+jetzt	NOW
+nach	REL
+Mary	PER
+.	NIL
+
+Was	QUE
+hat	NOW
+die	DEF
+Brille	CON
+gekostet	EXT
+?	QUE
+
+Tom	PER
+zeigte	EPS
+uns	PRO
+ein	DIS
+Bild	CON
+von	REL
+Maria	PER
+.	NIL
+
+Der	DEF
+Hund	CON
+kaute	EPS
+auf	REL
+dem	DEF
+Ball	CON
+herum	REL
+.	NIL
+
+Tom	PER
+hat	NOW
+dreizehn	QUC
+Pfund	UOM
+zugenommen	EXT
+.	NIL
+
+Tom	PER
+ist	NOW
+ziemlich	INT
+schwächlich	IST
+.	NIL
+
+Tom	PER
+kann	POS
+nicht	NOT
+pfeifen	EXS
+.	NIL
+
+Niemand	NOT
+hat	NOW
+etwas	DIS
+gesehen	EXT
+.	NIL
+
+Tom	PER
+zertrat	EPS
+die	DEF
+Kiste	CON
+.	NIL
+
+Sie	PRO
+hat	ENS
+einen	DIS
+großen	DEG
+Arsch	CON
+.	NIL
+
+Tom	PER
+hob	EPS
+die	DEF
+Katze	CON
+auf	REL
+.	NIL
+
+Sie	PRO
+sind	NOW
+tapferer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Ich	PRO
+putze	ENS
+meine	HAS
+Zähne	CON
+mit	REL
+einer	DIS
+Zahnbürste	CON
+.	NIL
+
+Sie	PRO
+hing	EPS
+die	DEF
+Wäsche	CON
+auf	REL
+die	DEF
+Leine	CON
+.	NIL
+
+Ich	PRO
+will	ENS
+einen	DIS
+Hundewelpen	CON
+.	NIL
+
+Tom	PER
+hat	NOW
+bei	REL
+seiner	HAS
+Klassenarbeit	CON
+eine	DIS
+Vier	SCO
+geschrieben	EXT
+.	NIL
+
+Der	DEF
+Vogel	CON
+suchte	EPS
+Würmer	CON
+.	NIL
+
+Ich	PRO
+rauche	ENS
+eine	DIS
+kubanische	GPO
+Zigarre	CON
+.	NIL
+
+Sie	PRO
+zog	EPS
+ihren	HAS
+Kopf	CON
+von	REL
+einem	DIS
+Fenster	CON
+zurück	REL
+.	NIL
+
+Ich	PRO
+leide	ENS
+an	REL
+chronischer	IST
+Verstopfung	CON
+.	NIL
+
+Ich	PRO
+heiße	ENS
+Emily	LIT
+.	NIL
+
+Ich	PRO
+habe	NOW
+ihn	PRO
+entlassen	EXT
+.	NIL
+
+Er	PRO
+lebt	ENS
+getrennt	IST
+von	REL
+seiner	HAS
+Frau	ROL
+.	NIL
+
+Du	PRO
+machst	FUT
+noch	ALT
+alles	AND
+zunichte	EXS
+!	EMP
+
+Tom	PER
+fuhr	EPS
+Maria	PER
+zum	DEF
+Krankenhaus	CON
+.	NIL
+
+Ich	PRO
+geh	ENS
+ins	DEF
+Kino	CON
+.	NIL
+
+Sie	PRO
+träumte	EPS
+von	REL
+wilden	IST
+Jaguaren	CON
+.	NIL
+
+Ich	PRO
+werde	FUT
+ein	DIS
+Buch	CON
+lesen	EXS
+.	NIL
+
+Das	DEF
+Hausmädchen	ROL
+arrangierte	EPS
+Messer	CON
+und	GRP
+Gabeln	CON
+auf	REL
+dem	DEF
+Tisch	CON
+.	NIL
+
+Er	PRO
+spricht	ENS
+auch	ALT
+kein	NOT
+Englisch	CON
+.	NIL
+
+Mein	HAS
+Pass	CON
+ist	NOW
+abgelaufen	EXT
+.	NIL
+
+Der	DEF
+Fluss	CON
+ist	NOW
+fünf	QUC
+Fuß	UOM
+tief	DEG
+.	NIL
+
+Er	PRO
+hat	NOW
+es	PRO
+mir	PRO
+gezeigt	EXT
+.	NIL
+
+Niemand	NOT
+weiß	ENS
+das	PRX
+.	NIL
+
+Er	PRO
+steht	ENS
+hinter	REL
+der	DEF
+Mauer	CON
+.	NIL
+
+Maria	PER
+trug	EPS
+eine	DIS
+rosa	COL
+Bluse	CON
+mit	REL
+passendem	IST
+Minirock	CON
+.	NIL
+
+Die	DEF
+Katze	CON
+ist	NOW
+weggerannt	EXT
+.	NIL
+
+Über	MOR
+vier~Millionen	QUC
+Syrer	GPO
+sind	ENS
+Flüchtlinge	ROL
+.	NIL
+
+Mary	PER
+lernt	ENS
+jetzt	NOW
+in	REL
+ihrem	HAS
+Zimmer	CON
+.	NIL
+
+Ihre	HAS
+Mutter	ROL
+spricht	ENS
+Italienisch	CON
+.	NIL
+
+Heinrich	PER
+ist	ENS
+ein	DIS
+Zauberer	ROL
+.	NIL
+
+Ich	PRO
+kann	POS
+den	HAS
+rechten	IST
+Arm	CON
+nicht	NOT
+heben	EXS
+.	NIL
+
+Ich	PRO
+arbeite	ENS
+gerade	NOW
+in	REL
+Tōkyō	GPE
+.	NIL
+
+Wessen	HAS
+Buch	CON
+ist	ENS
+das	PRX
+?	QUE
+
+Der	DEF
+rote	COL
+Rock	CON
+ist	NOW
+neu	IST
+.	NIL
+
+Keiner	NOT
+hat	NOW
+das	DEF
+Problem	CON
+gelöst	EXT
+.	NIL
+
+Er	PRO
+hat	NOW
+das	DEF
+Fleisch	CON
+mit	REL
+dem	DEF
+Messer	CON
+geschnitten	EXT
+.	NIL
+
+Ich	PRO
+kenne	ENS
+sie	PRO
+überhaupt	EMP
+nicht	NOT
+.	NIL
+
+Sie	PRO
+pflückte	EPS
+Blumen	CON
+.	NIL
+
+Sie	PRO
+hasste	EPS
+ihren	HAS
+Mann	ROL
+.	NIL
+
+Ich	PRO
+esse	ENS
+einen	DIS
+Apfel	CON
+.	NIL
+
+Meine	HAS
+Freundin	ROL
+ist	NOW
+sehr	INT
+eifersüchtig	IST
+.	NIL
+
+Die	DEF
+Kuh	CON
+muht	ENS
+,	AND
+der	DEF
+Hahn	CON
+kräht	ENS
+,	AND
+das	DEF
+Schwein	CON
+grunzt	ENS
+,	AND
+die	DEF
+Ente	CON
+quakt	ENS
+und	AND
+die	DEF
+Katze	CON
+miaut	ENS
+.	NIL
+
+usw	CON
+.	NIL
+
+http://www.anl.siemens.de/solution/index_d.html	CTC
+
+Sie	PRO
+widmete	EPS
+ihr	HAS
+Leben	CON
+der	DEF
+Musik	CON
+.	NIL
+
+Tom	PER
+flirtete	EPS
+mit	REL
+Mary	PER
+.	NIL
+
+Mordred	PER
+verriet	EPS
+König	ROL
+Artus	PER
+.	NIL
+
+Hat	NOW
+jemand	DIS
+mit	REL
+ihm	PRO
+gesprochen	EXT
+?	QUE
+
+Emily	PER
+hat	ENS
+Durst	CON
+.	NIL
+
+Alle	AND
+mochten	EPS
+Tom	PER
+.	NIL
+
+Die	AND
+Birke	CON
+hat	EXS
+eine	DIS
+weiße	COL
+Rinde	CON
+.	NIL
+
+Am	REL
+Himmel	CON
+fliegen	ENS
+zwei	QUC
+Krähen	CON
+.	NIL
+
+Sie	PRO
+versuchten	EPS
+umsonst	IST
+,	NIL
+den	DEF
+Zeugen	ROL
+zu	NIL
+bestechen	EXS
+.	NIL
+
+Sie	PRO
+nimmt	ENS
+die	DEF
+Pille	CON
+.	NIL
+
+Jeder	AND
+von	REL
+ihnen	PRO
+hat	NOW
+ein	DIS
+Lied	CON
+gesungen	EXT
+.	NIL
+
+Ich	PRO
+weckte	EPS
+dich	PRO
+.	NIL
+
+Ich	PRO
+bin	NOW
+nicht	NOT
+so	EQU
+klug	IST
+wie	REL
+Sie	PRO
+.	NIL
+
+Du	PRO
+bist	NOW
+überhaupt	EMP
+nicht	NOT
+romantisch	IST
+.	NIL
+
+Ich	PRO
+verstehe	ENS
+immer	ALT
+noch	ALT
+nichts	NOT
+.	NIL
+
+Unser	HAS
+Heißluftballon	CON
+stieg	EPS
+in	REL
+den	DEF
+Himmel	CON
+auf	REL
+.	NIL
+
+Die	DEF
+Katze	CON
+trinkt	ENS
+deine	HAS
+Milch	CON
+.	NIL
+
+Du	PRO
+liebst	ENS
+ihn	PRO
+!	EMP
+
+Ich	PRO
+habe	NOW
+auf	REL
+ihn	PRO
+aufgepasst	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+meine	HAS
+Haare	CON
+blondiert	EXT
+.	NIL
+
+Tom	PER
+spielte	EPS
+den	DEF
+Puck	CON
+zu	REL
+Maria	PER
+ab	REL
+.	NIL
+
+Die	DEF
+wirtschaftliche	IST
+Entwicklung	CON
+ist	NOW
+wichtig	IST
+für	REL
+Afrika	GPE
+.	NIL
+
+Er	PRO
+umarmte	EPS
+mich	PRO
+.	NIL
+
+Diese	PRX
+Halle	CON
+fasst	ENS
+2.000	QUC
+Personen	CON
+.	NIL
+
+Diese	PRX
+Kamera	CON
+enthält	ENS
+keinen	NOT
+Film	CON
+.	NIL
+
+Dick	PER
+spielte	EPS
+Klavier	CON
+und	AND
+Lucy	PER
+sang	EPS
+.	NIL
+
+Das	DEF
+Flugzeug	CON
+ist	NOW
+jetzt	NOW
+einsatzfähig	IST
+.	NIL
+
+Sie	PRO
+trägt	ENS
+einen	DIS
+schönen	IST
+Hut	CON
+.	NIL
+
+Tom	PER
+küsste	EPS
+seine	HAS
+Cousine	ROL
+.	NIL
+
+Kate	PER
+hat	NOW
+das	DEF
+Zimmer	CON
+nicht	NOT
+gereinigt	EXT
+.	NIL
+
+Seine	HAS
+Meinung	CON
+war	PST
+nicht	NOT
+wichtig	IST
+.	NIL
+
+Dieser	PRX
+Schreibtisch	CON
+ist	NOW
+zu	INT
+schwer	IST
+zum	NIL
+Anheben	EXS
+.	NIL
+
+Ein	DIS
+Boot	CON
+kenterte	EPS
+.	NIL
+
+Wessen	HAS
+Schirm	CON
+habt	PST
+ihr	PRO
+genommen	EXS
+?	QUE
+
+Ich	PRO
+bin	NOW
+größer	MOR
+als	REL
+Tom	PER
+.	NIL
+
+Jemand	DIS
+klopfte	EPS
+an	REL
+die	DEF
+Tür	CON
+.	NIL
+
+Tom	PER
+winkte	EPS
+Mary	PER
+zum	REL
+Abschied	CON
+.	NIL
+
+Ich	PRO
+kann	POS
+das	PRO
+auf	REL
+Englisch	CON
+singen	EXS
+.	NIL
+
+Das	DEF
+Fleisch	CON
+ist	NOW
+roh	IST
+.	NIL
+
+Ich	PRO
+bezahlte	EPS
+800	QUC
+Yen	UOM
+für	REL
+dieses	PRX
+Buch	CON
+.	NIL
+
+Der	DEF
+Hund	CON
+ist	NOW
+schön	IST
+.	NIL
+
+Er	PRO
+ist	NOW
+nicht	NOT
+jung	IST
+.	NIL
+
+Ich	PRO
+kann	POS
+dir	PRO
+nicht	NOT
+helfen	EXS
+.	NIL
+
+Was	QUE
+ist	ENS
+dein	HAS
+zweiter	ORD
+Vorname	CON
+?	QUE
+
+Wir	PRO
+wählten	EPS
+ihn	PRO
+zum	DEF
+Präsidenten	CON
+.	NIL
+
+Das	DST
+ist	NOW
+enorm	IST
+.	NIL
+
+Kapitän	ROL
+Scott	PER
+erreichte	EPS
+die	DEF
+Scott-Insel	GPE
+im	REL
+Dezember	MOY
+1902	YOC
+.	NIL
+
+Rumänien	GPE
+hat	NOW
+730	QUC
+Truppen	CON
+in	REL
+den	DEF
+Irak	GPE
+geschickt	EXT
+.	NIL
+
+Die	DEF
+Temperatur	CON
+fiel	EPS
+um	REL
+einige	QUV
+Grad	UOM
+.	NIL
+
+Bill	PER
+ist	NOW
+nicht	NOT
+so	EQU
+groß	IST
+wie	REL
+Bob	PER
+.	NIL
+
+Er	PRO
+arbeitet	ENS
+in	REL
+jenem	DEF
+Labor	CON
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihn	PRO
+mit	REL
+einem	DIS
+Messer	CON
+umgebracht	EXT
+.	NIL
+
+Der	DEF
+Regen	CON
+dauerte	EPS
+fünf	QUC
+Tage	UOM
+.	NIL
+
+Mein	HAS
+Onkel	ROL
+gab	EPS
+ihm	PRO
+ein	DIS
+Geschenk	CON
+.	NIL
+
+Liz~Mohn	PER
+
+DIE	DEF
+VERWANDLUNG	CON
+
+Da	SUB
+der	DEF
+Bus	CON
+Verspätung	CON
+hatte	EPS
+,	NIL
+nahm	EPS
+ich	PRO
+mir	PRO
+ein	DIS
+Taxi	CON
+.	NIL
+
+Ich	PRO
+hasse	ENS
+Spinat	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+alles	AND
+auf	REL
+dem	DEF
+Teller	CON
+gegessen	EXT
+.	NIL
+
+Sie	PRO
+ist	NOW
+siebzehn	QUC
+.	NIL
+
+Sie	PRO
+ist	NOW
+äußerst	INT
+geduldig	IST
+.	NIL
+
+Ich	PRO
+bin	NOW
+nicht	NOT
+kontaktfreudig	IST
+.	NIL
+
+Der	DEF
+Aktienmarkt	CON
+brach	EPS
+ein	DIS
+.	NIL
+
+Es	PRO
+ist	NOW
+Mitternacht	CLO
+.	NIL
+
+Ich	PRO
+habe	NOW
+3000	QUC
+Yen	UOM
+für	REL
+eine	DIS
+neue	IST
+CD	CON
+ausgegeben	EXT
+.	NIL
+
+Sie	PRO
+ist	NOW
+von	REL
+diesem	PRX
+Roman	CON
+gelangweilt	IST
+.	NIL
+
+Du	PRO
+bist	NOW
+sehr	INT
+klug	IST
+.	NIL
+
+Nicht	NOT
+jeder	AND
+mag	ENS
+dieses	PRX
+Buch	CON
+.	NIL
+
+Es	PRO
+regnete	EPS
+.	NIL
+
+Das	DST
+sind	ENS
+unsere	HAS
+Bücher	CON
+.	NIL
+
+Judy	PER
+ist	ENS
+keine	NOT
+gute	IST
+Sängerin	ROL
+,	NIL
+oder	QUE
+?	QUE
+
+Tom	PER
+tanzte	EPS
+mit	REL
+mir	PRO
+.	NIL
+
+Einige	DIS
+der	DEF
+Hunde	CON
+leben	ENS
+.	NIL
+
+Sie	PRO
+isst	ENS
+gerade	NOW
+eine	DIS
+Birne	CON
+.	NIL
+
+Dan	PER
+schaltete	EPS
+die	DEF
+Musik	CON
+aus	REL
+.	NIL
+
+Sie	PRO
+drückte	EPS
+das	DEF
+Kind	CON
+an	REL
+ihr	HAS
+Herz	CON
+.	NIL
+
+Die	DEF
+Arbeiter	ROL
+verbreitern	ENS
+die	DEF
+Straße	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+einen	DIS
+Unfall	CON
+verursacht	EXT
+.	NIL
+
+Tom	PER
+brüllte	EPS
+Mary	PER
+an	REL
+.	NIL
+
+Ich	PRO
+schärfe	ENS
+mein	HAS
+Schwert	CON
+.	NIL
+
+Er	PRO
+hat	NOW
+an	REL
+die	DEF
+geschlossene	IST
+Tür	CON
+geklopft	EXT
+.	NIL
+
+Die	DEF
+Vögel	CON
+sangen	EPS
+in	REL
+den	DEF
+Wäldern	CON
+.	NIL
+
+Die	DEF
+Fernbedienung	CON
+liegt	ENS
+unter	REL
+dem	DEF
+Sofa	CON
+.	NIL
+
+Tom	PER
+baut	ENS
+in	REL
+seinem	HAS
+Garten	CON
+Tomaten	CON
+an	REL
+.	NIL
+
+Tom	PER
+winkte	EPS
+Maria	PER
+zu	REL
+.	NIL
+
+Das	DEF
+Schiff	CON
+war	PST
+unterwegs	IST
+nach	REL
+Kobe	GPE
+.	NIL
+
+Eine	DIS
+halbe	QUC
+Stunde	UOM
+verging	EPS
+.	NIL
+
+Flug	CON
+226	NTH
+hebt	EFS
+um	REL
+10.30~Uhr	CLO
+ab	REL
+.	NIL
+
+Tom	PER
+zerriss	EPS
+den	DEF
+Brief	CON
+.	NIL
+
+Tom	PER
+erschoss	EPS
+Mary	PER
+.	NIL
+
+Tom	PER
+ist	NOW
+arbeitswütig	IST
+.	NIL
+
+Meine	HAS
+Schwester	ROL
+ist	NOW
+jünger	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Das	DEF
+Lamm	CON
+wurde	PST
+von	REL
+dem	DEF
+Wolf	CON
+gerissen	EXT
+.	NIL
+
+Er	PRO
+schrieb	EPS
+ein	DIS
+Buch	CON
+über	REL
+China	GPE
+.	NIL
+
+Er	PRO
+war	PST
+übel	INT
+verletzt	EXS
+.	NIL
+
+Ich	PRO
+bin	NOW
+vor	PST
+zwanzig	QUC
+Jahre	UOM
+geboren	EXS
+.	NIL
+
+Sie	PRO
+hat	NOW
+niemanden	NOT
+geheiratet	EXT
+.	NIL
+
+Die	DEF
+Heuschrecke	CON
+machte	EPS
+einen	DIS
+großen	DEG
+Sprung	CON
+.	NIL
+
+Ich	PRO
+habe	ENS
+zwei	QUC
+Kater	CON
+.	NIL
+
+Tom	PER
+hat	ENS
+Skorbut	CON
+.	NIL
+
+Tom	PER
+trägt	ENS
+einen	DIS
+Smoking	CON
+.	NIL
+
+Ich	PRO
+nahm	EPS
+ein	DIS
+Buch	CON
+aus	REL
+dem	DEF
+Regal	CON
+.	NIL
+
+Tom	PER
+betrügt	ENS
+.	NIL
+
+Dieser	PRX
+Hund	CON
+ist	NOW
+groß	DEG
+.	NIL
+
+Tom	PER
+räumte	EPS
+das	DEF
+Wohnzimmer	CON
+auf	REL
+.	NIL
+
+Ihr	HAS
+Gesicht	CON
+war	PST
+rot	COL
+.	NIL
+
+Die	DEF
+Reifenfabrik	CON
+beschäftigt	ENS
+250	QUC
+Personen	CON
+.	NIL
+
+Du	PRO
+bist	NOW
+leichtlebig	IST
+.	NIL
+
+Er	PRO
+besiegte	EPS
+seinen	HAS
+Feind	ROL
+.	NIL
+
+Dieser	PRX
+Präsident	ROL
+hat	NOW
+seine	HAS
+Memoiren	CON
+geschrieben	EXT
+.	NIL
+
+Keiner	NOT
+von	REL
+uns	PRO
+will	ENS
+das	DST
+.	NIL
+
+Von	REL
+welchem	QUE
+Planeten	CON
+kommst	ENS
+du	PRO
+?	QUE
+
+Das	DEF
+Feuer	CON
+zerstörte	EPS
+das	DEF
+hohe	DEG
+Gebäude	CON
+.	NIL
+
+Carl~Smith	PER
+starb	EPS
+am	REL
+achten	DOM
+August	MOY
+.	NIL
+
+Bill	PER
+wurde	PST
+von	REL
+dem	DEF
+Mann	CON
+umgebracht	EXT
+.	NIL
+
+Ich	PRO
+wurde	PST
+in	REL
+Amerika	GPE
+geboren	EXS
+.	NIL
+
+Sie	PRO
+hielt	EPS
+meinen	HAS
+Bruder	ROL
+für	REL
+mich	PRO
+.	NIL
+
+Ich	PRO
+habe	ENS
+Heuschnupfen	CON
+.	NIL
+
+Es	NIL
+regnet	ENS
+wieder	ALT
+.	NIL
+
+Japanisch	CON
+ist	ENS
+meine	HAS
+Muttersprache	CON
+.	NIL
+
+Der	DEF
+Mann	CON
+hat	NOW
+recht	IST
+.	NIL
+
+Unter	REL
+dem	DEF
+Tisch	CON
+liegt	ENS
+ein	DIS
+Keks	CON
+.	NIL
+
+Meine	HAS
+Mutter	ROL
+hat	NOW
+zehn	QUC
+Eier	CON
+gekocht	EXT
+.	NIL
+
+Er	PRO
+sprang	EPS
+ins	DEF
+Schwimmbecken	CON
+.	NIL
+
+Ich	PRO
+rauchte	EPS
+.	NIL
+
+Er	PRO
+hasst	ENS
+Karotten	CON
+.	NIL
+
+Die	DEF
+Karpaten	GEO
+sind	NOW
+bewaldet	IST
+.	NIL
+
+Der	DEF
+Einbrecher	ROL
+stürmte	EPS
+in	REL
+sein	HAS
+Haus	CON
+.	NIL
+
+Ein	DIS
+Hubschrauber	CON
+kreiste	EPS
+über	REL
+uns	PRO
+.	NIL
+
+Der	DEF
+Truthahn	CON
+kollert	ENS
+.	NIL
+
+Tom	PER
+näht	ENS
+seine	HAS
+Jacke	CON
+.	NIL
+
+Sie	PRO
+kroch	EPS
+aus	REL
+dem	DEF
+Fenster	CON
+.	NIL
+
+Meine	HAS
+Tochter	ROL
+möchte	ENS
+ein	DIS
+Kätzchen	CON
+.	NIL
+
+Ich	PRO
+gestehe	ENS
+meinen	HAS
+Fehler	CON
+ein	REL
+.	NIL
+
+Wir	PRO
+leben	ENS
+auf	REL
+dem	DEF
+Planeten	CON
+Erde	NTH
+.	NIL
+
+Vincent~van~Gogh	PER
+war	EPS
+ein	DIS
+niederländischer	GPO
+Maler	ROL
+.	NIL
+
+Er	PRO
+hat	NOW
+einen	DIS
+Ziegenkäsehamburger	CON
+gegessen	EXT
+.	NIL
+
+Welche	QUE
+Instrumente	CON
+spielt	ENS
+Tom	PER
+?	QUE
+
+Der	DEF
+Hund	CON
+wird	FUT
+bellen	EXS
+.	NIL
+
+Ich	PRO
+bin	NOW
+vierzig	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Ich	PRO
+koche	ENS
+Wasser	CON
+.	NIL
+
+Dieses	PRX
+Medikament	CON
+wird	FUT
+Ihre	HAS
+Kopfschmerzen	CON
+lindern	EXS
+.	NIL
+
+Sie	PRO
+langweilen	ENS
+mich	PRO
+!	EMP
+
+Tom	PER
+kocht	ENS
+.	NIL
+
+Mein	HAS
+Nachname	CON
+ist	ENS
+Watanabe	LIT
+.	NIL
+
+Er	PRO
+hat	NOW
+einen	DIS
+Homerun	CON
+geschlagen	EXT
+.	NIL
+
+Lasst	FUT
+uns	PRO
+üben	EXS
+.	NIL
+
+Vielleicht	POS
+wirst	FUT
+du	PRO
+es	PRO
+schaffen	EXS
+.	NIL
+
+Ich	PRO
+habe	NOW
+eine	DIS
+Fliegende~Untertasse	CON
+gesehen	EXT
+.	NIL
+
+Dieser	PRX
+Hut	CON
+ist	NOW
+billiger	MOR
+als	REL
+jener	DST
+.	NIL
+
+Mein	HAS
+Koffer	CON
+ist	NOW
+kaputt	IST
+.	NIL
+
+Die	DEF
+Mädchen	CON
+kicherten	EPS
+.	NIL
+
+Ich	PRO
+fuhr	EPS
+Tom	PER
+zur	DEF
+Schule	CON
+.	NIL
+
+Du	PRO
+bist	NOW
+nicht	NOT
+vergebens	IST
+gestorben	EXT
+.	NIL
+
+Alle	AND
+Jungen	CON
+tanzten	EPS
+.	NIL
+
+Tom	PER
+gab	EPS
+mir	PRO
+Tabletten	CON
+.	NIL
+
+Der	DEF
+Fluss	CON
+mündet	ENS
+in	REL
+den	DEF
+Pazifik	GEO
+.	NIL
+
+Ich	PRO
+habe	NOW
+diesen	DST
+Wagen	CON
+gekauft	EXT
+.	NIL
+
+Er	PRO
+war	PST
+auch	ALT
+überrascht	IST
+.	NIL
+
+Es	PRO
+war	EPS
+ein	DIS
+spannendes	IST
+Spiel	CON
+.	NIL
+
+Jeder	AND
+war	PST
+aufgeregt	IST
+.	NIL
+
+Die	DEF
+Demonstranten	ROL
+versammelten	EPS
+sich	REF
+auf	REL
+dem	DEF
+Platz	CON
+.	NIL
+
+Wer	QUE
+hat	NOW
+dieses	PRX
+Gerät	CON
+erfunden	EXT
+?	QUE
+
+Ich	PRO
+habe	NOW
+in	REL
+meinem	HAS
+Garten	CON
+einen	DIS
+Pfirsichbaum	CON
+gepflanzt	EXT
+.	NIL
+
+Er	PRO
+zeichnete	EPS
+einen	DIS
+Apfel	CON
+.	NIL
+
+Tom	PER
+stach	EPS
+Mary	PER
+mit	REL
+einem	DIS
+Messer	CON
+.	NIL
+
+1497	YOC
+hat	NOW
+Giovanni~Caboto	PER
+Kanada	GPE
+erforscht	EPS
+.	NIL
+
+Tom	PER
+singt	ENS
+.	NIL
+
+Er	PRO
+gab	EPS
+mit	REL
+seiner	HAS
+neuen	IST
+Uhr	CON
+an	REL
+.	NIL
+
+Der	DEF
+Bogenschütze	ROL
+tötete	EPS
+den	DEF
+Hirsch	CON
+.	NIL
+
+Ich	PRO
+fahre	ENS
+ein	DIS
+Cabrio	CON
+.	NIL
+
+Tom	PER
+machte	EPS
+zwanzig	QUC
+Liegestütze	CON
+.	NIL
+
+Der	DEF
+Zug	CON
+fährt	EFS
+um	REL
+neun~Uhr	CLO
+ab	REL
+.	NIL
+
+Ihr	PRO
+seid	NOW
+verrückt	IST
+!	EMP
+
+Maria	PER
+hat	NOW
+mir	PRO
+einen	DIS
+Brief	CON
+geschrieben	EXT
+.	NIL
+
+Die	DEF
+Katze	CON
+fauchte	EPS
+Tom	PER
+an	REL
+.	NIL
+
+Wir	PRO
+verbrachten	EPS
+drei	QUC
+Stunden	UOM
+im	DEF
+Freien	CON
+.	NIL
+
+Er	PRO
+hat	NOW
+mich	PRO
+öffentlich	IST
+beleidigt	EXT
+.	NIL
+
+Rumänien	GPE
+hat	NOW
+730	QUC
+Truppen	CON
+in	REL
+den	DEF
+Irak	GPE
+geschickt	EXT
+.	NIL
+
+Bill	PER
+hat	NOW
+das	DEF
+Verbrechen	CON
+nicht	NOT
+begangen	EXT
+.	NIL
+
+Ich	PRO
+befürchte	ENS
+,	NIL
+er	PRO
+wird	FUT
+alles	AND
+ausplaudern	EXS
+.	NIL
+
+Diese	PRX
+Schule	CON
+wurde	PST
+1650	YOC
+gegründet	EXS
+.	NIL
+
+Buenos~Aires	GPE
+ist	ENS
+die	DEF
+Hauptstadt	CON
+von	REL
+Argentinien	GPE
+.	NIL
+
+Ich	PRO
+rufe	ENS
+nach	REL
+Eiskrem	CON
+.	NIL
+
+Dieses	PRX
+Buch	CON
+kostet	ENS
+4	QUC
+Dollar	UOM
+.	NIL
+
+Sie	PRO
+sang	EPS
+ein	DIS
+japanisches	GPO
+Lied	CON
+für	REL
+uns	PRO
+.	NIL
+
+Rudolf	PER
+hat	NOW
+ein	DIS
+großes	IST
+Haus	CON
+gebaut	EXT
+.	NIL
+
+Tom	PER
+hat	NOW
+eine	DIS
+Bank	CON
+ausgeraubt	EXT
+.	NIL
+
+Vor	PST
+zwei	QUC
+Stunden	UOM
+waren	EPS
+da	NIL
+zwei	QUC
+rote	COL
+Hüte	CON
+auf	REL
+diesem	PRX
+Tisch	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+fast	LES
+180	QUC
+Zentimeter	UOM
+groß	DEG
+.	NIL
+
+Er	PRO
+hat	NOW
+jedes	AND
+Problem	CON
+gelöst	EXT
+.	NIL
+
+Er	PRO
+klopfte	EPS
+mir	PRO
+auf	REL
+die	DEF
+Schulter	CON
+.	NIL
+
+Er	PRO
+klopfte	EPS
+seinem	HAS
+Bruder	ROL
+auf	REL
+die	DEF
+Schulter	CON
+.	NIL
+
+Ich	PRO
+war	EPS
+gestern	PST
+in	REL
+Boston	GPE
+.	NIL
+
+Der	DEF
+Soldat	ROL
+rannte	EPS
+.	NIL
+
+Hast	NOW
+du	PRO
+die	DEF
+Handtücher	CON
+gezählt	EXT
+?	QUE
+
+Ich	PRO
+bin	ENS
+ein	DIS
+Tennisspieler	ROL
+.	NIL
+
+Tom	PER
+tanzt	ENS
+.	NIL
+
+Sie	PRO
+sparte	EPS
+100	QUC
+Dollar	UOM
+.	NIL
+
+„	NIL
+Toll	LIT
+“	NIL
+ist	ENS
+ein	DIS
+überstrapaziertes	IST
+Wort	CON
+.	NIL
+
+Die	DEF
+Katzen	CON
+miauen	ENS
+.	NIL
+
+Maria	PER
+trägt	ENS
+gewöhnlich	IST
+knallroten	COL
+Lippenstift	CON
+.	NIL
+
+Bist	NOW
+du	PRO
+immer	ALT
+noch	ALT
+böse	IST
+?	QUE
+
+Tom	PER
+hat	NOW
+etwas	DIS
+gegessen	EXT
+.	NIL
+
+Sie	PRO
+sind	NOW
+drei	QUC
+Jahre	UOM
+älter	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Wir	PRO
+haben	NOW
+die	DEF
+Kuh	CON
+gemolken	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+verschlafen	EXT
+.	NIL
+
+Die	DEF
+Disko	CON
+ist	NOW
+leer	IST
+.	NIL
+
+Wir	PRO
+sind	NOW
+erschöpft	IST
+.	NIL
+
+Sein	HAS
+Hund	CON
+bellt	ENS
+mich	PRO
+an	REL
+.	NIL
+
+Tom	PER
+stieg	EPS
+aus	REL
+dem	DEF
+Jeep	CON
+.	NIL
+
+Es	PRO
+ist	NOW
+7:50~Uhr	CLO
+.	NIL
+
+Ich	PRO
+habe	NOW
+es	PRO
+gründlich	EMP
+satt	IST
+.	NIL
+
+Die	DEF
+Landungen	CON
+in	REL
+der	DEF
+Normandie	GPE
+fanden	ENS
+im	DEF
+Juni	MOY
+1944	YOC
+statt	NIL
+.	NIL
+
+Er	PRO
+raucht	ENS
+nicht	NOT
+.	NIL
+
+Ich	PRO
+kann	POS
+meine	HAS
+Uhr	CON
+nicht	NOT
+finden	EXS
+.	NIL
+
+Es	PRO
+ist	NOW
+ein~Uhr	CLO
+.	NIL
+
+Tom	PER
+hat	ENS
+keine	NOT
+Kreditkarte	CON
+.	NIL
+
+Iris~Radisch	PER
+
+Von	REL
+Till~Briegleb	PER
+
+Das	DST
+verstand	EPS
+Wagner	PER
+.	NIL
+
+Wo	QUE
+wurde	PST
+der	DEF
+Regisseur	ROL
+Michelangelo~Antonioni	PER
+geboren	EXS
+?	QUE
+
+Jemand	DIS
+klopft	ENS
+an	REL
+die	DEF
+Tür	CON
+.	NIL
+
+Toms	PER
+Telefon	CON
+klingelte	EPS
+.	NIL
+
+Ich	PRO
+habe	NOW
+die	DEF
+Milch	CON
+nicht	NOT
+getrunken	EXT
+.	NIL
+
+Tom	PER
+legte	EPS
+ein	DIS
+Schürze	CON
+an	REL
+.	NIL
+
+Ich	PRO
+gab	EPS
+ihm	PRO
+die	DEF
+wenige	QUV
+Information	CON
+,	REL
+die	DEF
+ich	PRO
+hatte	EPS
+.	NIL
+
+Er	PRO
+hatte	PST
+jegliche	AND
+Hoffnung	CON
+verloren	EXT
+.	NIL
+
+Hast	NOW
+du	PRO
+eine	DIS
+Rückfahrkarte	CON
+gekauft	EXT
+?	QUE
+
+Der	DEF
+Film	CON
+hat	NOW
+um	REL
+2~Uhr	CLO
+begonnen	EXT
+.	NIL
+
+Der	DEF
+Gesetzesentwurf	CON
+passierte	EPS
+den	DEF
+Landtag	CON
+.	NIL
+
+Das	PRO
+ist	NOW
+in	REL
+China	GPE
+beliebt	IST
+.	NIL
+
+Dieses	PRX
+Eichhörnchen	CON
+ist	NOW
+nicht	NOT
+scheu	IST
+.	NIL
+
+Sie	PRO
+wird	NOW
+von	REL
+ihm	PRO
+erpresst	EXS
+.	NIL
+
+Er	PRO
+ist	ENS
+einer	DIS
+meiner	HAS
+Schwager	ROL
+.	NIL
+
+Wir	PRO
+haben	NOW
+unseren	HAS
+Hund	CON
+Rex	LIT
+genannt	EXT
+.	NIL
+
+Sie	PRO
+haben	NOW
+Mäusespeck	CON
+gegessen	EXT
+.	NIL
+
+Ich	PRO
+werde	FUT
+singen	EXS
+.	NIL
+
+Ich	PRO
+klappte	EPS
+mein	HAS
+Telefon	CON
+zu	REL
+.	NIL
+
+Sie	PRO
+ist	ENS
+Immobilienmaklerin	ROL
+.	NIL
+
+Ich	PRO
+habe	NOW
+diese	DST
+Tür	CON
+nicht	NOT
+aufgeschlossen	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+Pizza	CON
+bestellt	EXT
+.	NIL
+
+Er	PRO
+ist	NOW
+gegen	REL
+Haus	CON
+staub	CON
+allergisch	IST
+.	NIL
+
+Ich	PRO
+habe	NOW
+auf	REL
+dem	DEF
+Boot	CON
+geschlafen	EXT
+.	NIL
+
+Wir	PRO
+haben	NOW
+ihn	PRO
+gestört	EXT
+.	NIL
+
+Blätter	CON
+sanken	EPS
+leise	IST
+zu	REL
+Boden	CON
+.	NIL
+
+Das	DEF
+Flugzeug	CON
+wird	FUT
+um	REL
+5~Uhr	CLO
+abheben	EXS
+.	NIL
+
+Ich	PRO
+bin	NOW
+wach	IST
+.	NIL
+
+Ich	PRO
+habe	NOW
+deinen	HAS
+Brief	CON
+gestern	PST
+erhalten	EXT
+.	NIL
+
+Sie	PRO
+küsste	EPS
+ihn	PRO
+.	NIL
+
+Die	DEF
+anderen	ALT
+Schüler	ROL
+lachten	EPS
+.	NIL
+
+Dieses	PRX
+Buch	CON
+hat	ENS
+fünf	QUC
+Kapitel	CON
+.	NIL
+
+Tom	PER
+nahm	EPS
+seinen	HAS
+Ehering	CON
+ab	REL
+.	NIL
+
+Er	PRO
+hat	NOW
+den	DEF
+Mont~Everest	GEO
+bezwungen	EXT
+.	NIL
+
+Tom	PER
+bezahlte	EPS
+die	DEF
+Rechnung	CON
+.	NIL
+
+Sie	PRO
+war	PST
+vertieft	IST
+in	REL
+das	DEF
+Video	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+es	PRO
+irgendwo	DIS
+versteckt	EXT
+.	NIL
+
+Er	PRO
+lächelte	EPS
+das	DEF
+Mädchen	CON
+an	REL
+.	NIL
+
+Nick	PER
+schuldet	ENS
+mir	PRO
+zehn	QUC
+Dollar	UOM
+.	NIL
+
+Sie	PRO
+war	PST
+tapfer	IST
+.	NIL
+
+Der	DEF
+Hund	CON
+wurde	PST
+von	REL
+einem	DIS
+Auto	CON
+überfahren	EXS
+.	NIL
+
+Das	DEF
+Komitee	CON
+besteht	ENS
+aus	REL
+zwölf	QUC
+Mitgliedern	ROL
+.	NIL
+
+Der	DEF
+Himmel	CON
+ist	NOW
+blau	COL
+.	NIL
+
+Tom	PER
+wohnt	ENS
+in	REL
+einem	DIS
+Elendsviertel	CON
+.	NIL
+
+Ich	PRO
+interessiere	ENS
+mich	REF
+für	REL
+Musik	CON
+.	NIL
+
+Scrooge	PER
+blickte	EPS
+die	DEF
+Erscheinung	CON
+an	REL
+.	NIL
+
+Ähnliche	IST
+Sorgen	CON
+hatte	EPS
+auch	ALT
+Churchill	PER
+1946	YOC
+.	NIL
+
+Hunderttausende	QUV
+von	REL
+Frauen	CON
+wurden	PST
+vergewaltigt	EXS
+.	NIL
+
+Die	DEF
+Permatex~GmbH	ORG
+beschäftigt	EXS
+zur	DEF
+Zeit	NOW
+180	QUC
+Mitarbeiter	ROL
+.	NIL
+
+Er	PRO
+bewaffnete	EPS
+sich	REF
+mit	REL
+einer	DIS
+Pistole	CON
+.	NIL
+
+Er	PRO
+gab	EPS
+mir	PRO
+Getränke	CON
+aus	REL
+.	NIL
+
+Niemand	NOT
+klopft	ENS
+an	REL
+meine	HAS
+Tür	CON
+.	NIL
+
+Das	DEF
+Flugzeug	CON
+flog	EPS
+nach	REL
+Osten	CON
+.	NIL
+
+Das	PRO
+war	PST
+ganz~und~gar	INT
+geheim	IST
+.	NIL
+
+Ich	PRO
+habe	NOW
+Tom	PER
+immer	AND
+gehasst	EXT
+.	NIL
+
+Tom	PER
+hat	NOW
+viele	QUV
+Rennen	CON
+gewonnen	EXT
+.	NIL
+
+Tom	PER
+saß	EPS
+an	REL
+seinem	HAS
+Schreibtisch	CON
+.	NIL
+
+Tom	PER
+führt	ENS
+seinen	HAS
+Hund	CON
+aus	REL
+.	NIL
+
+Die	DEF
+Jungs	CON
+legten	EPS
+ein	DIS
+Eishockeyfeld	CON
+an	REL
+auf	REL
+dem	DEF
+gefrorenen	IST
+Teich	CON
+.	NIL
+
+Er	PRO
+hat	ENS
+ein	DIS
+Buch	CON
+.	NIL
+
+Der	DEF
+Flug	CON
+nach	REL
+Boston	GPE
+sollte	NEC
+etwa	APX
+neunzig	QUC
+Minuten	UOM
+dauern	EXS
+.	NIL
+
+Maria	PER
+hat	NOW
+nichts	NOT
+gesehen	EXT
+.	NIL
+
+In	REL
+diesem	PRX
+Raum	CON
+ist	ENS
+jemand	DIS
+.	NIL
+
+Ich	PRO
+bin	NOW
+auch	ALT
+glücklich	IST
+.	NIL
+
+Er	PRO
+war	PST
+vor	REL
+Schreck	CON
+gelähmt	EXS
+.	NIL
+
+Tom	PER
+ist	NOW
+jetzt	NOW
+wach	IST
+.	NIL
+
+Edward~Sapir	PER
+war	EPS
+ein	DIS
+US-amerikanischer	GPO
+Linguist	ROL
+.	NIL
+
+Wir	PRO
+sind	NOW
+vor	PST
+zwei	QUC
+Tagen	UOM
+angekommen	EXT
+.	NIL
+
+Jedes	AND
+Gebäude	CON
+hat	ENS
+einen	DIS
+Namen	CON
+.	NIL
+
+Er	PRO
+durchsegelte	EPS
+die	DEF
+Sieben	QUC
+Meere	CON
+.	NIL
+
+Die	DEF
+Feuerwehrmänner	ROL
+löschten	EPS
+das	DEF
+Feuer	CON
+.	NIL
+
+Ich	PRO
+bin	ENS
+Samuel	PER
+.	NIL
+
+Sie	PRO
+wollte	EPS
+,	NIL
+dass	SUB
+er	PRO
+ihr	PRO
+etwas	DIS
+vorsingt	ENS
+.	NIL
+
+Er	PRO
+ist	ENS
+Detektiv	ROL
+.	NIL
+
+Ich	PRO
+bin	NOW
+lesbisch	IST
+.	NIL
+
+Er	PRO
+trug	EPS
+eine	DIS
+Maske	CON
+.	NIL
+
+Ich	PRO
+zahlte	EPS
+zwanzigtausend	QUC
+Yen	UOM
+für	REL
+dieses	PRX
+Hörgerät	CON
+.	NIL
+
+Diese	PRX
+Flasche	CON
+fasst	ENS
+einen	QUC
+Liter	UOM
+.	NIL
+
+Er	PRO
+ist	NOW
+stolz	IST
+auf	REL
+seinen	HAS
+Sohn	ROL
+.	NIL
+
+Er	PRO
+trug	EPS
+sein	HAS
+Hemd	CON
+verkehrt~herum	IST
+.	NIL
+
+Meine	HAS
+Eltern	ROL
+stammen	ENS
+aus	REL
+China	GPE
+.	NIL
+
+Ich	PRO
+bin	NOW
+in	REL
+dich	PRO
+verliebt	IST
+.	NIL
+
+Ich	PRO
+wurde	PST
+von	REL
+einem	DIS
+alten	IST
+Freund	ROL
+eingeladen	EXS
+.	NIL
+
+Wir	PRO
+haben	ENS
+keinen	NOT
+Wäschetrockner	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+das	DEF
+Radio	CON
+für	REL
+ihn	PRO
+repariert	EXT
+.	NIL
+
+Dieser	PRX
+Film	CON
+ist	NOW
+sehr	INT
+umstritten	IST
+.	NIL
+
+Es	NIL
+hat	NOW
+geschneit	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+ein	DIS
+Taxi	CON
+genommen	EXT
+,	NIL
+weil	SUB
+es	NIL
+regnete	EPS
+.	NIL
+
+Sie	PRO
+haben	NOW
+einen	DIS
+Ara	CON
+gekauft	EXT
+.	NIL
+
+Todesstrafe	CON
+
+Paul~Keast	PER
+
+Die	DEF
+vier	QUC
+grossen	IST
+Irrthümer	CON
+.	NIL
+
+Ich	PRO
+lese	ENS
+gerade	NOW
+ein	DIS
+Buch	CON
+.	NIL
+
+Der	DEF
+Drucker	CON
+funktioniert	ENS
+nicht	NOT
+.	NIL
+
+Sie	PRO
+ist	NOW
+nicht	NOT
+jung	IST
+,	NIL
+oder	QUE
+?	QUE
+
+Ich	PRO
+hasse	ENS
+mich	REF
+nicht	NOT
+.	NIL
+
+Dein	HAS
+Reißverschluss	CON
+ist	NOW
+offen	IST
+.	NIL
+
+Die	DEF
+Straße	CON
+wurde	PST
+durch	REL
+einen	DIS
+riesigen	IST
+Lastwagen	CON
+blockiert	EXS
+.	NIL
+
+Maria	PER
+lachte	EPS
+und	COO
+bewarf	EPS
+mich	PRO
+mit	REL
+einem	DIS
+Kissen	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+auch	ALT
+ziemlich	INT
+aufgeregt	IST
+.	NIL
+
+Maria	PER
+hat	PST
+sich	REF
+ein	DIS
+Mikroskop	CON
+gekauft	EXT
+.	NIL
+
+Der	DEF
+Krieg	CON
+endete	EPS
+1945	YOC
+.	NIL
+
+Sie	PRO
+schlug	EPS
+mit	REL
+der	DEF
+Faust	CON
+auf	REL
+den	DEF
+Tisch	CON
+.	NIL
+
+Er	PRO
+kaufte	EPS
+Gemüse	CON
+und	GRP
+ein	DIS
+bisschen	QUV
+Obst	CON
+.	NIL
+
+Herr	ROL
+Smith	PER
+lebt	ENS
+jetzt	NOW
+in	REL
+Kioto	GPE
+.	NIL
+
+Tom	PER
+nahm	EPS
+seinen	HAS
+Schirm	CON
+und	COO
+begab	EPS
+sich	REF
+zum	REL
+Aufzug	CON
+.	NIL
+
+Sie	PRO
+gesteht	ENS
+,	NIL
+dass	SUB
+sie	PRO
+die	DEF
+Juwelen	CON
+gestohlen	EXT
+hat	NOW
+.	NIL
+
+Das	DEF
+Haus	CON
+ist	NOW
+fünfhundert	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Tom	PER
+hat	PST
+sich	REL
+ein	DIS
+paar	CON
+Eichhörnchenfische	CON
+für	REL
+sein	HAS
+Aquarium	CON
+gekauft	EXT
+.	NIL
+
+Hast	NOW
+du	PRO
+mit	REL
+ihr	PRO
+geschlafen	EXT
+?	QUE
+
+Ich	PRO
+liebe	ENS
+Hunde	CON
+.	NIL
+
+Sie	PRO
+pflanzte	EPS
+mehrere	QUV
+Stiefmütterchen	CON
+in	REL
+das	DEF
+Beet	CON
+.	NIL
+
+Er	PRO
+studiert	ENS
+gerade	NOW
+.	NIL
+
+Wir	PRO
+schließen	ENS
+den	DEF
+Laden	CON
+.	NIL
+
+Wo	QUE
+ist	ENS
+deine	HAS
+Jacke	CON
+?	QUE
+
+Ich	PRO
+habe	NOW
+für	REL
+diesen	PRX
+Atlas	CON
+2000	QUC
+Yen	UOM
+bezahlt	EXT
+.	NIL
+
+Ich	PRO
+glaube	ENS
+,	NIL
+mein	HAS
+rechter	IST
+Arm	CON
+ist	NOW
+gebrochen	IST
+.	NIL
+
+Er	PRO
+ist	NOW
+nicht	NOT
+reicher	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Tom	PER
+hat	NOW
+die	DEF
+Suppe	CON
+aufgegessen	EXT
+.	NIL
+
+Er	PRO
+ist	NOW
+acht	QUC
+.	NIL
+
+Tom	PER
+hat	NOW
+es	PRO
+auf	REL
+Videoband	CON
+aufgenommen	EXT
+.	NIL
+
+Plötzlich	IST
+verdunkelte	EPS
+sich	REF
+der	DEF
+Himmel	CON
+.	NIL
+
+Ich	PRO
+dachte	EPS
+,	SUB
+ich	PRO
+wüsste	EPS
+alles	AND
+.	NIL
+
+Illinois	GPE
+grenzt	ENS
+an	REL
+Missouri	GPE
+.	NIL
+
+Kanada	ORG
+schlägt	EPS
+die	DEF
+USA	ORG
+.	NIL
+
+Sie	PRO
+versuchte	EPS
+vergeblich	IST
+zu	NIL
+lächeln	EXS
+.	NIL
+
+Er	PRO
+kann	POS
+Flöte	CON
+spielen	EXS
+.	NIL
+
+Steffi~Graf	PER
+schlug	EPS
+die	DEF
+Spanierin	GPO
+Conchita~Martinez	PER
+mit	REL
+6:3	SCO
+und	GRP
+6:1	SCO
+.	NIL
+
+FRIEDRICH~NIETZSCHE	PER
+.	NIL
+
+Wer	QUE
+ist	ENS
+der	DEF
+japanische	GPO
+Premierminister	ROL
+?	QUE
+
+Er	PRO
+hat	NOW
+ein	DIS
+reiches	IST
+Mädchen	CON
+geheiratet	EXT
+.	NIL
+
+Die	DEF
+Schlange	CON
+verschlang	EPS
+einen	DIS
+Frosch	CON
+.	NIL
+
+Tom	PER
+schaltete	EPS
+den	DEF
+Fernseher	CON
+aus	REL
+.	NIL
+
+Maria	PER
+wohnt	ENS
+in	REL
+Kairo	GPE
+.	NIL
+
+Tom	PER
+schreibt	ENS
+ein	DIS
+Buch	CON
+.	NIL
+
+Das	DEF
+Abendessen	CON
+wird	FUT
+um	REL
+18:30~Uhr	CLO
+fertig	IST
+sein	NIL
+.	NIL
+
+Ich	PRO
+laufe	ENS
+täglich	AND
+zehn	QUC
+Kilometer	UOM
+.	NIL
+
+Ich	PRO
+mag	ENS
+Pferde	CON
+.	NIL
+
+Er	PRO
+kennt	ENS
+keinen	NOT
+von	REL
+uns	PRO
+.	NIL
+
+Sie	PRO
+bürstete	EPS
+mir	PRO
+das	DEF
+Haar	CON
+.	NIL
+
+Dieses	PRX
+Armband	CON
+ist	NOW
+teurer	MOR
+als	REL
+jenes	DST
+.	NIL
+
+Er	PRO
+ist	NOW
+stockbetrunken	IST
+.	NIL
+
+Er	PRO
+ist	NOW
+mit	REL
+einem	DIS
+neuen	IST
+Roman	CON
+beschäftigt	IST
+.	NIL
+
+Der	DEF
+Hut	CON
+hängt	ENS
+an	REL
+der	DEF
+Garderobe	CON
+.	NIL
+
+Wer	QUE
+tat	EPS
+das	DEF
+?	QUE
+
+Das	DEF
+Schaf	CON
+blökt	ENS
+.	NIL
+
+Die	DEF
+Antwort	CON
+ist	NOW
+offensichtlich	IST
+.	NIL
+
+Sie	PRO
+ist	NOW
+stärker	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Ich	PRO
+habe	NOW
+jemanden	DIS
+gefunden	EXT
+.	NIL
+
+Tom	PER
+hat	NOW
+einen	DIS
+gefälschten	IST
+Ausweis	CON
+benutzt	EXT
+.	NIL
+
+Welche	QUE
+Instrumente	CON
+spielst	ENS
+du	PRO
+?	QUE
+
+Ich	PRO
+schulde	ENS
+ihr	PRO
+hunderttausend	QUC
+Yen	UOM
+.	NIL
+
+Ich	PRO
+verabscheue	ENS
+deine	HAS
+zynischen	IST
+Bemerkungen	CON
+.	NIL
+
+Wer	QUE
+wird	FUT
+die	DEF
+Goldmedaille	CON
+holen	EXS
+?	QUE
+
+Vier	QUC
+und	CON
+achtzehn	QUC
+macht	EXS
+zweiundzwanzig	QUC
+.	NIL
+
+Der	DEF
+Priester	ROL
+segnete	EPS
+die	DEF
+Gemeinde	CON
+.	NIL
+
+Sie	PRO
+ist	NOW
+so	EQU
+intelligent	IST
+wie	REL
+er	PRO
+.	NIL
+
+Au	ITJ
+!	EMP
+
+Ich	PRO
+habe	NOW
+mich	REF
+gestochen	EXT
+.	NIL
+
+Prostitution	CON
+ist	NOW
+legal	IST
+in	REL
+Deutschland	GPE
+.	NIL
+
+Ich	PRO
+lerne	ENS
+Farsi	CON
+.	NIL
+
+Ich	PRO
+mag	ENS
+ihn	PRO
+irgendwie	IST
+.	NIL
+
+Italien	ORG
+schlägt	EPS
+Kasachstan	ORG
+.	NIL
+
+Vladislav~Listyev	PER
+wurde	PST
+in	REL
+Moskau	GPE
+ermordet	EXS
+.	NIL
+
+Mein	HAS
+Vater	ROL
+rasiert	ENS
+sich	REF
+gerade	NOW
+im	DEF
+Badezimmer	CON
+.	NIL
+
+Ich	PRO
+gehe	ENS
+zu	REL
+meiner	HAS
+Großmutter	ROL
+.	NIL
+
+Sie	PRO
+ist	NOW
+einunddreißig	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Tom	PER
+hat	ENS
+keine	NOT
+Kreditkarte	CON
+.	NIL
+
+Gabi~Bauer	PER
+
+Mein	HAS
+Vetter	ROL
+hängt	ENS
+an	REL
+der	REL
+Nadel	CON
+.	NIL
+
+Tom	PER
+und	GRP
+Maria	PER
+spielten	EPS
+Dame	CON
+.	NIL
+
+Der	DEF
+Junge	CON
+schnitzte	EPS
+seinen	HAS
+Namen	CON
+in	REL
+den	DEF
+Baum	CON
+.	NIL
+
+Mein	HAS
+Vater	ROL
+ist	ENS
+Bankangestellter	ROL
+.	NIL
+
+Die	DEF
+Verletzten	ROL
+wurden	PST
+vom	DEF
+Unfallort	CON
+wegtransportiert	EXS
+.	NIL
+
+Niemand	NOT
+liebt	ENS
+den	DEF
+Krieg	CON
+.	NIL
+
+Dieses	PRX
+Haus	CON
+ist	NOW
+voller	IST
+Spinnweben	CON
+.	NIL
+
+Tom	PER
+,	REL
+Maria	PER
+und	GRP
+Johannes	PER
+spielten	EPS
+auf	REL
+dem	DEF
+Schulhof	CON
+Fangen	CON
+.	NIL
+
+Tom	PER
+und	GRP
+Maria	PER
+spielen	ENS
+Pfeilewerfen	CON
+.	NIL
+
+Toms	PER
+Wunsch	CON
+wurde	PST
+erfüllt	EXS
+.	NIL
+
+Keines	NOT
+der	DEF
+Bücher	CON
+ist	NOW
+aufschlussreich	IST
+.	NIL
+
+Ich	PRO
+bin	NOW
+vier	QUC
+Jahre	UOM
+jünger	MOR
+als	REL
+er	PRO
+.	NIL
+
+Niemand	NOT
+mag	ENS
+un	NOT
+höfliche	IST
+Verkäufer	ROL
+.	NIL
+
+Der	DEF
+Junge	CON
+war	PST
+müde	IST
+.	NIL
+
+Meine	HAS
+Eltern	ROL
+sind	ENS
+beide	AND
+Ärzte	ROL
+.	NIL
+
+Tom	PER
+und	GRP
+Maria	PER
+sind	NOW
+gestern	PST
+nach	REL
+Boston	GPE
+geflogen	EXT
+.	NIL
+
+Karl~der~Große	PER
+wurde	PST
+vom	DEF
+Papst	ROL
+gekrönt	EXS
+.	NIL
+
+Ich	PRO
+redete	EPS
+eine	QUC
+Stunde	UOM
+lang	REF
+mit	REL
+ihr	PRO
+.	NIL
+
+Das	DST
+ist	ENS
+doch	EMP
+deine	HAS
+Handschrift	CON
+,	NIL
+oder	QUE
+?	QUE
+
+Tom	PER
+kommandiert	ENS
+immer	AND
+die	DEF
+Leute	CON
+herum	REL
+.	NIL
+
+Kim	PER
+lächelte	EPS
+süß	IST
+.	NIL
+
+Wo	QUE
+in	REL
+den	DEF
+USA	GPE
+gibt	ENS
+es	NIL
+eine	DIS
+schwedische	GPO
+Botschaft	CON
+?	QUE
+
+Tom	PER
+ist	NOW
+überglücklich	IST
+.	NIL
+
+Er	PRO
+ist	NOW
+achtzehn	QUC
+Monate	UOM
+alt	DEG
+.	NIL
+
+Jeder	AND
+hat	NOW
+es	PRO
+gesehen	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+zweitausend	QUC
+Yen	UOM
+für	REL
+das	DEF
+Buch	CON
+bezahlt	EXT
+.	NIL
+
+Ich	PRO
+trinke	ENS
+Milch	CON
+.	NIL
+
+Ich	PRO
+spiele	ENS
+gerade	NOW
+Volleyball	CON
+.	NIL
+
+Wir	PRO
+haben	NOW
+immer	AND
+Hunger	IST
+.	NIL
+
+Ich	PRO
+habe	NOW
+meinem	HAS
+Hund	CON
+einen	DIS
+Ball	CON
+zugeworfen	EXT
+und	COO
+er	PRO
+hat	NOW
+ihn	PRO
+mit	REL
+seinem	HAS
+Maul	CON
+gefangen	EXT
+.	NIL
+
+Lin~Biao	PER
+schrieb	EPS
+das	DEF
+"	NIL
+kleine~rote~Buch	ART
+"	NIL
+.	NIL
+
+Meine	HAS
+Schwester	ROL
+ist	NOW
+berühmt	IST
+.	NIL
+
+Ich	PRO
+bin	NOW
+verheiratet	IST
+.	NIL
+
+Wir	PRO
+sollten	NEC
+die	DEF
+Todesstrafe	CON
+abschaffen	EXS
+.	NIL
+
+Das	DEF
+Zimmer	CON
+war	PST
+voller	IST
+Leute	CON
+.	NIL
+
+Die	DEF
+Tür	CON
+ist	NOW
+zu	IST
+.	NIL
+
+Der	DEF
+Bus	CON
+kippte	EPS
+ueber	REL
+eine	DIS
+zwei	QUC
+Meter	UOM
+hohe	DEG
+Boeschung	CON
+.	NIL
+
+Tom	PER
+benutzt	ENS
+eine	DIS
+Lötlampe	CON
+.	NIL
+
+Betty	PER
+hat	NOW
+den	DEF
+Berg	CON
+dreimal	QUC
+bestiegen	EXT
+.	NIL
+
+Ich	PRO
+unterschrieb	EPS
+das	DEF
+Dokument	CON
+.	NIL
+
+Ich	PRO
+war	PST
+nicht	NOT
+erfreut	IST
+über	REL
+dein	HAS
+unverschämtes	IST
+Verhalten	CON
+.	NIL
+
+Er	PRO
+wurde	PST
+für	REL
+den	DEF
+verletzten	IST
+Spieler	ROL
+eingewechselt	EXS
+.	NIL
+
+Das	DEF
+„	NIL
+Neugier-Marsfahrzeug	ART
+“	NIL
+ist	NOW
+auf	REL
+dem	DEF
+Mars	NTH
+gelandet	EXT
+.	NIL
+
+Sie	PRO
+banden	EPS
+den	DEF
+Dieb	ROL
+an	REL
+den	DEF
+Baum	CON
+.	NIL
+
+Sie	PRO
+tauften	EPS
+den	DEF
+Hund	CON
+Shiro	LIT
+.	NIL
+
+Er	PRO
+ist	ENS
+ein	DIS
+Baseballspieler	ROL
+.	NIL
+
+Sie	PRO
+kauft	ENS
+immer	AND
+Milch	CON
+.	NIL
+
+Donald~Trump	PER
+ist	ENS
+ein	DIS
+berühmter	IST
+Geschäftsmann	ROL
+.	NIL
+
+Tom	PER
+trank	EPS
+mit	REL
+einem	DIS
+Strohhalm	CON
+Schokoladenmilch	CON
+.	NIL
+
+Das	DEF
+große	DEG
+Schiff	CON
+rammte	EPS
+ein	DIS
+Fischerboot	CON
+.	NIL
+
+Der	DEF
+Teich	CON
+ist	NOW
+drei	QUC
+Meter	UOM
+tief	DEG
+.	NIL
+
+Das	DEF
+Fleisch	CON
+ist	NOW
+gefroren	IST
+.	NIL
+
+Darf	POS
+ich	PRO
+eine	DIS
+Dose	CON
+aufmachen	EXS
+?	QUE
+
+Die	DEF
+arme	IST
+Katze	CON
+wurde	PST
+von	REL
+einem	DIS
+Lkw	CON
+überfahren	EXS
+.	NIL
+
+Ihm	PRO
+gefallen	IST
+meine	HAS
+Witze	CON
+.	NIL
+
+Der	DEF
+alte	DEG
+Mann	CON
+nannte	EPS
+die	DEF
+Holz	CON
+puppe	CON
+Pinocchio	LIT
+.	NIL
+
+Sie	PRO
+litt	EPS
+an	REL
+Bulimie	CON
+.	NIL
+
+Wurde	PST
+Tom	PER
+entlassen	EXS
+?	QUE
+
+Tom	PER
+trug	EPS
+einen	DIS
+dunkelblauen	COL
+Anzug	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+das	DEF
+Bild	CON
+bei	REL
+einer	DIS
+Auktion	CON
+ergattert	EXT
+.	NIL
+
+Tom	PER
+ist	NOW
+mit	REL
+Ruth	PER
+verlobt	EXS
+.	NIL
+
+Jack~Nicholson	PER
+wuchs	EPS
+in	REL
+New~Jersey	GPE
+auf	REL
+.	NIL
+
+Ich	PRO
+habe	NOW
+zweihundert	QUC
+Dollar	UOM
+für	REL
+diese	PRX
+Tasche	CON
+bezahlt	EXT
+.	NIL
+
+Tom	PER
+gab	EPS
+Maria	PER
+einen	DIS
+Pullover	CON
+.	NIL
+
+Jemand	DIS
+hat	NOW
+das	PRO
+für	REL
+dich	PRO
+dagelassen	EXT
+.	NIL
+
+Sie	PRO
+durchschwamm	EPS
+den	DEF
+breiten	DEG
+Fluss	CON
+.	NIL
+
+Du	PRO
+schmeichelst	ENS
+mir	PRO
+.	NIL
+
+Jack	PER
+s	HAS
+Buch	CON
+ist	NOW
+interessant	IST
+.	NIL
+
+Wir	PRO
+scheren	ENS
+die	DEF
+Schafe	CON
+.	NIL
+
+Saddam~Hussein	PER
+flieht	ENS
+in	REL
+die	DEF
+Vereinigten~Staaten	GPE
+.	NIL
+
+Er	PRO
+hat	NOW
+eine	DIS
+Stewardess	ROL
+geheiratet	EXT
+.	NIL
+
+Marie	PER
+braucht	ENS
+ein	DIS
+Dutzend	QUC
+Eier	CON
+.	NIL
+
+Jemand	DIS
+klopft	ENS
+an	REL
+der	DEF
+Tür	CON
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihn	PRO
+bei	REL
+der	DEF
+Hand	CON
+gepackt	EXT
+.	NIL
+
+Die	AND
+Gans	CON
+ist	ENS
+ein	DIS
+Wasservogel	CON
+.	NIL
+
+Sie	PRO
+wurden	PST
+per	REL
+Hubschrauber	CON
+gerettet	EXS
+.	NIL
+
+Ich	PRO
+wärme	ENS
+mich	REF
+am	REL
+Feuer	CON
+.	NIL
+
+Das	PRO
+ist	ENS
+ein	DIS
+Taschenwörterbuch	CON
+.	NIL
+
+Er	PRO
+wiegt	ENS
+ungefähr	APX
+300	QUC
+Pfund	UOM
+.	NIL
+
+Tom	PER
+ist	ENS
+Neurochirurg	ROL
+.	NIL
+
+Der	DEF
+Mörder	ROL
+wurde	PST
+hingerichtet	EXS
+.	NIL
+
+Tom	PER
+macht	ENS
+Witze	CON
+.	NIL
+
+Tom	PER
+wurde	PST
+des	REL
+Mordes	CON
+verdächtigt	EXS
+.	NIL
+
+Er	PRO
+ist	ENS
+ein	DIS
+schlechter	IST
+Autofahrer	ROL
+.	NIL
+
+Ich	PRO
+habe	NOW
+eine	DIS
+hübsche	IST
+Krawatte	CON
+für	REL
+dich	PRO
+gefunden	EXT
+.	NIL
+
+Tom	PER
+schmeckte	EPS
+sein	HAS
+Brot	CON
+nicht	NOT
+.	NIL
+
+Wir	PRO
+besuchten	EPS
+das	DEF
+größte	TOP
+Museum	CON
+in	REL
+São~Paulo	GPE
+.	NIL
+
+Sind	NOW
+Wespen	CON
+giftig	IST
+?	QUE
+
+Sie	PRO
+winkte	EPS
+ihm	PRO
+zum	REL
+Abschied	CON
+zu	REL
+.	NIL
+
+Vierzig	QUC
+Leute	CON
+kamen	EPS
+.	NIL
+
+Ich	PRO
+bin	NOW
+1,83	QUC
+m	UOM
+groß	DEG
+.	NIL
+
+Sie	PRO
+sind	ENS
+ein	DIS
+guter	IST
+Tennisspieler	ROL
+.	NIL
+
+Tom	PER
+hat	NOW
+das	DEF
+Dokument	CON
+kopiert	EXT
+.	NIL
+
+Er	PRO
+ist	NOW
+so	EQU
+groß	IST
+wie	REL
+ich	PRO
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihre	HAS
+blauen	COL
+Augen	CON
+von	REL
+der	DEF
+Mutter	ROL
+geerbt	EXT
+.	NIL
+
+Er	PRO
+kroch	EPS
+aus	REL
+dem	DEF
+Fenster	CON
+.	NIL
+
+Er	PRO
+nahm	EPS
+einen	DIS
+Protein	CON
+trunk	CON
+zu	REL
+sich	REF
+.	NIL
+
+Dieses	PRX
+Buch	CON
+ist	NOW
+vergriffen	IST
+.	NIL
+
+Es	PRO
+ist	NOW
+16:30~Uhr	CLO
+.	NIL
+
+Tom	PER
+ist	ENS
+mein	HAS
+Ex	PST
+freund	ROL
+.	NIL
+
+Tom	PER
+wird	FUT
+mich	PRO
+um	REL
+halb~drei	CLO
+abholen	EXS
+.	NIL
+
+Tom	PER
+kaute	EPS
+an	REL
+seinem	HAS
+Bleistift	CON
+.	NIL
+
+Er	PRO
+hat	NOW
+das	DEF
+Undenkbare	IST
+getan	EXT
+.	NIL
+
+Le~Beau~Serge	ART
+wurde	PST
+von	REL
+Chabrol	PER
+geleitet	EXS
+.	NIL
+
+Martin~Luther~King	PER
+wurde	PST
+1968	YOC
+ermordet	EXS
+.	NIL
+
+Ich	PRO
+weiß	ENS
+,	NIL
+dass	SUB
+sie	PRO
+schön	IST
+ist	NOW
+.	NIL
+
+Meine	HAS
+Muttersprache	CON
+ist	ENS
+Spanisch	CON
+.	NIL
+
+Ich	PRO
+lerne	ENS
+Tschechisch	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+ein	DIS
+Mädchen	CON
+mit	REL
+langen	DEG
+Haaren	CON
+gesehen	EXT
+.	NIL
+
+Sie	PRO
+nahm	EPS
+ihre	HAS
+Sonnenbrille	CON
+ab	REL
+.	NIL
+
+Tom	PER
+trägt	ENS
+Hosenträger	CON
+.	NIL
+
+Er	PRO
+manipuliert	ENS
+dich	PRO
+!	EMP
+
+Ich	PRO
+rettete	EPS
+dich	PRO
+.	NIL
+
+Sie	PRO
+sind	NOW
+viel	QUV
+größer	MOR
+als	REL
+wir	PRO
+.	NIL
+
+Du	PRO
+kannst	POS
+das	DEF
+Klavier	CON
+nicht	NOT
+heben	EXS
+.	NIL
+
+Dieses	PRX
+Buch	CON
+wurde	PST
+in	REL
+England	GPE
+gedruckt	EXS
+.	NIL
+
+Es	PRO
+ist	NOW
+Viertel~vor~zwei	CLO
+.	NIL
+
+Sie	PRO
+ist	NOW
+ausgesprochen	INT
+glücklich	IST
+.	NIL
+
+Er	PRO
+gewann	EPS
+eine	DIS
+Goldmedaille	CON
+.	NIL
+
+Das	DEF
+Kind	CON
+streichelt	ENS
+eine	DIS
+Katze	CON
+.	NIL
+
+Das	PRO
+war	PST
+überhaupt	EMP
+nicht	NOT
+komisch	IST
+.	NIL
+
+Der	DEF
+Motor	CON
+brummt	ENS
+.	NIL
+
+Die	DEF
+Piraten	ROL
+enterten	EPS
+das	DEF
+Schiff	CON
+.	NIL
+
+Die	DEF
+Atombombe	CON
+hat	NOW
+Hiroshima	GPE
+vollkommen	IST
+zerstört	EXT
+.	NIL
+
+Es	NIL
+regnet	ENS
+nicht	NOT
+.	NIL
+
+Ich	PRO
+spiele	ENS
+nicht	NOT
+mehr	ALT
+Saxophon	CON
+.	NIL
+
+Ein	DIS
+Krokodil	CON
+hat	NOW
+Tom	PER
+gefressen	EXT
+.	NIL
+
+Simone~Signoret	PER
+war	EPS
+eine	DIS
+französische	GPO
+Schauspielerin	ROL
+.	NIL
+
+Auckland	GPE
+ist	ENS
+eine	DIS
+Stadt	CON
+in	REL
+Neuseeland	GPE
+.	NIL
+
+Der	DEF
+Apfel	CON
+ist	NOW
+rot	COL
+.	NIL
+
+Meine	HAS
+Nase	CON
+juckt	ENS
+.	NIL
+
+Ich	PRO
+werde	FUT
+nichts	NOT
+unterschreiben	EXS
+.	NIL
+
+Ich	PRO
+habe	NOW
+das	DEF
+Buch	CON
+gestern	PST
+gekauft	EXT
+.	NIL
+
+Er	PRO
+ergriff	EPS
+meine	HAS
+Hand	CON
+.	NIL
+
+Tom	PER
+hat	NOW
+seiner	HAS
+Frau	ROL
+ein	DIS
+Vermögen	CON
+hinterlassen	EXT
+.	NIL
+
+Tom	PER
+strich	EPS
+den	DEF
+Schnee	CON
+von	REL
+seinem	HAS
+Mantel	CON
+.	NIL
+
+Jeder	AND
+liebt	ENS
+ihn	PRO
+.	NIL
+
+Er	PRO
+lebt	ENS
+in	REL
+einem	DIS
+kleinen	DEG
+Dorf	CON
+auf	REL
+Kyūshū	GPE
+.	NIL
+
+Er	PRO
+wurde	PST
+in	REL
+Afrika	GPE
+geboren	EXS
+.	NIL
+
+Ich	PRO
+hatte	PST
+Angst	IST
+vor	REL
+meinem	HAS
+Vater	ROL
+.	NIL
+
+Er	PRO
+hatte	EPS
+fünfzig	QUC
+Dollar	UOM
+.	NIL
+
+Er	PRO
+pfiff	EPS
+ein	DIS
+Liedchen	CON
+.	NIL
+
+Das	DEF
+Dach	CON
+leckt	ENS
+.	NIL
+
+Er	PRO
+wohnt	ENS
+in	REL
+einem	DIS
+gewaltigen	IST
+Haus	CON
+.	NIL
+
+Das	DST
+ist	ENS
+eine	DIS
+kubanische	GPO
+Zigarre	CON
+.	NIL
+
+Der	DEF
+1.~FC~Kaiserslautern	ORG
+sicherte	EPS
+sich	REF
+mit	REL
+einem	DIS
+2:0	SCO
+Sieg	ART
+gegen	REL
+Hansa~Rostock	ORG
+die	DEF
+Chance	CON
+auf	REL
+den	DEF
+Klassenerhalt	CON
+.	NIL
+
+Spann	EXS
+die	DEF
+Ochsen	CON
+vor	REL
+den	DEF
+Pflug	CON
+.	NIL
+
+Alle	AND
+gingen	EPS
+.	NIL
+
+Etwas	DIS
+Schreckliches	IST
+ist	NOW
+passiert	EXT
+.	NIL
+
+Mein	HAS
+Vater	ROL
+ist	NOW
+groß	DEG
+.	NIL
+
+Ich	PRO
+bin	ENS
+keine	NOT
+Hexe	ROL
+.	NIL
+
+Die	DEF
+Gaststätte	CON
+berechnete	EPS
+mir	PRO
+250.000	QUC
+Yen	UOM
+für	REL
+die	DEF
+Feier	CON
+.	NIL
+
+Ist	ENS
+das	DST
+mein	HAS
+Becher	CON
+?	QUE
+
+Kanazawa	GPE
+ist	ENS
+eine	DIS
+ruhige	IST
+Stadt	CON
+.	NIL
+
+Dumm	IST
+ist	NOW
+er	PRO
+auf~keinen~Fall	NOT
+.	NIL
+
+Ich	PRO
+gehe	ENS
+zur	REL
+Post	CON
+.	NIL
+
+Sie	PRO
+zeigte	EPS
+mir	PRO
+ihr	HAS
+neues	IST
+Auto	CON
+.	NIL
+
+Meine	HAS
+Katze	CON
+wiegt	ENS
+etwa	APX
+fünf	QUC
+Kilo	UOM
+.	NIL
+
+Ich	PRO
+bügele	ENS
+mein	HAS
+Kleid	CON
+.	NIL
+
+Ein	DIS
+großes	IST
+Tier	CON
+ist	NOW
+aus	REL
+dem	DEF
+Tierpark	CON
+ausgebrochen	EXT
+.	NIL
+
+Ich	PRO
+warte	ENS
+auf	REL
+einen	DIS
+Telefonanruf	CON
+.	NIL
+
+Ich	PRO
+schulde	ENS
+ihm	PRO
+1000	QUC
+Yen	UOM
+.	NIL
+
+Bei	REL
+den	DEF
+Amerikanern	GPO
+ist	NOW
+Betty~White	PER
+sehr	INT
+beliebt	IST
+.	NIL
+
+Er	PRO
+steckte	EPS
+das	DEF
+Buch	CON
+in	REL
+seine	HAS
+Tasche	CON
+.	NIL
+
+Sie	PRO
+befreiten	EPS
+den	DEF
+Gefangenen	ROL
+.	NIL
+
+Wessen	HAS
+Kamera	CON
+ist	ENS
+das	PRX
+?	QUE
+
+Tom	PER
+hat	ENS
+keine	NOT
+Autorität	CON
+.	NIL
+
+Ein	AND
+Reicher	ROL
+muss	NEC
+eine	DIS
+hohe	IST
+Einkommenssteuer	CON
+bezahlen	EXS
+.	NIL
+
+Niemand	NOT
+hatte	NOW
+etwas	DIS
+vermutet	EXT
+.	NIL
+
+Er	PRO
+warf	EPS
+einen	DIS
+Stein	CON
+in	REL
+den	DEF
+See	CON
+.	NIL
+
+Tom	PER
+zertrümmerte	EPS
+sein	HAS
+Sparschwein	CON
+mit	REL
+einem	DIS
+Hammer	CON
+.	NIL
+
+Sein	HAS
+Name	CON
+führte	EPS
+die	DEF
+Liste	CON
+an	REL
+.	NIL
+
+Mein	HAS
+Neffe	ROL
+reagiert	ENS
+allergisch	IST
+auf	REL
+Eier	CON
+.	NIL
+
+Sie	PRO
+schnappte	EPS
+sich	REF
+ihre	HAS
+Handtasche	CON
+und	COO
+ging	EPS
+.	NIL
+
+Tom	PER
+wurde	PST
+kaltgestellt	EXS
+.	NIL
+
+Aurore~Paquiss	PER
+heiratete	EPS
+Chabrol	PER
+.	NIL
+
+Henry~Ford	PER
+gründete	EPS
+die	DEF
+Ford~Motor~Company	ORG
+.	NIL
+
+Lady	ROL
+Diana	PER
+starb	EPS
+in	REL
+Paris	GPE
+.	NIL
+
+Das	DEF
+Ebro-Delta	GEO
+wird	NOW
+für	REL
+die	DEF
+Landwirtschaft	CON
+genutzt	EXS
+.	NIL
+
+Er	PRO
+spielte	EPS
+Klavier	CON
+.	NIL
+
+Er	PRO
+trägt	ENS
+eine	DIS
+Sonnenbrille	CON
+.	NIL
+
+Sie	PRO
+hatte	PST
+Angst	IST
+vor	REL
+dem	DEF
+Hund	CON
+.	NIL
+
+Zwei	QUC
+Straftäter	ROL
+brachen	EPS
+aus	REL
+dem	DEF
+Gefängnis	CON
+aus	REL
+.	NIL
+
+Wir	PRO
+verpackten	EPS
+Obst	CON
+und	GRP
+Gemüse	CON
+.	NIL
+
+Er	PRO
+weinte	EPS
+.	NIL
+
+Ich	PRO
+wohne	ENS
+in	REL
+Hyogo	GPE
+.	NIL
+
+Die	DEF
+Grenze	CON
+ist	NOW
+geschlossen	IST
+.	NIL
+
+Nach	REL
+einem	DIS
+Fehlstart	CON
+wurde	PST
+er	PRO
+disqualifiziert	EXS
+.	NIL
+
+Ich	PRO
+habe	NOW
+noch	ALT
+nie	NOT
+eine	DIS
+Giraffe	CON
+gesehen	EXT
+.	NIL
+
+Ich	PRO
+bügel	ENS
+meine	HAS
+Taschentücher	CON
+.	NIL
+
+Einem	DIS
+zu	REL
+r	DEF
+Hand	CON
+stehenden	IST
+Korb	CON
+entnahm	EPS
+man	AND
+einen	DIS
+fettigen	IST
+Holzlöffel	CON
+....	NIL
+
+Dieser	PRX
+Apfel	CON
+ist	NOW
+röter	MOR
+.	NIL
+
+Die	DEF
+Autobahn	CON
+M1	NTH
+verbindet	ENS
+London	GPE
+mit	REL
+Leeds	GPE
+.	NIL
+
+Wir	PRO
+arbeiten	ENS
+momentan	NOW
+.	NIL
+
+Sie	PRO
+trug	EPS
+einen	DIS
+Kimono	CON
+.	NIL
+
+Die	DEF
+alte	DEG
+Dame	CON
+lächelte	EPS
+ihrer	HAS
+Enkelin	ROL
+zu	REL
+.	NIL
+
+Das	DEF
+Huhn	CON
+war	PST
+vorzüglich	IST
+.	NIL
+
+Das	DEF
+Baby	CON
+krabbelt	ENS
+jetzt	NOW
+.	NIL
+
+Meine	HAS
+Mama	ROL
+hat	NOW
+meinen	HAS
+Papa	ROL
+in	REL
+den	DEF
+Neunzigern	YOC
+geheiratet	EXT
+.	NIL
+
+Ich	PRO
+komme	ENS
+aus	REL
+Sapporo	GPE
+.	NIL
+
+Das	DEF
+Geschirr	CON
+wurde	PST
+in	REL
+Taiwan	GPE
+hergestellt	EXS
+.	NIL
+
+Tom	PER
+ist	NOW
+ein	DIS
+wenig	QUV
+größer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Sie	PRO
+bewaffneten	EPS
+sich	REF
+mit	REL
+Gewehren	CON
+.	NIL
+
+Tom	PER
+ist	NOW
+mein	HAS
+Cousin	ROL
+.	NIL
+
+Ich	PRO
+entband	EPS
+eineiige	IST
+Zwillinge	CON
+.	NIL
+
+Ole~Einar~Bjørndalen	PER
+hat	NOW
+dreizehn	QUC
+olympische	IST
+Medaillen	CON
+gewonnen	EXT
+.	NIL
+
+Die	DEF
+Uhr	CON
+schlägt	ENS
+vier	CLO
+.	NIL
+
+Tom	PER
+ist	NOW
+in	REL
+Marias	PER
+jüngere	MOR
+Schwester	ROL
+verliebt	IST
+.	NIL
+
+Eine	AND
+Banane	CON
+ist	NOW
+gelb	COL
+.	NIL
+
+Ich	PRO
+habe	ENS
+keine	NOT
+Socken	CON
+an	REL
+.	NIL
+
+Ich	PRO
+bin	NOW
+groß	DEG
+.	NIL
+
+Ich	PRO
+habe	NOW
+die	DEF
+Prüfung	CON
+bestanden	EXT
+und	COO
+Tom	PER
+auch	ALT
+.	NIL
+
+Der	DEF
+Turm	CON
+ist	NOW
+dreihundertzwölf	QUC
+Meter	UOM
+hoch	DEG
+.	NIL
+
+Tom	PER
+schloss	EPS
+den	DEF
+Käfig	CON
+auf	REL
+.	NIL
+
+Das	DEF
+Boot	CON
+war	PST
+voller	IST
+Flüchtlinge	ROL
+aus	REL
+Kuba	GPE
+.	NIL
+
+Ich	PRO
+bin	NOW
+dreißig	QUC
+.	NIL
+
+Der	DEF
+Spieler	ROL
+wurde	PST
+von	REL
+den	DEF
+Anhängern	ROL
+gefeiert	EXT
+.	NIL
+
+Er	PRO
+schlief	EPS
+ein	REL
+.	NIL
+
+Er	PRO
+weckte	EPS
+Tom	PER
+auf	REL
+.	NIL
+
+Er	PRO
+muss	NEC
+mindestens	BOT
+fünfunddreißig	QUC
+Jahre	UOM
+alt	DEG
+sein	NIL
+.	NIL
+
+Tom	PER
+winkte	EPS
+seinem	HAS
+Freund	ROL
+zum	REL
+Abschied	CON
+.	NIL
+
+Niemand	NOT
+hat	NOW
+Tom	PER
+gesehen	EXT
+.	NIL
+
+Nudeln	CON
+kochen	EXG
+ist	NOW
+einfach	IST
+.	NIL
+
+Tony~Blair	PER
+gehört	ENS
+der	DEF
+Labour-Partei	ORG
+an	REL
+.	NIL
+
+Das	DEF
+Feuer	CON
+ist	NOW
+ausgegangen	EXT
+.	NIL
+
+Seine	HAS
+ältere	MOR
+Schwester	ROL
+ist	NOW
+älter	MOR
+als	REL
+mein	HAS
+ältester	TOP
+Bruder	ROL
+.	NIL
+
+Der	DEF
+Wind	CON
+hat	NOW
+nachgelassen	EXT
+.	NIL
+
+Zwei	QUC
+plus	CON
+zwei	QUC
+gibt	EXS
+vier	QUC
+.	NIL
+
+Marilyn~Monroe	PER
+starb	EPS
+vor	PST
+33	QUC
+Jahren	UOM
+.	NIL
+
+In	REL
+diesem	PRX
+Haus	CON
+wohnt	ENS
+niemand	NOT
+.	NIL
+
+Sie	PRO
+besitzt	ENS
+zweitausend	QUC
+Bücher	CON
+.	NIL
+
+Ich	PRO
+mag	ENS
+Schokoladeneis	CON
+!	EMP
+
+Edward	PER
+ist	NOW
+jünger	MOR
+als	REL
+Robert	PER
+.	NIL
+
+Er	PRO
+ist	NOW
+drei	QUC
+Jahre	UOM
+älter	MOR
+als	REL
+sie	PRO
+.	NIL
+
+Ich	PRO
+habe	ENS
+deine	HAS
+Nummer	CON
+nicht	NOT
+.	NIL
+
+Diese	PRX
+Brücke	CON
+sieht	ENS
+solide	IST
+aus	REL
+.	NIL
+
+Das	PRO
+ist	ENS
+eine	DIS
+Falle	CON
+!	EMP
+
+Er	PRO
+ist	NOW
+vor	PST
+zehn	QUC
+Minuten	UOM
+gegangen	EXT
+.	NIL
+
+Tom	PER
+wurde	PST
+der	DEF
+Preis	CON
+posthum	IST
+verliehen	EXS
+.	NIL
+
+Sie	PRO
+hat	NOW
+einen	DIS
+Feuerwehrmann	ROL
+geheiratet	EXT
+.	NIL
+
+Japanisch	CON
+ist	ENS
+unsere	HAS
+Muttersprache	CON
+.	NIL
+
+Die	DEF
+Sitzung	CON
+endete	EPS
+um	REL
+Sieben	CLO
+.	NIL
+
+Ich	PRO
+liebe	ENS
+Vanilleeis	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+unglücklich	IST
+.	NIL
+
+Valentina~Tereshkova	PER
+war	EPS
+die	DEF
+erste	ORD
+Frau	CON
+im	REL
+Weltraum	CON
+.	NIL
+
+Die	DEF
+Waffe	CON
+ist	NOW
+nicht	NOT
+geladen	IST
+.	NIL
+
+Ich	PRO
+verstehe	ENS
+dieses	DST
+Fachchinesisch	CON
+nicht	NOT
+.	NIL
+
+Viele	QUV
+Leute	CON
+bewundern	ENS
+Nikko	GPE
+.	NIL
+
+Es	PRO
+ist	ENS
+eine	DIS
+fesselnde	EXG
+Geschichte	CON
+.	NIL
+
+Die	DEF
+Kardinäle	ROL
+haben	NOW
+einen	DIS
+neuen	IST
+Papst	ROL
+gewählt	EXT
+.	NIL
+
+Tom	PER
+ist	NOW
+äußerst	INT
+unfreundlich	IST
+.	NIL
+
+Mein	HAS
+Natel	CON
+läutet	ENS
+.	NIL
+
+Das	DEF
+Schiff	CON
+war	PST
+mit	REL
+Waffen	CON
+befrachtet	EXS
+.	NIL
+
+Die	DEF
+Katze	CON
+fraß	EPS
+die	DEF
+Maus	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+krank	IST
+.	NIL
+
+Tom	PER
+gab	EPS
+eine	DIS
+Erklärung	CON
+ab	REL
+.	NIL
+
+Sie	PRO
+ist	ENS
+mein	HAS
+Schutzengel	ROL
+.	NIL
+
+Dieses	PRX
+Buch	CON
+enthält	ENS
+einige	QUC
+Fehler	CON
+,	NIL
+aber	BUT
+es	PRO
+ist	NOW
+interessant	IST
+.	NIL
+
+Sie	PRO
+melkte	EPS
+die	DEF
+Kuh	CON
+.	NIL
+
+Er	PRO
+lieh	EPS
+mir	PRO
+dreißig	QUC
+Pesos	UOM
+.	NIL
+
+Viele	QUV
+bewundern	ENS
+sie	PRO
+.	NIL
+
+Ich	PRO
+verletzte	EPS
+meinen	HAS
+Daumen	CON
+bei	REL
+einem	DIS
+Handstandüberschlag	CON
+.	NIL
+
+Sein	HAS
+Neffe	ROL
+war	PST
+in	REL
+das	DEF
+brillante	IST
+Feuerwerk	CON
+vertieft	IST
+.	NIL
+
+Ich	PRO
+wischte	EPS
+für	REL
+den	DEF
+Lehrer	ROL
+die	DEF
+Tafel	CON
+.	NIL
+
+Die	DEF
+Möbel	CON
+wurden	PST
+bei	REL
+einer	DIS
+Auktion	CON
+gekauft	EXS
+.	NIL
+
+Ich	PRO
+sehe	ENS
+eine	DIS
+Giraffe	CON
+.	NIL
+
+Tom	PER
+gab	EPS
+seinem	HAS
+Hund	CON
+einen	DIS
+Knochen	CON
+.	NIL
+
+Er	PRO
+gewann	EPS
+eine	DIS
+Bronzemedaille	CON
+.	NIL
+
+Maler	PER
+lebte	EPS
+in	REL
+Yucatán	GPE
+.	NIL
+
+Maria	PER
+versteht	ENS
+Chinesisch	CON
+.	NIL
+
+Du	PRO
+bist	NOW
+verrückt	IST
+.	NIL
+
+Wir	PRO
+haben	ENS
+dreizehn	QUC
+Knüppel	CON
+.	NIL
+
+Mein	HAS
+Bruder	ROL
+arbeitet	ENS
+in	REL
+einer	DIS
+Bank	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+es	PRO
+für	REL
+zwölf	QUC
+Dollar	UOM
+gekauft	EXT
+.	NIL
+
+Aachen	GPE
+ist	ENS
+eine	DIS
+kreisfreie	IST
+Stadt	CON
+.	NIL
+
+Wer	QUE
+hat	NOW
+die	DEF
+Bibel	ART
+geschrieben	EXT
+?	QUE
+
+Der	DEF
+Polizist	ROL
+verfolgte	EPS
+den	DEF
+Einbrecher	ROL
+.	NIL
+
+http://www.hoechst.com/willk.htm	CTC
+
+Wer	QUE
+ist	ENS
+der	DEF
+Führer	ROL
+der	DEF
+algerischen	GPO
+Bewaffneten~Islamischen~Gruppe	ORG
+?	QUE
+
+Der	DEF
+Krieg	CON
+dauerte	EPS
+fast	LES
+zehn	QUC
+Jahre	UOM
+.	NIL
+
+Robert	PER
+hat	NOW
+mit	REL
+seinem	HAS
+großen	IST
+Boot	CON
+angegeben	EXT
+.	NIL
+
+Mein	HAS
+Großvater	ROL
+wurde	PST
+im	DEF
+Krieg	CON
+verletzt	EXS
+.	NIL
+
+Ihr	HAS
+Vater	ROL
+betrat	EPS
+das	DEF
+Zimmer	CON
+.	NIL
+
+Er	PRO
+kaufte	EPS
+einige	QUV
+Bücher	CON
+in	REL
+dem	DEF
+Buchladen	CON
+.	NIL
+
+Er	PRO
+mag	ENS
+alles	DIS
+,	NIL
+was	IMP
+süß	IST
+ist	NOW
+.	NIL
+
+Er	PRO
+besitzt	ENS
+eine	DIS
+sehr	INT
+wertvolle	IST
+Armbanduhr	CON
+.	NIL
+
+Das	DEF
+Kätzchen	CON
+rollte	EPS
+das	DEF
+Garn	CON
+über	REL
+den	DEF
+Fußboden	CON
+.	NIL
+
+Hast	ENS
+du	PRO
+einen	DIS
+Schuhanzieher	CON
+?	QUE
+
+Er	PRO
+wurde	PST
+durch	REL
+eine	DIS
+Kugel	CON
+verwundet	EXS
+.	NIL
+
+Wir	PRO
+ignorieren	ENS
+Tom	PER
+.	NIL
+
+Tom	PER
+beschleunigte	EPS
+.	NIL
+
+Er	PRO
+bürstete	EPS
+seinen	HAS
+Hut	CON
+.	NIL
+
+Tom	PER
+und	GRP
+Maria	PER
+spielen	ENS
+noch	ALT
+immer	ALT
+Tischtennis	CON
+.	NIL
+
+Das	DEF
+Spiel	CON
+war	EPS
+unentschieden	CON
+:	REL
+2:2	SCO
+.	NIL
+
+Ich	PRO
+war	PST
+in	REL
+einen	DIS
+Kriminalroman	CON
+vertieft	IST
+.	NIL
+
+Ich	PRO
+reiste	EPS
+per	REL
+pedes	CON
+.	NIL
+
+Das	DST
+ist	ENS
+Brian	PER
+s	HAS
+Auto	CON
+.	NIL
+
+Die	DEF
+Verletzten	ROL
+wurden	PST
+vom	DEF
+Rettungswagen	CON
+transportiert	EXS
+.	NIL
+
+Maria	PER
+erhielt	EPS
+ein	DIS
+Telegramm	CON
+von	REL
+Tom	PER
+.	NIL
+
+Ein	DIS
+Vogel	CON
+singt	ENS
+auf	REL
+dem	DEF
+Baum	CON
+.	NIL
+
+Sie	PRO
+schluchzte	EPS
+heftig	IST
+.	NIL
+
+Hat	NOW
+jemand	DIS
+mit	REL
+ihm	PRO
+gesprochen	EXT
+?	QUE
+
+Tom	PER
+hackt	ENS
+Holz	CON
+.	NIL
+
+Schwalben	CON
+fliegen	ENS
+am	DEF
+Himmel	CON
+.	NIL
+
+Mir	PRO
+ist	NOW
+kalt	IST
+.	NIL
+
+Ganz	INT
+plötzlich	IST
+begann	EPS
+sie	PRO
+zu	NIL
+lachen	EXS
+.	NIL
+
+Mit	REL
+wem	QUE
+redest	ENS
+du	PRO
+?	QUE
+
+Er	PRO
+hat	NOW
+mich	PRO
+zweimal	QUC
+geschlagen	EXT
+.	NIL
+
+Toms	PER
+Magen	CON
+knurrte	EPS
+.	NIL
+
+Mein	HAS
+Freund	ROL
+ist	NOW
+siebzehn	QUC
+.	NIL
+
+Die	DEF
+Rebellen	ROL
+haben	NOW
+den	DEF
+Rundfunksender	CON
+erobert	EXT
+.	NIL
+
+Sandra~Goudie	PER
+wurde	PST
+von	REL
+Max~Purnell	PER
+besiegt	EXS
+.	NIL
+
+Rosa~Montero	PER
+ist	ENS
+eine	DIS
+außergewöhnliche	IST
+Frau	CON
+.	NIL
+
+Außer	NOT
+mir	PRO
+war	PST
+jeder	AND
+eingeladen	EXS
+.	NIL
+
+Er	PRO
+überquert	EXG
+gerade	NOW
+die	DEF
+Straße	CON
+.	NIL
+
+Der	DEF
+Wind	CON
+weht	ENS
+von	REL
+Osten	CON
+.	NIL
+
+Anne~Will	PER
+
+Andrew~Conway	PER
+
+Wo	QUE
+unterrichtet	ENS
+die	DEF
+Sängerin	ROL
+Julie~Kelly	PER
+?	QUE
+
+Ihr	PRO
+seid	NOW
+reingelegt	EXT
+worden	PFT
+.	NIL
+
+Helium	CON
+,	REL
+Neon	CON
+,	REL
+Argon	CON
+,	REL
+Krypton	CON
+,	REL
+Xenon	CON
+und	GRP
+Radon	CON
+sind	ENS
+Edelgase	CON
+.	NIL
+
+Ich	PRO
+pflanze	ENS
+Bohnen	CON
+in	REL
+meinem	HAS
+Garten	CON
+.	NIL
+
+Tom	PER
+trank	EPS
+drei	QUC
+Gläser	CON
+Wasser	CON
+.	NIL
+
+Wir	PRO
+verbinden	ENS
+Einstein	PER
+mit	REL
+der	DEF
+Relativitätstheorie	CON
+.	NIL
+
+Sie	PRO
+ist	NOW
+sehr	INT
+unbekümmert	IST
+.	NIL
+
+Die	DEF
+Vögel	CON
+fliegen	ENS
+unter	REL
+den	DEF
+Wolken	CON
+.	NIL
+
+Tom	PER
+hat	NOW
+seinen	HAS
+Kaffee	CON
+verschüttet	EXT
+.	NIL
+
+Es	PRO
+wird	FUT
+mindestens	BOT
+fünf	QUC
+Dollar	UOM
+kosten	EXS
+.	NIL
+
+Ich	PRO
+mag	ENS
+dunkle~Schokolade	CON
+.	NIL
+
+Tom	PER
+s	HAS
+Mutter	ROL
+lebt	ENS
+in	REL
+diesem	PRX
+Dorf	CON
+.	NIL
+
+Er	PRO
+hat	ENS
+kein	NOT
+Fahrrad	CON
+.	NIL
+
+Sie	PRO
+häutete	EPS
+einen	DIS
+Wolf	CON
+.	NIL
+
+Sie	PRO
+heiratete	EPS
+einen	DIS
+Seemann	ROL
+.	NIL
+
+Sie	PRO
+graben	ENS
+ein	DIS
+Loch	CON
+.	NIL
+
+Jemand	DIS
+hat	NOW
+dich	PRO
+gesehen	EXT
+.	NIL
+
+Der	DEF
+Kater	CON
+ruinierte	EPS
+mein	HAS
+Sofa	CON
+.	NIL
+
+Wessen	HAS
+Bücher	CON
+sind	ENS
+das	PRX
+?	QUE
+
+Wie	EMP
+schön	IST
+sie	PRO
+ist	NOW
+!	EMP
+
+Die	DEF
+Japaner	GPO
+zerstörten	EPS
+Pearl~Harbor	ART
+.	NIL
+
+Justin~Bieber	PER
+ist	NOW
+berühmter	MOR
+als	REL
+Katie~Holmes	PER
+.	NIL
+
+Mein	HAS
+Bruder	ROL
+Jakob	PER
+ist	NOW
+vierzehn	QUC
+.	NIL
+
+Ich	PRO
+bin	NOW
+nie	NOT
+mit	REL
+ihr	PRO
+gegangen	EXT
+.	EMP
+
+Tom	PER
+ist	ENS
+Chauffeur	ROL
+.	NIL
+
+Drei	QUC
+mal	CON
+drei	QUC
+ist	NIL
+gleich	IST
+neun	QUC
+.	NIL
+
+Ich	PRO
+bin	NOW
+noch	ALT
+nie	NOT
+ausgeraubt	EXT
+worden	PFT
+.	NIL
+
+Tom	PER
+kocht	ENS
+ein	DIS
+Ei	CON
+.	NIL
+
+Edison	PER
+hat	NOW
+die	DEF
+Glühbirne	CON
+erfunden	EXT
+.	NIL
+
+Frau	ROL
+Minton	PER
+wurde	PST
+in	REL
+Australien	GPE
+geboren	EXS
+.	NIL
+
+Leloir	PER
+arbeitete	EPS
+als	REL
+Gastprofessor	ROL
+in	REL
+Cambridge	ORG
+.	NIL
+
+Jetzt	NOW
+schneit	ENS
+es	NIL
+.	NIL
+
+Er	PRO
+hat	NOW
+sie	PRO
+umarmt	EXT
+.	NIL
+
+Das	DST
+überrascht	ENS
+mich	PRO
+nicht	NOT
+.	NIL
+
+Der	DEF
+Wecker	CON
+klingelt	ENS
+.	NIL
+
+Tom	PER
+wurde	PST
+in	REL
+Boston	GPE
+geboren	EXS
+.	NIL
+
+Ich	PRO
+bin	NOW
+verrückt	IST
+nach	REL
+dir	PRO
+.	NIL
+
+Der	DEF
+Anzug	CON
+ist	NOW
+maßgeschneidert	IST
+.	NIL
+
+Tom	PER
+zahlt	ENS
+ein	DIS
+Bußgeld	CON
+.	NIL
+
+Ihre	HAS
+Nägel	CON
+sind	NOW
+rot	COL
+.	NIL
+
+Tom	PER
+mag	ENS
+keine	NOT
+Politik	CON
+.	NIL
+
+Wir	PRO
+haben	NOW
+im	DEF
+Garten	CON
+Blumen	CON
+gepflückt	EXT
+.	NIL
+
+Meine	HAS
+Krawatte	CON
+ist	NOW
+orange	COL
+.	NIL
+
+Er	PRO
+ist	NOW
+in	REL
+den	DEF
+Staaten	GPE
+aufgewachsen	EXS
+,	NIL
+aber	BUT
+seine	HAS
+Muttersprache	CON
+ist	ENS
+Japanisch	CON
+.	NIL
+
+Der	DEF
+See	CON
+ist	NOW
+verseucht	IST
+.	NIL
+
+Er	PRO
+erpresste	EPS
+mich	PRO
+.	NIL
+
+Sein	HAS
+Großvater	ROL
+ist	NOW
+friedlich	IST
+gestorben	EXT
+.	NIL
+
+Wir	PRO
+luden	EPS
+eine	DIS
+Menge	QUV
+Gepäck	CON
+in	REL
+den	DEF
+Wagen	CON
+.	NIL
+
+Er	PRO
+versteckte	EPS
+seine	HAS
+Spielsachen	CON
+unter	REL
+dem	DEF
+Bett	CON
+.	NIL
+
+Diese	PRX
+Daten	CON
+sind	NOW
+überhaupt	EMP
+nicht	NOT
+genau	IST
+.	NIL
+
+Der	DEF
+Ministerpräsident	ROL
+ernannte	EPS
+ihn	PRO
+zum	REL
+Außenminister	CON
+.	NIL
+
+Der	DEF
+Taifun	CON
+zerstörte	EPS
+viele	QUV
+Häuser	CON
+.	NIL
+
+Tom	PER
+hat	NOW
+im	DEF
+Zug	CON
+geschlafen	EXT
+.	NIL
+
+Es	NIL
+schneite	EPS
+vier	QUC
+Tage	UOM
+lang	DEG
+.	NIL
+
+Die	DEF
+Katze	CON
+ist	ENS
+unter	REL
+dem	DEF
+Tisch	CON
+.	NIL
+
+Ist	ENS
+das	DST
+reines	IST
+Gold	CON
+?	QUE
+
+Er	PRO
+lebt	ENS
+in	REL
+Marokko	GPE
+.	NIL
+
+Roy	PER
+befestigte	EPS
+den	DEF
+Orden	CON
+mit	REL
+einer	DIS
+Nadel	CON
+.	NIL
+
+Überschwemmungen	CON
+verwüsten	ENS
+Europa	GPE
+.	NIL
+
+Edison	PER
+hat	NOW
+das	DEF
+Kinetoscope	CON
+erfunden	EXT
+.	NIL
+
+Swift	PER
+starb	EPS
+1745	YOC
+.	NIL
+
+Ich	PRO
+habe	NOW
+das	PRO
+selbst	EMP
+gesehen	EXT
+.	NIL
+
+Sie	PRO
+verlor	EPS
+auch	ALT
+ihr	HAS
+2.	ORD
+Gruppenspiel	CON
+gegen	REL
+Kroatien	GPE
+mit	REL
+21:26	SCO
+.	NIL
+
+Der	DEF
+Passeur	ROL
+versuchte	EPS
+zu	NIL
+fliehen	EXS
+.	NIL
+
+Tom	PER
+räuspert	ENS
+sich	REF
+.	NIL
+
+Ich	PRO
+weiß	ENS
+,	NIL
+wer	QUE
+Sachiko	PER
+mag	ENS
+.	NIL
+
+Er	PRO
+hat	NOW
+sein	HAS
+Spielzeug	CON
+geworfen	EXT
+.	NIL
+
+Wir	PRO
+sind	ENS
+Historiker	ROL
+.	NIL
+
+Der	DEF
+Nagel	CON
+zerriss	EPS
+sein	HAS
+Jackett	CON
+.	NIL
+
+Ich	PRO
+sehe	ENS
+Tom	PER
+.	NIL
+
+Er	PRO
+beklagte	EPS
+sich	REF
+über	REL
+das	DEF
+Essen	CON
+.	NIL
+
+Ihr	HAS
+Finger	CON
+blutet	ENS
+.	NIL
+
+Der	DEF
+Zug	CON
+kommt	EFS
+um	REL
+10~Uhr	CLO
+an	REL
+.	NIL
+
+Tom	PER
+wird	FUT
+sich	REF
+nie	NOT
+ändern	EXS
+.	NIL
+
+Kein	NOT
+Mensch	CON
+ist	NOW
+illegal	IST
+.	NIL
+
+Das	DEF
+Paket	CON
+war	PST
+in	REL
+dickes	IST
+Papier	CON
+eingeschlagen	EXS
+.	NIL
+
+Aus	REL
+welchem	QUE
+Stoff	CON
+ist	NOW
+die	DEF
+Jacke	CON
+gemacht	EXS
+?	QUE
+
+Ich	PRO
+war	PST
+am	PRG
+Träumen	EXS
+.	NIL
+
+Sie	PRO
+benutzte	EPS
+ein	DIS
+Varioobjektiv	CON
+.	NIL
+
+Sie	PRO
+beobachtete	EPS
+,	NIL
+wie	QUE
+Schmetterlinge	CON
+fliegen	ENS
+.	NIL
+
+Ein	DIS
+Eichhörnchen	CON
+versteckte	EPS
+sich	REF
+in	REL
+den	DEF
+Zweigen	CON
+.	NIL
+
+Tom	PER
+hat	ENS
+Dutzende	QUV
+Geliebte	ROL
+.	NIL
+
+Der	DEF
+Hund	CON
+hat	NOW
+mir	PRO
+in	REL
+die	DEF
+Hand	CON
+gebissen	EXT
+.	NIL
+
+Tom	PER
+tanzte	EPS
+auf	REL
+dem	DEF
+Schanktisch	CON
+.	NIL
+
+Jane	PER
+war	PST
+zornig	EXG
+.	NIL
+
+Tom	PER
+hat	NOW
+Mary	PER
+vor	PST
+drei	QUC
+Jahren	UOM
+getötet	EXT
+.	NIL
+
+Der	DEF
+Film	CON
+ist	NOW
+bei	REL
+jungen	DEG
+Leuten	CON
+beliebt	IST
+.	NIL
+
+Tom	PER
+knetet	ENS
+den	DEF
+Teig	CON
+.	NIL
+
+Ich	PRO
+kramte	EPS
+in	REL
+meinen	HAS
+Taschen	CON
+.	NIL
+
+Jede	AND
+Person	CON
+zahlte	EPS
+tausend	QUC
+Dollar	UOM
+.	NIL
+
+Jeder	AND
+bezahle	EPS
+siebentausend	QUC
+Dollar	UOM
+.	NIL
+
+Tom	PER
+flehte	EPS
+um	REL
+Gnade	CON
+.	NIL
+
+Urdu	CON
+ist	ENS
+meine	HAS
+Muttersprache	CON
+.	NIL
+
+Er	PRO
+hat	NOW
+auf	REL
+mich	PRO
+geschossen	EXT
+.	NIL
+
+Salvador~Dalí	PER
+war	EPS
+ein	DIS
+spanischer	GPO
+Künstler	ROL
+.	NIL
+
+Sie	PRO
+hat	NOW
+Ihre	HAS
+Handtasche	CON
+verloren	EXT
+.	NIL
+
+Boris~Becker	PER
+ist	ENS
+ein	DIS
+ehemaliger	PST
+Profitennisspieler	ROL
+aus	REL
+Deutschland	GPE
+.	NIL
+
+Tony	PER
+spricht	ENS
+gut	IST
+Englisch	CON
+.	NIL
+
+Mein	HAS
+Hund	CON
+ist	NOW
+weiß	COL
+.	NIL
+
+Ich	PRO
+habe	ENS
+ein	DIS
+Visum	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+mit	REL
+meinem	HAS
+Chef	ROL
+geschlafen	EXT
+.	NIL
+
+Fünf	QUC
+und	CON
+drei	QUC
+ergibt	EXS
+acht	QUC
+.	NIL
+
+Er	PRO
+ist	ENS
+ein	DIS
+Trottel	ROL
+.	NIL
+
+Tom	PER
+hat	NOW
+vier	QUC
+Tore	CON
+geschossen	EXT
+.	NIL
+
+Der	DEF
+Unfall	CON
+ereignete	EPS
+sich	REF
+in	REL
+der	DEF
+Nähe	CON
+der	DEF
+Kreuzung	CON
+.	NIL
+
+Maria	PER
+schraubte	EPS
+ihren	HAS
+Lippenstift	CON
+auf	REL
+.	NIL
+
+Ich	PRO
+habe	NOW
+die	DEF
+Nase	CON
+voll	IST
+von	REL
+Englisch	CON
+.	NIL
+
+Er	PRO
+melkte	EPS
+die	DEF
+Kuh	CON
+.	NIL
+
+Das	PRO
+hat	NOW
+Taro~Akagawa	PER
+geschrieben	EXT
+.	NIL
+
+Anna	PER
+kommt	EFS
+nicht	NOT
+auf	REL
+unsere	HAS
+Party	CON
+.	NIL
+
+Ich	PRO
+ging	EPS
+vor	PST
+zwei	QUC
+Jahren	UOM
+nach	REL
+China	GPE
+.	NIL
+
+Sie	PRO
+könnte	POS
+es	PRO
+ausplaudern	EXS
+.	NIL
+
+Ich	PRO
+fülle	ENS
+diese	PRX
+Flasche	CON
+mit	REL
+Öl	CON
+.	NIL
+
+Er	PRO
+hatte	EPS
+Parkinson	CON
+.	NIL
+
+Der	DEF
+Fluss	CON
+ist	NOW
+voller	IST
+kleiner	DEG
+Fische	CON
+.	NIL
+
+Tom	PER
+saß	EPS
+hinter	REL
+Maria	PER
+auf	REL
+dem	DEF
+Motorrad	CON
+.	NIL
+
+Tom	PER
+wurde	PST
+von	REL
+einem	DIS
+Krokodil	CON
+gefressen	EXS
+.	NIL
+
+Jeder	AND
+Apfel	CON
+ist	NOW
+rot	COL
+.	NIL
+
+Ich	PRO
+wusste	EPS
+,	NIL
+dass	SUB
+es	PRO
+ungesund	IST
+war	PST
+.	NIL
+
+Unser	HAS
+Nachbar	ROL
+hat	NOW
+sich	REF
+eine	DIS
+Rippe	CON
+gebrochen	EXT
+.	NIL
+
+Ich	PRO
+kann	POS
+nicht	NOT
+aufstehen	ENS
+.	NIL
+
+Dieser	PRX
+Anblick	CON
+ergötzt	ENS
+mich	PRO
+.	NIL
+
+Wir	PRO
+haben	NOW
+das	DEF
+Match	CON
+10~zu~4	SCO
+gewonnen	EXT
+.	NIL
+
+Die	DEF
+Beatles	ORG
+waren	EPS
+vier	QUC
+Musiker	ROL
+.	NIL
+
+Tom	PER
+benutzt	ENS
+eine	DIS
+Lötlampe	CON
+.	NIL
+
+Tom	PER
+gab	EPS
+Maria	PER
+seine	HAS
+Telefonnummer	CON
+.	NIL
+
+Ein	DIS
+großer	DEG
+Mann	CON
+mit	REL
+einer	DIS
+Schusswaffe	CON
+drang	EPS
+in	REL
+mein	HAS
+Appartment	CON
+ein	REL
+.	NIL
+
+Ein	DIS
+alter	IST
+Topf	CON
+wurde	PST
+ausgegraben	EXS
+.	NIL
+
+Ihr	HAS
+Auto	CON
+überholte	EPS
+unseres	HAS
+.	NIL
+
+Ein	DIS
+Regentropfen	CON
+platschte	EPS
+auf	REL
+ihre	HAS
+Wange	CON
+.	NIL
+
+Sie	PRO
+preßte	EPS
+Saft	CON
+von	REL
+mehreren	QUV
+Orangen	CON
+aus	REL
+.	NIL
+
+Sein	HAS
+Vorname	CON
+lautete	EPS
+Tom	LIT
+.	NIL
+
+Leloir	PER
+wurde	PST
+in	REL
+Argentinien	GPE
+geboren	EXS
+.	NIL
+
+El-Nashar	PER
+wurde	PST
+in	REL
+Ägypten	GPE
+festgenommen	EXS
+.	NIL
+
+Sylvia~Costas	PER
+ist	ENS
+die	DEF
+Ehefrau	ROL
+von	REL
+Andy~Sipowicz	PER
+.	NIL
+
+PM	ORG
+erwarb	EPS
+drei	QUC
+russische	GPO
+Fabriken	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+gar	EMP
+nicht	NOT
+müde	IST
+.	NIL
+
+Wir	PRO
+telegraphierten	EPS
+ihm	PRO
+die	DEF
+Neuigkeit	CON
+.	NIL
+
+Tom	PER
+sagte	EPS
+,	NIL
+er	PRO
+schösse	EXS
+nicht	NOT
+auf	REL
+einen	DIS
+Unbewaffneten	ROL
+.	NIL
+
+Die	DEF
+Konferenz	CON
+wird	FUT
+in	REL
+Tokio	GPE
+stattfinden	EXS
+.	NIL
+
+Der	DEF
+Tiger	CON
+wurde	PST
+getötet	EXS
+.	NIL
+
+Ich	PRO
+bin	EQU
+Tom~Hunter	PER
+.	NIL
+
+Er	PRO
+gab	EPS
+ihr	PRO
+ein	DIS
+Getränk	CON
+aus	REL
+.	NIL
+
+Der	DEF
+Hund	CON
+biss	EPS
+den	DEF
+Mann	CON
+.	NIL
+
+Ich	PRO
+schulde	ENS
+ihr	PRO
+10	QUC
+Dollar	UOM
+.	NIL
+
+Tom	PER
+rief	EPS
+mir	PRO
+ein	DIS
+Taxi	CON
+.	NIL
+
+Tom	PER
+küsst	ENS
+Maria	PER
+.	NIL
+
+Tom	PER
+schloss	EPS
+die	DEF
+Haustür	CON
+auf	REL
+.	NIL
+
+Ich	PRO
+benutze	ENS
+Geburtenkontrolle	CON
+.	NIL
+
+Jack	PER
+ist	NOW
+jetzt	NOW
+ruhig	IST
+.	NIL
+
+Ich	PRO
+habe	NOW
+die	DEF
+Schule	CON
+gehasst	EXT
+.	NIL
+
+Er	PRO
+öffnete	EPS
+den	DEF
+Kofferraum	CON
+.	NIL
+
+Tom	PER
+trug	EPS
+einen	DIS
+Schutzhelm	CON
+.	NIL
+
+Jeder	AND
+liebt	ENS
+Musik	CON
+.	NIL
+
+Eine	AND
+Fußballmannschaft	CON
+besteht	ENS
+aus	REL
+elf	QUC
+Spielern	ROL
+.	NIL
+
+Die	DEF
+Brücke	CON
+ist	NOW
+ungefähr	APX
+eine	QUC
+Meile	UOM
+lang	DEG
+.	NIL
+
+Er	PRO
+wird	FUT
+mir	PRO
+den	DEF
+Kopf	CON
+abreißen	EXS
+.	NIL
+
+Sie	PRO
+ist	NOW
+eine	DIS
+Wucht	ROL
+!	NIL
+
+Sie	PRO
+wurde	PST
+Marie	LIT
+getauft	EXS
+.	NIL
+
+Ich	PRO
+will	ENS
+Milch	CON
+.	NIL
+
+Ich	PRO
+spielte	EPS
+Tennis	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+den	DEF
+Eimer	CON
+mit	REL
+Wasser	CON
+gefüllt	EXT
+.	NIL
+
+Niemand	NOT
+ermutigte	EPS
+sie	PRO
+.	NIL
+
+Sie	PRO
+ist	NOW
+so	EQU
+groß	IST
+wie	REL
+ich	PRO
+.	NIL
+
+Das	DEF
+Telefon	CON
+klingelte	EPS
+erneut	ALT
+.	NIL
+
+Er	PRO
+betrat	EPS
+ihr	HAS
+Zimmer	CON
+.	NIL
+
+Mein	HAS
+Freund	ROL
+lächelte	EPS
+.	NIL
+
+Andi~Brehme	PER
+verlaesst	ENS
+den	DEF
+1.FC~Kaiserslautern	ORG
+
+Margreth	PER
+stand	EPS
+auf	REL
+und	COO
+ging	EPS
+in	REL
+die	DEF
+Kammer	CON
+.	NIL
+
+Wo	QUE
+wurde	PST
+Greenpeace	ORG
+gegründet	EXS
+?	QUE
+
+Uns	PRO
+ist	NOW
+langweilig	IST
+.	NIL
+
+Er	PRO
+versuchte	EPS
+zu	NIL
+entkommen	EXS
+.	NIL
+
+Ich	PRO
+habe	NOW
+keinen	NOT
+Gesetzen	CON
+zuwidergehandelt	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+mir	PRO
+ein	DIS
+rotes	IST
+Tagebuch	CON
+angeschafft	EXT
+.	NIL
+
+Der	DEF
+Verstorbene	ROL
+war	PST
+achtzig	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Tom	PER
+ist	ENS
+im	DEF
+Zeugenstand	CON
+.	NIL
+
+Ist	NOW
+er	PRO
+größer	MOR
+als	REL
+sein	HAS
+Bruder	ROL
+?	QUE
+
+Das	DEF
+Telefon	CON
+klingelt	ENS
+!	EMP
+
+Der	DEF
+Junge	CON
+zeichnete	EPS
+ein	DIS
+Bild	CON
+an	REL
+die	DEF
+Wand	CON
+.	NIL
+
+Er	PRO
+wird	FUT
+höchstens	TOP
+20	QUC
+Dollar	UOM
+zahlen	EXS
+.	NIL
+
+Der	DEF
+alte	DEG
+Mann	CON
+wurde	PST
+von	REL
+einem	DIS
+Auto	CON
+überfahren	EXS
+.	NIL
+
+Die	DEF
+Rakete	CON
+startete	EPS
+in	REL
+den	DEF
+Weltraum	CON
+.	NIL
+
+Das	DEF
+Huhn	CON
+gackert	ENS
+.	NIL
+
+Unsere	HAS
+Mannschaft	CON
+gewann	EPS
+mit	REL
+drei~zu~eins	SCO
+.	NIL
+
+Sie	PRO
+widersprachen	EPS
+Darwin	PER
+s	HAS
+Evolutionstheorie	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+auch	ALT
+arbeitslos	IST
+.	NIL
+
+Du	PRO
+bist	NOW
+betrunken	IST
+!	EMP
+
+Sie	PRO
+wird	FUT
+höchstens	TOP
+fünfzig	QUC
+Dollar	UOM
+zahlen	EXS
+.	NIL
+
+Könntest	POS
+du	PRO
+Shigemi	PER
+von	REL
+der	DEF
+Kinderkrippe	CON
+abholen	EXS
+?	QUE
+
+Ich	PRO
+bin	NOW
+jetzt	NOW
+dreißig	QUC
+.	NIL
+
+Er	PRO
+lief	EPS
+fünf	QUC
+Meilen	UOM
+.	NIL
+
+Accardo	PER
+komponierte	EPS
+24	QUC
+Caprices	CON
+.	NIL
+
+Belknap	PER
+war	PST
+mit	REL
+Carrie~Tomlinson	PER
+verheiratet	IST
+.	NIL
+
+Wird	NOW
+Englisch	CON
+in	REL
+Kanada	GPE
+gesprochen	EXS
+?	QUE
+
+Es	NIL
+hagelt	ENS
+.	NIL
+
+Die	DEF
+altmodische	IST
+Avantgarde	CON
+liefert	ENS
+uns	PRO
+mächtige	IST
+Argumente	CON
+.	NIL
+
+Personen	CON
+wurden	PST
+nicht	NOT
+verletzt	EXS
+.	NIL
+
+Wo	QUE
+sind	ENS
+die	DEF
+Pribilof-Inseln	GPE
+?	QUE
+
+Er	PRO
+schlug	EPS
+ein	DIS
+Rad	CON
+.	NIL
+
+Das	PRO
+wird	FUT
+mindestens	BOT
+hundert	QUC
+Pesos	UOM
+kosten	EXS
+.	NIL
+
+Sie	PRO
+ist	NOW
+eine	DIS
+gute	IST
+Tennisspielerin	ROL
+.	NIL
+
+Ich	PRO
+habe	NOW
+früher	PST
+ein	DIS
+Tagebuch	CON
+geführt	EXT
+.	NIL
+
+Tom	PER
+trat	EPS
+gegen	REL
+den	DEF
+Fußball	CON
+.	NIL
+
+Tom	PER
+wickelte	EPS
+sich	REF
+in	REL
+eine	DIS
+warme	DEG
+Decke	CON
+.	NIL
+
+Sie	PRO
+ist	NOW
+auf~keinen~Fall	NOT
+ehrlich	IST
+.	NIL
+
+Wir	PRO
+haben	NOW
+das	DEF
+Flaggschiff	CON
+des	DEF
+Feindes	ROL
+zerstört	EXT
+!	EMP
+
+Die	DEF
+Eiskrem	CON
+schmilzt	ENS
+.	NIL
+
+Das	DEF
+Mädchen	CON
+ist	NOW
+einsam	IST
+.	NIL
+
+Warum	QUE
+ist	NOW
+Jane	PER
+zum	DEF
+Bahnhof	CON
+gegangen	EXT
+?	QUE
+
+Sie	PRO
+mag	ENS
+blaue	COL
+Kleider	CON
+.	NIL
+
+Johanna	PER
+ist	NOW
+genauso	EQU
+liebreizend	IST
+wie	REL
+ihre	HAS
+Schwester	ROL
+.	NIL
+
+Ich	PRO
+habe	NOW
+keine	NOT
+Angst	IST
+vor	REL
+dir	PRO
+.	NIL
+
+Es	PRO
+war	PST
+irgendwie	INT
+lustig	IST
+.	NIL
+
+Das	DEF
+Pferd	CON
+hat	ENS
+keine	NOT
+Hörner	CON
+;	NIL
+
+der	DEF
+Ochse	CON
+und	GRP
+das	DEF
+Schaf	CON
+haben	ENS
+Hörner	CON
+
+Die	DEF
+Reisenden	ROL
+überquerten	EPS
+den	DEF
+Fluss	CON
+mit	REL
+einer	DIS
+Fähre	CON
+.	NIL
+
+Mein	HAS
+Pullover	CON
+ist	NOW
+lila	COL
+.	NIL
+
+Alle	AND
+meine	HAS
+Kuchen	CON
+sind	NOW
+köstlich	IST
+!	EMP
+
+NNSA	ORG
+ist	ENS
+die	DEF
+National~Nuclear~Security~Administration	ORG
+.	NIL
+
+Diese	PRX
+Schule	CON
+wurde	PST
+1650	YOC
+eröffnet	EXS
+.	NIL
+
+Tom	PER
+ist	ENS
+noch	ALT
+i	REL
+m	DEF
+Krankenhaus	CON
+.	NIL
+
+Welcher	QUE
+Preis	CON
+wurde	PST
+Elizabeth~Neufeld	PER
+verliehen	EXS
+?	QUE
+
+Wann	QUE
+starb	EPS
+Shapour~Bakhtiar	PER
+?	QUE
+
+Bist	NOW
+du	PRO
+gegen	REL
+etwas	DIS
+allergisch	IST
+?	QUE
+
+Weder	NOT
+Tom	PER
+noch	NOT
+Mary	PER
+gehen	ENS
+in	REL
+den	DEF
+Laden	CON
+.	NIL
+
+Kein	NOT
+Schiff	CON
+ist	NOW
+unsinkbar	IST
+.	NIL
+
+Du	PRO
+baust	ENS
+Nähmaschinen	CON
+zusammen	REL
+.	NIL
+
+Er	PRO
+starb	EPS
+vor	PST
+zehn	QUC
+Jahren	UOM
+.	NIL
+
+Wie	QUE
+viel	QUV
+wiegt	ENS
+ein	DIS
+Fußball	CON
+?	QUE
+
+Der	DEF
+Verkehrsstau	CON
+dauerte	EPS
+eine	QUC
+Stunde	UOM
+.	NIL
+
+Sie	PRO
+malte	EPS
+einen	DIS
+Baum	CON
+.	NIL
+
+Sie	PRO
+kaufte	EPS
+einen	DIS
+Staubsauger	CON
+im	DEF
+Supermarkt	CON
+.	NIL
+
+Das	DEF
+Blasorchester	CON
+spielte	EPS
+drei	QUC
+Märsche	CON
+.	NIL
+
+Tom	PER
+seufzte	EPS
+.	NIL
+
+Französisch	CON
+ist	ENS
+ihre	HAS
+Muttersprache	CON
+.	NIL
+
+Das	DEF
+Eichhörnchen	CON
+kletterte	EPS
+auf	REL
+den	DEF
+Baum	CON
+.	NIL
+
+Ich	PRO
+hole	EFS
+dich	PRO
+um	REL
+sechs~Uhr	CLO
+ab	REL
+.	NIL
+
+Tom	PER
+kichert	ENS
+.	NIL
+
+Der	DEF
+Jäger	ROL
+erschoss	EPS
+einen	DIS
+Bären	CON
+.	NIL
+
+Wir	PRO
+wurden	PST
+von	REL
+Seeräubern	ROL
+angegriffen	EXS
+!	EMP
+
+Auf	REL
+dem	DEF
+Tisch	CON
+war	EPS
+eine	DIS
+Katze	CON
+.	NIL
+
+Tom	PER
+reichte	EPS
+Maria	PER
+ein	DIS
+Glas	CON
+Milch	CON
+.	NIL
+
+Es	PRO
+ist	NOW
+halb~zwei	CLO
+.	NIL
+
+Tom	PER
+lebte	EPS
+früher	PST
+in	REL
+Boston	GPE
+.	NIL
+
+Jemand	DIS
+hat	NOW
+meine	HAS
+Tasche	CON
+gestohlen	EXT
+.	NIL
+
+Ich	PRO
+packte	EPS
+Tom	PER
+a	REL
+m	DEF
+Ellenbogen	CON
+.	NIL
+
+Maximilian	PER
+war	PST
+ebenso	EQU
+nervös	IST
+wie	REL
+Sophie	PER
+.	NIL
+
+Sie	PRO
+ist	NOW
+dreiunddreißig	QUC
+.	NIL
+
+Es	PRO
+wird	FUT
+etwa	APX
+zehntausend	QUC
+Yen	UOM
+kosten	EXS
+.	NIL
+
+Der	DEF
+Hund	CON
+schläft	ENS
+.	NIL
+
+Tom	PER
+geleitete	EPS
+Maria	PER
+aus	REL
+dem	DEF
+Gebäude	CON
+.	NIL
+
+Tom	PER
+ergriff	EPS
+Maria	PER
+s	HAS
+Hand	CON
+.	NIL
+
+Tom	PER
+süßt	ENS
+seinen	HAS
+Tee	CON
+mit	REL
+Honig	CON
+statt	NOT
+mit	REL
+Zucker	CON
+.	NIL
+
+Tom	PER
+warf	EPS
+mit	REL
+einem	DIS
+Stein	CON
+nach	REL
+Maria	PER
+;	NIL
+
+der	PRO
+traf	EPS
+sie	PRO
+jedoch	BUT
+nicht	NOT
+.	NIL
+
+Tom	PER
+gibt	ENS
+nicht	NOT
+auf	REL
+.	NIL
+
+Sie	PRO
+hat	NOW
+mich	PRO
+hereingelegt	EXT
+.	NIL
+
+Sie	PRO
+kauften	EPS
+sich	REF
+etwas	DIS
+Zucker	CON
+.	NIL
+
+Ich	PRO
+mag	ENS
+Erdbeereis	CON
+.	NIL
+
+Ich	PRO
+schulde	ENS
+ihm	PRO
+100	QUC
+$	UOM
+.	NIL
+
+FermiLab	ORG
+hat	NOW
+Linux~LTS	ART
+entwickelt	EXT
+.	NIL
+
+Ich	PRO
+brauche	ENS
+seine	HAS
+Hilfe	CON
+.	NIL
+
+Tom	PER
+hat	ENS
+einen	DIS
+Wagen	CON
+.	NIL
+
+Mein	HAS
+Onkel	ROL
+ist	NOW
+verärgert	IST
+.	NIL
+
+Er	PRO
+wurde	PST
+in	REL
+Ohio	GPE
+geboren	EXS
+.	NIL
+
+Der	DEF
+Hund	CON
+bellte	EPS
+einen	DIS
+Fremden	ROL
+an	REL
+.	NIL
+
+Der	DEF
+Mann	CON
+blies	EPS
+Rauch	CON
+in	REL
+ihr	HAS
+Gesicht	CON
+.	NIL
+
+Tom	PER
+ist	NOW
+überhaupt	EMP
+nicht	NOT
+glücklich	IST
+.	NIL
+
+Die	DEF
+Person	CON
+,	NIL
+die	AND
+JFK	PER
+erschossen	EXT
+hat	NOW
+,	NIL
+arbeitete	EPS
+für	REL
+die	DEF
+CIA	ORG
+.	NIL
+
+Ich	PRO
+schulde	ENS
+ihm	PRO
+100	QUC
+Yen	UOM
+.	NIL
+
+Sie	PRO
+verachtet	ENS
+Menschen	CON
+,	NIL
+die	AND
+faul	IST
+sind	NOW
+.	NIL
+
+Die	DEF
+Tasche	CON
+war	PST
+groß	IST
+und	AND
+überdies	ALT
+schwer	IST
+.	NIL
+
+Herr	ROL
+Jones	PER
+wurde	PST
+in	REL
+den	DEF
+Vereinigten~Staaten	GPE
+geboren	EXS
+.	NIL
+
+Mein	HAS
+Großvater	ROL
+war	EPS
+Müller	ROL
+.	NIL
+
+Wir	PRO
+sind	NOW
+nicht	NOT
+verheiratet	IST
+.	NIL
+
+Das	DEF
+Buch	CON
+kostet	ENS
+vier	QUC
+Dollar	UOM
+.	NIL
+
+Wer	QUE
+hat	NOW
+gefurzt	EXT
+?	QUE
+
+Sie	PRO
+hat	NOW
+den	DEF
+Saft	CON
+von	REL
+vielen	QUV
+Orangen	CON
+ausgepresst	EXT
+.	NIL
+
+Sie	PRO
+räumten	EPS
+den	DEF
+Schnee	CON
+vo	REL
+m	DEF
+Gehweg	CON
+.	NIL
+
+Tom	PER
+ist	NOW
+immer	AND
+online	IST
+.	NIL
+
+Diebe	ROL
+plünderten	EPS
+das	DEF
+Museum	CON
+.	NIL
+
+Sie	PRO
+stand	EPS
+auf	REL
+.	NIL
+
+Zwei	QUC
+ist	EXS
+die	DEF
+vierte	ORD
+Wurzel	CON
+von	REL
+sechzehn	QUC
+.	NIL
+
+Ich	PRO
+habe	NOW
+um	REL
+acht	CLO
+gefrühstückt	EXT
+.	NIL
+
+Das	DEF
+Düsenflugzeug	CON
+landete	EPS
+in	REL
+Tokyo	GPE
+.	NIL
+
+Er	PRO
+hat	NOW
+mir	PRO
+zwei	QUC
+Bücher	CON
+geliehen	EXT
+.	NIL
+
+Der	DEF
+Fuji	GEO
+ist	NOW
+nicht	NOT
+so	EQU
+hoch	IST
+wie	REL
+der	DEF
+Mount~Everest	GEO
+.	NIL
+
+Meine	HAS
+Frau	ROL
+kocht	ENS
+gerade	NOW
+.	NIL
+
+Der	DEF
+Film	CON
+"	NIL
+Speed	ART
+"	NIL
+wurde	PST
+von	REL
+Jan~De~Bont	PER
+geleitet	EXS
+.	NIL
+
+Die	DEF
+Titanic	ART
+sank	EPS
+im	DEF
+Jahre	CON
+1912	YOC
+.	NIL
+
+Er	PRO
+ist	NOW
+auf	REL
+Staub	CON
+allergisch	IST
+.	NIL
+
+Scheiße	CON
+stinkt	ENS
+.	NIL
+
+Meine	HAS
+Frau	ROL
+leidet	ENS
+an	REL
+Osteoporose	CON
+.	NIL
+
+Spucken	EXG
+ist	NOW
+verboten	IST
+.	NIL
+
+Wir	PRO
+sind	NOW
+mit	REL
+dem	DEF
+Flugzeug	CON
+nach	REL
+Mexiko	GPE
+gereist	EXT
+.	NIL
+
+Tom	PER
+ist	NOW
+sprachlos	IST
+.	NIL
+
+In	REL
+Mexiko	GPE
+brach	EPS
+eine	DIS
+Revolution	CON
+aus	REL
+.	NIL
+
+Wir	PRO
+essen	ENS
+Äpfel	CON
+.	NIL
+
+Der	DEF
+Bär	CON
+fraß	EPS
+einen	DIS
+Apfel	CON
+.	NIL
+
+Du	PRO
+schmunzelst	ENS
+wieder	ALT
+.	NIL
+
+Sie	PRO
+weinte	EPS
+bitterlich	IST
+.	NIL
+
+Lass	FUT
+uns	PRO
+ins	DEF
+Teehaus	CON
+gehen	EXS
+!	EMP
+
+Mein	HAS
+Sohn	ROL
+ist	NOW
+größer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Tom	PER
+hat	NOW
+gesehen	EXT
+,	NIL
+wo	QUE
+Mary	PER
+wohnt	ENS
+.	NIL
+
+Die	DEF
+Quadratwurzel	CON
+von	REL
+hundertvierundvierzig	QUC
+ist	EXS
+zwölf	QUC
+.	NIL
+
+Tom	PER
+gab	EPS
+der	DEF
+Katze	CON
+etwas	DIS
+Milch	CON
+.	NIL
+
+Die	DEF
+Oper	CON
+beginnt	EFS
+um	REL
+sieben~Uhr	CLO
+.	NIL
+
+Tom	PER
+strich	EPS
+sich	REF
+über	REL
+den	DEF
+Bart	CON
+.	NIL
+
+Sie	PRO
+bezwang	EPS
+ihn	PRO
+.	NIL
+
+Tom	PER
+tanzte	EPS
+mit	REL
+Mary	PER
+.	NIL
+
+Die	DEF
+Rockgruppe	CON
+Spocks~Beard	ORG
+kommt	ENS
+aus	REL
+Japan	GPE
+.	NIL
+
+Der	DEF
+Film	CON
+"	NIL
+Speed	ART
+"	NIL
+wurde	PST
+von	REL
+Jan~De~Bont	PER
+geleitet	EXS
+.	NIL
+
+London	GPE
+wurde	PST
+mehrmals	QUV
+bombardiert	EXS
+.	NIL
+
+Schmeckt	NOW
+es	PRO
+süß	IST
+oder	DIS
+sauer	IST
+?	QUE
+
+Ein	AND
+Schwamm	CON
+saugt	EXS
+Wasser	CON
+auf	REL
+.	NIL
+
+Ich	PRO
+war	PST
+an	REL
+die	DEF
+Wärme	CON
+gewöhnt	IST
+.	NIL
+
+Wir	PRO
+arbeiten	ENS
+von	REL
+neun	CLO
+bis	REL
+fünf	CLO
+.	NIL
+
+Das	DEF
+Wasser	CON
+ist	NOW
+nicht	NOT
+trinkbar	IST
+.	NIL
+
+Elke~Heidenreich	PER
+
+Der	DEF
+Hund	CON
+gehört	ENS
+mir	PRO
+.	NIL
+
+Tom	PER
+nieste	EPS
+.	NIL
+
+Ich	PRO
+geriet	EPS
+auf	REL
+der	DEF
+Autobahn	CON
+in	REL
+einen	DIS
+Stau	CON
+.	NIL
+
+Wir	PRO
+haben	NOW
+den	DEF
+Truthahn	CON
+tiefgefroren	EXT
+.	NIL
+
+Meine	HAS
+Füße	CON
+sind	NOW
+geschwollen	IST
+.	NIL
+
+Leider	IST
+hatte	EPS
+Nancy	PER
+recht	IST
+.	NIL
+
+Ich	PRO
+heiße	ENS
+Sara	LIT
+.	NIL
+
+Ich	PRO
+rieche	ENS
+etwas	DIS
+Fauliges	IST
+.	NIL
+
+Diese	PRX
+Halle	CON
+fasst	ENS
+zweitausend	QUC
+Personen	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+Ihren	HAS
+Nachnamen	CON
+nicht	NOT
+mitbekommen	EXT
+.	NIL
+
+Keisuke	PER
+ist	NOW
+größer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Noch	ALT
+bist	NOW
+du	PRO
+größer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Die	DEF
+Kinder	CON
+spielten	EPS
+im	DEF
+Garten	CON
+.	NIL
+
+Bist	NOW
+du	PRO
+so	EQU
+groß	IST
+wie	REL
+ich	PRO
+?	QUE
+
+Wessen	HAS
+Fahrrad	CON
+ist	ENS
+das	PRX
+?	QUE
+
+Die	DEF
+Madrilenen	GPO
+sind	NOW
+verrückt	IST
+.	NIL
+
+Wir	PRO
+haben	NOW
+verloren	EXT
+.	NIL
+
+Deine	HAS
+Geschichte	CON
+hat	NOW
+mir	PRO
+gefallen	EXT
+.	NIL
+
+Wir	PRO
+sind	NOW
+glücklich	IST
+.	NIL
+
+Der	DEF
+Junge	CON
+aß	EPS
+den	DEF
+Apfel	CON
+.	NIL
+
+Du	PRO
+bist	ENS
+ein	DIS
+hervorragender	IST
+Küsser	ROL
+.	NIL
+
+Der	DEF
+Kaufmann	ROL
+bestach	EPS
+den	DEF
+Politiker	ROL
+.	NIL
+
+Sie	PRO
+zerkrümelte	EPS
+einen	DIS
+Keks	CON
+.	NIL
+
+Er	PRO
+hat	ENS
+mehr~als	MOR
+fünf	QUC
+Wörterbücher	CON
+.	NIL
+
+Niemand	NOT
+ist	NOW
+vollkommen	IST
+.	NIL
+
+Alle	AND
+lachten	EPS
+ihn	PRO
+aus	REL
+.	NIL
+
+Die	DEF
+Al-Aksa-Intifada	HAP
+
+Ich	PRO
+wische	ENS
+mein	HAS
+Zimmer	CON
+.	NIL
+
+Italien	GPE
+ist	ENS
+nicht	NOT
+Griechenland	GPE
+.	NIL
+
+Er	PRO
+ging	EPS
+1970	YOC
+nach	REL
+London	GPE
+.	NIL
+
+Das	DST
+ist	ENS
+ein	DIS
+ausgezeichneter	IST
+Roséwein	CON
+.	NIL
+
+Ich	PRO
+habe	ENS
+eine	DIS
+Kreditkarte	CON
+.	NIL
+
+Das	DEF
+Publikum	CON
+applaudierte	EPS
+der	DEF
+Schauspielerin	ROL
+.	NIL
+
+Er	PRO
+trat	EPS
+in	REL
+Hundescheiße	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+sehr	INT
+verständnisvoll	IST
+.	NIL
+
+Es	PRO
+ist	NOW
+zwanzig~Uhr	CLO
+.	NIL
+
+Das	DEF
+Eis	CON
+ist	NOW
+sehr	INT
+dick	DEG
+.	NIL
+
+Elf	QUC
+ist	EXS
+eine	DIS
+Primzahl	CON
+.	NIL
+
+Die	DEF
+Menge	CON
+protestierte	EPS
+gegen	REL
+Abtreibung	CON
+.	NIL
+
+Du	PRO
+bist	NOW
+pedantisch	IST
+.	NIL
+
+Niemand	NOT
+mag	ENS
+Krieg	CON
+.	NIL
+
+Tom	PER
+ist	NOW
+jung	DEG
+.	NIL
+
+Ich	PRO
+bin	NOW
+gerade	NOW
+beschäftigt	IST
+.	NIL
+
+Tom	PER
+hasst	ENS
+seine	HAS
+Arbeit	CON
+.	NIL
+
+Tom	PER
+nahm	EPS
+seine	HAS
+Brille	CON
+ab	REL
+.	NIL
+
+Tom	PER
+schwimmt	ENS
+.	NIL
+
+Sie	PRO
+schält	ENS
+die	DEF
+Kartoffeln	CON
+.	NIL
+
+Die	DEF
+Henne	CON
+brütete	EPS
+fünf	QUC
+Eier	CON
+aus	REL
+.	NIL
+
+Ich	PRO
+bin	NOW
+jetzt	NOW
+unbewaffnet	IST
+.	NIL
+
+Tom	PER
+respektiert	ENS
+seine	HAS
+Eltern	ROL
+.	NIL
+
+Der	DEF
+Hund	CON
+beschnüffelte	EPS
+ihr	HAS
+Gepäck	CON
+.	NIL
+
+Ich	PRO
+habe	ENS
+Fußpilz	CON
+und	AND
+es	PRO
+juckt	ENS
+sehr	INT
+.	NIL
+
+Die	DEF
+Detektive	ROL
+machten	EPS
+Jagd	CON
+auf	REL
+ihn	PRO
+.	NIL
+
+Die	DEF
+White~Sox	ORG
+haben	NOW
+24	QUC
+Meisterschaften	CON
+gewonnen	EXT
+.	NIL
+
+Wessen	HAS
+Buch	CON
+ist	ENS
+das	PRX
+?	QUE
+
+Ich	PRO
+habe	ENS
+ein	DIS
+Auto	CON
+.	NIL
+
+Er	PRO
+schreibt	ENS
+Bücher	CON
+.	NIL
+
+Sie	PRO
+ist	NOW
+höchstens	TOP
+zwanzig	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Tom	PER
+legte	EPS
+eine	DIS
+Kassette	CON
+in	REL
+den	DEF
+Videorekorder	CON
+ein	REL
+.	NIL
+
+Tom	PER
+ist	NOW
+nicht	NOT
+allzu	INT
+helle	IST
+.	NIL
+
+Sie	PRO
+strich	EPS
+Butter	CON
+aufs	REL
+Brot	CON
+.	NIL
+
+Tom	PER
+füllte	EPS
+den	DEF
+Eimer	CON
+mit	REL
+Wasser	CON
+.	NIL
+
+Tom	PER
+fuhr	EPS
+das	DEF
+Auto	CON
+.	NIL
+
+Tom	PER
+fährt	ENS
+Lkw	CON
+.	NIL
+
+Sie	PRO
+schlief	EPS
+ein	DIS
+paar	QUV
+Stunden	UOM
+.	NIL
+
+Hebräisch	CON
+ist	ENS
+meine	HAS
+Muttersprache	CON
+.	NIL
+
+Du	PRO
+beängstigst	ENS
+mich	PRO
+.	NIL
+
+Ich	PRO
+begegnete	EPS
+einem	DIS
+Freund	ROL
+von	REL
+mir	PRO
+.	NIL
+
+Diese	PRX
+CD	CON
+gehört	ENS
+ihm	PRO
+.	NIL
+
+Ich	PRO
+bin	NOW
+18	QUC
+.	NIL
+
+Das	DEF
+Baby	CON
+ist	NOW
+griesgrämig	IST
+,	NIL
+da	SUB
+es	PRO
+zahnt	ENS
+.	NIL
+
+Diese	PRX
+Schublade	CON
+klemmt	ENS
+.	NIL
+
+Der	DEF
+Mann	CON
+hatte	NOW
+das	DEF
+Brot	CON
+gegessen	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+um~die	APX
+50	QUC
+Öcken	CON
+gezahlt	EXT
+.	NIL
+
+Englisch	CON
+ist	ENS
+meine	HAS
+Muttersprache	CON
+.	NIL
+
+Er	PRO
+ergriff	EPS
+ihre	HAS
+Hand	CON
+.	NIL
+
+Plötzlich	IST
+spürte	EPS
+ich	PRO
+einen	DIS
+stechenden	IST
+Schmerz	CON
+in	REL
+meinem	HAS
+Magen	CON
+.	NIL
+
+Die	DEF
+Mauer	CON
+ist	NOW
+etwa	APX
+dreißig	QUC
+Meter	UOM
+lang	DEG
+.	NIL
+
+Ich	PRO
+stehe	EFS
+um	REL
+sechs	CLO
+auf	REL
+.	NIL
+
+Falls	IMP
+ich	PRO
+nicht	NOT
+überlebe	EFS
+,	NIL
+bewahre	EFS
+mein	HAS
+Gehirn	CON
+auf	REL
+.	NIL
+
+Der	DEF
+Turm	CON
+ist	NOW
+220	QUC
+Meter	UOM
+hoch	DEG
+.	NIL
+
+Jemand	DIS
+öffnete	EPS
+die	DEF
+Tür	CON
+.	NIL
+
+Der	DEF
+Affe	CON
+fiel	EPS
+vom	DEF
+Baum	CON
+.	NIL
+
+War	PST
+die	DEF
+Tür	CON
+abgeschlossen	EXS
+?	QUE
+
+Die	DEF
+Polizei	CON
+klagte	EPS
+ihn	PRO
+wegen	REL
+Mord	CON
+an	REL
+.	NIL
+
+Die	DEF
+Regierung	CON
+sollte	NEC
+diese	PRX
+alten	IST
+Vorschriften	CON
+abschaffen	EXS
+.	NIL
+
+Ich	PRO
+tauschte	EPS
+alte	IST
+Zeitungen	CON
+gegen	REL
+Klopapier	CON
+ein	REL
+.	NIL
+
+Der	DEF
+Wärter	ROL
+öffnete	EPS
+die	DEF
+Zellentür	CON
+.	NIL
+
+Die	DEF
+Verhandlung	CON
+ist	NOW
+vertagt	EXS
+.	NIL
+
+Mein	HAS
+Nachname	CON
+ist	ENS
+Jones	LIT
+.	NIL
+
+Sie	PRO
+kaufte	EPS
+dem	DEF
+Jungen	CON
+ein	DIS
+Spielzeug	CON
+.	NIL
+
+Einige	DIS
+der	DEF
+Äpfel	CON
+in	REL
+der	DEF
+Schachtel	CON
+waren	PST
+schlecht	IST
+.	NIL
+
+Tom	PER
+befüllt	ENS
+eine	DIS
+Flasche	CON
+mit	REL
+Wasser	CON
+.	NIL
+
+Sie	PRO
+spielt	ENS
+Gitarre	CON
+.	NIL
+
+Der	DEF
+Baum	CON
+wurde	PST
+mit	REL
+einem	DIS
+kräftigen	IST
+Schlag	CON
+seiner	HAS
+Axt	CON
+gefällt	EXS
+.	NIL
+
+Was	QUE
+hat	NOW
+euch	PRO
+erschreckt	EXT
+?	QUE
+
+Japan	GPE
+ist	NOW
+nicht	NOT
+so	EQU
+groß	IST
+wie	REL
+Kanada	GPE
+.	NIL
+
+Die	DEF
+Familie	CON
+Van~Horn	NTH
+war	PST
+reich	IST
+.	NIL
+
+Er	PRO
+aß	EPS
+giftige	IST
+Pilze	CON
+.	NIL
+
+Sie	PRO
+haben	NOW
+viele	QUV
+Wettbewerbe	CON
+gewonnen	EXT
+.	NIL
+
+Napoleon	PER
+wurde	PST
+nach	REL
+St.~Helena	GPE
+verbannt	EXS
+.	NIL
+
+Tom	PER
+bügelt	ENS
+sein	HAS
+Hemd	CON
+.	NIL
+
+Tom	PER
+hat	ENS
+drei	QUC
+Ex	PST
+frauen	ROL
+.	NIL
+
+General~Dynamics	ORG
+verliert	ENS
+374~Millionen	QUC
+Dollar	UOM
+.	NIL
+
+Ich	PRO
+bin	NOW
+gegen	REL
+Fisch	CON
+allergisch	IST
+.	NIL
+
+Alle	AND
+lachten	EPS
+.	NIL
+
+Ich	PRO
+habe	ENS
+mindestens	BOT
+zehn	QUC
+Bücher	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+gelangweilt	IST
+.	NIL
+
+Er	PRO
+gab	EPS
+ihm	PRO
+ein	DIS
+Buch	CON
+.	NIL
+
+Er	PRO
+kam	EPS
+1981	YOC
+aus	REL
+der	DEF
+Kleinstadt	CON
+Aschersleben	GPE
+nach	REL
+Leipzig	GPE
+.	NIL
+
+Man	PRO
+trat	EPS
+in	REL
+Friedrich	PER
+s	HAS
+Kammer	CON
+.	NIL
+
+Ich	PRO
+ging	EPS
+zum	DEF
+Bahnhof	CON
+.	NIL
+
+Maria	PER
+hat	NOW
+mit	REL
+einem	DIS
+Kollegen	ROL
+geschlafen	EXT
+.	NIL
+
+Sie	PRO
+ist	ENS
+Lehrerin	ROL
+.	NIL
+
+Ich	PRO
+habe	NOW
+nicht	NOT
+geträumt	EXT
+.	NIL
+
+Ich	PRO
+bin	ENS
+im	DEF
+siebten	ORD
+Stock	CON
+.	NIL
+
+Ich	PRO
+nahm	EPS
+ein	DIS
+Buch	CON
+aus	REL
+dem	DEF
+Regal	CON
+.	NIL
+
+Obwohl	BUT
+er	PRO
+müde	IST
+war	PST
+,	NIL
+arbeitete	EPS
+er	PRO
+.	NIL
+
+Tom	PER
+wurde	PST
+von	REL
+einem	DIS
+LKW	CON
+überfahren	EXS
+.	NIL
+
+Er	PRO
+reparierte	EPS
+mir	PRO
+meine	HAS
+Uhr	CON
+.	NIL
+
+Bring	EXS
+mir	PRO
+einen	DIS
+Eimer	CON
+Wasser	CON
+.	NIL
+
+Sie	PRO
+hat	NOW
+die	DEF
+Eier	CON
+gekocht	EXT
+.	NIL
+
+Mohamed~Dib	PER
+ist	ENS
+ein	DIS
+algerischer	GPO
+Schriftsteller	ROL
+.	NIL
+
+Ich	PRO
+kenne	ENS
+niemanden	NOT
+in	REL
+Boston	GPE
+.	NIL
+
+Sie	PRO
+wird	FUT
+mir	PRO
+den	DEF
+Kopf	CON
+abreißen	EXS
+.	NIL
+
+Ich	PRO
+schwitzte	EPS
+unter	REL
+den	DEF
+Armen	CON
+.	NIL
+
+Dieses	PRX
+Angebot	CON
+endet	EFS
+am	REL
+15.	DOM
+August	MOY
+1999	YOC
+.	NIL
+
+Das	DEF
+Auto	CON
+fuhr	EPS
+gegen	REL
+einen	DIS
+Telegrafenmast	CON
+.	NIL
+
+Ein	DIS
+Tiger	CON
+ist	NOW
+aus	REL
+dem	DEF
+Zoo	CON
+ausgebrochen	EXT
+.	NIL
+
+Tarō	PER
+bleib	EPS
+drei	QUC
+Tage	UOM
+in	REL
+Tōkyō	GPE
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihn	PRO
+gekniffen	EXT
+.	NIL
+
+Tom	PER
+ist	ENS
+ein	DIS
+Spanner	CON
+.	NIL
+
+Diese	PRX
+Katze	CON
+jagt	ENS
+keine	NOT
+Ratten	CON
+.	NIL
+
+In	REL
+Afrika	GPE
+gibt	ENS
+es	NIL
+viele	QUV
+Löwen	CON
+.	NIL
+
+Er	PRO
+übersetzt	ENS
+nie	NOT
+meine	HAS
+Sätze	CON
+.	NIL
+
+Sie	PRO
+ist	NOW
+genauso	EQU
+schön	IST
+wie	REL
+ihre	HAS
+Mutter	ROL
+.	NIL
+
+Die	DEF
+Straßen	CON
+auf	REL
+Hokkaidō	GPE
+sind	NOW
+breit	DEG
+.	NIL
+
+Bill	PER
+wurde	PST
+mit	REL
+einer	DIS
+Pistole	CON
+getötet	EXS
+.	NIL
+
+Tom	PER
+melkte	EPS
+die	DEF
+Kuh	CON
+.	NIL
+
+Die	DEF
+Socken	CON
+stinken	ENS
+.	NIL
+
+Sandra~Maischberger	PER
+
+Gabi~Keast	PER
+
+Er	PRO
+wird	FUT
+warten	EXS
+.	NIL
+
+Er	PRO
+hat	NOW
+eine	DIS
+Kanadierin	GPO
+geheiratet	EXT
+.	NIL
+
+Sie	PRO
+ist	NOW
+größer	MOR
+als	REL
+er	PRO
+.	NIL
+
+Ich	PRO
+bin	ENS
+kein	NOT
+Aufständischer	ROL
+.	NIL
+
+Meine	HAS
+Katze	CON
+tötete	EPS
+ein	DIS
+Eichhörnchen	CON
+.	NIL
+
+Wir	PRO
+haben	NOW
+die	DEF
+Wohnung	CON
+vermietet	EXT
+.	NIL
+
+Alle	AND
+Androiden	CON
+sind	EQU
+Roboter	CON
+.	NIL
+
+Tom	PER
+ist	NOW
+gestorben	EXT
+.	NIL
+
+Weder	NOT
+Tom	PER
+noch	NOT
+Maria	PER
+sprechen	ENS
+Spanisch	CON
+.	NIL
+
+Mein	HAS
+Vater	ROL
+leidet	ENS
+an	REL
+einer	DIS
+Persönlichkeitsstörung	CON
+.	NIL
+
+Die	DEF
+Ärzte	ROL
+behandelten	EPS
+die	DEF
+Verwundeten	ROL
+.	NIL
+
+Tom	PER
+ist	NOW
+etwa	APX
+drei	QUC
+Jahre	UOM
+älter	MOR
+als	REL
+Maria	PER
+.	NIL
+
+Ich	PRO
+habe	NOW
+ihr	PRO
+fünf	QUC
+Dollar	UOM
+gezahlt	EXT
+.	NIL
+
+Tom	PER
+ist	NOW
+allergisch	IST
+auf	REL
+Bienen	CON
+,	REL
+Hornissen	CON
+und	GRP
+Wespen	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+meine	HAS
+Schlüssel	CON
+eingesteckt	EXT
+.	NIL
+
+Er	PRO
+fiel	EPS
+kopfüber	IST
+in	REL
+das	DEF
+Schwimmbecken	CON
+.	NIL
+
+Seine	HAS
+Schulden	ROL
+belaufen	ENS
+sich	REF
+auf	REL
+hunderttausend	QUC
+Yen	UOM
+.	NIL
+
+Viele	QUV
+wurden	PST
+erschlagen	EXS
+.	NIL
+
+Diese	PRX
+zerbrochene	IST
+Vase	CON
+gehört	ENS
+meinem	HAS
+Opa	ROL
+.	NIL
+
+Der	DEF
+Hund	CON
+gehört	ENS
+ihnen	PRO
+.	NIL
+
+Haie	CON
+fressen	ENS
+Fische	CON
+.	NIL
+
+Ich	PRO
+packte	EPS
+die	DEF
+Katze	CON
+am	DEF
+Nacken	CON
+.	NIL
+
+Ich	PRO
+schulde	ENS
+dir	PRO
+3000	QUC
+Yen	UOM
+.	NIL
+
+Ungefähr	APX
+zehn	QUC
+Leute	CON
+warten	ENS
+.	NIL
+
+Sie	PRO
+hasst	ENS
+ihn	PRO
+.	NIL
+
+GUS	ORG
+hat	NOW
+Wehkamp	ORG
+verkauft	EXT
+.	NIL
+
+Niemand	NOT
+liebt	ENS
+mich	PRO
+.	NIL
+
+Tom	PER
+ist	ENS
+ein	DIS
+geschickter	IST
+Zimmermann	ROL
+.	NIL
+
+Du	PRO
+bist	NOW
+nicht	NOT
+fit	IST
+.	NIL
+
+Sie	PRO
+zeigte	EPS
+ihm	PRO
+seinen	HAS
+Platz	CON
+.	NIL
+
+Das	PRO
+ist	NOW
+das	DEF
+nullte	ORD
+Gesetz	CON
+.	NIL
+
+Das	DEF
+Baby	CON
+schläft	ENS
+in	REL
+der	DEF
+Wiege	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+allergisch	IST
+gegen	REL
+einige	DIS
+Medikamente	CON
+.	NIL
+
+Der	DEF
+erste	ORD
+Teil	CON
+dieses	PRX
+Buches	CON
+ist	NOW
+in	REL
+Florenz	GPE
+angesiedelt	EXS
+.	NIL
+
+Der	DEF
+Server	CON
+ist	NOW
+wieder	ALT
+ausgefallen	IST
+.	NIL
+
+Er	PRO
+formte	EPS
+den	DEF
+Ton	CON
+zu	REL
+einer	DIS
+Kugel	CON
+.	NIL
+
+Tom	PER
+hob	EPS
+Geld	CON
+von	REL
+seinem	HAS
+Konto	CON
+ab	REL
+.	NIL
+
+Ein	DIS
+Hund	CON
+schläft	ENS
+auf	REL
+der	DEF
+Veranda	CON
+.	NIL
+
+Tom	PER
+ging	EPS
+mit	REL
+seinen	HAS
+Kindern	CON
+in	REL
+den	DEF
+Zoo	CON
+.	NIL
+
+Dieses	PRX
+Buch	CON
+kostet	ENS
+dreitausend	QUC
+Yen	UOM
+.	NIL
+
+Ich	PRO
+sah	EPS
+Tom	PER
+vor	PST
+weniger~als	LES
+einer	QUC
+Stunde	UOM
+.	NIL
+
+Tom	PER
+hat	NOW
+früher	PST
+Gedichte	CON
+geschrieben	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+das	DEF
+Buch	CON
+vergessen	EXT
+.	NIL
+
+Tom	PER
+hasst	ENS
+dich	PRO
+.	NIL
+
+Tom	PER
+verbarg	EPS
+seine	HAS
+Wut	CON
+vor	REL
+Mary	PER
+.	NIL
+
+Tom	PER
+reichte	EPS
+Maria	PER
+einen	DIS
+Cocktail	CON
+.	NIL
+
+Um	REL
+Mitternacht	CLO
+wollen	ENS
+wir	PRO
+Champagner	CON
+trinken	EXS
+.	NIL
+
+Das	DEF
+Hausboot	CON
+ist	ENS
+im	DEF
+Bootshaus	CON
+.	NIL
+
+Sie	PRO
+hat	NOW
+einen	DIS
+Feuerwehrmann	ROL
+geheiratet	EXT
+.	NIL
+
+Wer	AND
+heiratet	EXS
+,	NIL
+verändert	EXS
+sich	REF
+.	NIL
+
+Niemand	NOT
+hört	ENS
+auf	REL
+Tom	PER
+.	NIL
+
+Sie	PRO
+ist	NOW
+nicht	NOT
+so	EQU
+groß	IST
+wie	REL
+er	PRO
+.	NIL
+
+Die	DEF
+Eltern	ROL
+nannten	EPS
+das	DEF
+Baby	CON
+Akiyoshi	LIT
+.	NIL
+
+Welche	QUE
+Organisation	CON
+leitet	ENS
+Hope~Holcomb	PER
+?	QUE
+
+Tom	PER
+schwenkte	EPS
+die	DEF
+Fahne	CON
+.	NIL
+
+Er	PRO
+räusperte	EPS
+sich	REF
+.	NIL
+
+Tom	PER
+wurde	PST
+von	REL
+Außerirdischen	CON
+entführt	EXS
+.	NIL
+
+Er	PRO
+buk	EPS
+Muffins	CON
+.	NIL
+
+Sie	PRO
+stellte	EPS
+die	DEF
+Kiste	CON
+auf	REL
+dem	DEF
+Tisch	CON
+ab	REL
+.	NIL
+
+Es	NIL
+schneite	EPS
+.	NIL
+
+Taninna	PER
+wird	NOW
+blass	EXG
+.	NIL
+
+Ich	PRO
+traf	EPS
+i	REL
+m	DEF
+Bus	CON
+einen	DIS
+Freund	ROL
+.	NIL
+
+Ich	PRO
+habe	NOW
+Tom	PER
+vor	PST
+drei	QUC
+Stunden	UOM
+gesehen	EXT
+.	NIL
+
+Ich	PRO
+wurde	PST
+von	REL
+einem	DIS
+Moskito	CON
+gestochen	EXS
+.	NIL
+
+John~Lennon	PER
+wurde	PST
+1940	YOC
+geboren	EXS
+.	NIL
+
+Lucy	PER
+hat	NOW
+Mary	PER
+gefeuert	EXT
+.	NIL
+
+Sie	PRO
+haben	NOW
+das	DEF
+Gesetz	CON
+nicht	NOT
+gebrochen	EXT
+.	NIL
+
+Ich	PRO
+melke	ENS
+meine	HAS
+Ziege	CON
+.	NIL
+
+Ich	PRO
+wurde	PST
+am	DEF
+22.	DOM
+November	MOY
+1948	YOC
+geboren	EXS
+.	NIL
+
+Ich	PRO
+spreche	ENS
+Usbekisch	CON
+.	NIL
+
+Ich	PRO
+wurde	PST
+mit	REL
+einem	DIS
+Messer	CON
+verwundet	EXS
+.	NIL
+
+Sie	PRO
+mag	ENS
+russischen	GPO
+Pop	CON
+.	NIL
+
+George	PER
+ist	NOW
+so	EQU
+groß	IST
+wie	REL
+sein	HAS
+Vater	ROL
+.	NIL
+
+André~Henri~Constant~van~Hasselt	PER
+wurde	PST
+in	REL
+Maastricht	GPE
+ausgebildet	EXS
+.	NIL
+
+Hooper	PER
+hat	NOW
+ein	DIS
+Haus	CON
+in	REL
+Portland	GPE
+gekauft	EXT
+.	NIL
+
+Wolfgang~Amadeus~Mozart	PER
+wurde	PST
+in	REL
+Salzburg	GPE
+geboren	EXS
+.	NIL
+
+Ich	PRO
+ess'	EFS
+den	DEF
+Apfel	CON
+.	NIL
+
+Ich	PRO
+klettere	ENS
+auf	REL
+eine	DIS
+Palme	CON
+.	NIL
+
+Wir	PRO
+zählen	ENS
+auf	REL
+dich	PRO
+.	NIL
+
+Der	DEF
+Hund	CON
+grub	EPS
+ein	DIS
+Loch	CON
+.	NIL
+
+Sie	PRO
+spielte	EPS
+einen	DIS
+Walzer	CON
+auf	REL
+dem	DEF
+Klavier	CON
+.	NIL
+
+Sie	PRO
+bekam	EPS
+ein	DIS
+„	NIL
+sehr~gut	SCO
+“	NIL
+.	NIL
+
+Das	DEF
+Hemd	CON
+muss	NEC
+gebügelt	EXS
+werden	NOW
+.	NIL
+
+Meine	HAS
+Mama	ROL
+hat	NOW
+meinen	HAS
+Papa	ROL
+in	REL
+den	DEF
+80ern	YOC
+geheiratet	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+Tom	PER
+verziehen	EXT
+.	NIL
+
+Er	PRO
+verbrachte	EPS
+ein	DIS
+paar	QUV
+Monate	UOM
+in	REL
+Schottland	GPE
+.	NIL
+
+Tom	PER
+ist	NOW
+allergisch	IST
+auf	REL
+Milchprodukte	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+drei	QUC
+Jahre	UOM
+jünger	MOR
+als	REL
+du	PRO
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihn	PRO
+erstochen	EXT
+.	NIL
+
+Sie	PRO
+rührte	EPS
+die	DEF
+Suppe	CON
+mit	REL
+einem	DIS
+Löffel	CON
+um	REL
+.	NIL
+
+Auch	ALT
+ich	PRO
+mag	ENS
+Süßigkeiten	CON
+.	NIL
+
+Sie	PRO
+bügelte	EPS
+ihr	HAS
+Shirt	CON
+.	NIL
+
+Träumen	ENS
+Katzen	CON
+?	QUE
+
+Alle	AND
+lieben	ENS
+meine	HAS
+Katze	CON
+.	NIL
+
+Es	PRO
+ist	NOW
+fünf~vor~neun	CLO
+.	NIL
+
+Tom	PER
+tat	EPS
+etwas	DIS
+Reis	CON
+in	REL
+eine	DIS
+Schüssel	CON
+.	NIL
+
+Dieser	PRX
+Bleistift	CON
+gehört	ENS
+mir	PRO
+.	NIL
+
+Der	DEF
+Hund	CON
+knurrte	EPS
+.	NIL
+
+Tom	PER
+täuschte	EPS
+seinen	HAS
+Tod	CON
+vor	REL
+.	NIL
+
+Tom	PER
+nahm	EPS
+sich	REF
+einen	DIS
+Stuhl	CON
+.	NIL
+
+Die	DEF
+Kakhovskaya-Linie	GEO
+wurde	PST
+1995	YOC
+gebaut	EXT
+.	NIL
+
+Großbritannien	GPE
+verärgert	EPS
+Argentinien	GPE
+.	NIL
+
+Dies	PRX
+grenzt	ENS
+an	REL
+wissenschaftliche	IST
+Unredlichkeit	CON
+.	NIL
+
+Tom	PER
+pflanzt	ENS
+in	REL
+seinem	HAS
+Hinterhof	CON
+eine	DIS
+Palme	CON
+.	NIL
+
+Die	DEF
+Goblins	CON
+grinsten	EPS
+grausig	IST
+.	NIL
+
+Alle	AND
+Plätze	CON
+sind	NOW
+ausgebucht	IST
+.	NIL
+
+Dieses	PRX
+Gebiet	CON
+ist	NOW
+äußerst	INT
+abgelegen	IST
+.	NIL
+
+Wer	AND
+das	DEF
+Geld	CON
+hat	EXS
+,	NIL
+hat	EXS
+die	DEF
+Macht	CON
+.	NIL
+
+Maria	PER
+räuspert	ENS
+sich	REF
+.	NIL
+
+Wir	PRO
+schätzen	ENS
+den	DEF
+Schaden	CON
+auf	REL
+tausend	QUC
+Dollar	UOM
+.	NIL
+
+Sie	PRO
+schwärmt	ENS
+für	REL
+ihn	PRO
+.	NIL
+
+Mary	PER
+ist	NOW
+klüger	MOR
+als	REL
+ihre	HAS
+Schwester	ROL
+.	NIL
+
+Er	PRO
+betreibt	ENS
+in	REL
+der	DEF
+Stadt	CON
+einen	DIS
+Supermarkt	CON
+.	NIL
+
+Die	DEF
+Schlittschuhläufer	ROL
+liefen	EPS
+um	REL
+die	DEF
+Bahn	CON
+.	NIL
+
+Meine	HAS
+Mutter	ROL
+probierte	EPS
+von	REL
+der	DEF
+Milch	CON
+.	NIL
+
+Tom	PER
+rasiert	ENS
+sich	REF
+auf	REL
+seinem	HAS
+Zimmer	CON
+.	NIL
+
+Fabio	PER
+lebte	EPS
+zwei	QUC
+Jahre	UOM
+in	REL
+Schanghai	GPE
+.	NIL
+
+Tom	PER
+öffnete	EPS
+die	DEF
+Tür	CON
+und	COO
+hielt	EPS
+sie	PRO
+offen	IST
+für	REL
+Maria	PER
+.	NIL
+
+Das	PRO
+sind	ENS
+keine	NOT
+Fische	CON
+.	NIL
+
+Ein	DIS
+Baby	CON
+schläft	ENS
+in	REL
+der	DEF
+Wiege	CON
+.	NIL
+
+Tom	PER
+s	HAS
+Essay	CON
+enthielt	EPS
+viele	QUV
+Tippfehler	CON
+.	NIL
+
+Mein	HAS
+Zimmer	CON
+ist	ENS
+im	DEF
+dritten	ORD
+Stock	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+zwei	QUC
+Hamburger	CON
+bestellt	EXT
+.	NIL
+
+Acht	QUC
+Forstbeamte	ROL
+wurden	PST
+vernommen	EXS
+.	NIL
+
+Tom	PER
+hat	NOW
+verstanden	EXT
+.	NIL
+
+Ich	PRO
+spreche	ENS
+kein	NOT
+Spanisch	CON
+.	NIL
+
+Tom	PER
+grimassierte	EPS
+.	NIL
+
+Ich	PRO
+sah	EPS
+ein	DIS
+Nilpferd	CON
+im	DEF
+Zoo	CON
+.	NIL
+
+Er	PRO
+spricht	ENS
+Chinesisch	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+sehr	INT
+glücklich	IST
+.	NIL
+
+Er	PRO
+warf	EPS
+einen	DIS
+Stein	CON
+auf	REL
+den	DEF
+großen	DEG
+Hund	CON
+.	NIL
+
+Tom	PER
+ist	NOW
+viel	QUV
+größer	MOR
+als	REL
+ihr	PRO
+.	NIL
+
+Ein	DIS
+leuchtend~roter	COL
+Marienkäfer	CON
+landete	EPS
+auf	REL
+meiner	HAS
+Fingerkuppe	CON
+.	NIL
+
+Tom	PER
+hat	NOW
+die	DEF
+Fackel	CON
+gelöscht	EXT
+.	NIL
+
+Maria	PER
+ist	NOW
+weniger	LES
+aktiv	IST
+als	REL
+ihre	HAS
+Schwester	ROL
+.	NIL
+
+Sie	PRO
+tanzte	EPS
+mit	REL
+ihm	PRO
+.	NIL
+
+Sie	PRO
+erwartet	ENS
+ein	DIS
+Kind	CON
+.	NIL
+
+Ich	PRO
+mag	ENS
+Brombeeren	CON
+.	NIL
+
+Tom	PER
+klopfte	EPS
+an	REL
+die	DEF
+Tür	CON
+,	NIL
+aber	BUT
+niemand	NOT
+reagierte	EPS
+darauf	REL
+.	NIL
+
+Das	DEF
+Baseballspiel	CON
+endete	EPS
+unentschieden	CON
+.	NIL
+
+Detroit	GPE
+ist	ENS
+eine	DIS
+gefährliche	IST
+Stadt	CON
+.	NIL
+
+Er	PRO
+fahrt	ENS
+einen	DIS
+Lastwagen	CON
+.	NIL
+
+Tom	PER
+trug	EPS
+keinen	NOT
+Hut	CON
+.	NIL
+
+Du	PRO
+hast	NOW
+elf	QUC
+Flaschen	CON
+Bier	CON
+gehabt	EXT
+!	EMP
+
+Wir	PRO
+schätzten	EPS
+den	DEF
+Schaden	CON
+auf	REL
+eintausend	QUC
+Dollar	UOM
+.	NIL
+
+Ich	PRO
+überquerte	EPS
+den	DEF
+Fluss	CON
+per	REL
+Schiff	CON
+.	NIL
+
+Wir	PRO
+werden	FUT
+um	REL
+sechs~Uhr	CLO
+essen	EXS
+.	NIL
+
+Ich	PRO
+massiere	ENS
+mir	PRO
+den	DEF
+Fuß	CON
+.	NIL
+
+Er	PRO
+ist	ENS
+auf	REL
+der	DEF
+Tanzfläche	CON
+.	NIL
+
+Ich	PRO
+putze	ENS
+meine	HAS
+Zähne	CON
+mit	REL
+einer	DIS
+Zahnbürste	CON
+.	NIL
+
+Die	DEF
+Truhe	CON
+ist	NOW
+drei	QUC
+Fuss	UOM
+breit	DEG
+.	NIL
+
+Dieser	PRX
+Stein	CON
+wiegt	ENS
+fünf	QUC
+Tonnen	UOM
+.	NIL
+
+Ich	PRO
+trinke	ENS
+Orangensaft	CON
+.	NIL
+
+Tom	PER
+pflückte	EPS
+einen	DIS
+Apfel	CON
+vom	REL
+Baum	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+19	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Dieser	PRX
+Schwan	CON
+ist	NOW
+schwarz	COL
+.	NIL
+
+Charlie~Chaplin	PER
+ist	ENS
+ein	DIS
+Schauspieler	ROL
+.	NIL
+
+Ich	PRO
+bin	NOW
+ausgesprochen	INT
+glücklich	IST
+.	NIL
+
+Sie	PRO
+hat	NOW
+schon	ALT
+wieder	ALT
+den	DEF
+Toaster	CON
+kaputtgemacht	EXT
+.	NIL
+
+Hughes	PER
+war	PST
+mit	REL
+Gracia	PER
+verheiratet	IST
+.	NIL
+
+Mayuko	PER
+betrat	EPS
+den	DEF
+Raum	CON
+.	NIL
+
+Ich	PRO
+mag	ENS
+ihn	PRO
+,	NIL
+weil	SUB
+er	PRO
+ehrlich	IST
+ist	NOW
+.	NIL
+
+Ich	PRO
+habe	ENS
+eine	DIS
+sehr	INT
+alte	DEG
+Briefmarke	CON
+.	NIL
+
+Der	DEF
+Tee	CON
+kostet	ENS
+zwei	QUC
+Euro	UOM
+.	NIL
+
+Mein	HAS
+Haus	CON
+ist	ENS
+auf	REL
+einem	DIS
+Hügel	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+groß	IST
+und	AND
+schlank	IST
+.	NIL
+
+Meine	HAS
+Großmutter	ROL
+schloß	EPS
+den	DEF
+Mund	CON
+,	AND
+nahm	EPS
+die	DEF
+Lippen	CON
+nach	REL
+innen	IST
+,	AND
+verkniff	EPS
+die	DEF
+Augen	CON
+und	AND
+mümmelte	EPS
+die	DEF
+Kartoffel	CON
+.	NIL
+
+Tom	PER
+reichte	EPS
+Maria	PER
+die	DEF
+Butter	CON
+.	NIL
+
+Jemand	DIS
+lügt	ENS
+.	NIL
+
+Die	DEF
+Ratten	CON
+verlassen	ENS
+das	DEF
+sinkende	EXG
+Schiff	CON
+.	NIL
+
+Es	PRO
+ist	NOW
+jetzt	NOW
+sieben	CLO
+.	NIL
+
+Meine	HAS
+Kopfhaut	CON
+juckt	ENS
+.	NIL
+
+Jeder	AND
+kennt	ENS
+jeden	AND
+.	NIL
+
+Die	DEF
+Suppe	CON
+ist	NOW
+heiß	DEG
+.	NIL
+
+Viele	QUV
+Arbeiter	ROL
+waren	PST
+im	DEF
+Kohlenbergwerk	CON
+eingeschlossen	EXS
+.	NIL
+
+Tom	PER
+legte	EPS
+die	DEF
+Decke	CON
+zusammen	REL
+.	NIL
+
+Alle	AND
+hassen	ENS
+Tom	PER
+.	NIL
+
+Mein	HAS
+Vater	ROL
+ist	NOW
+ein	DIS
+wenig	QUV
+altmodisch	IST
+.	NIL
+
+Er	PRO
+war	PST
+bekifft	IST
+.	NIL
+
+Steve	PER
+bekam	EPS
+einen	DIS
+Brief	CON
+von	REL
+Jane	PER
+.	NIL
+
+Meine	HAS
+Katze	CON
+schlief	EPS
+neben	REL
+mir	PRO
+.	NIL
+
+Tom	PER
+hat	NOW
+uns	PRO
+viel	QUV
+Geld	CON
+gespendet	EXT
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihren	HAS
+Mann	ROL
+vergiftet	EXT
+.	NIL
+
+Der	DEF
+schlimmste	TOP
+Aufstand	CON
+war	EPS
+in	REL
+Chicago	GPE
+.	NIL
+
+Das	DEF
+Dienstmädchen	ROL
+servierte	EPS
+den	DEF
+Tee	CON
+.	NIL
+
+Dieses	PRX
+Lied	CON
+ist	NOW
+bei	REL
+jungen	DEG
+Leuten	CON
+sehr	INT
+beliebt	IST
+.	NIL
+
+Er	PRO
+ist	NOW
+süchtig	IST
+.	NIL
+
+Er	PRO
+bezahlte	EPS
+zwanzig	QUC
+Dollar	UOM
+für	REL
+den	DEF
+Lippenstift	CON
+.	NIL
+
+Jeder	DIS
+,	NIL
+der	IMP
+ihn	PRO
+kennt	ENS
+,	NIL
+respektiert	ENS
+ihn	PRO
+.	NIL
+
+Die	DEF
+Erklärung	CON
+ist	NOW
+keineswegs	NOT
+zufriedenstellend	IST
+.	NIL
+
+Arabisch	CON
+ist	ENS
+meine	HAS
+Muttersprache	CON
+.	NIL
+
+Sie	PRO
+pflückte	EPS
+viele	QUV
+schöne	IST
+Blumen	CON
+.	NIL
+
+Ibrahim~Sofu	PER
+wurde	PST
+von	REL
+Metin~Kaplan	PER
+ermordet	EXS
+.	NIL
+
+Bill~Clinton	PER
+gehört	ENS
+zu	REL
+der	DEF
+Demokratischen~Partei	ORG
+.	NIL
+
+Sie	PRO
+schreibt	ENS
+gerade	NOW
+einen	DIS
+Brief	CON
+.	NIL
+
+Tom	PER
+wachte	EPS
+um	REL
+halb~sieben	CLO
+auf	REL
+.	NIL
+
+Mario	PER
+kaufte	EPS
+ein	DIS
+Mikroskop	CON
+.	NIL
+
+Was	QUE
+ist	ENS
+deine	HAS
+Muttersprache	CON
+?	QUE
+
+Ich	PRO
+bin	NOW
+erfahrener	MOR
+als	REL
+Tom	PER
+.	NIL
+
+Ich	PRO
+bin	NOW
+empört	IST
+!	EMP
+
+Tom	PER
+umarmte	EPS
+mich	PRO
+.	NIL
+
+Tom	PER
+ist	ENS
+ein	DIS
+herausragender	IST
+Tennisspieler	ROL
+.	NIL
+
+Die	DEF
+Seidenraupe	CON
+spinnt	ENS
+einen	DIS
+Faden	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+deinen	HAS
+Unsinn	CON
+satt	IST
+.	NIL
+
+Eine	DIS
+große	DEG
+Spinne	CON
+spann	EPS
+ein	DIS
+Netz	CON
+.	NIL
+
+Sein	HAS
+Rat	CON
+half	EPS
+überhaupt	EMP
+nicht	NOT
+.	NIL
+
+Mit	REL
+wem	QUE
+bist	NOW
+du	PRO
+gegangen	EXT
+?	QUE
+
+Der	DEF
+Junge	CON
+spricht	ENS
+mit	REL
+seinem	HAS
+Großvater	ROL
+.	NIL
+
+Ich	PRO
+beneide	ENS
+ihn	PRO
+nicht	NOT
+.	NIL
+
+Ich	PRO
+verkaufe	ENS
+Ihnen	PRO
+mein	HAS
+Auto	CON
+nicht	NOT
+.	NIL
+
+Amerika	GPE
+schaffte	EPS
+die	DEF
+Sklaverei	CON
+1863	YOC
+ab	REL
+.	NIL
+
+Diese	PRX
+CD	CON
+gehört	ENS
+ihr	PRO
+.	NIL
+
+Welche	QUE
+Insekten	CON
+haben	NOW
+Sie	PRO
+gegessen	EXT
+?	QUE
+
+Er	PRO
+ist	NOW
+sehr	INT
+groß	DEG
+.	NIL
+
+"	NIL
+Herr~der~Ringe	ART
+"	NIL
+wurde	PST
+von	REL
+Peter~Jackson	PER
+geleitet	EXS
+.	NIL
+
+Allan~Chapman	PER
+arbeitet	ENS
+für	REL
+das	DEF
+River~Forecast~Centre	ORG
+.	NIL
+
+Es	PRO
+wird	FUT
+über	MOR
+10000	QUC
+Yen	UOM
+kosten	EXS
+.	NIL
+
+Ich	PRO
+spüle	ENS
+gerade	NOW
+die	DEF
+Teller	CON
+.	NIL
+
+Sein	HAS
+Fahrrad	CON
+ist	NOW
+blau	COL
+.	NIL
+
+Der	DEF
+Hase	CON
+blutet	ENS
+am	DEF
+Ohr	CON
+.	NIL
+
+Die	DEF
+Biene	CON
+flog	EPS
+zu	REL
+der	DEF
+Blume	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+die	DEF
+Vordertür	CON
+abgeschlossen	EXT
+.	NIL
+
+Frau	ROL
+Jackson	PER
+ist	NOW
+nicht	NOT
+erschienen	EXT
+.	NIL
+
+Jemand	DIS
+öffnete	EPS
+die	DEF
+Tür	CON
+.	NIL
+
+Das	PRO
+ist	ENS
+Altweibergeschwätz	CON
+.	NIL
+
+Ein	DIS
+Krokodil	CON
+hat	NOW
+einen	DIS
+Hund	CON
+gefressen	EXT
+.	NIL
+
+Tom	PER
+trank	EPS
+Apfelsinensaft	CON
+.	NIL
+
+Tom	PER
+entdeckte	EPS
+am	DEF
+Strand	CON
+eine	DIS
+Leiche	CON
+.	NIL
+
+Tom	PER
+hat	NOW
+einen	DIS
+Kaugummi	CON
+verschluckt	EXT
+.	NIL
+
+Sie	PRO
+hat	NOW
+ein	DIS
+Zimmer	CON
+gebucht	EXT
+.	NIL
+
+Jeder	AND
+Android	CON
+ist	EQU
+ein	DIS
+Roboter	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+ein	DIS
+Meckerfritze	ROL
+.	NIL
+
+Wer	QUE
+hat	NOW
+dieses	PRX
+Gedicht	CON
+verfasst	EXT
+?	QUE
+
+Tom	PER
+ist	NOW
+im	DEF
+Unterricht	CON
+weggedöst	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+früher	PST
+in	REL
+einem	DIS
+Dorf	CON
+gewohnt	EXT
+.	NIL
+
+Dieser	PRX
+Baum	CON
+wurde	PST
+von	REL
+meinem	HAS
+Großvater	ROL
+gepflanzt	EXS
+.	NIL
+
+Der	DEF
+Krieg	CON
+fand	EPS
+vor	PST
+fünfundvierzig	QUC
+Jahren	UOM
+statt	NIL
+.	NIL
+
+Sein	HAS
+Bruder	ROL
+ist	ENS
+ein	DIS
+berühmter	IST
+Fußballspieler	ROL
+.	NIL
+
+Das	DEF
+Kind	CON
+hat	NOW
+erbrochen	EXT
+.	NIL
+
+Ihre	HAS
+Rede	CON
+langweilte	EPS
+mich	PRO
+.	NIL
+
+Marie	PER
+nahm	EPS
+die	DEF
+Geschenke	CON
+an	REL
+.	NIL
+
+Gekauft	EXT
+habe	NOW
+ich	PRO
+eine	CON
+.	NIL
+
+Er	PRO
+schwamm	EPS
+über	REL
+den	DEF
+Fluss	CON
+.	NIL
+
+Sie	PRO
+nannten	EPS
+das	DEF
+Schiff	CON
+"	NIL
+Mayflower	LIT
+"	NIL
+.	NIL
+
+Sie	PRO
+mag	ENS
+diesen	DST
+Bass	CON
+.	NIL
+
+Evangeline~Lilly	PER
+ist	NOW
+Kanadierin	GPO
+.	NIL
+
+Er	PRO
+ist	NOW
+größer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Ich	PRO
+aß	EPS
+den	DEF
+Apfel	CON
+.	NIL
+
+Herz	CON
+:	REL
+9	CON
+,	GRP
+A	CON
+
+In	REL
+welcher	QUE
+Stadt	CON
+wurde	PST
+Jorge~Machado	PER
+geboren	EXS
+?	QUE
+
+Ich	PRO
+habe	NOW
+in	REL
+meinem	HAS
+Garten	CON
+einen	DIS
+Pfirsichbaum	CON
+gepflanzt	EXT
+.	NIL
+
+Sie	PRO
+gab	EPS
+ihrer	HAS
+Freundin	ROL
+eine	DIS
+Ohrfeige	CON
+.	NIL
+
+Mein	HAS
+Sohn	ROL
+ist	NOW
+mit	REL
+seinem	HAS
+Sekretär	ROL
+verlobt	EXS
+.	NIL
+
+Ich	PRO
+liebe	ENS
+Knoblauch	CON
+.	NIL
+
+Fünfzehn	QUC
+mal	CON
+fünf	QUC
+macht	EXS
+fünfundsiebzig	QUC
+.	NIL
+
+Ich	PRO
+komme	ENS
+aus	REL
+Hiroshima	GPE
+,	NIL
+aber	BUT
+ich	PRO
+lebe	EXS
+jetzt	NOW
+in	REL
+Tōkyō	GPE
+.	NIL
+
+Das	DEF
+Schiff	CON
+ist	NOW
+nicht	NOT
+seetüchtig	IST
+.	NIL
+
+In	REL
+ihrem	HAS
+Buch	CON
+„	NIL
+Im~Land~der~erfundenen~Sprachen	ART
+“	NIL
+spricht	ENS
+Arika~Okrent	PER
+wohlwollend	IST
+über	REL
+Esperanto	CON
+.	NIL
+
+Napoleon~Bonaparte	PER
+wurde	PST
+auf	REL
+Korsika	GPE
+geboren	EXS
+.	NIL
+
+Sie	PRO
+starb	EPS
+an	REL
+einem	DIS
+Schock	CON
+.	NIL
+
+Drei	QUC
+mal	CON
+vier	QUC
+ist	EXS
+zwölf	QUC
+.	NIL
+
+Es	PRO
+ist	NOW
+Viertel~nach~neun	CLO
+.	NIL
+
+Melanie	PER
+mag	ENS
+Musik	CON
+.	NIL
+
+Sie	PRO
+spielen	ENS
+Schach	CON
+.	NIL
+
+Niemand	NOT
+weiß	ENS
+,	NIL
+wo	QUE
+er	PRO
+wohnt	ENS
+.	NIL
+
+Ich	PRO
+komme	ENS
+aus	REL
+Sambia	GPE
+.	NIL
+
+Er	PRO
+beraubte	EPS
+eine	DIS
+alte	DEG
+Dame	CON
+.	NIL
+
+Ich	PRO
+kaufte	EPS
+ein	DIS
+Dutzend	QUC
+Äpfel	CON
+.	NIL
+
+Dieses	PRX
+Haus	CON
+gehört	ENS
+Herrn	ROL
+Yamada	PER
+.	NIL
+
+Diese	PRX
+Musik	CON
+wurde	PST
+von	REL
+Bach	PER
+komponiert	EXS
+.	NIL
+
+Sie	PRO
+ist	NOW
+völlig	INT
+in	REL
+ein	DIS
+Buch	CON
+vertieft	IST
+.	NIL
+
+Tom	PER
+ist	ENS
+ein	DIS
+Miesepeter	ROL
+.	NIL
+
+Alle	AND
+mögen	ENS
+Tom	PER
+.	NIL
+
+Die	DEF
+Dame	CON
+trinkt	ENS
+nun	NOW
+Wasser	CON
+.	NIL
+
+Ich	PRO
+lerne	ENS
+Japanisch	CON
+.	NIL
+
+Der	DEF
+Kanchenjunga	GEO
+ist	NOW
+8.586	QUC
+Meter	UOM
+hoch	DEG
+.	NIL
+
+Ich	PRO
+möchte	ENS
+etwas	DIS
+Süßes	IST
+.	NIL
+
+Ich	PRO
+lerne	ENS
+Tschechisch	CON
+.	NIL
+
+Die	DEF
+Reifen	CON
+haften	ENS
+sehr	INT
+gut	IST
+.	NIL
+
+Sie	PRO
+pflückte	EPS
+viele	QUV
+schöne	IST
+Blumen	CON
+.	NIL
+
+Der	DEF
+Mann	CON
+schmetterte	EPS
+die	DEF
+Flasche	CON
+gegen	REL
+die	DEF
+Wand	CON
+.	NIL
+
+Dieser	PRX
+Mantel	CON
+hat	NOW
+drei	QUC
+Jahre	UOM
+gehalten	EXT
+.	NIL
+
+Ich	PRO
+spreche	ENS
+Mari	CON
+.	NIL
+
+Er	PRO
+hat	NOW
+einen	DIS
+Privatdetektiv	ROL
+engagiert	EXT
+.	NIL
+
+Tom	PER
+salzte	EPS
+sein	HAS
+Ei	CON
+.	NIL
+
+Mein	HAS
+Hund	CON
+hat	NOW
+Tom	PER
+gebissen	EXT
+.	NIL
+
+Mein	HAS
+Nachbar	ROL
+pflanzt	ENS
+neues	IST
+Gras	CON
+in	REL
+seinem	HAS
+Garten	CON
+.	NIL
+
+Tom	PER
+hat	NOW
+drei	QUC
+Fische	CON
+gefangen	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+„	NIL
+Krieg~und~Frieden	ART
+“	NIL
+auch	ALT
+noch	ALT
+nicht	NOT
+gelesen	EXT
+.	NIL
+
+Ich	PRO
+fing	EPS
+Schmetterlinge	CON
+mit	REL
+einem	DIS
+Netz	CON
+.	NIL
+
+Sie	PRO
+gab	EPS
+mir	PRO
+die	DEF
+Hand	CON
+.	NIL
+
+Er	PRO
+wienerte	EPS
+seine	HAS
+Schuhe	CON
+.	NIL
+
+Tom	PER
+setzte	EPS
+seinen	HAS
+Helm	CON
+ab	REL
+.	NIL
+
+Das	DEF
+Kind	CON
+zahnt	ENS
+jetzt	NOW
+.	NIL
+
+Diese	PRX
+CD	CON
+kostet	ENS
+10	QUC
+Dollar	UOM
+.	NIL
+
+Der	DEF
+Polizist	ROL
+trägt	ENS
+eine	DIS
+Gasmaske	CON
+.	NIL
+
+Sie	PRO
+heuerte	EPS
+einen	DIS
+Privatdetektiv	ROL
+an	REL
+.	NIL
+
+Tom	PER
+hat	NOW
+mir	PRO
+einen	DIS
+Stift	CON
+gegeben	EXT
+.	NIL
+
+J.~J.~Thomson	PER
+war	EPS
+ein	DIS
+englischer	GPO
+Wissenschaftler	ROL
+.	NIL
+
+Sie	PRO
+fiel	EPS
+vom	DEF
+Pferd	CON
+.	NIL
+
+Du	PRO
+stinkst	ENS
+nach	REL
+Zigaretten	CON
+.	NIL
+
+Wen	QUE
+hat	NOW
+Tom	PER
+geküsst	EXT
+?	QUE
+
+Ich	PRO
+habe	NOW
+den	DEF
+Fuji	GEO
+bestiegen	EXT
+.	NIL
+
+Sie	PRO
+hat	ENS
+einen	DIS
+gigantischen	IST
+Appetit	CON
+.	NIL
+
+Ich	PRO
+komme	ENS
+aus	REL
+Georgien	GPE
+.	NIL
+
+Ist	NOW
+sie	PRO
+nicht	NOT
+süß	IST
+?	QUE
+
+Der	DEF
+Stier	CON
+muht	ENS
+.	NIL
+
+Dein	HAS
+Hosenstall	CON
+ist	NOW
+offen	IST
+.	NIL
+
+Dieser	PRX
+Reis	CON
+ist	NOW
+klebrig	IST
+.	NIL
+
+George~W.~Bush	PER
+wurde	PST
+1946	YOC
+im	DEF
+Staate	CON
+Connecticut	GPE
+geboren	EXS
+.	NIL
+
+Ich	PRO
+streckte	EPS
+die	DEF
+Beine	CON
+aus	REL
+.	NIL
+
+Ich	PRO
+bin	NOW
+wie	REL
+meine	HAS
+Mutter	ROL
+.	NIL
+
+Die	DEF
+Umkleidekabine	CON
+ist	NOW
+besetzt	IST
+.	NIL
+
+Mary	PER
+jodelt	ENS
+.	NIL
+
+Tom	PER
+übertrieb	EPS
+.	NIL
+
+Ich	PRO
+bin	NOW
+genauso	EQU
+groß	IST
+wie	REL
+er	PRO
+.	NIL
+
+Wenn	SUB
+du	PRO
+ihn	PRO
+einlädst	ENS
+,	NIL
+kommt	ENS
+er	PRO
+vielleicht	POS
+.	NIL
+
+Mein	HAS
+Flug	CON
+landete	EPS
+um	REL
+halb~drei	CLO
+nachmittags	CON
+.	NIL
+
+Die	DEF
+Einnahmen	CON
+von	REL
+Tom~Online	ORG
+sind	NOW
+um	REL
+38,5	QUC
+%	UOM
+gestiegen	EXT
+.	NIL
+
+Mein	HAS
+Bruder	ROL
+ist	NOW
+zwei	QUC
+Jahre	UOM
+älter	MOR
+als	REL
+ich	PRO
+,	NIL
+aber	BUT
+er	PRO
+ist	NOW
+drei	QUC
+Zentimeter	UOM
+kleiner	MOR
+.	NIL
+
+Ich	PRO
+nickte	EPS
+wieder	ALT
+.	NIL
+
+Wer	QUE
+malte	EPS
+den	DEF
+"	NIL
+Schrei	ART
+"	NIL
+?	QUE
+
+Ich	PRO
+starrte	EPS
+die	DEF
+Decke	CON
+an	REL
+.	NIL
+
+Tom	PER
+las	EPS
+das	DEF
+Etikett	CON
+auf	REL
+der	DEF
+Flasche	CON
+.	NIL
+
+Anton	PER
+schnitzte	EPS
+mit	REL
+einem	DIS
+Messer	CON
+seinen	HAS
+Namen	CON
+in	REL
+einen	DIS
+Baum	CON
+.	NIL
+
+Dieses	PRX
+Huhn	CON
+ist	NOW
+verkocht	EXS
+.	NIL
+
+Ich	PRO
+schlug	EPS
+ihm	PRO
+auf	REL
+das	DEF
+Kinn	CON
+.	NIL
+
+Du	PRO
+bist	NOW
+größer	MOR
+als	REL
+sie	PRO
+.	NIL
+
+Dieses	PRX
+Café	CON
+ist	NOW
+gemütlich	IST
+.	NIL
+
+Das	DEF
+Boot	CON
+segelte	EPS
+über	REL
+den	DEF
+Pazifischen~Ozean	GEO
+.	NIL
+
+Tom	PER
+spendete	EPS
+dem	DEF
+Museum	CON
+drei	QUC
+Bilder	CON
+.	NIL
+
+Wir	PRO
+verkaufen	ENS
+Orangensaft	CON
+.	NIL
+
+Keiner	NOT
+von	REL
+uns	PRO
+ist	ENS
+ein	DIS
+Feigling	ROL
+.	NIL
+
+Wer	QUE
+hat	NOW
+Karaoke	CON
+erfunden	EXT
+?	QUE
+
+Die	DEF
+Mütter	ROL
+nähen	ENS
+.	NIL
+
+Fünfzehn	QUC
+ist	EXS
+keine	NOT
+Primzahl	CON
+.	NIL
+
+Ich	PRO
+fahre	ENS
+ein	DIS
+deutsches	GPO
+Auto	CON
+.	NIL
+
+Ich	PRO
+spreche	ENS
+kein	NOT
+Schwedisch	CON
+.	NIL
+
+Ich	PRO
+habe	ENS
+das	DEF
+Kreuz	CON
+ass	CON
+.	NIL
+
+Er	PRO
+hat	ENS
+Alzheimer	CON
+.	NIL
+
+Mir	PRO
+tut	NOW
+der	DEF
+Nacken	CON
+weh	EXS
+.	NIL
+
+Niemand	NOT
+ist	NOW
+intelligenter	MOR
+als	REL
+er	PRO
+.	NIL
+
+Abrams	PER
+jagte	EPS
+Browne	PER
+.	NIL
+
+Sie	PRO
+ist	NOW
+sehr	INT
+weise	IST
+.	NIL
+
+Meine	HAS
+Frau	ROL
+ist	ENS
+Polin	GPO
+.	NIL
+
+Tom	PER
+fuhr	EPS
+zur	DEF
+Schule	CON
+.	NIL
+
+Charles~de~Gaulle	PER
+starb	EPS
+im	DEF
+Jahre	CON
+1970	YOC
+.	NIL
+
+Ich	PRO
+wurde	PST
+1979	YOC
+geboren	EXS
+.	NIL
+
+Es	NIL
+schneit	ENS
+.	NIL
+
+Sie	PRO
+ist	NOW
+viel	QUV
+größer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Unser	HAS
+Haus	CON
+hat	ENS
+sieben	QUC
+Zimmer	CON
+,	NIL
+das	DEF
+Wohnzimmer	CON
+eingeschlossen	REL
+.	NIL
+
+Das	DEF
+Boot	CON
+tanzte	EPS
+auf	REL
+dem	DEF
+bewegten	IST
+Wasser	CON
+.	NIL
+
+Tom	PER
+sah	EPS
+Maria	PER
+.	NIL
+
+Die	DEF
+Menschen	CON
+in	REL
+Massachusetts	GPE
+waren	PST
+äußerst	INT
+wütend	IST
+.	NIL
+
+Das	DST
+ist	NOW
+total	INT
+verrückt	IST
+.	NIL
+
+Das	PRO
+ist	ENS
+ein	DIS
+Spinnen	CON
+biss	CON
+.	NIL
+
+Der	DEF
+Pfiff	CON
+ertönte	EPS
+.	NIL
+
+Tom	PER
+stahl	EPS
+etwas	DIS
+aus	REL
+meinem	HAS
+Hause	CON
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihn	PRO
+getreten	EXT
+.	NIL
+
+Tom	PER
+belud	EPS
+den	DEF
+Lastwagen	CON
+.	NIL
+
+Maria	PER
+salzte	EPS
+das	DEF
+Fleisch	CON
+.	NIL
+
+Er	PRO
+mag	ENS
+Jazz	CON
+und	COO
+ich	PRO
+auch	ALT
+.	NIL
+
+Tom	PER
+rupft	ENS
+ein	DIS
+Huhn	CON
+.	NIL
+
+Tom	PER
+hat	ENS
+eine	DIS
+Lernbehinderung	CON
+.	NIL
+
+Die	DEF
+alte	DEG
+Frau	CON
+zog	EPS
+die	DEF
+Augenbrauen	CON
+zusammen	REL
+.	NIL
+
+Diese	PRX
+Flasche	CON
+fasst	ENS
+einen	DIS
+Dreiviertel	QUC
+liter	UOM
+.	NIL
+
+Eine	AND
+Biene	CON
+summt	EXS
+.	NIL
+
+Die	DEF
+verletzte	IST
+Frau	CON
+war	EPS
+eine	DIS
+brasilianische	GPO
+Urlaubsreisende	ROL
+.	NIL
+
+Ich	PRO
+brate	ENS
+Fisch	CON
+.	NIL
+
+Tom	PER
+warf	EPS
+Maria	PER
+die	DEF
+Schlüssel	CON
+zu	REL
+.	NIL
+
+O.J.~Simpson	PER
+wurde	PST
+des	REL
+Mordes	CON
+beschuldigt	EXS
+.	NIL
+
+Zwei	QUC
+Gläubige	ROL
+wurden	PST
+in	REL
+Afghanistan	GPE
+getötet	EXS
+.	NIL
+
+Betty	PER
+ist	ENS
+eine	DIS
+Serienmörderin	ROL
+.	NIL
+
+Tom	PER
+hat	NOW
+das	DEF
+Ketchup	CON
+vergessen	EXT
+.	NIL
+
+Sie	PRO
+sagte	EPS
+nichts	NOT
+.	NIL
+
+Ich	PRO
+zog	EPS
+meinen	HAS
+Revolver	CON
+aus	REL
+der	DEF
+Tasche	CON
+und	AND
+legte	EPS
+ihn	PRO
+auf	REL
+den	DEF
+Tischrand	CON
+.	NIL
+
+Tom	PER
+wählt	ENS
+eine	DIS
+Telefonnummer	CON
+.	NIL
+
+Ist	NOW
+dieses	DST
+Teeservice	CON
+vollständig	IST
+?	QUE
+
+Alice	PER
+lächelte	EPS
+.	NIL
+
+Die	DEF
+Frage	CON
+ist	NOW
+keineswegs	NOT
+einfach	IST
+.	NIL
+
+Dieser	PRX
+Roman	CON
+langweilt	ENS
+mich	PRO
+.	NIL
+
+Alle	AND
+sehen	EXG
+zu	REL
+.	NIL
+
+Das	DEF
+Problem	CON
+verwirrte	EPS
+die	DEF
+Öffentlichkeit	CON
+.	NIL
+
+Ich	PRO
+verstehe	ENS
+.	NIL
+
+Sie	PRO
+schluchzte	EPS
+.	NIL
+
+Der	DEF
+Ventilator	CON
+funktioniert	ENS
+nicht	NOT
+.	NIL
+
+Er	PRO
+ist	NOW
+stockbesoffen	IST
+.	NIL
+
+Er	PRO
+ist	ENS
+ein	DIS
+schrecklicher	IST
+Gegner	ROL
+.	NIL
+
+Diese	PRX
+Frage	CON
+zählt	ENS
+fünfzig	QUC
+Punkte	CON
+.	NIL
+
+Maria	PER
+kniete	EPS
+.	NIL
+
+Tom	PER
+hat	NOW
+in	REL
+Französisch	CON
+eine	DIS
+Eins	SCO
+bekommen	EXT
+.	NIL
+
+Wir	PRO
+aßen	EPS
+Schildkrötensuppe	CON
+.	NIL
+
+Ich	PRO
+schlief	EPS
+.	NIL
+
+Ich	PRO
+wiege	EPS
+mich	REF
+.	NIL
+
+Er	PRO
+warf	EPS
+einen	DIS
+Stein	CON
+in	REL
+den	DEF
+Teich	CON
+.	NIL
+
+Die	DEF
+Festplatte	CON
+wurde	PST
+völlig	INT
+zerstört	EXS
+.	NIL
+
+Das	DEF
+Gravetye~Manor	ART
+gehört	ENS
+zu	REL
+Robinson	PER
+.	NIL
+
+Charles~de~Gaulle	PER
+starb	EPS
+im	DEF
+Jahre	CON
+1970	YOC
+.	NIL
+
+http://www.skat.com/skatordnung.html	CTC
+
+Friedrich	PER
+schwieg	EPS
+.	NIL
+
+er	PRO
+schwur	EPS
+,	COO
+er	PRO
+lästerte	EPS
+.	NIL
+
+Susan	PER
+hat	NOW
+ein	DIS
+Kleid	CON
+für	REL
+Jill	PER
+gemacht	EXT
+.	NIL
+
+Sie	PRO
+spinnt	ENS
+Wolle	CON
+.	NIL
+
+Tom	PER
+starrte	EPS
+Mary	PER
+einen	DIS
+Moment	CON
+an	REL
+.	NIL
+
+Ich	PRO
+bereitete	EPS
+ihr	PRO
+das	DEF
+Abendessen	CON
+zu	REL
+.	NIL
+
+Abrams	PER
+reichte	EPS
+Browne	PER
+die	DEF
+Zigarette	CON
+.	NIL
+
+Diese	PRX
+Uhr	CON
+gehört	ENS
+meinem	HAS
+Vater	ROL
+.	NIL
+
+Das	DEF
+Haus	CON
+gehört	ENS
+mir	PRO
+.	NIL
+
+Ich	PRO
+bin	ENS
+kein	NOT
+Nazi	ROL
+!	EMP
+
+Sie	PRO
+leidet	ENS
+an	REL
+Raumangst	CON
+.	NIL
+
+Tom	PER
+bügelt	ENS
+gerade	NOW
+Hemden	CON
+.	NIL
+
+Der	DEF
+Wind	CON
+heulte	EPS
+.	NIL
+
+Tom	PER
+hat	NOW
+die	DEF
+Schlüssel	CON
+eingesteckt	EXT
+.	NIL
+
+Das	DEF
+Haus	CON
+stürzte	EPS
+ein	REL
+.	NIL
+
+Meine	HAS
+Beine	CON
+sind	NOW
+so	EQU
+schwer	IST
+wie	REL
+Blei	CON
+.	NIL
+
+Die	DEF
+Statue	CON
+ist	NOW
+aus	REL
+Stein	CON
+gemeißelt	EXS
+.	NIL
+
+Der	DEF
+Verwundete	ROL
+stöhnte	EPS
+leise	IST
+.	NIL
+
+Tom	PER
+machte	EPS
+einen	DIS
+Salto	CON
+.	NIL
+
+Er	PRO
+atmet	ENS
+nicht	NOT
+!	EMP
+
+Sie	PRO
+haben	NOW
+die	DEF
+Bombe	CON
+erfolgreich	IST
+entschärft	EXT
+.	NIL
+
+Das	DEF
+Teeservice	CON
+ist	NOW
+unvollständig	IST
+.	NIL
+
+Hilfst	ENS
+du	PRO
+Frau	ROL
+Hansson	PER
+?	QUE
+
+Wir	PRO
+haben	NOW
+um	REL
+sieben	CLO
+gefrühstückt	EXT
+.	NIL
+
+Tom	PER
+ist	NOW
+nicht	NOT
+sehr	INT
+gesellig	IST
+.	NIL
+
+Ich	PRO
+verstehe	ENS
+.	NIL
+
+Wer	QUE
+trainiert	ENS
+die	DEF
+Mannschaft	CON
+?	QUE
+
+Maria	PER
+hat	NOW
+das	DEF
+Fleisch	CON
+noch	ALT
+nicht	NOT
+gegrillt	EXT
+.	NIL
+
+Wir	PRO
+kaufen	ENS
+eine	DIS
+CD	CON
+.	NIL
+
+Dieses	PRX
+Hotel	CON
+gehört	ENS
+meinem	HAS
+Schwager	ROL
+.	NIL
+
+Ein	DIS
+kaltes	IST
+Bad	CON
+erfrischte	EPS
+ihn	PRO
+.	NIL
+
+Mary	PER
+ist	ENS
+Tom	PER
+s	HAS
+Ex	PST
+frau	ROL
+.	NIL
+
+Sie	PRO
+tränkte	EPS
+ihr	HAS
+Pferd	CON
+.	NIL
+
+Der	DEF
+Wind	CON
+bläst	ENS
+gen	REL
+Osten	CON
+.	NIL
+
+Zwei	QUC
+mal	CON
+sieben	QUC
+ist	EXS
+vierzehn	QUC
+.	NIL
+
+Er	PRO
+schlief	EPS
+im	DEF
+Auto	CON
+.	NIL
+
+Warst	PST
+du	PRO
+jünger	MOR
+als	REL
+Ellen	PER
+?	QUE
+
+Ich	PRO
+schreibe	ENS
+täglich	AND
+Tagebuch	CON
+.	NIL
+
+Auf	REL
+Japan	GPE
+kommt	ENS
+ein	DIS
+Taifun	CON
+zu	REL
+.	NIL
+
+Sein	HAS
+Magen	CON
+knurrt	ENS
+.	NIL
+
+Er	PRO
+hat	NOW
+mich	PRO
+hereingelegt	EXT
+.	NIL
+
+Die	DEF
+Frau	ROL
+von	REL
+Aldrich~Hazen~Ames	PER
+hieß	EPS
+Maria	LIT
+.	NIL
+
+Jerry~Reinsdorf	PER
+hat	NOW
+sieben	QUC
+Meisterschaften	CON
+gewonnen	EXT
+.	NIL
+
+Ich	PRO
+zahlte	EPS
+ihm	PRO
+fünf	QUC
+Dollar	UOM
+.	NIL
+
+Er	PRO
+bezwang	EPS
+den	DEF
+Schweden	GPO
+Stefan~Edberg	PER
+in	REL
+2	QUC
+Saetzen	CON
+mit	REL
+6:4	SCO
+und	GRP
+6:2	SCO
+.	NIL
+
+Ich	PRO
+habe	NOW
+meinen	HAS
+Apfel	CON
+fallenlassen	EXT
+.	NIL
+
+Er	PRO
+ist	NOW
+überhaupt	EMP
+nicht	NOT
+glücklich	IST
+.	NIL
+
+Sein	HAS
+Buch	CON
+ist	NOW
+rot	COL
+.	NIL
+
+Der	DEF
+Dieb	ROL
+rannte	EPS
+weg	REL
+.	NIL
+
+Das	DST
+ist	ENS
+seine	HAS
+Verlobte	ROL
+.	NIL
+
+Ich	PRO
+habe	NOW
+in	REL
+Französisch	CON
+eine	DIS
+Eins	SCO
+bekommen	EXT
+.	NIL
+
+Italo~Calvino	PER
+wurde	PST
+1923	YOC
+auf	REL
+der	DEF
+Insel	CON
+Kuba	GPE
+geboren	EXS
+.	NIL
+
+Ich	PRO
+habe	NOW
+das	DEF
+Akkordeon	CON
+gespielt	EXT
+.	NIL
+
+Meine	HAS
+Freundin	ROL
+hat	NOW
+mich	PRO
+verlassen	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+vor	PST
+Jahren	UOM
+angefangen	EXT
+,	NIL
+Golf	CON
+zu	NIL
+spielen	EXS
+.	NIL
+
+Ich	PRO
+bin	NOW
+müde	IST
+von	REL
+den	DEF
+Hausaufgaben	CON
+.	NIL
+
+Ich	PRO
+brauche	ENS
+einen	DIS
+Kugelschreiber	CON
+.	NIL
+
+Lutsch	EXS
+meinen	HAS
+Schwanz	CON
+.	NIL
+
+Wer	QUE
+hat	NOW
+das	DEF
+Dynamit	CON
+erfunden	EXT
+?	QUE
+
+David~Cameron	PER
+gehört	ENS
+zu	REL
+der	DEF
+britischen	GPO
+Konservativen~Partei	ORG
+.	NIL
+
+Vera~Beers	PER
+arbeitet	ENS
+für	REL
+Olivet	ORG
+.	NIL
+
+Er	PRO
+war	EPS
+in	REL
+der	DEF
+Warteschlange	CON
+.	NIL
+
+Die	DEF
+Zigarren	CON
+kosten	ENS
+zwei	QUC
+Mark	UOM
+.	NIL
+
+Ich	PRO
+wohne	ENS
+zurzeit	NOW
+in	REL
+Kunming	GPE
+.	NIL
+
+Ich	PRO
+habe	NOW
+überhaupt	EMP
+keine	NOT
+Angst	IST
+.	NIL
+
+Das	DST
+ist	NOW
+nicht	NOT
+normal	IST
+.	NIL
+
+Tom	PER
+erschoss	EPS
+Mary	PER
+mit	REL
+einer	DIS
+Armbrust	CON
+.	NIL
+
+Er	PRO
+sang	EPS
+ein	DIS
+Medley	CON
+von	REL
+Simon~and~Garfunkel	ORG
+.	NIL
+
+Etwa	APX
+zwei	QUC
+Wochen	UOM
+.	NIL
+
+Jedes	AND
+Schiff	CON
+braucht	ENS
+einen	DIS
+Anker	CON
+.	NIL
+
+Wir	PRO
+haben	NOW
+Eier	CON
+gegessen	EXT
+.	NIL
+
+Wer	QUE
+hat	NOW
+„	NIL
+Der~Prinz	ART
+“	NIL
+geschrieben	EXT
+?	QUE
+
+Tom	PER
+schmierte	EPS
+seine	HAS
+Fahrradkette	CON
+.	NIL
+
+Der	DEF
+Kuchen	CON
+ist	NOW
+köstlich	IST
+.	NIL
+
+Die	DEF
+Mona~Lisa	ART
+wurde	PST
+von	REL
+Leonardo~da~Vinci	PER
+gemalt	EXS
+.	NIL
+
+Er	PRO
+gehört	ENS
+zur	DEF
+Oberschicht	CON
+.	NIL
+
+Sie	PRO
+wurde	PST
+von	REL
+einem	DIS
+Pferd	CON
+getreten	EXS
+.	NIL
+
+Die	DEF
+Schwalben	ORG
+führen	ENS
+mit	REL
+vier~zu~eins	SCO
+.	NIL
+
+Er	PRO
+hat	NOW
+uns	PRO
+verpetzt	EXT
+.	NIL
+
+Ich	PRO
+bin	NOW
+über	REL
+die	DEF
+Nachrichten	CON
+beunruhigt	IST
+.	NIL
+
+Die	DEF
+Prüfung	CON
+steht	NOW
+bevor	IST
+.	NIL
+
+Tom	PER
+ist	NOW
+auch	ALT
+Künstler	ROL
+.	NIL
+
+Weder	NOT
+Tom	PER
+noch	DIS
+Maria	PER
+spricht	ENS
+Französisch	CON
+.	NIL
+
+Er	PRO
+war	PST
+voll	INT
+besoffen	IST
+.	NIL
+
+Er	PRO
+sprang	EPS
+über	REL
+die	DEF
+Pfütze	CON
+.	NIL
+
+Das	DEF
+Tal	CON
+war	PST
+zwanzig	QUC
+Meilen	UOM
+breit	DEG
+.	NIL
+
+Tom	PER
+spielt	ENS
+gerade	NOW
+Minigolf	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+vorgeladen	EXS
+worden	PFT
+.	NIL
+
+Gertrude~Jekyll	PER
+ist	NOW
+Co-Autorin	ROL
+von	REL
+The~Wild~Garden	ART
+.	NIL
+
+Die	DEF
+Türe	CON
+war	PST
+nicht	NOT
+geschlossen	IST
+.	NIL
+
+Tom	PER
+nahm	EPS
+drei	QUC
+Schlaftabletten	CON
+.	NIL
+
+Ich	PRO
+gab	EPS
+ihm	PRO
+Nahrung	CON
+.	NIL
+
+Tom	PER
+verzog	EPS
+tapfer	IST
+das	DEF
+Gesicht	CON
+.	NIL
+
+Dieses	PRX
+Gebäude	CON
+gehört	ENS
+uns	PRO
+.	NIL
+
+Er	PRO
+war	PST
+taub	IST
+für	REL
+meine	HAS
+Bitten	CON
+.	NIL
+
+Ich	PRO
+bürstete	EPS
+ihr	PRO
+die	DEF
+Haare	CON
+.	NIL
+
+Das	DEF
+Blut	CON
+war	PST
+hellrot	COL
+.	NIL
+
+Wir	PRO
+haben	NOW
+zwei	QUC
+Füchse	CON
+gefangen	EXT
+.	NIL
+
+Sie	PRO
+können	POS
+jetzt	NOW
+nicht	NOT
+gehen	EXS
+.	NIL
+
+Was	QUE
+kosten	ENS
+zehn	QUC
+Pappteller	CON
+?	QUE
+
+Dieser	PRX
+Politiker	ROL
+ist	NOW
+keineswegs	NOT
+ehrlich	IST
+.	NIL
+
+Mit	REL
+achtzehn	QUC
+heiratete	EPS
+er	PRO
+.	NIL
+
+Meg	PER
+ist	NOW
+so	EQU
+groß	IST
+wie	REL
+Ken	PER
+.	NIL
+
+Deine	HAS
+Schicht	CON
+endet	EFS
+um	REL
+2:30~Uhr	CLO
+.	NIL
+
+Die	DEF
+Kavallerie	CON
+bestürmte	EPS
+den	DEF
+Feind	ROL
+.	NIL
+
+Ich	PRO
+wurde	PST
+am	DEF
+10.	DOM
+Oktober	MOY
+1972	YOC
+geboren	EXS
+.	NIL
+
+Ich	PRO
+habe	NOW
+Wölfe	CON
+in	REL
+den	DEF
+Apeninnen	GEO
+gesehen	EXT
+.	NIL
+
+Er	PRO
+flog	EPS
+von	REL
+London	GPE
+nach	REL
+Paris	GPE
+.	NIL
+
+Er	PRO
+bestellte	EPS
+ein	DIS
+Bier	CON
+.	NIL
+
+Miriam	PER
+wollte	EPS
+Thomas	PER
+heiraten	EXS
+.	NIL
+
+Spartan~Air~Lines	ORG
+hat	PST
+die	DEF
+United~Airways	ORG
+übernommen	EXT
+.	NIL
+
+Wehkamp	ORG
+war	PST
+in	REL
+den	DEF
+UK	GPE
+ansässig	EXS
+.	NIL
+
+Vladislav~Listyev	PER
+wurde	PST
+in	REL
+Moskau	GPE
+ermordet	EXS
+.	NIL
+
+Das	PRO
+wird	FUT
+30	QUC
+€	UOM
+kosten	EXS
+.	NIL
+
+Wir	PRO
+verbannten	EPS
+ihn	PRO
+aus	REL
+dem	DEF
+Land	CON
+.	NIL
+
+Der	DEF
+Arzt	ROL
+untersuchte	EPS
+die	DEF
+Patienten	ROL
+.	NIL
+
+Ein	AND
+Elefant	CON
+hat	EXS
+eine	DIS
+lange	DEG
+Nase	CON
+.	NIL
+
+Das	DEF
+Geld	CON
+liegt	ENS
+auf	REL
+dem	DEF
+Tisch	CON
+.	NIL
+
+Scrooge	PER
+zitterte	EPS
+mehr~und~mehr	IST
+.	NIL
+"	NIL
+
+Ich	PRO
+verneinte	EPS
+es	PRO
+.	NIL
+
+Sind	NOW
+sie	PRO
+groß	DEG
+?	QUE
+
+Er	PRO
+ist	NOW
+stärker	MOR
+als	REL
+du	PRO
+.	NIL
+
+Mein	HAS
+fauler	IST
+Zahn	CON
+wurde	PST
+entfernt	EXS
+.	NIL
+
+Ich	PRO
+habe	NOW
+ihn	PRO
+im	REL
+Januar	MOY
+getroffen	EXT
+.	NIL
+
+Tom	PER
+hat	ENS
+Hunderte	QUV
+von	REL
+Büchern	CON
+.	NIL
+
+Ich	PRO
+lerne	ENS
+Chinesisch	CON
+.	NIL
+
+Toni	PER
+wohnt	ENS
+in	REL
+Kōbe	GPE
+.	NIL
+
+Mein	HAS
+jüngerer	MOR
+Bruder	ROL
+ist	NOW
+größer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Der	DEF
+Kühlschrank	CON
+ist	NOW
+offen	IST
+.	NIL
+
+Der	DEF
+Donner	CON
+grollte	EPS
+.	NIL
+
+Tom	PER
+ist	ENS
+gerade	NOW
+in	REL
+meinem	HAS
+Büro	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+Wein	CON
+getrunken	EXT
+.	NIL
+
+Tom	PER
+riss	EPS
+die	DEF
+Seite	CON
+heraus	REL
+.	NIL
+
+Diese	PRX
+Uhr	CON
+hat	NOW
+deinem	HAS
+Großvater	ROL
+gehört	EXT
+.	NIL
+
+Ich	PRO
+bin	NOW
+leicht	INT
+hungrig	IST
+.	NIL
+
+In	REL
+der	DEF
+Schachtel	CON
+sind	ENS
+viele	QUV
+Eier	CON
+.	NIL
+
+Entfernen	EXS
+Sie	PRO
+das	DEF
+Haar	CON
+mit	REL
+einer	DIS
+Rasierklinge	CON
+.	NIL
+
+Nimm	EXS
+ein	DIS
+Ei	CON
+aus	REL
+dem	DEF
+Kühlschrank	CON
+.	NIL
+
+Drei	QUC
+mal	CON
+fünf	QUC
+ist	EXS
+fünfzehn	QUC
+.	NIL
+
+Nichts	NOT
+ist	NOW
+heilig	IST
+.	NIL
+
+Erzählungen	CON
+über	REL
+ihre	HAS
+mutigen	IST
+Taten	CON
+durcheilten	EPS
+das	DEF
+Land	CON
+.	NIL
+
+Maria	PER
+zückte	EPS
+ihre	HAS
+Stricknadeln	CON
+.	NIL
+
+Eine	DIS
+Ratte	CON
+hat	NOW
+ein	DIS
+Loch	CON
+in	REL
+die	DEF
+Wand	CON
+genagt	EXT
+.	NIL
+
+Maria	PER
+kniet	ENS
+.	NIL
+
+Betty	PER
+hat	NOW
+ihn	PRO
+getötet	EXT
+.	NIL
+
+Er	PRO
+wurde	PST
+von	REL
+Tom	PER
+verführt	EXS
+.	NIL
+
+Sie	PRO
+klopfte	EPS
+an	REL
+die	DEF
+Tür	CON
+.	NIL
+
+Sie	PRO
+gab	EPS
+mir	PRO
+ihre	HAS
+Telefonnummer	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+auch	ALT
+nicht	NOT
+angerufen	EXT
+.	NIL
+
+Mit~anderen~Worten	ALT
+,	NIL
+er	PRO
+ist	NOW
+faul	IST
+.	NIL
+
+Ich	PRO
+habe	NOW
+das	DEF
+Wochenende	CON
+mit	REL
+Freunden	ROL
+verbracht	EXT
+.	NIL
+
+Ich	PRO
+fahre	ENS
+einen	DIS
+Lieferwagen	CON
+.	NIL
+
+Ich	PRO
+kenne	ENS
+das	DEF
+Wort	CON
+"	NIL
+unmöglich	LIT
+"	NIL
+nicht	NOT
+.	NIL
+
+Sie	PRO
+hat	NOW
+einen	DIS
+Amerikaner	GPO
+geheiratet	EXT
+.	NIL
+
+Ich	PRO
+spreche	ENS
+kein	NOT
+Französisch	CON
+.	NIL
+
+Niemand	NOT
+wettet	ENS
+.	NIL
+
+Ein	AND
+typisch	IST
+bayerisches	GPO
+Frühstück	CON
+besteht	ENS
+aus	REL
+Weißwurst	CON
+,	REL
+Weißbier	CON
+und	GRP
+Brezeln	CON
+.	NIL
+
+Tom	PER
+streute	EXS
+etwas	DIS
+Zucker	CON
+auf	REL
+den	DEF
+Toast	CON
+.	NIL
+
+Emily	PER
+aß	EPS
+einen	DIS
+Apfel	CON
+.	NIL
+
+Der	DEF
+Orkan	CON
+Sandy	NTH
+kommt	ENS
+.	NIL
+
+Sie	PRO
+ergriff	EPS
+meine	HAS
+Hand	CON
+.	NIL
+
+Mein	HAS
+Fuß	CON
+schmerzt	ENS
+.	NIL
+
+Tom	PER
+ist	NOW
+bestürzt	IST
+.	NIL
+
+Ich	PRO
+habe	NOW
+nie	NOT
+Golf	CON
+gespielt	EXT
+.	NIL
+
+Meine	HAS
+Mutter	ROL
+gab	EPS
+mir	PRO
+ihre	HAS
+Nähmaschine	CON
+.	NIL
+
+Mein	HAS
+Bruder	ROL
+ist	NOW
+acht	QUC
+Jahre	UOM
+älter	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Tom	PER
+hat	NOW
+verschlafen	EXT
+.	NIL
+
+Der	DEF
+Dichter	ROL
+verglich	EPS
+den	DEF
+Tod	CON
+dem	DEF
+Schlafe	CON
+.	NIL
+
+Vladislav~Listyev	PER
+wurde	PST
+in	REL
+Moskau	GPE
+ermordet	EXS
+.	NIL
+
+Der	DEF
+Fluss	CON
+fließt	ENS
+in	REL
+den	DEF
+Pazifik	GEO
+.	NIL
+
+Im	DEF
+Kühlschrank	CON
+ist	ENS
+Milch	CON
+.	NIL
+
+Meine	HAS
+Eltern	ROL
+sprechen	ENS
+kein	NOT
+Niederländisch	CON
+.	NIL
+
+Er	PRO
+ließ	PST
+eine	DIS
+Vase	CON
+fallen	EXS
+.	NIL
+
+Tom	PER
+ist	NOW
+kleiner	MOR
+als	REL
+sein	HAS
+Bruder	ROL
+.	NIL
+
+Sie	PRO
+ist	NOW
+drei	QUC
+Jahre	UOM
+älter	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Wir	PRO
+sind	NIL
+jetzt	NOW
+etwa	APX
+160	QUC
+Kilometer	UOM
+von	REL
+Boston	GPE
+entfernt	IST
+.	NIL
+
+Sie	PRO
+ernannten	EPS
+ihn	PRO
+zum	REL
+Vorsitzenden	CON
+.	NIL
+
+Tom	PER
+schaltete	EPS
+seinen	HAS
+Rechner	CON
+aus	REL
+.	NIL
+
+Alle	AND
+warten	ENS
+auf	REL
+dich	PRO
+.	NIL
+
+Ich	PRO
+aß	EPS
+die	DEF
+roten	COL
+Äpfel	CON
+.	NIL
+
+Tom	PER
+s	HAS
+Computer	CON
+stürzte	EPS
+ab	REL
+,	NIL
+und	COO
+er	PRO
+verlor	EPS
+etliche	QUV
+wichtige	IST
+Dateien	CON
+.	NIL
+
+Ein	QUC
+Dollar	UOM
+ist	NIL
+gleich	IST
+hundert	QUC
+Cent	UOM
+.	NIL
+
+Die	DEF
+Terroristen	ROL
+griffen	EPS
+eine	DIS
+Moschee	CON
+an	REL
+.	NIL
+
+Mein	HAS
+Bruder	ROL
+nannte	EPS
+seine	HAS
+Katze	CON
+Hanako	LIT
+.	NIL
+
+Ich	PRO
+schrieb	EPS
+Briefe	CON
+.	NIL
+
+Italienisch	CON
+ist	ENS
+meine	HAS
+Muttersprache	CON
+.	NIL
+
+Woodrow~Wilson	PER
+war	PST
+äußerst	INT
+krank	IST
+.	NIL
+
+Ich	PRO
+mag	ENS
+Volkslieder	CON
+.	NIL
+
+Sie	PRO
+überlebten	EPS
+,	NIL
+wenngleich	BUT
+das	DEF
+Gebäude	CON
+zerstört	EXS
+wurde	PST
+.	NIL
+
+George	PER
+hat	NOW
+meine	HAS
+Schwester	ROL
+geheiratet	EXT
+.	NIL
+
+Jemand	DIS
+hat	NOW
+mir	PRO
+auf	REL
+die	DEF
+Schulter	CON
+getippt	EXT
+.	NIL
+
+Meine	HAS
+Tante	ROL
+hat	NOW
+das	DEF
+riesige	IST
+Grundstück	CON
+geerbt	EXT
+.	NIL
+
+Es	PRO
+war	PST
+halb~acht	CLO
+.	NIL
+
+Das	DEF
+arme	IST
+Kind	CON
+leidet	ENS
+an	REL
+Heuschnupfen	CON
+.	NIL
+
+Tom	PER
+ist	ENS
+ein	DIS
+leidenschaftlicher	IST
+Radfahrer	ROL
+.	NIL
+
+Beverly	PER
+arbeitete	EPS
+bei	REL
+der	DEF
+WEDCOR	ORG
+.	NIL
+
+Kieslowski	PER
+ist	NOW
+ein	DIS
+Regisseur	ROL
+.	NIL
+
+Ich	PRO
+zahlte	EPS
+ihm	PRO
+fünf	QUC
+Dollar	UOM
+.	NIL
+
+Ich	PRO
+wohne	ENS
+i	REL
+m	DEF
+Erdgeschoss	CON
+.	NIL
+
+Der	DEF
+Zweite~Weltkrieg	HAP
+brach	EPS
+1939	YOC
+aus	REL
+.	NIL
+
+Du	PRO
+hast	NOW
+drei	QUC
+Tassen	CON
+Kaffee	CON
+getrunken	EXT
+.	NIL
+
+Meine	HAS
+Katze	CON
+bellt	ENS
+.	NIL
+
+Ich	PRO
+habe	NOW
+für	REL
+Anna	PER
+ein	DIS
+Püppchen	CON
+gemacht	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+einen	DIS
+Apfelkuchen	CON
+gebacken	EXT
+.	NIL
+
+Ich	PRO
+bemale	ENS
+ein	DIS
+Osterei	CON
+.	NIL
+
+Der	DEF
+Hund	CON
+schnüffelte	EPS
+am	DEF
+Boden	CON
+.	NIL
+
+Niemand	NOT
+ist	NOW
+gestorben	EXT
+.	NIL
+
+Du	PRO
+musst	NEC
+um	REL
+sechs	CLO
+aufstehen	EXS
+.	NIL
+
+Er	PRO
+ist	NOW
+stinkreich	IST
+.	NIL
+
+Nixon	PER
+wurde	PST
+in	REL
+Kalifornien	GPE
+geboren	EXS
+.	NIL
+
+Watanabe	LIT
+ist	ENS
+mein	HAS
+Familienname	CON
+.	NIL
+
+Ihr	PRO
+seid	NOW
+eitel	IST
+.	NIL
+
+Ich	PRO
+bin	ENS
+Detektiv	ROL
+.	NIL
+
+Emily	PER
+kann	POS
+schwimmen	EXS
+.	NIL
+
+Unser	HAS
+Bus	CON
+ist	NOW
+mit	REL
+einem	DIS
+Lastwagen	CON
+zusammengestoßen	EXT
+.	NIL
+
+Ich	PRO
+war	PST
+völlig	INT
+verblüfft	IST
+.	NIL
+
+Es	PRO
+ist	NOW
+zehn~vor~elf	CLO
+.	NIL
+
+Er	PRO
+glaubt	ENS
+nicht	NOT
+an	REL
+die	DEF
+Erderwärmung	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+in	REL
+das	DEF
+Studium	CON
+der	DEF
+Linguistik	CON
+vertieft	IST
+.	NIL
+
+Tom	PER
+stach	EPS
+Mary	PER
+mit	REL
+seinem	HAS
+Messer	CON
+.	NIL
+
+Die	DEF
+Gefangenen	ROL
+entkommen	ENS
+!	EMP
+
+Die	DEF
+Bücherei	CON
+ist	ENS
+in	REL
+der	DEF
+vierten	ORD
+Etage	CON
+.	NIL
+
+Tom	PER
+warf	EPS
+in	REL
+der	DEF
+Mitte	CON
+des	REL
+Zimmers	CON
+alles	AND
+auf	REL
+einen	DIS
+Haufen	CON
+.	NIL
+
+Plünderer	ROL
+stahlen	EPS
+alte	IST
+Artefakte	CON
+aus	REL
+dem	DEF
+Grab	CON
+.	NIL
+
+Wir	PRO
+sind	NOW
+nicht	NOT
+so	EQU
+jung	IST
+wie	REL
+Tom	PER
+.	NIL
+
+Fast~Food	CON
+ist	NOW
+in	REL
+Japan	GPE
+sehr	INT
+beliebt	IST
+.	NIL
+
+Meine	HAS
+Frau	ROL
+leidet	ENS
+an	REL
+einer	DIS
+Lungenentzündung	CON
+.	NIL
+
+Molière	PER
+wurde	PST
+1622	YOC
+geboren	EXS
+.	NIL
+
+Mein	HAS
+Gesicht	CON
+zuckt	ENS
+.	NIL
+
+Ein	DIS
+japanischer	GPO
+Geschäftsmann	ROL
+kaufte	EPS
+das	DEF
+Kunstwerk	CON
+für	REL
+200~Millionen	QUC
+Yen	UOM
+.	NIL
+
+Sie	PRO
+waren	PST
+beide	AND
+nackt	IST
+.	NIL
+
+Er	PRO
+hat	NOW
+hundert	QUC
+Dollar	UOM
+gespart	EXT
+.	NIL
+
+Sie	PRO
+gewann	EPS
+eine	DIS
+Goldmedaille	CON
+.	NIL
+
+Lucy	PER
+kann	POS
+nicht	NOT
+mit	REL
+Stäbchen	CON
+essen	EXS
+.	NIL
+
+Tom	PER
+melkt	ENS
+die	DEF
+Kuh	CON
+.	NIL
+
+Der	DEF
+Name	CON
+meiner	HAS
+Schwester	ROL
+ist	ENS
+Patricia	LIT
+.	NIL
+
+Ungefähr	APX
+ein~Drittel	QUC
+der	DEF
+Oberfläche	CON
+der	DEF
+Erde	NTH
+ist	ENS
+Land	CON
+.	NIL
+
+Ich	PRO
+breche	ENS
+die	DEF
+Schule	CON
+ab	REL
+.	NIL
+
+Wessen	HAS
+Klapprechner	CON
+ist	ENS
+das	PRX
+?	QUE
+
+Dean~Lynn~Hart	PER
+lebt	ENS
+in	REL
+Truckee~River~Trail	GEO
+.	NIL
+
+Nikos~Kourkoulos	PER
+war	EPS
+ein	DIS
+griechischer	GPO
+Schauspieler	ROL
+.	NIL
+
+Wilkins	PER
+verließ	EPS
+1987	YOC
+Mailand	GPE
+.	NIL
+
+Klaus~Pohl	PER
+ist	ENS
+ein	DIS
+deutscher	GPO
+Dramatiker	ROL
+.	NIL
+
+Mein	HAS
+Großvater	ROL
+wurde	PST
+1920	YOC
+geboren	EXS
+.	NIL
+
+Ich	PRO
+erzählte	EPS
+ihm	PRO
+von	REL
+unserer	HAS
+Schule	CON
+.	NIL
+
+Der	DEF
+Fahrstuhl	CON
+funktioniert	ENS
+nicht	NOT
+.	NIL
+
+Die	DEF
+Sitzung	CON
+ist	NOW
+aufgehoben	EXS
+.	NIL
+
+Ich	PRO
+bürstete	EPS
+mir	PRO
+das	DEF
+Haar	CON
+.	NIL
+
+Tom	PER
+schäkerte	EPS
+mit	REL
+Maria	PER
+.	NIL
+
+Sie	PRO
+erpresste	EPS
+ihn	PRO
+.	NIL
+
+Ich	PRO
+bin	NOW
+mit	REL
+ihrer	HAS
+Aufführung	CON
+zufrieden	IST
+.	NIL
+
+Das	DEF
+Flugzeug	CON
+näherte	EPS
+sich	REF
+London	GPE
+.	NIL
+
+Ich	PRO
+habe	NOW
+einen	DIS
+Bulli	CON
+gekauft	EXT
+.	NIL
+
+Tom	PER
+füllte	EPS
+erneut	ALT
+sein	HAS
+Glas	CON
+.	NIL
+
+Ich	PRO
+sollte	NEC
+meine	HAS
+Reise	CON
+nach	REL
+Los~Angeles	GPE
+canceln	EXS
+.	NIL
+
+Ken	PER
+ist	NOW
+glücklich	IST
+.	NIL
+
+Ich	PRO
+wurde	PST
+um	REL
+fünf~Uhr	CLO
+geweckt	EXS
+.	NIL
+
+Tom	PER
+nickte	EPS
+mir	PRO
+zu	REL
+.	NIL
+
+Meine	HAS
+Schwester	ROL
+ist	NOW
+kleiner	MOR
+als	REL
+du	PRO
+.	NIL
+
+Sie	PRO
+hat	NOW
+mit	REL
+ihrem	HAS
+Chef	ROL
+geschlafen	EXT
+.	NIL
+
+Ich	PRO
+spreche	ENS
+kein	NOT
+Katalanisch	CON
+.	NIL
+
+Dieses	PRX
+Buch	CON
+ist	NOW
+bei	REL
+den	DEF
+Studenten	ROL
+beliebt	IST
+.	NIL
+
+Er	PRO
+ist	NOW
+auf	REL
+einer	DIS
+Bananenschale	CON
+ausgerutscht	EXT
+.	NIL
+
+Sie	PRO
+hat	NOW
+ein	DIS
+Dutzend	QUC
+Eier	CON
+gekauft	EXT
+.	NIL
+
+Du	PRO
+bist	NOW
+nicht	NOT
+kleiner	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Seine	HAS
+Arbeit	CON
+ist	NOW
+jetzt	NOW
+vollendet	IST
+.	NIL
+
+Alle	AND
+sind	NOW
+glücklich	IST
+.	NIL
+
+Dean~Lynn~Hart	PER
+befindet	ENS
+sich	REF
+in	REL
+Storey~County	GPE
+.	NIL
+
+Ich	PRO
+habe	NOW
+Durst	IST
+.	NIL
+
+Mary	PER
+ohrfeigte	EPS
+Tom	PER
+.	NIL
+
+Die	DEF
+Katzen	CON
+haben	NOW
+Angst	IST
+vor	REL
+Wasser	CON
+.	NIL
+
+Das	DEF
+Kind	CON
+rannte	EPS
+zu	REL
+seiner	HAS
+Mutter	ROL
+.	NIL
+
+Er	PRO
+bekam	EPS
+eine	DIS
+Vier	SCO
+.	NIL
+
+Diese	PRX
+Klasse	CON
+besteht	ENS
+aus	REL
+15	QUC
+Jungs	CON
+und	GRP
+28	QUC
+Mädchen	CON
+.	NIL
+
+Diese	PRX
+Erdölleitung	CON
+leckt	ENS
+.	NIL
+
+Jeder	AND
+schätzt	ENS
+Geld	CON
+.	NIL
+
+Eine	DIS
+Katze	CON
+hat	NOW
+mich	PRO
+gekratzt	EXT
+.	NIL
+
+Tom	PER
+hat	NOW
+an	REL
+der	DEF
+Tür	CON
+geklingelt	EXT
+.	NIL
+
+Er	PRO
+kaufte	EPS
+das	DEF
+Haus	CON
+,	NIL
+weil	SUB
+seine	HAS
+Frau	ROL
+es	PRO
+mochte	EPS
+.	NIL
+
+Ich	PRO
+ziehe	ENS
+Rotwein	CON
+Weißwein	CON
+vor	REL
+.	NIL
+
+Tom	PER
+und	GRP
+Maria	PER
+retteten	EPS
+ein	DIS
+verwaistes	IST
+Kätzchen	CON
+.	NIL
+
+Ist	NOW
+diese	DST
+Waffe	CON
+geladen	IST
+?	QUE
+
+Ich	PRO
+schulde	ENS
+dir	PRO
+zehn	QUC
+Dollar	UOM
+.	NIL
+
+Napoleon~Bonaparte	PER
+wurde	PST
+auf	REL
+Korsika	GPE
+geboren	EXS
+.	NIL
+
+Der	DEF
+Stier	CON
+entkam	EPS
+aus	REL
+dem	DEF
+Ring	CON
+.	NIL
+
+Die	DEF
+Sonne	CON
+hat	NOW
+ihre	HAS
+Haut	CON
+gebräunt	EXT
+.	NIL
+
+Er	PRO
+schätzte	EPS
+den	DEF
+Schaden	CON
+auf	REL
+fünf~Millionen	QUC
+Yen	UOM
+.	NIL
+
+Oscar~Chisini	PER
+starb	EPS
+im	DEF
+Jahre	CON
+1967	YOC
+.	NIL
+
+Ich	PRO
+habe	NOW
+Kaviar	CON
+gegessen	EXT
+.	NIL
+
+Er	PRO
+ist	NOW
+größer	MOR
+als	REL
+sein	HAS
+Bruder	ROL
+.	NIL
+
+Er	PRO
+wohnt	ENS
+in	REL
+Tokio	GPE
+.	NIL
+
+Japan	GPE
+führt	ENS
+Orangen	CON
+aus	REL
+Kalifornien	GPE
+ein	REL
+.	NIL
+
+Ich	PRO
+bin	NOW
+allergisch	IST
+gegen	REL
+Hummer	CON
+.	NIL
+
+Hatte	EPS
+er	PRO
+Parkinson	CON
+?	QUE
+
+Der	DEF
+Ball	CON
+traf	EPS
+die	DEF
+Latte	CON
+.	NIL
+
+Er	PRO
+heiratete	EPS
+Ann	PER
+.	NIL
+
+Tom	PER
+schert	ENS
+die	DEF
+Schafe	CON
+.	NIL
+
+Texas	GPE
+grenzt	ENS
+an	REL
+Mexiko	GPE
+.	NIL
+
+Nackte	IST
+Jungen	CON
+schwammen	EPS
+im	DEF
+Fluss	CON
+.	NIL
+
+Er	PRO
+hat	ENS
+höchstens	TOP
+100	QUC
+Dollar	UOM
+.	NIL
+
+Dieses	PRX
+Buch	CON
+gehört	ENS
+Paolo	PER
+.	NIL
+
+Sie	PRO
+ist	NOW
+höchstens	TOP
+achtzehn	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Du	PRO
+trinkst	ENS
+Kirsch	CON
+saft	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+vierunddreißig	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Tom	PER
+trank	EPS
+Milch	CON
+.	NIL
+
+Der	DEF
+Karren	CON
+stand	EPS
+i	REL
+m	DEF
+Schuppen	CON
+.	NIL
+
+Er	PRO
+wiegt	ENS
+siebzig	QUC
+Kilo	UOM
+.	NIL
+
+Drei	QUC
+Glühbirnen	CON
+sind	NOW
+durchgebrannt	EXT
+.	NIL
+
+Du	PRO
+bist	NOW
+unwiderstehlich	IST
+.	NIL
+
+Ich	PRO
+werde	FUT
+dir	PRO
+dieses	PRX
+Buch	CON
+geben	EXS
+.	NIL
+
+Sie	PRO
+schlug	EPS
+ihm	PRO
+in	REL
+s	DEF
+Gesicht	CON
+.	NIL
+
+Es	NIL
+schneit	ENS
+.	NIL
+
+Die	DEF
+Titanic	ART
+sank	EPS
+auf	REL
+ihrer	HAS
+Jungfernfahrt	CON
+.	NIL
+
+Sie	PRO
+war	EPS
+ein	DIS
+großes	DEG
+Schiff	CON
+.	NIL
+
+Jedinstwo	ORG
+.	NIL
+
+Wo	QUE
+arbeitet	ENS
+Raymond~Pettibon	PER
+?	QUE
+
+Tom	PER
+legte	EPS
+den	DEF
+Schläger	CON
+auf	REL
+den	DEF
+Boden	CON
+.	NIL
+
+In	REL
+welchem	QUE
+Jahr	CON
+wurde	PST
+dein	HAS
+Hund	CON
+geboren	EXS
+?	QUE
+
+Er	PRO
+steht	ENS
+vielen	QUV
+Hindernissen	CON
+gegenüber	REL
+.	NIL
+
+Meine	HAS
+Frau	ROL
+wird	FUT
+mich	REF
+umbringen	EXS
+.	NIL
+
+Griechenland	GPE
+sagt	ENS
+die	DEF
+Volksabstimmung	CON
+ab	REL
+.	NIL
+
+Ich	PRO
+lerne	ENS
+gerade	NOW
+.	NIL
+
+Du	PRO
+bist	NOW
+drei	QUC
+Zentimeter	UOM
+größer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Jesus	PER
+hat	ENS
+Bauchmuskeln	CON
+aus	REL
+Stahl	CON
+.	NIL
+
+Niemand	NOT
+sprach	EPS
+mit	REL
+mir	PRO
+.	NIL
+
+Ich	PRO
+habe	NOW
+diesen	DST
+Kugelschreiber	CON
+für	REL
+2	QUC
+Dollar	UOM
+gekauft	EXT
+.	NIL
+
+Sie	PRO
+ist	NOW
+nicht	NOT
+so	EQU
+hübsch	IST
+wie	REL
+ihre	HAS
+Schwester	ROL
+.	NIL
+
+Die	DEF
+Neuankömmlinge	ROL
+wurden	PST
+rasch	IST
+in	REL
+die	DEF
+Gemeinschaft	CON
+aufgenommen	EXT
+.	NIL
+
+Ich	PRO
+fühle	EPS
+mich	PRO
+etwas	INT
+müde	IST
+.	NIL
+
+Ich	PRO
+habe	NOW
+40.000	QUC
+Yen	UOM
+für	REL
+dieses	PRX
+Tonbandgerät	CON
+bezahlt	EXT
+.	NIL
+
+Tom	PER
+und	GRP
+Mary	PER
+spielen	ENS
+Monopoly	CON
+.	NIL
+
+Maria	PER
+liebt	ENS
+Schuhe	CON
+mit	REL
+hohen	DEG
+Absätzen	CON
+.	NIL
+
+"	NIL
+Der~Konsum~von~Kindern	ART
+"	NIL
+wurde	PST
+von	REL
+Susan~Linn	PER
+geschrieben	EXS
+.	NIL
+
+Ich	PRO
+bin	NOW
+müde	IST
+.	NIL
+
+Tom	PER
+spitzte	EPS
+einen	DIS
+Bleistift	CON
+an	REL
+.	NIL
+
+Sie	PRO
+zogen	EPS
+ihr	HAS
+Boot	CON
+auf	REL
+den	DEF
+Strand	CON
+.	NIL
+
+Maria	PER
+wurde	PST
+wegen	REL
+Ladendiebstahls	CON
+verhaftet	EXS
+.	NIL
+
+Ich	PRO
+stand	EPS
+um	REL
+sechs	CLO
+auf	REL
+.	NIL
+
+Thomas~Edison	PER
+hat	NOW
+die	DEF
+Glühbirne	CON
+erfunden	EXT
+.	NIL
+
+Tom	PER
+ist	NOW
+eitel	IST
+.	NIL
+
+Tom	PER
+holte	EPS
+einen	DIS
+Stift	CON
+heraus	REL
+.	NIL
+
+Mein	HAS
+Name	CON
+steht	ENS
+nicht	NOT
+auf	REL
+der	DEF
+Liste	CON
+.	NIL
+
+Tom	PER
+merkte	EPS
+nicht	NOT
+,	NIL
+dass	SUB
+er	PRO
+seinen	HAS
+Pullover	CON
+verkehrt~herum	IST
+anhatte	EPS
+.	NIL
+
+Maria	PER
+kreischte	EPS
+.	NIL
+
+Ich	PRO
+aß	EPS
+die	DEF
+grünen	COL
+Äpfel	CON
+.	NIL
+
+Jim	PER
+mag	ENS
+keine	NOT
+Äpfel	CON
+,	NIL
+oder	QUE
+?	QUE
+
+Sie	PRO
+mag	ENS
+kurze	IST
+Röcke	CON
+.	NIL
+
+Er	PRO
+fuhr	EPS
+sein	HAS
+Auto	CON
+nach	REL
+Yokohama	GPE
+.	NIL
+
+Ich	PRO
+fällte	EPS
+einen	DIS
+Baum	CON
+.	NIL
+
+Wie	QUE
+lautet	ENS
+dein	HAS
+Nachname	CON
+?	QUE
+
+Du	PRO
+bist	NOW
+verwirrt	IST
+.	NIL
+
+Diese	PRX
+Mauer	CON
+ist	NOW
+höher	MOR
+als	REL
+jene	DST
+.	NIL
+
+Christo	PER
+verhüllt	ENS
+den	DEF
+deutschen	GPO
+Reichstag	ART
+.	NIL
+
+Lukoil	ORG
+hat	NOW
+2004	YOC
+eine	DIS
+Milliarde	QUC
+Dollar	UOM
+verdient	EXT
+.	NIL
+
+Er	PRO
+ist	NOW
+faul	IST
+.	NIL
+
+Er	PRO
+verstieß	EPS
+gegen	REL
+das	DEF
+Gesetz	CON
+.	NIL
+
+Vielleicht	POS
+war	PST
+er	PRO
+krank	IST
+.	NIL
+
+Er	PRO
+arbeitet	ENS
+als	REL
+Gondelführer	CON
+in	REL
+Venedig	GPE
+.	NIL
+
+Er	PRO
+wurde	PST
+gefoltert	EXS
+und	COO
+ermordet	EXS
+.	NIL
+
+Der	DEF
+Vogel	CON
+fliegt	ENS
+.	NIL
+
+Die	DEF
+Deutsche~Telekom~AG	ORG
+verstärkt	ENS
+ihre	HAS
+Präsenz	CON
+in	REL
+China	GPE
+.	NIL
+
+Wir	PRO
+haben	NOW
+3~zu~0	SCO
+verloren	EXT
+.	NIL
+
+Tom	PER
+schreibt	ENS
+gerade	NOW
+an	REL
+einem	DIS
+Roman	CON
+.	NIL
+
+Ein	AND
+Elefant	CON
+ist	EQU
+ein	DIS
+starkes	IST
+Tier	CON
+.	NIL
+
+Er	PRO
+stopfte	EPS
+seine	HAS
+Wäsche	CON
+in	REL
+einen	DIS
+großen	DEG
+Sack	CON
+.	NIL
+
+Der	DEF
+Journalist	ROL
+wurde	PST
+von	REL
+Terroristen	ROL
+entführt	EXS
+.	NIL
+
+Ich	PRO
+erschlug	EPS
+die	DEF
+Ratte	CON
+mit	REL
+einem	DIS
+Stock	CON
+.	NIL
+
+Er	PRO
+starb	EPS
+an	REL
+einem	DIS
+Herzanfall	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+enttäuscht	IST
+über	REL
+die	DEF
+Nachricht	CON
+.	NIL
+
+Du	PRO
+bist	NOW
+nicht	NOT
+weniger	LES
+hübsch	IST
+wie	REL
+sie	PRO
+.	NIL
+
+Ich	PRO
+habe	NOW
+in	REL
+den	DEF
+Achselhöhlen	CON
+geschwitzt	EXT
+.	NIL
+
+Dieses	PRX
+Tier	CON
+ist	NOW
+sehr	INT
+intelligent	IST
+.	NIL
+
+Der	DEF
+Techniker	ROL
+kletterte	EPS
+auf	REL
+den	DEF
+Telefonmast	CON
+.	NIL
+
+Tom	PER
+bezahlte	EPS
+es	PRO
+mit	REL
+Kreditkarte	CON
+.	NIL
+
+Ich	PRO
+bin	ENS
+ein	DIS
+ehemaliger	PST
+Marinesoldat	ROL
+.	NIL
+
+Ist	NOW
+das	PRO
+legal	IST
+?	QUE
+
+Tom	PER
+hat	NOW
+sich	REF
+gewaschen	EXT
+.	NIL
+
+Jeder	AND
+Einzelne	CON
+zahlte	EPS
+7.000	QUC
+Dollar	UOM
+.	NIL
+
+Sie	PRO
+ist	NOW
+etwas	QUV
+jünger	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Zwei	QUC
+Schafe	CON
+wurden	PST
+von	REL
+einem	DIS
+Wolf	CON
+getötet	EXS
+.	NIL
+
+Louis~Riel	PER
+hat	NOW
+Scott	PER
+ermordet	EXT
+.	NIL
+
+Dies	PRX
+ist	NOW
+eine	DIS
+Million	QUC
+Yen	UOM
+wert	IST
+.	NIL
+
+http://www.anl.siemens.de/about/index_d.html	CTC
+
+http://www.uni-kassel.de/fb10/frieden/regionen/Israel/80thesen.html	CTC
+
+Woher	QUE
+stammt	ENS
+Edwin~Tang	PER
+?	QUE
+
+Tom	PER
+zieht	ENS
+seine	HAS
+Schuhe	CON
+mit	REL
+seinem	HAS
+Schuhanzieher	CON
+an	REL
+.	NIL
+
+Die	DEF
+Schweine	CON
+sind	ENS
+nicht	NOT
+im	DEF
+Stall	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+das	DEF
+Dach	CON
+hellblau	IST
+gestrichen	EXT
+.	NIL
+
+Es	NIL
+gibt	ENS
+in	REL
+Tōkyō	GPE
+etwa	APX
+460000	QUC
+Millionäre	ROL
+.	NIL
+
+Tom	PER
+bläst	ENS
+einen	DIS
+Ballon	CON
+auf	REL
+.	NIL
+
+Er	PRO
+war	PST
+vollständig	INT
+bekleidet	IST
+.	NIL
+
+Mein	HAS
+Name	CON
+ist	ENS
+Maria~Sara	LIT
+.	NIL
+
+Ich	PRO
+ermutige	ENS
+meinen	HAS
+Bruder	ROL
+.	NIL
+
+Ich	PRO
+werde	FUT
+etwas	DIS
+Leichtes	IST
+essen	EXS
+.	NIL
+
+Tom	PER
+wiegt	ENS
+ca.	APX
+300	QUC
+Pfund	UOM
+.	NIL
+
+Das	PRX
+wird	FUT
+um~die	APX
+zehntausend	QUC
+Yen	UOM
+kosten	EXS
+.	NIL
+
+Mein	HAS
+Weisheitszahn	CON
+schmerzt	ENS
+.	NIL
+
+Tom	PER
+spielte	EPS
+Gitarre	CON
+,	NIL
+und	AND
+Maria	PER
+sang	EPS
+.	NIL
+
+Ich	PRO
+bin	ENS
+bei	REL
+der	DEF
+Blaskapelle	CON
+.	NIL
+
+Ich	PRO
+spreche	ENS
+kein	NOT
+Hebräisch	CON
+.	NIL
+
+Tom	PER
+bügelte	EPS
+seine	HAS
+Kleidung	CON
+.	NIL
+
+Es	NIL
+schneit	ENS
+seit	REL
+zwei	QUC
+Tagen	UOM
+.	NIL
+
+Dieser	PRX
+Eimer	CON
+leckt	ENS
+.	NIL
+
+Ich	PRO
+kann	POS
+dich	PRO
+jetzt	NOW
+nicht	NOT
+küssen	EXS
+.	NIL
+
+Er	PRO
+sagte	EPS
+etwas	DIS
+zu	REL
+ihr	PRO
+,	NIL
+und	COO
+sie	PRO
+lächelte	EPS
+.	NIL
+
+Lincoln	PER
+starb	EPS
+1865	YOC
+.	NIL
+
+Sie	PRO
+wurde	PST
+von	REL
+Maria	PER
+verführt	EXS
+.	NIL
+
+Seine	HAS
+lange	DEG
+Rede	CON
+langweilte	EPS
+alle	AND
+.	NIL
+
+Kiesbauer	PER
+war	EPS
+im	DEF
+Juni	MOY
+1995	YOC
+Ziel	CON
+einer	REL
+Briefbombe	CON
+.	NIL
+
+Ihre	HAS
+Sekretärin	ROL
+wurde	PST
+verletzt	EXS
+.	NIL
+
+Gotti	PER
+wurde	PST
+der	REL
+Erpressung	CON
+beschuldigt	EXS
+.	NIL
+
+Eine	DIS
+Briefbombe	CON
+wurde	PST
+an	REL
+Kiesbauer	PER
+gesendet	EXS
+.	NIL
+
+Mabel~Normand	PER
+spielte	EPS
+in	REL
+The~Extra~Girl	ART
+eine	DIS
+Hauptrolle	CON
+.	NIL
+
+Der	AND
+Igel	CON
+ist	EXS
+ein	DIS
+kleines	DEG
+Tier	CON
+.	NIL
+
+General	ROL
+Alexejew	PER
+weinte	EPS
+.	NIL
+
+Wo	QUE
+starb	EPS
+Irving~Mitchell~Felt	PER
+?	QUE
+
+Er	PRO
+rülpste	EPS
+.	NIL
+
+Brian	PER
+hat	NOW
+einen	DIS
+Lippenstift	CON
+für	REL
+Kate	PER
+gekauft	EXT
+.	NIL
+
+Niemand	NOT
+sprach	EPS
+über	REL
+den	DEF
+Film	CON
+.	NIL
+
+Jene	DST
+Düsenflugzeuge	CON
+waren	PST
+schneller	MOR
+als	REL
+der	DEF
+Blitz	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+einen	DIS
+alten	IST
+Freund	ROL
+getroffen	EXT
+.	NIL
+
+Charlotte~Brontë	PER
+war	EPS
+eine	DIS
+britische	GPO
+Romanschriftstellerin	ROL
+.	NIL
+
+Ich	PRO
+singe	ENS
+mit	REL
+meinen	HAS
+Kindern	ROL
+.	NIL
+
+Er	PRO
+trat	EPS
+von	REL
+der	DEF
+Stelle	CON
+zurück	REL
+.	NIL
+
+Ich	PRO
+spiele	ENS
+ein	DIS
+Spiel	CON
+mit	REL
+meiner	HAS
+Schwester	ROL
+.	NIL
+
+Er	PRO
+warf	EPS
+den	DEF
+Ball	CON
+.	NIL
+
+Ich	PRO
+kann	POS
+Marika	PER
+nicht	NOT
+anrufen	EXS
+.	NIL
+
+Sie	PRO
+wohnt	ENS
+in	REL
+Finnland	GPE
+!	NIL
+
+Er	PRO
+war	EPS
+auf	REL
+dem	DEF
+Dach	CON
+mit	REL
+seiner	HAS
+E-Gitarre	CON
+.	NIL
+
+Ich	PRO
+war	PST
+über	REL
+Liisa	PER
+s	HAS
+Verhalten	CON
+empört	IST
+.	NIL
+
+Ich	PRO
+zückte	EPS
+meine	HAS
+Stricknadeln	CON
+.	NIL
+
+Papst	ROL
+Johannes~Paul~II	PER
+wurde	PST
+in	REL
+Polen	GPE
+geboren	EXS
+.	NIL
+
+Die	DEF
+Macdonough	ART
+verließ	EPS
+Hawaii	GPE
+am	REL
+zehnten	DOM
+August	MOY
+.	NIL
+
+Ich	PRO
+bin	ENS
+Bäcker	ROL
+.	NIL
+
+Seine	HAS
+musikalischen	IST
+Fähigkeiten	CON
+wurden	PST
+in	REL
+Wien	GPE
+gefördert	EXS
+.	NIL
+
+Der	DEF
+Wecker	CON
+weckt	EFS
+mich	PRO
+um	REL
+sieben~Uhr	CLO
+.	NIL
+
+Königin	ROL
+Elizabeth	PER
+verstarb	EPS
+im	DEF
+Jahre	CON
+1603	YOC
+.	NIL
+
+Jiro~Akagawa	PER
+hat	NOW
+über	MOR
+480	QUC
+Romane	CON
+geschrieben	EXT
+.	NIL
+
+Ich	PRO
+bin	NOW
+glücklich	IST
+mit	REL
+meiner	HAS
+Freundin	ROL
+.	NIL
+
+Das	DEF
+Unternehmen	CON
+wird	NOW
+umbenannt	EXS
+in	REL
+Hoechst~Pharmaceuticals	LIT
+.	NIL
+
+Verletzt	EXS
+wurde	PST
+niemand	NOT
+.	NIL
+
+Édith~Piaf	PER
+war	EPS
+eine	DIS
+französische	GPO
+Sängerin	ROL
+.	NIL
+
+Ich	PRO
+reichte	EPS
+ihm	PRO
+das	DEF
+Mikro	CON
+.	NIL
+
+Tom	PER
+hat	NOW
+Marys	PER
+Computer	CON
+gestohlen	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+einen	DIS
+Thunfischsalat	CON
+gegessen	EXT
+.	NIL
+
+Tom	PER
+war	PST
+unhöflich	IST
+.	NIL
+
+Er	PRO
+ist	NOW
+um	REL
+Mitternacht	CLO
+angekommen	EXT
+.	NIL
+
+Er	PRO
+hat	NOW
+ein	DIS
+Streichholz	CON
+angezündet	EXT
+.	NIL
+
+Ich	PRO
+werde	FUT
+eine	DIS
+schöne	IST
+Estin	GPO
+heiraten	EXS
+.	NIL
+
+Das	DEF
+Flugzeug	CON
+landete	EPS
+auf	REL
+dem	DEF
+Flughafen	CON
+Narita	NTH
+.	NIL
+
+Wir	PRO
+fürchteten	EPS
+das	DEF
+Schlimmste	CON
+.	NIL
+
+Ist	NOW
+das	DST
+normal	IST
+?	QUE
+
+Tom	PER
+rettete	EPS
+die	DEF
+Katze	CON
+aus	REL
+den	DEF
+Flammen	CON
+.	NIL
+
+Sie	PRO
+hat	ENS
+haselnussbraune	COL
+Augen	CON
+.	NIL
+
+Maria	PER
+kicherte	EPS
+.	NIL
+
+Berberisch	CON
+ist	NOW
+nicht	NOT
+so	EQU
+schwer	IST
+wie	REL
+Isländisch	CON
+.	NIL
+
+Tom	PER
+wischte	EPS
+den	DEF
+Tisch	CON
+ab	REL
+.	NIL
+
+Diese	PRX
+Stühle	CON
+sind	NOW
+ganz~und~gar	EMP
+nicht	NOT
+zufriedenstellend	IST
+.	NIL
+
+Ich	PRO
+pflanze	ENS
+einen	DIS
+Orangenbaum	CON
+.	NIL
+
+"	NIL
+Die~Perser	ART
+"	NIL
+wurde	PST
+von	REL
+Aischylos	PER
+geschrieben	EXT
+.	NIL
+
+Sie	PRO
+winkte	EPS
+mir	PRO
+zum	REL
+Abschied	CON
+.	NIL
+
+Das	DST
+ist	NOW
+keineswegs	NOT
+sicher	IST
+.	NIL
+
+Er	PRO
+brachte	EPS
+mich	REF
+zur	DEF
+Bushaltestelle	CON
+.	NIL
+
+Keiko	PER
+ist	NOW
+nicht	NOT
+so	EQU
+groß	IST
+wie	REL
+ich	PRO
+.	NIL
+
+Wir	PRO
+sind	NOW
+quitt	IST
+.	NIL
+
+Die	DEF
+Straße	CON
+ist	NOW
+mit	REL
+Autos	CON
+blockiert	EXS
+.	NIL
+
+Ein	DIS
+Hund	CON
+jagte	EPS
+eine	DIS
+Katze	CON
+.	NIL
+
+Er	PRO
+raubte	EPS
+die	DEF
+Postkutsche	CON
+aus	REL
+.	NIL
+
+Die	DEF
+Sonne	CON
+strahlte	EPS
+.	NIL
+
+Jana	PER
+lebt	ENS
+in	REL
+London	GPE
+.	NIL
+
+Dieser	PRX
+Kassettenrekorder	CON
+ist	NOW
+nicht	NOT
+neu	IST
+.	NIL
+
+Ich	PRO
+führe	ENS
+ein	DIS
+Tagebuch	CON
+in	REL
+Englisch	CON
+.	NIL
+
+Der	DEF
+Hund	CON
+beschnupperte	EPS
+den	DEF
+Fremden	ROL
+.	NIL
+
+Der	DEF
+Junge	CON
+nahm	EPS
+das	DEF
+Radio	CON
+auseinander	REL
+.	NIL
+
+Tom	PER
+streckte	EPS
+seine	HAS
+Zehen	CON
+aus	REL
+.	NIL
+
+Die	DEF
+Herrin~vom~See	PER
+verzauberte	EPS
+Merlin	PER
+und	COO
+bannte	EXS
+ihn	PRO
+in	REL
+einen	DIS
+Baumstamm	CON
+.	NIL
+
+Sie	PRO
+versteckte	EPS
+ihre	HAS
+Enttäuschung	CON
+hinter	REL
+einem	DIS
+Lächeln	CON
+.	NIL
+
+Die	DEF
+Wunde	CON
+ist	NOW
+noch	ALT
+nicht	NOT
+verheilt	EXT
+.	NIL
+
+Die	DEF
+Kugel	CON
+prallte	EPS
+von	REL
+seinem	HAS
+Helm	CON
+ab	REL
+.	NIL
+
+Ich	PRO
+gehe	ENS
+jetzt	NOW
+.	NIL
+
+Ich	PRO
+halte	ENS
+ein	DIS
+Buch	CON
+von	REL
+Susanna~Tamaro	PER
+in	REL
+den	DEF
+Händen	CON
+.	NIL
+
+Ihre	HAS
+Reaktion	CON
+überraschte	EPS
+mich	PRO
+nicht	NOT
+.	NIL
+
+Das	DEF
+Hotel	CON
+brannte	EPS
+ab	REL
+.	NIL
+
+Er	PRO
+flüsterte	EPS
+mir	PRO
+die	DEF
+Antwort	CON
+ins	DEF
+Ohr	CON
+.	NIL
+
+Präsident	ROL
+Alfredo~Cristiani	PER
+wurde	PST
+von	REL
+Demonstranten	ROL
+angegriffen	EXS
+.	NIL
+
+Der	DEF
+Film	CON
+"	NIL
+Speed	ART
+"	NIL
+wurde	PST
+von	REL
+Jan~De~Bont	PER
+geleitet	EXT
+.	NIL
+
+Er	PRO
+ist	NOW
+krank	IST
+.	NIL
+
+Ichirō	PER
+ist	ENS
+ein	DIS
+herausragender	IST
+Baseballspieler	ROL
+.	NIL
+
+Er	PRO
+ist	ENS
+ein	DIS
+Ex	PST
+knacki	ROL
+.	NIL
+
+Ich	PRO
+bin	NOW
+nicht	NOT
+faul	IST
+,	NIL
+sondern	BUT
+fleißig	IST
+.	NIL
+
+Es	PRO
+war	EPS
+nicht	NOT
+unserer	HAS
+.	NIL
+
+Tom	PER
+versteckte	EPS
+das	DEF
+Buch	CON
+unter	REL
+seinem	HAS
+Kissen	CON
+.	NIL
+
+Das	DEF
+Licht	CON
+war	PST
+an	IST
+.	NIL
+
+Ich	PRO
+bin	NOW
+auch	ALT
+siebzehn	QUC
+.	NIL
+
+John	PER
+mag	ENS
+Schach	CON
+.	NIL
+
+Das	DEF
+Schiff	CON
+verfügte	EPS
+über	REL
+eine	DIS
+Radaranlage	CON
+.	NIL
+
+Der	DEF
+Kerl	CON
+hat	NOW
+meinen	HAS
+Geldbeutel	CON
+geklaut	EXT
+!	EMP
+
+Haltet	EXS
+ihn	PRO
+!	EMP
+
+Es	NIL
+hat	NOW
+geschneit	EXT
+.	NIL
+
+Tom	PER
+und	GRP
+seine	HAS
+Frau	ROL
+spielen	ENS
+beide	AND
+gerne	IST
+Schach	CON
+.	NIL
+
+Mein	HAS
+Onkel	ROL
+hat	NOW
+zwei	QUC
+Jahre	UOM
+lang	REL
+in	REL
+Washington	GPE
+gelebt	EXT
+.	NIL
+
+Tom	PER
+ist	ENS
+ein	DIS
+Gentleman	CON
+.	NIL
+
+Ich	PRO
+bade	EXS
+täglich	AND
+.	NIL
+
+Er	PRO
+verschlang	EPS
+sein	HAS
+Essen	CON
+.	NIL
+
+Sie	PRO
+wischte	EPS
+ihre	HAS
+Tränen	CON
+weg	REL
+.	NIL
+
+Ich	PRO
+bin	NOW
+ziemlich	INT
+glücklich	IST
+.	NIL
+
+Ich	PRO
+hasse	ENS
+mich	REF
+,	NIL
+weil	SUB
+ich	PRO
+hässlich	IST
+bin	NOW
+.	NIL
+
+Ich	PRO
+sollte	NEC
+nicht	NOT
+trinken	EXS
+.	NIL
+
+Er	PRO
+fährt	ENS
+einen	DIS
+Abschleppwagen	CON
+.	NIL
+
+Die	DEF
+Zitrone	CON
+ist	NOW
+gelb	COL
+.	NIL
+
+Ich	PRO
+presse	ENS
+eine	DIS
+Orange	CON
+aus	REL
+.	NIL
+
+Der	DEF
+grauhaarige	IST
+Mann	CON
+ist	ENS
+Toms	PER
+Vater	ROL
+.	NIL
+
+Ich	PRO
+schüttelte	EPS
+den	DEF
+Kopf	CON
+.	NIL
+
+Sie	PRO
+ist	NOW
+nicht	NOT
+so	EQU
+geduldig	IST
+wie	REL
+du	PRO
+.	NIL
+
+Herr	ROL
+Smith	PER
+ist	ENS
+ein	DIS
+Bekannter	ROL
+von	REL
+ihr	PRO
+.	NIL
+
+Einige	QUV
+Touristen	ROL
+wurden	PST
+bei	REL
+dem	DEF
+Unfall	CON
+verletzt	EXS
+.	NIL
+
+Michael~Crichton	PER
+ist	ENS
+der	DEF
+Autor	ROL
+des	DEF
+Buchs	CON
+"	NIL
+Jurassic~Park	ART
+"	NIL
+.	NIL
+
+Ich	PRO
+bin	NOW
+sehr	INT
+hungrig	IST
+.	NIL
+
+Er	PRO
+hält	ENS
+sein	HAS
+Wort	CON
+.	NIL
+
+Heather	PER
+geht	ENS
+um	REL
+acht~Uhr	CLO
+zur	REL
+Schule	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+übertrieben	EXT
+.	NIL
+
+Diese	PRX
+CD	CON
+kostet	ENS
+10	QUC
+Dollar	UOM
+.	NIL
+
+Die	DEF
+Uhr	CON
+tickt	ENS
+.	NIL
+
+Berlusconi	PER
+ist	NOW
+scheiße	IST
+.	NIL
+
+Damaskus	GPE
+liegt	ENS
+in	REL
+Syrien	GPE
+.	NIL
+
+Ich	PRO
+umarmte	EPS
+sie	PRO
+.	NIL
+
+Seine	HAS
+Witze	CON
+amüsierten	EPS
+mich	PRO
+.	NIL
+
+Wer	AND
+mich	PRO
+liebt	ENS
+,	NIL
+liebt	ENS
+auch	ALT
+meinen	HAS
+Hund	CON
+.	NIL
+
+Ich	PRO
+kann	POS
+überhaupt	EMP
+nicht	NOT
+schwimmen	EXS
+.	NIL
+
+Tom	PER
+machte	EPS
+sich	REF
+Notizen	CON
+.	NIL
+
+Ich	PRO
+schließe	ENS
+die	DEF
+Garage	CON
+.	NIL
+
+Er	PRO
+ist	ENS
+Zahnarzt	ROL
+.	NIL
+
+Mayuko	PER
+entwarf	EPS
+ein	DIS
+Kleid	CON
+für	REL
+sich	PRO
+.	NIL
+
+Ich	PRO
+nannte	EPS
+das	DEF
+Kätzchen	CON
+Tama	LIT
+.	NIL
+
+Tom	PER
+hat	NOW
+einen	DIS
+Bären	CON
+erschossen	EXT
+.	NIL
+
+Ich	PRO
+bin	NOW
+von	REL
+London	GPE
+nach	REL
+New~York	GPE
+geflogen	EXT
+.	NIL
+
+Tom	PER
+tauchte	EPS
+ins	DEF
+Becken	CON
+.	NIL
+
+Die	DEF
+Japaner	GPO
+griffen	EPS
+a	REL
+m	DEF
+7.	DOM
+12.	MOY
+1941	YOC
+Pearl~Harbor	ART
+an	REL
+.	NIL
+
+Tom	PER
+besiegte	EPS
+Mary	PER
+beim	REL
+Damespielen	CON
+.	NIL
+
+Manche	DIS
+Menschen	CON
+sind	NOW
+allergisch	IST
+gegen	REL
+Weizen	CON
+.	NIL
+
+Das	PRO
+war	EPS
+ein	DIS
+Kinderspiel	CON
+.	NIL
+
+Sie	PRO
+gewann	EPS
+eine	DIS
+Silbermedaille	CON
+.	NIL
+
+Sie	PRO
+sind	NOW
+unhöflich	IST
+.	NIL
+
+Tom	PER
+hat	ENS
+braune	COL
+Haare	CON
+.	NIL
+
+Wie	EMP
+klein	DEG
+deine	HAS
+Katze	CON
+ist	NOW
+!	EMP
+
+Marlowe	PER
+wurde	PST
+von	REL
+den	DEF
+italienischen	GPO
+Behörden	ROL
+festgenommen	EXS
+.	NIL
+
+Gianni~Versace	PER
+ist	ENS
+ein	DIS
+Designer	ROL
+.	NIL
+
+Niemand	NOT
+versteht	ENS
+mich	PRO
+.	NIL
+
+Es	NIL
+regnet	ENS
+.	NIL
+
+Brad~Pitt	PER
+ist	ENS
+Schauspieler	ROL
+.	NIL
+
+In	REL
+Alaska	GPE
+leben	ENS
+Millionen	QUV
+wilder	IST
+Tiere	CON
+.	NIL
+
+Die	DEF
+Polizei	CON
+beziffert	ENS
+den	DEF
+Schaden	CON
+auf	REL
+etwa	APX
+zwei~Millionen	QUC
+DM	UOM
+.	NIL
+
+Sie	PRO
+besiegte	EPS
+heute	NOW
+die	DEF
+Kroatin	GPO
+Iva~Majoli	PER
+in	REL
+zwei	QUC
+Saetzen	CON
+.	NIL
+
+JOHN~IRVING	PER
+
+John~Quincy~Adams	PER
+sprach	EPS
+zu	REL
+der	DEF
+Menschenmenge	CON
+.	NIL
+
+Heißt	ENS
+dein	HAS
+Bruder	ROL
+Aleksej	LIT
+?	QUE
+
+Er	PRO
+ist	ENS
+in	REL
+der	DEF
+Küche	CON
+.	NIL
+
+Diese	PRX
+Taube	CON
+flog	EPS
+von	REL
+San~Francisco	GPE
+nach	REL
+New~York	GPE
+.	NIL
+
+Ich	PRO
+kann	POS
+viele	QUV
+afrikanische	GPO
+Sprachen	CON
+sprechen	EXS
+.	NIL
+
+Dieses	PRX
+Lied	CON
+war	PST
+in	REL
+den	DEF
+1970ern	YOC
+beliebt	IST
+.	NIL
+
+Jetzt	NOW
+bin	NOW
+ich	PRO
+traurig	IST
+.	NIL
+
+Der	DEF
+Jäger	ROL
+hat	NOW
+einen	DIS
+Fuchs	CON
+geschossen	EXT
+.	NIL
+
+Er	PRO
+ist	ENS
+ein	DIS
+schneller	IST
+Läufer	ROL
+.	NIL
+
+Die	DEF
+Biene	CON
+landetet	EPS
+auf	REL
+der	DEF
+Blume	CON
+.	NIL
+
+Tom	PER
+stopfte	EPS
+das	DEF
+Geld	CON
+in	REL
+seine	HAS
+Tasche	CON
+.	NIL
+
+Tom	PER
+wurde	PST
+niedergestochen	EXS
+.	NIL
+
+Tom	PER
+ist	NOW
+innovativ	IST
+.	NIL
+
+Verstand	EPS
+Marika	PER
+Estnisch	CON
+?	QUE
+
+Alle	AND
+Kinder	CON
+tanzten	EPS
+.	NIL
+
+Tom	PER
+grinste	EPS
+.	NIL
+
+In	REL
+den	DEF
+Wäldern	CON
+gibt	ENS
+es	NIL
+zahlreiche	QUV
+Vögel	CON
+.	NIL
+
+Das	DST
+ist	NOW
+einfach	IST
+.	NIL
+
+Reinventing~Comics	ART
+ist	ENS
+ein	DIS
+Buch	CON
+von	REL
+Scott~McCloud	PER
+.	NIL
+
+Ich	PRO
+komme	ENS
+aus	REL
+Shikoku	GPE
+.	NIL
+
+Sie	PRO
+ist	NOW
+sechs	QUC
+Jahre	UOM
+älter	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Tom	PER
+nickte	EPS
+.	NIL
+
+Welche	QUE
+radioaktive	IST
+Substanz	CON
+wurde	PST
+Eda~Charlton	PER
+1945	YOC
+injiziert	EXS
+?	QUE
+
+Tom	PER
+nahm	EPS
+seine	HAS
+Gasmaske	CON
+ab	REL
+.	NIL
+
+Tom	PER
+holte	EPS
+Maria	PER
+vom	REL
+Bahnhof	CON
+ab	REL
+.	NIL
+
+Tom	PER
+verschränkte	EPS
+seine	HAS
+Arme	CON
+.	NIL
+
+Bilal	PER
+ist	NOW
+größer	MOR
+als	REL
+Karam	PER
+.	NIL
+
+Ihr	HAS
+Vater	ROL
+ist	ENS
+ein	DIS
+ausgezeichneter	IST
+Pianist	ROL
+.	NIL
+
+Ich	PRO
+habe	NOW
+in	REL
+der	DEF
+Themse	GEO
+geangelt	EXT
+.	NIL
+
+Ich	PRO
+traue	ENS
+Politikern	ROL
+nicht	NOT
+.	NIL
+
+Naoko	PER
+kann	POS
+schnell	IST
+laufen	EXS
+.	NIL
+
+Der	DEF
+Diamant	CON
+funkelte	EPS
+hell	IST
+.	NIL
+
+Jemand	DIS
+öffnete	EPS
+das	DEF
+Fenster	CON
+.	NIL
+
+Mary	PER
+wurde	PST
+von	REL
+ihren	HAS
+Klassenkameraden	ROL
+schikaniert	EXS
+.	NIL
+
+Tom	PER
+spendet	ENS
+Blut	CON
+.	NIL
+
+Ich	PRO
+mag	ENS
+Ihre	HAS
+Krawatte	CON
+.	NIL
+
+Tom	PER
+rutschte	EPS
+auf	REL
+einer	DIS
+Bananenschale	CON
+aus	REL
+.	NIL
+
+Tom	PER
+griff	EPS
+das	DEF
+Seil	CON
+,	NIL
+das	AND
+von	REL
+dem	DEF
+Hubschrauber	CON
+herabgelassen	EXS
+wurde	PST
+.	NIL
+
+Dieses	PRX
+Auto	CON
+fährt	ENS
+60	QUC
+km	UOM
+/	UOM
+h	UOM
+.	NIL
+
+Meine	HAS
+Mutter	ROL
+hat	NOW
+zehn	QUC
+Eier	CON
+gekocht	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+keinen	NOT
+Durst	IST
+.	NIL
+
+Melanie	PER
+hat	NOW
+gesagt	EXT
+,	NIL
+dass	SUB
+sie	PRO
+gerne	IST
+schwimmt	ENS
+.	NIL
+
+Dan	PER
+reinigte	EPS
+seine	HAS
+Zähne	CON
+mit	REL
+Zahnseide	CON
+.	NIL
+
+Meine	HAS
+Schwester	ROL
+hat	NOW
+einen	DIS
+Arzt	ROL
+geheiratet	EXT
+.	NIL
+
+Johann~Wolfgang~von~Goethe	PER
+wurde	PST
+in	REL
+Deutschland	GPE
+geboren	EXS
+.	NIL
+
+Du	PRO
+hast	NOW
+mich	PRO
+hereingelegt	EXT
+!	EMP
+
+Er	PRO
+wackelte	EPS
+mit	REL
+den	DEF
+Zehen	CON
+.	NIL
+
+Sind	ENS
+das	DST
+Bettwanzen	CON
+?	QUE
+
+Sie	PRO
+ist	NOW
+zwei	QUC
+Jahre	UOM
+jünger	MOR
+als	REL
+er	PRO
+.	NIL
+
+Tom	PER
+wohnt	ENS
+in	REL
+Boston	GPE
+.	NIL
+
+Ich	PRO
+mag	ENS
+auch	ALT
+Kuchen	CON
+.	NIL
+
+Du	PRO
+bist	ENS
+ein	DIS
+Serienmörder	ROL
+.	NIL
+
+Dein	HAS
+Portemonnaie	CON
+liegt	ENS
+auf	REL
+dem	DEF
+Fernseher	CON
+.	NIL
+
+Der	DEF
+Chirurg	ROL
+amputierte	EPS
+das	DEF
+falsche	IST
+Bein	CON
+.	NIL
+
+Napoleon~Bonaparte	PER
+hatte	PST
+Angst	IST
+vor	REL
+schwarzen	COL
+Katzen	CON
+.	NIL
+
+Die	DEF
+Leitung	CON
+ist	NOW
+besetzt	IST
+.	NIL
+
+Sie	PRO
+lehrt	ENS
+uns	PRO
+Französisch	CON
+.	NIL
+
+Tom	PER
+sagte	EPS
+nichts	NOT
+.	NIL
+
+Tom	PER
+kicherte	EPS
+mädchenhaft	IST
+.	NIL
+
+Wir	PRO
+verschwenden	ENS
+Munition	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+überhaupt	EMP
+nichts	NOT
+gesehen	EXT
+.	NIL
+
+Jane	PER
+ist	NOW
+nicht	NOT
+so	EQU
+groß	IST
+wie	REL
+Mary	PER
+.	NIL
+
+Wir	PRO
+erreichten	EPS
+London	GPE
+um	REL
+Mitternacht	CLO
+.	NIL
+
+Mein	HAS
+Ballon	CON
+platzte	EPS
+.	NIL
+
+Der	DEF
+Wein	CON
+war	PST
+ausgezeichnet	IST
+.	NIL
+
+Die	DEF
+Möwen	CON
+fliegen	ENS
+tief	IST
+.	NIL
+
+Verga	PER
+ist	ENS
+ein	DIS
+berühmter	IST
+Autor	ROL
+.	NIL
+
+Er	PRO
+war	PST
+neidisch	IST
+auf	REL
+meinen	HAS
+Erfolg	CON
+.	NIL
+
+Wer	QUE
+ist	ENS
+dieses	PRX
+hübsche	IST
+Mädchen	CON
+?	QUE
+
+Bill~Clinton	PER
+gehört	ENS
+zu	REL
+der	DEF
+Demokratischen~Partei	ORG
+.	NIL
+
+MG~Rover	ORG
+wurde	PST
+von	REL
+Airbus	ORG
+aufgekauft	EXS
+.	NIL
+
+Meine	HAS
+Mutter	ROL
+ist	NOW
+schön	IST
+.	NIL
+
+Er	PRO
+ist	NOW
+größer	MOR
+als	REL
+sein	HAS
+Vater	ROL
+.	NIL
+
+Tom	PER
+räusperte	EPS
+sich	REF
+.	NIL
+
+Ich	PRO
+hatte	PST
+meine	HAS
+Armbanduhr	CON
+repariert	EXT
+.	NIL
+
+Sie	PRO
+hat	NOW
+uns	PRO
+ein	DIS
+Telegramm	CON
+geschickt	EXT
+,	NIL
+dass	SUB
+sie	PRO
+kommt	ENS
+.	NIL
+
+Ich	PRO
+mähte	EPS
+Toms	PER
+Rasen	CON
+.	NIL
+
+Ein	DIS
+Hund	CON
+wurde	PST
+von	REL
+einem	DIS
+Lkw	CON
+überfahren	EXS
+.	NIL
+
+Sie	PRO
+ist	NOW
+freundlich	IST
+zu	REL
+ihm	PRO
+.	NIL
+
+Er	PRO
+leidet	ENS
+unter	REL
+Zahnschmerzen	CON
+.	NIL
+
+Tom	PER
+erkannte	EPS
+,	NIL
+dass	SUB
+das	DST
+ein	DIS
+Problem	CON
+sein	EXS
+könnte	POS
+.	NIL
+
+Wir	PRO
+haben	ENS
+zwei	QUC
+Töchter	ROL
+.	NIL
+
+Nichts	NOT
+ist	NOW
+so	EQU
+hart	IST
+wie	REL
+ein	DIS
+Diamant	CON
+.	NIL
+
+Tom	PER
+spülte	EPS
+die	DEF
+Seife	CON
+ab	REL
+.	NIL
+
+Wir	PRO
+verstehen	ENS
+.	NIL
+
+Tom	PER
+mag	ENS
+kein	NOT
+Schach	CON
+.	NIL
+
+Yumi	PER
+hat	ENS
+viele	QUV
+Bücher	CON
+.	NIL
+
+Die	DEF
+Spinne	CON
+kitzelt	ENS
+mich	PRO
+.	NIL
+
+Tom	PER
+kroch	EPS
+ins	DEF
+Bett	CON
+und	COO
+zog	EPS
+die	DEF
+Bettdecke	CON
+über	REL
+sich	REF
+.	NIL
+
+Sam	PER
+ist	NOW
+zwei	QUC
+Jahre	UOM
+jünger	MOR
+als	REL
+Tom	PER
+.	NIL
+
+Mein	HAS
+Spielzeug	CON
+ist	NOW
+zerbrochen	IST
+.	NIL
+
+Maciek	PER
+ist	NOW
+im	DEF
+Dezember	MOY
+gestorben	EXT
+.	NIL
+
+Neben	ALT
+Französisch	CON
+spricht	ENS
+er	PRO
+natürlich	IST
+auch	ALT
+Englisch	CON
+.	NIL
+
+Tom	PER
+kann	POS
+noch	ALT
+nicht	NOT
+lesen	EXS
+.	NIL
+
+Sein	HAS
+Witz	CON
+grenzt	ENS
+an	REL
+Beleidigung	CON
+.	NIL
+
+Die	DEF
+Summe	CON
+aus	REL
+5	QUC
+und	GRP
+3	QUC
+ist	EXS
+8	QUC
+.	NIL
+
+Tom	PER
+hat	NOW
+seinem	HAS
+Sohn	ROL
+einen	DIS
+Sportwagen	CON
+gekauft	EXT
+.	NIL
+
+Ein	DIS
+Apfel	CON
+fiel	EPS
+vom	DEF
+Baum	CON
+.	NIL
+
+Der	DEF
+Mörder	ROL
+versteckte	EPS
+sich	REF
+in	REL
+den	DEF
+Bergen	CON
+.	NIL
+
+Wir	PRO
+sollten	NEC
+die	DEF
+Todesstrafe	CON
+abschaffen	EXS
+.	NIL
+
+Sie	PRO
+knöpfte	EPS
+ihr	HAS
+Hemd	CON
+auf	REL
+.	NIL
+
+Meine	HAS
+Uhr	CON
+wurde	PST
+gestohlen	EXS
+.	NIL
+
+Sie	PRO
+spielten	EPS
+Minigolf	CON
+.	NIL
+
+Grüner	ROL
+Schleim	CON
+glibberte	EPS
+aus	REL
+der	DEF
+Leitung	CON
+.	NIL
+
+Der	DEF
+alte	DEG
+Mann	CON
+wölbte	EPS
+seinen	HAS
+Rücken	CON
+.	NIL
+
+Tom	PER
+schürte	EPS
+das	DEF
+Feuer	CON
+mit	REL
+einem	DIS
+Stock	CON
+.	NIL
+
+Manchester~United	ORG
+besiegte	EPS
+Fulham	ORG
+.	NIL
+
+Ich	PRO
+werde	FUT
+ihn	PRO
+erschießen	EXS
+.	NIL
+
+Der	DEF
+Unterricht	CON
+beginnt	ENS
+um	REL
+08:30~Uhr	CLO
+.	NIL
+
+Spanisch	CON
+ist	ENS
+seine	HAS
+Muttersprache	CON
+.	NIL
+
+Ich	PRO
+bin	EQU
+Anton	PER
+.	NIL
+
+Ein	DIS
+Arzt	ROL
+untersuchte	EPS
+Herrn	ROL
+Brown	PER
+.	NIL
+
+Er	PRO
+trank	EPS
+Bier	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+glücklich	IST
+.	NIL
+
+Tom	PER
+ist	NOW
+stark	IST
+.	NIL
+
+Die	DEF
+Gruenen	ORG
+plaedierten	EPS
+fuer	REL
+eine	DIS
+Kuerzung	CON
+hoher	IST
+Renten	CON
+.	NIL
+
+Einige	DIS
+Fische	CON
+fliegen	ENS
+.	NIL
+
+Der	DEF
+Regen	CON
+verwandelte	EPS
+die	DEF
+Straße	CON
+in	REL
+einen	DIS
+Morast	CON
+.	NIL
+
+Tom	PER
+schrieb	EPS
+etwas	DIS
+in	REL
+sein	HAS
+Notizbuch	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+größer	MOR
+als	REL
+du	PRO
+.	NIL
+
+Ich	PRO
+habe	NOW
+ihn	PRO
+seit	REL
+Langem	CON
+nicht	NOT
+gesehen	EXT
+.	NIL
+
+Bist	NOW
+du	PRO
+17	QUC
+Jahre	UOM
+alt	DEG
+?	QUE
+
+Er	PRO
+wurde	PST
+von	REL
+Maria	PER
+verführt	EXS
+.	NIL
+
+Tom	PER
+ist	NOW
+größer	MOR
+als	REL
+Maria	PER
+.	NIL
+
+Es	NIL
+regnet	ENS
+wieder	ALT
+!	NIL
+
+Vier	QUC
+plus	CON
+drei	QUC
+ist	EXS
+sieben	QUC
+.	NIL
+
+Tom	PER
+fährt	ENS
+einen	DIS
+Sportwagen	CON
+,	NIL
+oder	QUE
+?	QUE
+
+Tom	PER
+döst	ENS
+.	NIL
+
+Du	PRO
+bist	NOW
+größer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Die	DEF
+Katzen	CON
+schnurren	ENS
+.	NIL
+
+Tom	PER
+ging	EPS
+hinter	REL
+einer	DIS
+Mülltonne	CON
+in	REL
+Deckung	CON
+.	NIL
+
+Wir	PRO
+verbinden	ENS
+Ägypten	GPE
+mit	REL
+dem	DEF
+Nil	GEO
+.	NIL
+
+Tom	PER
+verzog	EPS
+leicht	IST
+das	DEF
+Gesicht	CON
+.	NIL
+
+Die	DEF
+Explosion	CON
+erschütterte	EPS
+den	DEF
+Boden	CON
+.	NIL
+
+BSN	ORG
+hat	NOW
+RJR~Nabisco	ORG
+gekauft	EXT
+.	NIL
+
+Ich	PRO
+bin	NOW
+älter	MOR
+als	REL
+dein	HAS
+Bruder	ROL
+.	NIL
+
+Er	PRO
+packte	EPS
+mich	REF
+am	DEF
+Kragen	CON
+.	NIL
+
+Ich	PRO
+arbeite	ENS
+in	REL
+Mailand	GPE
+.	NIL
+
+Ist	NOW
+Ihr	HAS
+Hund	CON
+bissig	IST
+?	QUE
+
+Er	PRO
+trank	EPS
+ein	DIS
+Bier	CON
+.	NIL
+
+Sie	PRO
+wurde	PST
+von	REL
+Tom	PER
+verführt	EXS
+.	NIL
+
+Sie	PRO
+gewann	EPS
+eine	DIS
+Bronzemedaille	CON
+.	NIL
+
+Ich	PRO
+mag	ENS
+koreanische	GPO
+Küche	CON
+.	NIL
+
+Du	PRO
+hast	NOW
+gegen	REL
+das	DEF
+Gesetz	CON
+verstoßen	EPS
+.	NIL
+
+Er	PRO
+ergriff	EPS
+meinen	HAS
+Arm	CON
+.	NIL
+
+Tom	PER
+trug	EPS
+einen	DIS
+schwarzen	COL
+Hut	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+in	REL
+Deutschland	GPE
+aufgewachsen	EXT
+.	NIL
+
+Diese	PRX
+Pferde	CON
+sind	ENS
+ihre	HAS
+.	NIL
+
+Ich	PRO
+habe	NOW
+einen	DIS
+Freund	ROL
+von	REL
+mir	PRO
+a	REL
+m	DEF
+Flughafen	CON
+getroffen	EXT
+.	NIL
+
+Er	PRO
+war	PST
+mal~wieder	ALT
+völlig	INT
+blau	IST
+.	NIL
+
+Niemand	NOT
+von	REL
+uns	PRO
+ist	NOW
+perfekt	IST
+.	NIL
+
+Tom	PER
+wurde	PST
+von	REL
+einem	DIS
+Tiger	CON
+gefressen	EXT
+.	NIL
+
+Sie	PRO
+nannten	EPS
+den	DEF
+Hund	CON
+Rocky	LIT
+.	NIL
+
+Der	DEF
+Kuchen	CON
+ist	NOW
+köstlich	IST
+.	NIL
+
+Wir	PRO
+schüttelten	EPS
+Nüsse	CON
+von	REL
+dem	DEF
+Baum	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+diesen	PRX
+Hut	CON
+für	REL
+2000	QUC
+Yen	UOM
+gekauft	EXT
+.	NIL
+
+Ich	PRO
+habe	NOW
+2600	QUC
+Reais	UOM
+für	REL
+diese	PRX
+Lautsprecher	CON
+bezahlt	EXT
+.	NIL
+
+Tom	PER
+übermannte	EPS
+Maria	PER
+.	NIL
+
+Ich	PRO
+habe	NOW
+nichts	NOT
+gehört	EXT
+.	NIL
+
+Er	PRO
+trug	EPS
+eine	DIS
+hellblaue	COL
+Krawatte	CON
+.	NIL
+
+Er	PRO
+liebt	ENS
+die	DEF
+Tiger	CON
+.	NIL
+
+Sie	PRO
+fährt	EFS
+um	REL
+neun~Uhr	CLO
+ab	REL
+.	NIL
+
+Wir	PRO
+werden	FUT
+kochen	EXS
+.	NIL
+
+Die	DEF
+Frau	CON
+starrte	EPS
+uns	PRO
+an	REL
+.	NIL
+
+Tom	PER
+ist	NOW
+keinesfalls	NOT
+unintelligent	IST
+.	NIL
+
+Er	PRO
+ist	NOW
+nur	IST
+faul	IST
+.	NIL
+
+Der	DEF
+Fahrstuhl	CON
+funktioniert	ENS
+nicht	NOT
+.	NIL
+
+Sie	PRO
+massierte	EPS
+seinen	HAS
+Rücken	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+geistig	IST
+behindert	IST
+.	NIL
+
+Die	DEF
+Witwe	ROL
+litt	EPS
+an	REL
+Magenkrebs	CON
+.	NIL
+
+Qin~Shi~Huang	PER
+war	EPS
+der	DEF
+erste	ORD
+Kaiser	ROL
+von	REL
+China	GPE
+.	NIL
+
+Herr	ROL
+Zhao	PER
+starb	EPS
+in	REL
+Peking	GPE
+.	NIL
+
+Gabriel~Garcia~Marquez	PER
+ist	ENS
+ein	DIS
+Autor	ROL
+.	NIL
+
+Er	PRO
+sah	EPS
+aus	REL
+wie	REL
+ein	DIS
+Arzt	ROL
+.	NIL
+
+Er	PRO
+erbte	EPS
+das	DEF
+Geschäft	CON
+von	REL
+seinem	HAS
+Vater	ROL
+.	NIL
+
+Er	PRO
+sitzt	ENS
+am	DEF
+Tisch	CON
+.	NIL
+
+Ausgeschieden	IST
+ist	NOW
+dagegen	BUT
+Anke~Huber	PER
+.	NIL
+
+Sie	PRO
+verlor	EPS
+4:6	SCO
+und	GRP
+1:6	SCO
+.	NIL
+
+Tom	PER
+ist	NOW
+gerade	NOW
+beschäftigt	IST
+.	NIL
+
+Er	PRO
+trat	EPS
+gegen	REL
+den	DEF
+Ball	CON
+.	NIL
+
+Ich	PRO
+esse	ENS
+eine	DIS
+Banane	CON
+.	NIL
+
+Es	NIL
+schneite	EPS
+in	REL
+Jerusalem	GPE
+.	NIL
+
+Ich	PRO
+habe	NOW
+mir	PRO
+auf	REL
+die	DEF
+Zunge	CON
+gebissen	EXT
+!	EMP
+
+Tom	PER
+rührte	EPS
+die	DEF
+Suppe	CON
+mit	REL
+einem	DIS
+Löffel	CON
+um	REL
+.	NIL
+
+Sie	PRO
+räumte	EPS
+das	DEF
+Geschirr	CON
+vo	REL
+m	DEF
+Tisch	CON
+.	NIL
+
+Der	DEF
+Politiker	ROL
+wiegelte	EPS
+die	DEF
+Arbeiter	ROL
+auf	REL
+.	NIL
+
+Meine	HAS
+Lippen	CON
+sind	NOW
+versiegelt	IST
+.	NIL
+
+Wir	PRO
+säen	ENS
+.	NIL
+
+Er	PRO
+verhandelt	ENS
+in	REL
+Russland	GPE
+neue	IST
+Verträge	CON
+.	NIL
+
+Er	PRO
+protestierte	EPS
+gegen	REL
+den	DEF
+neuen	IST
+Plan	CON
+.	NIL
+
+Der	DEF
+Ofen	CON
+ist	NOW
+heiß	DEG
+.	NIL
+
+Tom	PER
+wurde	PST
+erstochen	EXS
+.	NIL
+
+Er	PRO
+ist	ENS
+Fußballer	ROL
+.	NIL
+
+Er	PRO
+schaltete	EPS
+eine	DIS
+Anzeige	CON
+in	REL
+der	DEF
+Zeitung	CON
+.	NIL
+
+Das	DEF
+Schiff	CON
+wird	FUT
+Yokohama	GPE
+anlaufen	EXS
+.	NIL
+
+Der	DEF
+Habicht	CON
+fing	EPS
+eine	DIS
+Maus	CON
+.	NIL
+
+Sie	PRO
+hat	NOW
+ein	DIS
+Zimmermädchen	ROL
+entlassen	EXT
+.	NIL
+
+Tom	PER
+steckt	ENS
+in	REL
+einer	DIS
+Zwickmühle	CON
+.	NIL
+
+Wir	PRO
+haben	NOW
+die	DEF
+Abfahrt	CON
+verpasst	EXT
+.	NIL
+
+Sie	PRO
+schrie	EPS
+um	REL
+Hilfe	CON
+.	NIL
+
+Finnisch	CON
+ist	ENS
+die	DEF
+Muttersprache	CON
+meiner	HAS
+Kinder	CON
+.	NIL
+
+Er	PRO
+klopfte	EPS
+an	REL
+der	DEF
+Tür	CON
+.	NIL
+
+Das	PRO
+wird	FUT
+über	MOR
+tausend	QUC
+Yen	UOM
+kosten	EXS
+.	NIL
+
+Wie	QUE
+ist	ENS
+der	DEF
+Wechselkurs	CON
+?	QUE
+
+Ich	PRO
+trank	EPS
+Milch	CON
+.	NIL
+
+Zwei	QUC
+LKW-Fahrer	ROL
+wurden	PST
+festgenommen	EXS
+.	NIL
+
+Ich	PRO
+habe	NOW
+den	DEF
+falschen	IST
+Bus	CON
+genommen	EXT
+.	NIL
+
+Er	PRO
+versteckte	EPS
+das	DEF
+Buch	CON
+unter	REL
+seinem	HAS
+Mantel	CON
+.	NIL
+
+Sie	PRO
+ernannten	EPS
+ihn	PRO
+zum	REL
+Manager	CON
+.	NIL
+
+Tom	PER
+ist	NOW
+furchtlos	IST
+.	NIL
+
+Trygve~Lie	PER
+war	EPS
+ein	DIS
+norwegischer	GPO
+Diplomat	ROL
+.	NIL
+
+Tom	PER
+kaut	ENS
+einen	DIS
+Kaugummi	CON
+.	NIL
+
+Tom	PER
+trug	EPS
+einige	DIS
+Einkaufstüten	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+hungrig	IST
+und	COO
+durstig	IST
+.	NIL
+
+Dieses	PRX
+Buch	CON
+gehört	ENS
+Tony	PER
+.	NIL
+
+Meine	HAS
+Eltern	ROL
+drängten	EPS
+mich	PRO
+,	NIL
+aus	REL
+dem	DEF
+Baseballklub	CON
+auszutreten	EXS
+.	NIL
+
+Sie	PRO
+näht	ENS
+ein	DIS
+Kleid	CON
+.	NIL
+
+Der	DEF
+Kassettenrekorder	CON
+nahm	EPS
+seine	HAS
+Stimme	CON
+auf	REL
+.	NIL
+
+Tom	PER
+ist	NOW
+viel	QUV
+größer	MOR
+als	REL
+Maria	PER
+.	NIL
+
+Tom	PER
+hatte	EPS
+eine	DIS
+Blinddarmentzündung	CON
+.	NIL
+
+Die	DEF
+Schauspielerin	ROL
+ist	NOW
+bei	REL
+jungen	DEG
+Leuten	CON
+beliebt	IST
+.	NIL
+
+Er	PRO
+verdrehte	EPS
+meinen	HAS
+Arm	CON
+.	NIL
+
+In	REL
+diesem	PRX
+Coffeeshop	CON
+verkehren	ENS
+aufstrebende	IST
+Künstler	ROL
+.	NIL
+
+Er	PRO
+jätete	EPS
+das	DEF
+Unkraut	CON
+und	COO
+warf	EPS
+es	PRO
+weg	REL
+.	NIL
+
+Wie	QUE
+ist	NOW
+deine	HAS
+Schwester	ROL
+gestorben	EXT
+?	QUE
+
+Wir	PRO
+nannten	EPS
+die	DEF
+Katze	CON
+Mimi	LIT
+.	NIL
+
+Jemand	DIS
+lachte	EPS
+.	NIL
+
+Meine	HAS
+Kamera	CON
+ist	NOW
+wasserfest	IST
+.	NIL
+
+Wie	QUE
+viele	QUV
+Personen	CON
+sind	NOW
+gestorben	EXT
+?	QUE
+
+Tom	PER
+sagte	EPS
+,	NIL
+du	PRO
+magst	ENS
+Popcorn	CON
+.	NIL
+
+Er	PRO
+stach	EPS
+sein	HAS
+Messer	CON
+in	REL
+den	DEF
+Baum	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+Hunger	IST
+!	EMP
+
+Aurelie	PER
+ist	ENS
+eine	DIS
+junge	DEG
+Hirtin	ROL
+.	NIL
+
+Israel	GPE
+ist	ENS
+ein	DIS
+Industriestaat	CON
+.	NIL
+
+Er	PRO
+breitete	EPS
+seine	HAS
+Arme	CON
+aus	REL
+und	COO
+begrüßte	EPS
+uns	PRO
+.	NIL
+
+Stich	PER
+setzte	EPS
+sich	REF
+heute	NOW
+mit	REL
+6:3	SCO
+,	NIL
+6:4	SCO
+und	GRP
+6:2	SCO
+gegen	REL
+den	DEF
+Schweizer	GPO
+Marc~Rosset	PER
+durch	REL
+.	NIL
+
+Dieser	PRX
+Apfel	CON
+ist	NOW
+faul	IST
+.	NIL
+
+Tom	PER
+spielte	EPS
+Oboe	CON
+,	NIL
+und	AND
+Maria	PER
+begleitete	EPS
+ihn	PRO
+auf	REL
+dem	DEF
+Klavier	CON
+.	NIL
+
+Die	DEF
+Spinne	CON
+webt	ENS
+ein	DIS
+Netz	CON
+.	NIL
+
+Mary	PER
+wurde	PST
+mit	REL
+einem	DIS
+Reifenheber	CON
+getötet	EXS
+.	NIL
+
+Tom	PER
+hat	NOW
+eine	DIS
+schöne	IST
+Wohnung	CON
+für	REL
+mich	PRO
+gefunden	EXT
+.	NIL
+
+Ich	PRO
+lebe	ENS
+in	REL
+Wolgograd	GPE
+.	NIL
+
+Diese	PRX
+Firma	CON
+hat	ENS
+hundert	QUC
+Angestellte	ROL
+.	NIL
+
+Ich	PRO
+schubste	EPS
+Tom	PER
+in	REL
+s	DEF
+Wasser	CON
+.	NIL
+
+Tom	PER
+tröstete	EPS
+Maria	PER
+.	NIL
+
+Wessen	HAS
+Haus	CON
+ist	ENS
+das	PRX
+?	QUE
+
+Ich	PRO
+bekam	EPS
+ein	DIS
+Messer	CON
+mit	REL
+einer	DIS
+scharfen	IST
+Klinge	CON
+.	NIL
+
+Tom	PER
+hat	NOW
+Boston	GPE
+früher	PST
+gehasst	EXT
+.	NIL
+
+Ich	PRO
+kardierte	EPS
+die	DEF
+Wolle	CON
+.	NIL
+
+Sie	PRO
+kaufte	EPS
+dem	DEF
+Kind	CON
+ein	DIS
+Spielzeug	CON
+.	NIL
+
+Alle	AND
+lieben	ENS
+Tom	PER
+.	NIL
+
+Das	DST
+ist	NOW
+verdammt	INT
+cool	IST
+.	NIL
+
+Wir	PRO
+leiden	ENS
+an	REL
+Osteoporose	CON
+.	NIL
+
+Er	PRO
+berührte	EPS
+meine	HAS
+Hand	CON
+.	NIL
+
+Alle	AND
+waren	PST
+von	REL
+der	DEF
+Nachricht	CON
+begeistert	IST
+.	NIL
+
+Ich	PRO
+wurde	PST
+1972	YOC
+geboren	EXS
+.	NIL
+
+Sie	PRO
+sind	NOW
+größer	MOR
+als	REL
+sie	PRO
+.	NIL
+
+Tom	PER
+stieß	EPS
+das	DEF
+Floß	CON
+in	REL
+s	DEF
+Wasser	CON
+.	NIL
+
+Tom	PER
+warf	EPS
+Maria	PER
+den	DEF
+Ball	CON
+zu	REL
+.	NIL
+
+Wer	QUE
+wird	FUT
+die	DEF
+Zeche	CON
+zahlen	EXS
+?	QUE
+
+Ich	PRO
+zog	EPS
+die	DEF
+Stiefel	CON
+aus	REL
+,	NIL
+da	SUB
+meine	HAS
+Füße	CON
+froren	EPS
+.	NIL
+
+Tom	PER
+zwickte	EPS
+Mary	PER
+.	NIL
+
+Der	DEF
+alte	DEG
+Mann	CON
+fing	EPS
+einen	DIS
+großen	DEG
+Fisch	CON
+.	NIL
+
+Er	PRO
+ist	ENS
+Volleyballspieler	ROL
+.	NIL
+
+Er	PRO
+besiegte	EPS
+den	DEF
+Australier	GPO
+Patrick~Rafter	PER
+7:5	SCO
+und	GRP
+6:4	SCO
+.	NIL
+
+Tom	PER
+schuldet	ENS
+Maria	PER
+300	QUC
+Dollar	UOM
+.	NIL
+
+Unser	HAS
+Onkel	ROL
+hat	NOW
+uns	PRO
+Kinokarten	CON
+gekauft	EXT
+.	NIL
+
+Tom	PER
+arbeitet	ENS
+bei	REL
+einer	DIS
+Bank	CON
+.	NIL
+
+Der	DEF
+Supermarkt	CON
+stellte	EPS
+viele	QUV
+Teilzeitkräfte	ROL
+ein	REL
+.	NIL
+
+Wir	PRO
+sind	NOW
+nicht	NOT
+verheiratet	IST
+.	NIL
+
+Tom	PER
+hat	NOW
+seine	HAS
+Hose	CON
+gebügelt	EXT
+.	NIL
+
+Die	DEF
+Prinzessin	ROL
+wurde	PST
+von	REL
+einem	DIS
+bösen	IST
+Zauberer	ROL
+in	REL
+einen	DIS
+Schwan	CON
+verwandelt	EXT
+.	NIL
+
+Ich	PRO
+komme	ENS
+aus	REL
+Russland	GPE
+.	NIL
+
+Ist	NOW
+Geld	CON
+für	REL
+dich	PRO
+wichtig	IST
+?	QUE
+
+Die	DEF
+Ampel	CON
+funktioniert	ENS
+nicht	NOT
+.	NIL
+
+Dieser	PRX
+Laptop	CON
+ist	NOW
+sehr	INT
+dünn	IST
+.	NIL
+
+Jemand	DIS
+betrat	EPS
+den	DEF
+Raum	CON
+.	NIL
+
+Tom	PER
+wurde	PST
+in	REL
+den	DEF
+1990ern	YOC
+geboren	EXS
+.	NIL
+
+Tom	PER
+war	PST
+dreißig	QUC
+.	NIL
+
+Tom	PER
+tätschelt	ENS
+seinen	HAS
+Hund	CON
+.	NIL
+
+Ich	PRO
+mag	ENS
+Eiscreme	CON
+.	NIL
+
+Ich	PRO
+wurde	PST
+von	REL
+einer	DIS
+Biene	CON
+gestochen	EXS
+.	NIL
+
+Sie	PRO
+braucht	ENS
+einen	DIS
+Mantel	CON
+.	NIL
+
+Die	DEF
+Königin	ROL
+stand	EPS
+neben	REL
+dem	DEF
+König	ROL
+.	NIL
+
+Sie	PRO
+bügelte	EPS
+seine	HAS
+Hemden	CON
+.	NIL
+
+Ich	PRO
+hebe	ENS
+einen	DIS
+Brunnen	CON
+aus	REL
+.	NIL
+
+Tom	PER
+vertraute	EPS
+ihr	PRO
+.	NIL
+
+Dickson	PER
+arbeitete	EPS
+für	REL
+Edison	PER
+.	NIL
+
+Nancy~Ianiero	PER
+wurde	PST
+in	REL
+Mexiko	GPE
+getötet	EXS
+.	NIL
+
+Präsident	ROL
+Fujimori	PER
+wurde	PST
+1995	YOC
+wiedergewählt	EXS
+.	NIL
+
+Verdens~Gang	ORG
+ist	ENS
+eine	DIS
+norwegische	GPO
+Zeitung	CON
+.	NIL
+
+Meine	HAS
+Uhr	CON
+wurde	PST
+gestohlen	EXS
+.	NIL
+
+Herr	ROL
+Spencer	PER
+arbeitet	ENS
+in	REL
+einem	DIS
+Geschäft	CON
+.	NIL
+
+Dieser	PRX
+Schuh	CON
+ist	NOW
+eine	QUC
+Nummer	UOM
+größer	MOR
+.	NIL
+
+Ihm	PRO
+wurden	PST
+zehntausend	QUC
+Dollar	UOM
+gezahlt	EXS
+.	NIL
+
+Wir	PRO
+öffneten	EPS
+die	DEF
+Tür	CON
+.	NIL
+
+Es	NIL
+schneite	EPS
+an	REL
+jenem	DST
+Tag	CON
+.	NIL
+
+Tom	PER
+fuhr	EPS
+mit	REL
+der	DEF
+Berg-~und~Talbahn	CON
+.	NIL
+
+Er	PRO
+räumte	EPS
+seine	HAS
+Fehler	CON
+ein	REL
+.	NIL
+
+Du	PRO
+kannst	POS
+deinen	HAS
+Aufsatz	CON
+jetzt	NOW
+beenden	EXS
+.	NIL
+
+Muiriel	PER
+ist	NOW
+zwanzig	QUC
+.	NIL
+
+Der	DEF
+Hund	CON
+jagte	EPS
+die	DEF
+Katze	CON
+auf	REL
+einen	DIS
+Baum	CON
+.	NIL
+
+Tom	PER
+rief	EPS
+Mary	PER
+an	REL
+.	NIL
+
+Die	DEF
+Stadt	CON
+wurde	PST
+573	YOC
+gegründet	EXS
+.	NIL
+
+Das	DST
+ist	ENS
+mein	HAS
+Hund	CON
+.	NIL
+
+Zucchini	CON
+sind	NOW
+grün	COL
+.	NIL
+
+Was	QUE
+ist	ENS
+Ihr	HAS
+Vorname	CON
+?	QUE
+
+Ich	PRO
+übertreibe	ENS
+.	NIL
+
+Tom	PER
+erstickte	EPS
+Maria	PER
+mit	REL
+einer	DIS
+Plastiktüte	CON
+.	NIL
+
+Tom	PER
+ist	NOW
+total	INT
+bekloppt	IST
+.	NIL
+
+Sie	PRO
+nennen	ENS
+Robert	PER
+"	NIL
+Bob	LIT
+"	NIL
+.	NIL
+
+Der	DEF
+Holzfäller	ROL
+fällt	ENS
+einen	DIS
+Baum	CON
+mit	REL
+einer	DIS
+Axt	CON
+.	NIL
+
+Eine	DIS
+Bande	ROL
+raubte	EPS
+tausende	QUV
+von	REL
+Dollars	UOM
+aus	REL
+einer	DIS
+Bank	CON
+.	NIL
+
+Das	DEF
+Opfer	ROL
+wurde	PST
+von	REL
+Hunden	CON
+verstümmelt	EXS
+.	NIL
+
+Der	DEF
+Alte	CON
+strich	EPS
+sich	REF
+nachdenklich	IST
+durch	REL
+den	DEF
+Bart	CON
+.	NIL
+
+Das	DEF
+Baby	CON
+ist	NOW
+wach	IST
+.	NIL
+
+Der	DEF
+Hund	CON
+ist	NOW
+auf	REL
+einem	QUC
+Auge	CON
+blind	IST
+.	NIL
+
+Ich	PRO
+lebe	ENS
+in	REL
+Tiflis	GPE
+.	NIL
+
+Das	DEF
+Schiff	CON
+wird	FUT
+um	REL
+fünf~Uhr	CLO
+ankommen	EXS
+.	NIL
+
+George~Selden	PER
+produzierte	EPS
+ein	DIS
+Auto	CON
+.	NIL
+
+Anna~Politkovskaya	PER
+wurde	PST
+ermordet	EXS
+.	NIL
+
+Brian~Goodell	PER
+gewann	EPS
+drei	QUC
+Goldmedaillen	CON
+bei	REL
+den	DEF
+Pan~American~Games	HAP
+1979	YOC
+.	NIL
+
+Er	PRO
+machte	EPS
+ein	DIS
+Foto	CON
+vom	REL
+Koala	CON
+.	NIL
+
+Sie	PRO
+ist	NOW
+stolz	IST
+auf	REL
+ihre	HAS
+Tochter	ROL
+.	NIL
+
+Ich	PRO
+fahre	ENS
+mit	REL
+dir	PRO
+nach	REL
+Hannover	GPE
+.	NIL
+
+Was	QUE
+ist	EXS
+die	DEF
+Quadratwurzel	CON
+aus	REL
+100	QUC
+?	QUE
+
+Sie	PRO
+hat	ENS
+ungefähr	APX
+zweitausend	QUC
+Bücher	CON
+.	NIL
+
+Wer	QUE
+erfand	EPS
+das	DEF
+Radio	CON
+?	QUE
+
+Jemand	DIS
+klopft	ENS
+an	REL
+deine	HAS
+Tür	CON
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihn	PRO
+Charles	LIT
+genannt	EXT
+.	NIL
+
+Die	DEF
+Bank	CON
+lieh	EPS
+ihr	PRO
+500	QUC
+Dollar	UOM
+.	NIL
+
+Ich	PRO
+starrte	EPS
+den	DEF
+Mann	CON
+an	REL
+.	NIL
+
+Nicht	NOT
+jeder	AND
+gewinnt	ENS
+!	EMP
+
+Ich	PRO
+hole	EFS
+dich	PRO
+um	REL
+2.30~Uhr	CLO
+ab	REL
+.	NIL
+
+Ich	PRO
+geb	ENS
+es	PRO
+zu	REL
+.	NIL
+
+Ein	DIS
+Lastwagen	CON
+raste	EPS
+die	DEF
+Straße	CON
+entlang	REL
+.	NIL
+
+Ich	PRO
+habe	NOW
+die	DEF
+Falten	CON
+aus	REL
+meiner	HAS
+Hose	CON
+gebügelt	EXT
+.	NIL
+
+Es	NIL
+schneite	EPS
+in	REL
+Osaka	GPE
+.	NIL
+
+Tom	PER
+hat	ENS
+in	REL
+seinem	HAS
+Garten	CON
+drei	QUC
+Apfelbäume	CON
+.	NIL
+
+Sie	PRO
+ist	NOW
+nett	IST
+zu	REL
+alten	IST
+Leuten	CON
+.	NIL
+
+Tom	PER
+weinte	EPS
+.	NIL
+
+Wir	PRO
+müssen	ENS
+Hundefutter	CON
+kaufen	EXS
+.	NIL
+
+Wie	QUE
+ist	ENS
+Ihr	HAS
+Mädchenname	CON
+?	QUE
+
+Der	DEF
+Feueralarm	CON
+erscholl	EPS
+.	NIL
+
+Ich	PRO
+wurde	PST
+1960	YOC
+geboren	EXS
+.	NIL
+
+Tom	PER
+gab	EPS
+das	DEF
+Passwort	CON
+ein	REL
+.	NIL
+
+Er	PRO
+sprach	EPS
+überhaupt	EMP
+nicht	NOT
+mit	REL
+mir	PRO
+.	NIL
+
+Meine	HAS
+Mutter	ROL
+ist	NOW
+zwei	QUC
+Jahre	UOM
+jünger	MOR
+als	REL
+mein	HAS
+Vater	ROL
+.	NIL
+
+Aber	BUT
+du	PRO
+wirst	FUT
+schreiben	EXS
+,	NIL
+oder	QUE
+?	QUE
+
+Tom	PER
+zerriss	EPS
+ein	DIS
+Bild	CON
+.	NIL
+
+Tom	PER
+hat	NOW
+die	DEF
+Münze	CON
+eingesteckt	EXT
+.	NIL
+
+Tom	PER
+war	EPS
+eine	DIS
+Woche	CON
+mit	REL
+seiner	HAS
+Freundin	ROL
+auf	REL
+Bali	GPE
+.	NIL
+
+Die	DEF
+Bücherei	CON
+ist	NOW
+achtzig	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Die	DEF
+Naturwissenschaften	CON
+sind	NOW
+härter	MOR
+als	REL
+die	DEF
+Sozialwissenschaften	CON
+.	NIL
+
+König	ROL
+Heinrich~II	PER
+verbot	EPS
+Turniere	CON
+.	NIL
+
+Nelson~Beavers	PER
+hat	NOW
+für	REL
+Eurofins	ORG
+gearbeitet	EXT
+.	NIL
+
+Carl~Lewis	PER
+gewann	EPS
+achtzehn	QUC
+Goldmedaillen	CON
+und	COO
+setzte	EPS
+21	QUC
+Weltrekorde	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+mit	REL
+der	DEF
+Schauspielerin	ROL
+selbst	EMP
+gesprochen	EXT
+.	NIL
+
+Er	PRO
+klopfte	EPS
+an	REL
+die	DEF
+geschlossene	IST
+Tür	CON
+.	NIL
+
+Er	PRO
+wurde	PST
+von	REL
+einem	DIS
+Hai	CON
+angegriffen	EXS
+.	NIL
+
+Ich	PRO
+bin	NOW
+am	PRG
+Dösen	EXG
+.	NIL
+
+Wo	QUE
+liegt	ENS
+Requena	GPE
+?	QUE
+
+Sie	PRO
+nannte	EPS
+das	DEF
+Kätzchen	CON
+„	NIL
+Jaguar	LIT
+“	NIL
+.	NIL
+
+Mein	HAS
+Bruder	ROL
+ist	ENS
+ein	DIS
+Depp	ROL
+.	NIL
+
+Du	PRO
+bist	NOW
+zuverlässig	IST
+.	NIL
+
+Er	PRO
+hat	NOW
+den	DEF
+Lastwagen	CON
+nach	REL
+Dallas	GPE
+gefahren	EXT
+.	NIL
+
+Sie	PRO
+spielt	ENS
+Bach	CON
+.	NIL
+
+Wer	QUE
+hat	NOW
+das	DEF
+Radium	CON
+entdeckt	EXT
+?	QUE
+
+Sie	PRO
+hat	NOW
+einen	DIS
+Musiker	ROL
+geheiratet	EXT
+.	NIL
+
+Alice	PER
+huschte	EPS
+in	REL
+ihr	HAS
+Zimmer	CON
+.	NIL
+
+Tom	PER
+drückte	EPS
+auf	REL
+den	DEF
+Knopf	CON
+.	NIL
+
+Plötzlich	IST
+gingen	EPS
+alle	AND
+Lichter	CON
+aus	REL
+.	NIL
+
+Tom	PER
+schubste	EPS
+Mary	PER
+in	REL
+den	DEF
+Pool	CON
+.	NIL
+
+Jemand	DIS
+hat	NOW
+sie	PRO
+in	REL
+der	DEF
+Badewanne	CON
+ertränkt	EXT
+.	NIL
+
+Er	PRO
+zahlt	ENS
+mit	REL
+einer	DIS
+Kreditkarte	CON
+.	NIL
+
+Ich	PRO
+bin	NOW
+27	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Die	DEF
+Toilette	CON
+ist	ENS
+oben	CON
+.	NIL
+
+Herr	ROL
+Hawk	PER
+ist	ENS
+ein	DIS
+freundlicher	IST
+Kavalier	ROL
+.	NIL
+
+Ich	PRO
+spiele	ENS
+gut	IST
+Klavier	CON
+.	NIL
+
+Mary	PER
+hat	NOW
+Tom	PER
+verachtet	EXT
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihm	PRO
+einen	DIS
+Hund	CON
+gekauft	EXT
+.	NIL
+
+Königin	ROL
+Marie~Antoinette	PER
+wurde	PST
+guillotiniert	EXS
+.	NIL
+
+Madonna	PER
+s	HAS
+Konzert	CON
+lockte	EPS
+eine	DIS
+große	DEG
+Zuhörerschaft	CON
+an	REL
+.	NIL
+
+Die	DEF
+Hunde	CON
+bellten	EPS
+den	DEF
+Eindringling	ROL
+wütend	IST
+an	REL
+.	NIL
+
+Obwohl	PER
+wir	PRO
+uns	PRO
+sehr	INT
+bemühten	IST
+,	NIL
+konnten	EPS
+wir	PRO
+Johanna	PER
+nicht	NOT
+schlagen	EXS
+.	NIL
+
+Ich	PRO
+brauche	ENS
+jemanden	DIS
+.	NIL
+
+Sie	PRO
+zitierte	EPS
+ein	DIS
+Gedicht	CON
+von	REL
+Keats	PER
+.	NIL
+
+Carl	PER
+hat	NOW
+mir	PRO
+die	DEF
+Goldmedaille	CON
+gezeigt	EXT
+.	NIL
+
+Tom	PER
+massierte	EPS
+mir	PRO
+mit	REL
+den	DEF
+Fingern	CON
+die	DEF
+Schläfen	CON
+.	NIL
+
+Herr	ROL
+Wang	PER
+bringt	ENS
+uns	PRO
+Chinesisch	CON
+bei	REL
+.	NIL
+
+Ich	PRO
+kann	POS
+überhaupt	EMP
+kein	NOT
+Englisch	CON
+sprechen	EXS
+.	NIL
+
+Wie	QUE
+lautet	ENS
+dein	HAS
+Nachname	CON
+?	QUE
+
+Das	PRO
+ist	NOW
+mir	PRO
+vollkommen	INT
+egal	IST
+.	NIL
+
+Ich	PRO
+klatschte	EPS
+.	NIL
+
+Dieses	PRX
+Radio	CON
+ist	NOW
+nicht	NOT
+größer	MOR
+als	REL
+eine	DIS
+Streichholzschachtel	CON
+.	NIL
+
+John	PER
+ist	NOW
+viel	QUV
+größer	MOR
+als	REL
+Mary	PER
+.	NIL
+
+Der	DEF
+Krieg	CON
+dauerte	EPS
+zwei	QUC
+Jahre	UOM
+.	NIL
+
+Die	DEF
+Antwort	CON
+machte	EPS
+ihn	PRO
+ärgerlich	IST
+.	NIL
+
+Er	PRO
+klopfte	EPS
+an	REL
+die	DEF
+Tür	CON
+.	NIL
+
+Jill	PER
+ist	NOW
+mit	REL
+Jack	PER
+verlobt	EXS
+.	NIL
+
+Drei	QUC
+mal	CON
+fünf	QUC
+ist	EXS
+fünfzehn	QUC
+.	NIL
+
+Tom	PER
+steckte	EPS
+den	DEF
+Schlüssel	CON
+ins	DEF
+Schloss	CON
+.	NIL
+
+Ich	PRO
+lerne	ENS
+gerade	NOW
+Englisch	CON
+.	NIL
+
+Er	PRO
+arbeitet	ENS
+in	REL
+einer	DIS
+Sägemühle	CON
+.	NIL
+
+Arnold~Schwarzenegger	PER
+wurde	PST
+in	REL
+Österreich	GPE
+geboren	EXS
+.	NIL
+
+Tom	PER
+s	HAS
+Mobiltelefon	CON
+klingelte	EPS
+.	NIL
+
+Ich	PRO
+erröte	ENS
+für	REL
+dich	PRO
+.	NIL
+
+Tom	PER
+ist	NOW
+umbarmherzig	IST
+.	NIL
+
+Der	DEF
+Polizist	ROL
+verfolgte	EPS
+den	DEF
+Dieb	ROL
+.	NIL
+
+Laurie	PER
+lebt	ENS
+in	REL
+Melbourne	GPE
+.	NIL
+
+Er	PRO
+ist	NOW
+bei	REL
+Studenten	ROL
+beliebt	IST
+.	NIL
+
+Er	PRO
+kam	EPS
+durch	REL
+das	DEF
+Fenster	CON
+herein	REL
+.	NIL
+
+Ich	PRO
+bin	NOW
+mit	REL
+dir	PRO
+fertig	IST
+.	NIL
+
+Katzen	CON
+fangen	EXS
+Mäuse	CON
+.	NIL
+
+Der	AND
+Delfin	CON
+ist	ENS
+ein	DIS
+Säugetier	CON
+.	NIL
+
+Mein	HAS
+Vater	ROL
+starb	EPS
+an	REL
+Lungenkrebs	CON
+.	NIL
+
+Sie	PRO
+ohrfeigte	EPS
+ihn	PRO
+.	NIL
+
+Die	DEF
+Versammlung	CON
+dauerte	EPS
+bis	REL
+5~Uhr	CLO
+.	NIL
+
+Wir	PRO
+haben	ENS
+kein	NOT
+Schwimmbecken	CON
+.	NIL
+
+Lenz	PER
+schüttelte	EPS
+trostlos	IST
+mit	REL
+dem	DEF
+Kopfe	CON
+.	NIL
+
+Meine	HAS
+Schwester	ROL
+ist	NOW
+mit	REL
+ihm	PRO
+verlobt	EXS
+.	NIL
+
+Sie	PRO
+starrte	EPS
+mich	PRO
+an	REL
+.	NIL
+
+Tom	PER
+bügelte	EPS
+sein	HAS
+Hemd	CON
+.	NIL
+
+Glaubst	ENS
+du	PRO
+an	REL
+den	DEF
+Osterhasen	CON
+?	QUE
+
+Sie	PRO
+ist	NOW
+glücklich	IST
+.	NIL
+
+Tom	PER
+spricht	ENS
+fließend	IST
+Japanisch	CON
+.	NIL
+
+Wir	PRO
+vergeben	ENS
+ihm	PRO
+.	NIL
+
+Ich	PRO
+sah	EPS
+Wölfe	CON
+in	REL
+den	DEF
+Apenninen	GEO
+.	NIL
+
+Der	DEF
+Mann	CON
+raubte	EPS
+ihr	PRO
+die	DEF
+Handtasche	CON
+.	NIL
+
+Ich	PRO
+schaue	ENS
+jetzt	NOW
+gerade	EQU
+aus	REL
+dem	DEF
+Fenster	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+den	DEF
+Küchenboden	CON
+gefegt	EXT
+.	NIL
+
+Frank~Sinatra	PER
+war	EPS
+ein	DIS
+amerikanischer	GPO
+Sänger	ROL
+.	NIL
+
+Tom	PER
+jätete	EPS
+den	DEF
+Garten	CON
+.	NIL
+
+Ich	PRO
+spreche	ENS
+kein	NOT
+Englisch	CON
+.	NIL
+
+Die	DEF
+sehr	INT
+langen	IST
+schwarzen	COL
+Wimpern	CON
+betonten	EPS
+die	DEF
+vornehme	IST
+Blässe	CON
+ihrer	HAS
+Wangen	CON
+.	NIL
+
+Diese	PRX
+Kopfhörer	CON
+funktionieren	ENS
+nicht	NOT
+.	NIL
+
+Tom	PER
+hat	NOW
+Mary	PER
+gebissen	EXT
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihn	PRO
+vor	PST
+drei	QUC
+Jahren	UOM
+getroffen	EXT
+.	NIL
+
+Er	PRO
+ist	NOW
+äußerst	INT
+unvoreingenommen	IST
+.	NIL
+
+Ich	PRO
+habe	NOW
+das	DEF
+Rätsel	CON
+gelöst	EXT
+.	NIL
+
+Er	PRO
+wiegt	ENS
+etwa	APX
+140	QUC
+Kilogramm	UOM
+.	NIL
+
+Tom	PER
+ist	ENS
+auf	REL
+dem	DEF
+Pott	CON
+.	NIL
+
+Der	DEF
+Hund	CON
+bellt	ENS
+.	NIL
+
+Die	DEF
+Banane	CON
+ist	NOW
+süß	IST
+.	NIL
+
+Jeder	DIS
+,	NIL
+der	IMP
+bei	REL
+dem	DEF
+Projekt	CON
+mitarbeitete	EPS
+,	NIL
+wurde	EPS
+Millionär	ROL
+.	NIL
+
+Tom	PER
+hat	NOW
+in	REL
+der	DEF
+letzten	IST
+Französischklassenarbeit	CON
+eine	DIS
+Eins	SCO
+bekommen	EXT
+.	NIL
+
+Ich	PRO
+hab	NOW
+den	DEF
+Highway	CON
+58	NTH
+genommen	EXT
+.	NIL
+
+Ich	PRO
+bin	NOW
+nicht	NOT
+allergisch	IST
+gegen	REL
+Pe­ni­zil­lin	CON
+.	NIL
+
+Schildkröten	CON
+sind	EQU
+Reptilien	CON
+.	NIL
+
+Ich	PRO
+setze	ENS
+10	QUC
+Dollar	UOM
+auf	REL
+das	DEF
+Pferd	CON
+.	NIL
+
+Ich	PRO
+tanze	ENS
+gerade	NOW
+.	NIL
+
+Tom	PER
+wimmerte	EPS
+vor	REL
+Schmerz	CON
+.	NIL
+
+Cisco	ORG
+wurde	PST
+von	REL
+Infogear~Technology~Corp	ORG
+erworben	EXT
+.	NIL
+
+Steven~Jenkins	PER
+wurde	PST
+von	REL
+einem	DIS
+Freund	ROL
+erschossen	EXT
+.	NIL
+
+Der	DEF
+Stand	CON
+ist	ENS
+1~:~0	SCO
+.	NIL
+
+Das	DEF
+Postamt	CON
+ist	NOW
+eine	DIS
+halbe	QUC
+Meile	UOM
+entfernt	DEG
+.	NIL
+
+Er	PRO
+pfiff	EPS
+nach	REL
+seinem	HAS
+Hund	CON
+.	NIL
+
+Das	DEF
+Mädchen	CON
+hängt	ENS
+sehr	INT
+an	REL
+ihrer	HAS
+Tante	ROL
+.	NIL
+
+Er	PRO
+nickte	EPS
+mir	PRO
+zu	REL
+.	NIL
+
+Eine	DIS
+Reise	CON
+nach	REL
+Hawaii	GPE
+kostet	ENS
+um~die	APX
+200	QUC
+Dollar	UOM
+.	NIL
+
+Ich	PRO
+bin	NOW
+geschieden	IST
+.	NIL
+
+Mary	PER
+benutzt	ENS
+eine	DIS
+Töpferscheibe	CON
+.	NIL
+
+Sie	PRO
+isst	ENS
+Spaghetti	CON
+.	NIL
+
+Wir	PRO
+fasten	ENS
+gerade	NOW
+.	NIL
+
+Ich	PRO
+bin	NOW
+ein	DIS
+bisschen	QUV
+groggy	IST
+.	NIL
+
+Der	DEF
+alte	DEG
+Mann	CON
+saß	EPS
+auf	REL
+einer	DIS
+Bank	CON
+.	NIL
+
+Mein	HAS
+sechs	QUC
+Monate	UOM
+alter	DEG
+Sohn	ROL
+zahnt	ENS
+.	NIL
+
+Er	PRO
+hat	ENS
+vier	QUC
+Mobiltelefone	CON
+.	NIL
+
+Der	DEF
+Erste~Weltkrieg	HAP
+brach	EPS
+1914	YOC
+aus	REL
+.	NIL
+
+Actinium	CON
+verdampft	ENS
+bei	REL
+3198	QUC
+°C	UOM
+.	NIL
+
+Sie	PRO
+wurde	PST
+von	REL
+ihm	PRO
+erpresst	EXS
+.	NIL
+
+Wie	QUE
+viele	QUV
+Brücken	CON
+gibt	ENS
+es	NIL
+in	REL
+London	GPE
+?	QUE
+
+John	PER
+erbte	EPS
+ein	DIS
+großes	DEG
+Vermögen	CON
+.	NIL
+
+Er	PRO
+kann	POS
+nicht	NOT
+schwimmen	EXS
+.	NIL
+
+Wo	QUE
+sind	ENS
+die	DEF
+Parkuhren	CON
+?	QUE
+
+Wir	PRO
+haben	ENS
+ein	DIS
+halbes~Dutzend	QUC
+Eier	CON
+.	NIL
+
+Wie	QUE
+heißt	ENS
+der	DEF
+höchste	TOP
+Berg	CON
+in	REL
+Deutschland	GPE
+?	QUE
+
+Tom	PER
+ist	NOW
+nicht	NOT
+eifersüchtig	IST
+.	NIL
+
+Ich	PRO
+vertraue	ENS
+Ken	PER
+.	NIL
+
+Koko	NTH
+ist	ENS
+ein	DIS
+weiblicher	IST
+Gorilla	CON
+.	NIL
+
+Das	PRO
+hast	NOW
+du	PRO
+schon	ALT
+vor	PST
+einer	DIS
+halben	QUC
+Stunde	UOM
+gesagt	EXT
+.	NIL
+
+Ich	PRO
+möchte	ENS
+auch	ALT
+dieses	DST
+Hemd	CON
+.	NIL
+
+Er	PRO
+litt	EPS
+an	REL
+einer	DIS
+schlimmen	IST
+Erkältung	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+Geld	CON
+in	REL
+einen	DIS
+Safe	CON
+getan	EXT
+.	NIL
+
+Er	PRO
+ist	NOW
+etwas	QUV
+kleiner	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Ihre	HAS
+Haare	CON
+sind	NOW
+lang	DEG
+.	NIL
+
+Tom	PER
+trug	EPS
+eine	DIS
+Brille	CON
+.	NIL
+
+Ich	PRO
+habe	NOW
+den	DEF
+PC	CON
+kaputt	IST
+gemacht	EXT
+.	NIL
+
+Christoph~Kolumbus	PER
+starb	EPS
+1506	YOC
+.	NIL
+
+Tom	PER
+tanzt	ENS
+mit	REL
+den	DEF
+Damen	CON
+.	NIL
+
+Tom	PER
+ist	ENS
+ein	DIS
+hervorragender	IST
+Schifahrer	ROL
+.	NIL
+
+Tom	PER
+will	ENS
+eine	DIS
+Tasse	CON
+Kaffee	CON
+trinken	EXS
+.	NIL
+
+Er	PRO
+hat	NOW
+ins	DEF
+Schwarze	CON
+getroffen	EXT
+.	NIL
+
+Sie	PRO
+nannte	EPS
+ihren	HAS
+Bären	CON
+Ted	LIT
+.	NIL
+
+Sie	PRO
+ist	NOW
+sehr	INT
+neugierig	IST
+.	NIL
+
+Sie	PRO
+sehen	ENS
+umwerfend	IST
+aus	REL
+.	NIL
+
+Ich	PRO
+habe	NOW
+zwei	QUC
+Stunden	UOM
+lang	DEG
+gesungen	EXT
+.	NIL
+
+Jim	PER
+wurde	PST
+in	REL
+der	DEF
+7.	ORD
+Runde	CON
+ausgezählt	EXS
+.	NIL
+
+Tom	PER
+befestigte	EPS
+die	DEF
+Schnur	CON
+am	DEF
+Drachen	CON
+.	NIL
+
+Der	DEF
+Vorsitzende	ROL
+ernannte	EPS
+einen	DIS
+neuen	IST
+Geschäftsführer	ROL
+.	NIL
+
+Wir	PRO
+haben	NOW
+ein	DIS
+Kind	CON
+adoptiert	EXT
+.	NIL
+
+Plötzlich	IST
+sah	EPS
+ich	PRO
+einen	DIS
+Hasen	CON
+über	REL
+das	DEF
+Feld	CON
+laufen	EXG
+.	NIL
+
+Der	DEF
+Jäger	ROL
+schoss	EPS
+einen	DIS
+Hirsch	CON
+.	NIL
+
+Johannes	PER
+jagte	EPS
+Maria	PER
+.	NIL
+
+Mein	HAS
+Nachbar	ROL
+heißt	ENS
+Deng~Daping	LIT
+.	NIL
+
+Ein	DIS
+Tsunami	CON
+traf	EPS
+auf	NIL
+die	DEF
+nordöstlichen	IST
+Küste	CON
+von	REL
+Hokkaido	GPE
+.	NIL
+
+Stephen~Hawking	PER
+ist	ENS
+Physiker	ROL
+.	NIL
+
+Tom	PER
+mag	ENS
+keinen	NOT
+Käse	CON
+.	NIL
+
+John	PER
+ist	NOW
+gut	IST
+in	REL
+Mathematik	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+größer	MOR
+als	REL
+ich	PRO
+.	NIL
+
+Eins	QUC
+plus	CON
+zwei	QUC
+ist	NIL
+gleich	IST
+drei	QUC
+.	NIL
+
+"	NIL
+Der~alte~Mann~und~das~Meer	ART
+"	NIL
+ist	ENS
+ein	DIS
+Roman	CON
+von	REL
+Hemingway	PER
+.	NIL
+
+Er	PRO
+ist	ENS
+mein	HAS
+Freund	ROL
+.	NIL
+
+Sie	PRO
+hat	NOW
+ihm	PRO
+seine	HAS
+Jacke	CON
+gegeben	EXT
+.	NIL
+
+Das	DEF
+Zimmer	CON
+war	PST
+warm	DEG
+.	NIL
+
+Internationale	IST
+Rechtsordnung	CON
+und	GRP
+Menschenrechte	CON
+
+Entwicklungen	CON
+auf	REL
+dem	DEF
+Gebiet	CON
+der	DEF
+Menschenrechte	CON
+
+Tausende	QUV
+Amerikaner	GPO
+besaßen	EPS
+Automobile	CON
+.	NIL
+
+Wir	PRO
+segeln	EFS
+am	REL
+Montag	DOW
+nach	REL
+San~Francisco	GPE
+.	NIL
+
+Sie	PRO
+scherten	EPS
+die	DEF
+Schafe	CON
+.	NIL
+
+Sie	PRO
+hat	NOW
+meinen	HAS
+Hintern	CON
+begrapscht	EXT
+!	EMP
+
+Es	PRO
+ist	NOW
+vier	QUC
+Zentimeter	UOM
+dick	DEG
+.	NIL
+
+Er	PRO
+stopfte	EPS
+das	DEF
+Geld	CON
+in	REL
+seine	HAS
+Tasche	CON
+.	NIL
+
+Er	PRO
+war	EPS
+drei	QUC
+Jahre	UOM
+im	DEF
+Gefängnis	CON
+.	NIL
+
+Er	PRO
+warf	EPS
+den	DEF
+Brief	CON
+ins	DEF
+Feuer	CON
+.	NIL
+
+Dazai~Osamu	PER
+nahm	EPS
+sich	REF
+das	DEF
+Leben	CON
+.	NIL
+
+Er	PRO
+ist	NOW
+wahnsinnig	IST
+eifersüchtig	IST
+.	NIL
+
+Tom	PER
+will	ENS
+nichts	NOT
+anderes	ALT
+trinken	EXS
+.	NIL
+
+Sie	PRO
+haben	NOW
+einen	DIS
+Gefangenen	ROL
+gefoltert	EXT
+.	NIL
+
+Ein	DIS
+paar	QUV
+hübsche	IST
+Vögel	CON
+fliegen	ENS
+über	REL
+den	DEF
+Bäumen	CON
+.	NIL
+
+Ich	PRO
+mag	ENS
+Himbeeren	CON
+.	NIL
+
+Mein	HAS
+Sohn	ROL
+ist	NOW
+zehn	QUC
+Jahre	UOM
+alt	DEG
+.	NIL
+
+Mein	HAS
+Auto	CON
+wird	NOW
+gerade	PRG
+repariert	EXS
+.	NIL
+
+Er	PRO
+heuerte	EPS
+einen	DIS
+Privatdetektiv	ROL
+an	REL
+.	NIL
+
+Ich	PRO
+bekomme	ENS
+immer	AND
+eine	DIS
+Eins	SCO
+in	REL
+Mathe	CON
+.	NIL
+
+Die	DEF
+Eichhörnchen	CON
+sprangen	EPS
+von	REL
+Zweig	CON
+zu	REL
+Zweig	CON
+.	NIL
+
+Der	DEF
+Supermarkt	CON
+öffnet	ENS
+um	REL
+zehn~Uhr	CLO
+.	NIL
+
+Rechner	CON
+sind	NOW
+besser	MOR
+als	REL
+wir	PRO
+.	NIL
+
+Das	DEF
+Schwein	CON
+grunzt	ENS
+.	NIL
+
+Tom	PER
+hat	NOW
+den	DEF
+Fisch	CON
+noch	ALT
+nicht	NOT
+gegrillt	EXT
+.	NIL
+
+Er	PRO
+hob	EPS
+einen	DIS
+Stein	CON
+auf	REL
+.	NIL
+
+Wale	CON
+sind	ENS
+Säugetiere	CON
+.	NIL
+
+Die	DEF
+Nummer	CON
+ist	NOW
+besetzt	IST
+.	NIL
+
+Die	DEF
+Katze	CON
+versteckt	ENS
+sich	REF
+unter	REL
+dem	DEF
+Sofa	CON
+.	NIL
+

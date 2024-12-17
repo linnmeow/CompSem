@@ -1,0 +1,10466 @@
+Kraft	ORG
+heeft	NOW
+Celestial~Seasonings	ORG
+verkocht	EXT
+.	NIL
+
+Anna~Politkovskaja	PER
+is	PST
+vermoord	EXS
+.	NIL
+
+Alfred~Nobel	PER
+is	ENS
+de	DEF
+uitvinder	ROL
+van	REL
+dynamiet	CON
+.	NIL
+
+Rusland	GPE
+is	NOW
+bang	IST
+voor	REL
+het	DEF
+systeem	CON
+.	NIL
+
+Yunus	PER
+richtte	EPS
+30	QUC
+jaar	UOM
+geleden	PST
+de	DEF
+Grameen~Bank	ORG
+op	REL
+.	NIL
+
+Maria	PER
+heeft	ENS
+lang	DEG
+haar	CON
+.	NIL
+
+De	DEF
+astronauten	ROL
+gingen	EPS
+naar	REL
+de	DEF
+maan	CON
+in	REL
+een	DIS
+raket	CON
+.	NIL
+
+We	PRO
+stonden	EPS
+voor	REL
+de	DEF
+deur	CON
+en	AND
+wachtten	EPS
+.	NIL
+
+Bob	PER
+is	NOW
+populair	IST
+op	REL
+school	CON
+.	NIL
+
+Bill	PER
+was	PST
+door	REL
+een	DIS
+inbreker	ROL
+vermoord	EXS
+.	NIL
+
+Laten	FUT
+we	PRO
+sushi	CON
+eten	EXS
+.	NIL
+
+Ik	PRO
+gaf	EPS
+het	PRO
+aan	REL
+mijn	HAS
+mama	ROL
+.	NIL
+
+Mijn	HAS
+oom	ROL
+heeft	NOW
+dit	PRX
+boek	CON
+voor	REL
+mij	PRO
+gekocht	EXT
+.	NIL
+
+Ik	PRO
+zal	FUT
+een	DIS
+nieuwe	IST
+kopen	EXS
+.	NIL
+
+Het	PRO
+is	NOW
+leuk	IST
+.	NIL
+
+Hij	PRO
+is	NOW
+niet	NOT
+zoals	IST
+wij	PRO
+.	NIL
+
+Hij	PRO
+is	NOW
+veel	QUV
+jonger	MOR
+dan	REL
+Tom	PER
+.	NIL
+
+Hij	PRO
+kan	POS
+zwemmen	EXS
+.	NIL
+
+Hij	PRO
+is	NOW
+een	QUC
+hoofd	UOM
+groter	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+Ze	PRO
+zwaaide	EPS
+me	PRO
+gedag	CON
+.	NIL
+
+Wie	QUE
+is	ENS
+hij	PRO
+?	QUE
+
+Ik	PRO
+moest	NEC
+overgeven	EPS
+.	NIL
+
+Ik	PRO
+wil	ENS
+met	REL
+een	DIS
+cheque	CON
+betalen	EXS
+.	NIL
+
+Zij	PRO
+heeft	ENS
+drie	QUC
+broers	ROL
+.	NIL
+
+Eén	QUC
+plus	CON
+twee	QUC
+is	NIL
+gelijk	IST
+aan	REL
+drie	QUC
+.	NIL
+
+Mooi	IST
+pak	CON
+.	NIL
+
+Het	DEF
+boek	CON
+is	NOW
+groot	DEG
+.	NIL
+
+Dat	DST
+is	ENS
+de	DEF
+vrouw	CON
+wier	HAS
+auto\'s	CON
+gestolen	EXS
+zijn	NOW
+.	NIL
+
+Waar	QUE
+zijn	ENS
+de	DEF
+parkeermeters	CON
+?	QUE
+
+Mijn	HAS
+ouders	ROL
+komen	ENS
+uit	REL
+China	GPE
+.	NIL
+
+Ik	PRO
+won	EPS
+de	DEF
+gouden~medaille	CON
+.	NIL
+
+Wat	EMP
+een	DIS
+mooie	IST
+regenboog	CON
+!	EMP
+
+Zij	PRO
+is	ENS
+de	DEF
+minister-president	ROL
+van	REL
+Finland	GPE
+.	NIL
+
+Is	ENS
+er	NIL
+een	DIS
+dierentuin	CON
+in	REL
+Boston	GPE
+?	QUE
+
+Tom	PER
+gebruikte	EPS
+een	DIS
+tandenstoker	CON
+.	NIL
+
+Ik	PRO
+houd	ENS
+van	REL
+Natasha	PER
+.	NIL
+
+Ik	PRO
+wil	ENS
+geen	NOT
+pizza	CON
+.	NIL
+Ik	PRO
+heb	NOW
+geen	NOT
+honger	IST
+.	NIL
+
+Bestaan	ENS
+er	NIL
+pitloze	IST
+watermeloenen	CON
+?	QUE
+
+Ik	PRO
+ben	NOW
+mijn	HAS
+sleutel	CON
+kwijtgeraakt	EXT
+.	NIL
+
+Die	DST
+kerel	CON
+is	NOW
+compleet	INT
+getikt	IST
+!	EMP
+
+Ik	PRO
+ben	NOW
+moe	IST
+.	NIL
+
+Hoeveel	QUE
+mensen	CON
+in	REL
+de	DEF
+Verenigde~Staten	GPE
+hebben	ENS
+geen	NOT
+ziektekostenverzekering	CON
+?	QUE
+
+Ze	PRO
+rookte	EPS
+een	DIS
+sigaar	CON
+.	NIL
+
+Dit	PRX
+is	ENS
+mevrouw	ROL
+Curtis	PER
+.	NIL
+
+Mijn	HAS
+plan	CON
+werkte	EPS
+.	NIL
+
+Tom	PER
+zegt	ENS
+dat	SUB
+hij	PRO
+bezig	IST
+is	NOW
+.	NIL
+
+Je	PRO
+loog	EPS
+tegen	REL
+me	PRO
+!	EMP
+
+Wie	QUE
+heeft	NOW
+gewonnen	EXT
+?	QUE
+
+Iedereen	AND
+haat	ENS
+me	PRO
+.	NIL
+
+Zijn	NOW
+ze	PRO
+live	IST
+?	QUE
+
+Hij	PRO
+is	NOW
+homo	IST
+.	NIL
+
+Ik	PRO
+eet	ENS
+een	DIS
+banaan	CON
+.	NIL
+
+Mijn	HAS
+familie	CON
+is	NOW
+erg	INT
+trots	IST
+op	REL
+me	PRO
+.	NIL
+
+De	DEF
+taart	CON
+is	NOW
+vers	IST
+.	NIL
+
+Hij	PRO
+speelde	EPS
+piano	CON
+en	COO
+zij	PRO
+zong	EPS
+.	NIL
+
+Tom	PER
+raapte	EPS
+de	DEF
+diamant	CON
+op	REL
+en	COO
+bekeek	EPS
+hem	PRO
+.	NIL
+
+Het	DEF
+pak	CON
+is	NOW
+gemaakt	EXS
+van	REL
+erg	INT
+ruw	IST
+materiaal	CON
+.	NIL
+
+We	PRO
+hadden	PST
+gelijk	IST
+.	NIL
+
+Dit	PRX
+is	NOW
+persoonlijk	IST
+.	NIL
+
+Ik	PRO
+bewonder	ENS
+zijn	HAS
+talent	CON
+.	NIL
+
+Raman~Raghav	PER
+werkt	ENS
+als	REL
+politieofficier	CON
+.	NIL
+
+Pierce	PER
+woont	ENS
+aan	REL
+de	DEF
+E.~28th~Street	GEO
+.	NIL
+
+Bob	PER
+was	PST
+heel	INT
+blij	IST
+.	NIL
+
+Heeft	ENS
+u	PRO
+een	DIS
+kredietkaart	CON
+?	QUE
+
+Ik	PRO
+heb	NOW
+het	DEF
+boek	CON
+gekocht	EXT
+voor	REL
+tien	QUC
+dollar	UOM
+.	NIL
+
+Hij	PRO
+gaf	EPS
+de	DEF
+hond	CON
+een	DIS
+bot	CON
+.	NIL
+
+Ze	PRO
+bewapenden	EPS
+zich	REF
+met	REL
+geweren	CON
+.	NIL
+
+Hoi	GRE
+.	NIL
+
+Mama	ROL
+heeft	NOW
+de	DEF
+tafel	CON
+gedekt	EXT
+.	NIL
+
+Die	DST
+jongen	CON
+toonde	EPS
+geen	NOT
+angst	CON
+.	NIL
+
+Het	PRO
+is	NOW
+erg	INT
+kleverig	IST
+.	NIL
+
+Ik	PRO
+kom	ENS
+uit	REL
+Portugal	GPE
+.	NIL
+
+Hallo	GRE
+.	EMP
+
+Maria	PER
+verborg	EPS
+haar	HAS
+gezicht	CON
+in	REL
+haar	HAS
+handen	CON
+.	NIL
+
+Toms	PER
+huis	CON
+is	NOW
+vernietigd	EXT
+door	REL
+de	DEF
+orkaan	CON
+.	NIL
+
+Ze	PRO
+is	ENS
+geen	NOT
+goede	IST
+kokkin	ROL
+.	NIL
+
+Jij	PRO
+bent	NOW
+ondeugend	IST
+.	NIL
+
+Mijn	HAS
+tas	CON
+is	NOW
+heel	INT
+zwaar	IST
+.	NIL
+
+Tom	PER
+begon	EPS
+te	NIL
+lopen	EXS
+.	NIL
+
+Ik	PRO
+ben	NOW
+dertig	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+Kraft	ORG
+heeft	NOW
+Celestial~Seasonings	ORG
+verkocht	EXT
+.	NIL
+
+Raman~Raghav	PER
+vermoordde	EPS
+negen	QUC
+mensen	CON
+.	NIL
+
+Charles~de~Gaulle	PER
+overleed	EPS
+in	REL
+1970	YOC
+.	NIL
+
+Paus	ROL
+Pius	PER
+VI	ORD
+stierf	EPS
+in	REL
+Frankrijk	GPE
+.	NIL
+
+Ons	HAS
+vliegtuig	CON
+vloog	EPS
+boven	REL
+de	DEF
+wolken	CON
+.	NIL
+
+Bill	PER
+is	NOW
+twee	QUC
+jaar	UOM
+ouder	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+Ze	PRO
+beledigde	EPS
+hem	PRO
+.	NIL
+
+Mary	PER
+werd	PST
+ontvoerd	EXS
+door	REL
+piraten	ROL
+.	NIL
+
+Meneer	ROL
+White	PER
+\'s	HAS
+tuin	CON
+is	NOW
+groot	DEG
+.	NIL
+
+Ik	PRO
+heb	NOW
+zojuist	IST
+uw	HAS
+brief	CON
+ontvangen	EXT
+.	NIL
+
+Welk	QUE
+bedrijf	CON
+is	NOW
+door	REL
+Nicholas~Brady	PER
+opgericht	EXS
+?	QUE
+
+Ik	PRO
+kijk	ENS
+naar	REL
+kunstschaatsen	CON
+.	NIL
+
+Tom	PER
+zingt	ENS
+mooi	IST
+.	NIL
+
+Ik	PRO
+heb	NOW
+de	DEF
+wijn	CON
+gedronken	EXT
+.	NIL
+
+Misschien	POS
+heeft	NOW
+Tom	PER
+Mary	PER
+gekust	EXT
+.	NIL
+
+De	DEF
+grote	DEG
+witte	CON
+hond	CON
+kijkt	ENS
+naar	REL
+die	DST
+kat	CON
+.	NIL
+
+Tom	PER
+grillt	ENS
+vlees	CON
+.	NIL
+
+Ik	PRO
+hou	ENS
+van	REL
+chocoladeijs	CON
+!	EMP
+
+Charles~de~Gaulle	PER
+overleed	EPS
+in	REL
+1970	YOC
+.	NIL
+
+Pretoria	GPE
+ligt	ENS
+in	REL
+Ivoorkust	GPE
+.	NIL
+
+Alfred~Nobel	PER
+vond	EPS
+in	REL
+1866	YOC
+het	DEF
+dynamiet	CON
+uit	REL
+.	NIL
+
+Tom	PER
+is	NOW
+groter	MOR
+dan	REL
+zijn	HAS
+moeder	ROL
+.	NIL
+
+Je	PRO
+mag	POS
+mijn	HAS
+pen	CON
+niet	NOT
+gebruiken	EXS
+.	NIL
+
+Het	DEF
+dak	CON
+van	REL
+mijn	HAS
+huis	CON
+is	NOW
+rood	COL
+.	NIL
+
+Ik	PRO
+ken	ENS
+niemand	NOT
+van	REL
+hen	PRO
+.	NIL
+
+Hij	PRO
+heeft	NOW
+1000	QUC
+yen	UOM
+betaald	EXT
+voor	REL
+dit	PRX
+boek	CON
+.	NIL
+
+Ze	PRO
+vergat	EPS
+de	DEF
+brief	CON
+te	NIL
+posten	EXS
+.	NIL
+
+Mr.	ROL
+Smith	PER
+kwam	EPS
+.	NIL
+
+Ik	PRO
+heb	NOW
+pijn	EXS
+aan	REL
+mijn	HAS
+achterste	CON
+.	NIL
+
+Ze	PRO
+draagt	ENS
+een	DIS
+zonnebril	CON
+.	NIL
+
+Hij	PRO
+leert	ENS
+Chinees	CON
+.	NIL
+
+Hij	PRO
+brouwde	EPS
+bier	CON
+.	NIL
+
+Ze	PRO
+lijdt	ENS
+aan	REL
+een	DIS
+besmettelijke	IST
+ziekte	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+geboren	EXT
+in	REL
+Rusland	GPE
+.	NIL
+
+Tom	PER
+knoeide	EPS
+de	DEF
+melk	CON
+.	NIL
+
+Betty	PER
+heeft	NOW
+hem	PRO
+gedood	EXT
+.	NIL
+
+Er	NIL
+zijn	ENS
+ook	ALT
+Franse	GPO
+touristen	ROL
+.	NIL
+
+Je	PRO
+bent	NOW
+erg	INT
+sexy	IST
+.	NIL
+
+Ik	PRO
+ben	NOW
+zeker	IST
+dat	SUB
+hij	PRO
+zal	FUT
+slagen	EXS
+.	NIL
+
+Ik	PRO
+ben	NOW
+geen	NOT
+dertig	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+Het	DEF
+meer	CON
+is	NOW
+heel	INT
+diep	DEG
+.	NIL
+
+Ik	PRO
+hou	ENS
+van	REL
+de	DEF
+oceaan	CON
+.	NIL
+
+Het	PRO
+is	NOW
+vijf~voor~vier	CLO
+.	NIL
+
+Ik	PRO
+zal	FUT
+de	DEF
+borden	CON
+nog~eens	ALT
+afwassen	EXS
+.	NIL
+
+Tom	PER
+is	ENS
+geen	NOT
+slechte	IST
+trainer	ROL
+.	NIL
+
+Deze	PRX
+kaas	CON
+heeft	ENS
+een	DIS
+scherpe	IST
+smaak	CON
+.	NIL
+
+Tom	PER
+is	ENS
+een	DIS
+vriend	ROL
+van	REL
+mij	PRO
+.	NIL
+
+Niemand	NOT
+kan	POS
+dit	PRX
+probleem	CON
+oplossen	EXS
+.	NIL
+
+Hij	PRO
+is	NOW
+oud	DEG
+.	NIL
+
+Mijn	HAS
+vader	ROL
+verfde	EPS
+de	DEF
+brievenbus	CON
+rood	COL
+.	NIL
+
+Hoi	GRE
+.	EMP
+
+Morgen	FUT
+ga	EFS
+ik	PRO
+naar	REL
+Parijs	GPE
+.	NIL
+
+Ze	PRO
+houdt	ENS
+van	REL
+hem	PRO
+.	NIL
+
+Ik	PRO
+ging	EPS
+naar	REL
+Bali	GPE
+in	REL
+de	DEF
+zomer	CON
+.	NIL
+
+Dit	PRX
+is	ENS
+mijn	HAS
+fiets	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+bezig	IST
+.	NIL
+
+Tom	PER
+fluistert	ENS
+iets	DIS
+tegen	REL
+Mary	PER
+.	NIL
+
+Mijn	HAS
+naam	CON
+is	ENS
+Emily	LIT
+.	NIL
+
+Ik	PRO
+kan	POS
+mijn	HAS
+rechter	IST
+arm	CON
+niet	NOT
+optillen	EXS
+.	NIL
+
+Momenteel	NOW
+werk	ENS
+ik	PRO
+in	REL
+Tokio	GPE
+.	NIL
+
+Met	REL
+wie	QUE
+was	PST
+je	PRO
+aan~het	PRG
+praten	EXS
+?	QUE
+
+Je	HAS
+horloge	CON
+ligt	ENS
+op	REL
+het	DEF
+bureau	CON
+.	NIL
+
+We	PRO
+hebben	NOW
+de	DEF
+kolen	CON
+opgemaakt	EXT
+.	NIL
+
+De	DEF
+rode	COL
+rok	CON
+is	NOW
+nieuw	IST
+.	NIL
+
+Ik	PRO
+woon	ENS
+in	REL
+een	DIS
+stad	CON
+maar	BUT
+mijn	HAS
+ouders	ROL
+wonen	ENS
+op	REL
+het	DEF
+platteland	CON
+.	NIL
+
+Niemand	NOT
+heeft	NOW
+het	DEF
+probleem	CON
+opgelost	EXT
+.	NIL
+
+Hij	PRO
+sneed	EPS
+het	DEF
+vlees	CON
+met	REL
+een	DIS
+mes	CON
+.	NIL
+
+Ik	PRO
+ken	ENS
+haar	PRO
+helemaal	EMP
+niet	NOT
+.	NIL
+
+Zij	PRO
+plukte	EPS
+bloemen	CON
+.	NIL
+
+Ze	PRO
+haatte	EPS
+haar	HAS
+echtgenoot	ROL
+.	NIL
+
+Ik	PRO
+was	ENS
+mij	REF
+.	NIL
+
+Haar	HAS
+favoriete	TOP
+band	CON
+is	ENS
+Warpaint	ORG
+.	NIL
+
+Ik	PRO
+eet	ENS
+een	DIS
+appel	CON
+.	NIL
+
+Mijn	HAS
+vriendin	ROL
+is	NOW
+erg	INT
+jaloers	IST
+.	NIL
+
+De	DEF
+koe	CON
+loeit	ENS
+de	DEF
+haan	CON
+kraait	ENS
+het	DEF
+varken	CON
+knort	ENS
+de	DEF
+eend	CON
+kwaakt	ENS
+en	AND
+de	DEF
+kat	CON
+miauwt	ENS
+.	NIL
+
+Welke	QUE
+tennisspeelster	ROL
+werd	PST
+op	REL
+30	DOM
+april	MOY
+1993	YOC
+met	REL
+een	DIS
+mes	CON
+in	REL
+de	DEF
+rug	CON
+gestoken	EXS
+?	QUE
+
+Met	REL
+wie	QUE
+is	NOW
+Miguel~Indurain	PER
+getrouwd	IST
+?	QUE
+
+Iedereen	AND
+sprong	EPS
+.	NIL
+
+Onze	HAS
+heteluchtballon	CON
+steeg	EPS
+op	REL
+naar	REL
+de	DEF
+hemel	CON
+.	NIL
+
+Zijn	HAS
+mobiele~telefoon	CON
+staat	ENS
+uit	REL
+.	NIL
+
+Dick	PER
+speelde	EPS
+piano	CON
+en	AND
+Lucy	PER
+zong	EPS
+.	NIL
+
+De	DEF
+lucht	CON
+die	AND
+we	DIS
+inademen	ENS
+bestaat	ENS
+uit	REL
+zuurstof	CON
+en	GRP
+stikstof	CON
+.	NIL
+
+Tom	PER
+stapte	EPS
+op	REL
+zijn	HAS
+fiets	CON
+en	COO
+reed	EPS
+weg	REL
+.	NIL
+
+Zij	PRO
+is	NOW
+zeer	INT
+mooi	IST
+.	NIL
+
+Het	DEF
+vlees	CON
+is	NOW
+rauw	IST
+.	NIL
+
+Ik	PRO
+heb	NOW
+mijn	HAS
+portefeuille	CON
+verloren	EXT
+.	NIL
+
+Ik	PRO
+kan	POS
+jullie	PRO
+niet	NOT
+helpen	EXS
+.	NIL
+
+Kapitein	ROL
+Scott	PER
+bereikte	EPS
+Scotteiland	GPE
+in	REL
+December	MOY
+1902	YOC
+.	NIL
+
+Bill	PER
+is	NOW
+niet	NOT
+zo	EQU
+groot	IST
+als	REL
+Bob	PER
+.	NIL
+
+New~York	GPE
+is	ENS
+de	DEF
+grootste	TOP
+stad	CON
+van	REL
+de	DEF
+wereld	CON
+.	NIL
+
+Hij	PRO
+sneed	EPS
+het	DEF
+touw	CON
+met	REL
+zijn	HAS
+tanden	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+Ken	PER
+gekozen	EXT
+.	NIL
+
+Hij	PRO
+werkt	ENS
+in	REL
+het	DEF
+laboratorium	CON
+.	NIL
+
+Hij	PRO
+woont	ENS
+in	REL
+een	DIS
+dorp	CON
+.	NIL
+
+Zij	PRO
+waren	PST
+geboren	EXS
+in	REL
+Thailand	GPE
+.	NIL
+
+Ze	PRO
+doodde	EPS
+hem	PRO
+met	REL
+een	DIS
+mes	CON
+.	NIL
+
+De	DEF
+misdadiger	ROL
+vluchtte	EPS
+uit	REL
+de	DEF
+gevangenis	CON
+.	NIL
+
+De	DEF
+regen	CON
+duurde	EPS
+vijf	QUC
+dagen	UOM
+.	NIL
+
+Mijn	HAS
+oom	ROL
+gaf	EPS
+hem	PRO
+een	DIS
+geschenk	CON
+.	NIL
+
+Mary	PER
+draagt	ENS
+een	DIS
+plastic	CON
+jurk	CON
+.	NIL
+
+Ik	PRO
+was	PST
+aan~het	PRG
+slapen	EXS
+.	NIL
+
+Ik	PRO
+ben	NOW
+slaperig	IST
+!	EMP
+
+Ik	PRO
+haat	ENS
+spinazie	CON
+.	NIL
+
+Iedereen	AND
+wachtte	EPS
+.	NIL
+
+Tom	PER
+speelde	EPS
+piano	CON
+en	COO
+Mary	PER
+zong	EPS
+.	NIL
+
+Mijn	HAS
+zus	ROL
+is	NOW
+jonger	MOR
+dan	REL
+mij	PRO
+.	NIL
+
+Hij	PRO
+was	PST
+zwaar	INT
+gewond	IST
+.	NIL
+
+Ik	PRO
+heb	ENS
+twee	QUC
+katten	CON
+.	NIL
+
+Zij	PRO
+zette	EPS
+de	DEF
+vuile	IST
+borden	CON
+in	REL
+de	DEF
+gootsteen	CON
+.	NIL
+
+Het	DEF
+vuur	CON
+verwoestte	EPS
+het	DEF
+hoge	DEG
+gebouw	CON
+.	NIL
+
+Carl~Smith	PER
+stierf	EPS
+op	REL
+8	DOM
+augustus	MOY
+.	NIL
+
+Bill	PER
+werd	PST
+gedood	EXS
+door	REL
+die	DST
+man	CON
+.	NIL
+
+Wie	QUE
+heeft	NOW
+de	DEF
+telefoon	CON
+uitgevonden	EXT
+?	QUE
+
+Elk	AND
+lid	ROL
+van	REL
+de	DEF
+club	CON
+was	PST
+aanwezig	IST
+.	NIL
+
+Ik	PRO
+ben	NOW
+in	REL
+Amerika	GPE
+geboren	EXT
+.	NIL
+
+Ik	PRO
+gaf	EPS
+mijn	HAS
+broer	ROL
+een	DIS
+woordenboek	CON
+.	NIL
+
+Ik	PRO
+heb	ENS
+hooikoorts	CON
+.	NIL
+
+Het	NIL
+is	NOW
+weer	ALT
+aan~het	PRG
+regenen	EXS
+.	NIL
+
+Mijn	HAS
+moedertaal	CON
+is	ENS
+Japans	CON
+.	NIL
+
+Ik	PRO
+kwam	EPS
+je	HAS
+broer	ROL
+tegen	REL
+op	REL
+straat	CON
+.	NIL
+
+Sita	PER
+glimlachte	EPS
+.	NIL
+
+De	DEF
+man	CON
+heeft	NOW
+gelijk	IST
+.	NIL
+
+Een	DIS
+koekje	CON
+ligt	ENS
+onder	REL
+de	DEF
+tafel	CON
+.	NIL
+
+Mijn	HAS
+moeder	ROL
+heeft	NOW
+tien	QUC
+eieren	CON
+gekookt	EXT
+.	NIL
+
+Ik	PRO
+was	PST
+aan~het	PRG
+roken	EXS
+.	NIL
+
+Kate	PER
+heeft	ENS
+een	DIS
+verkoudheid	CON
+.	NIL
+
+God	CON
+schiep	EPS
+deze	DEF
+wereld	CON
+in	REL
+zes	QUC
+dagen	UOM
+.	NIL
+
+Tom	PER
+is	NOW
+niet	NOT
+zo	EQU
+getalenteerd	IST
+als	REL
+jij	PRO
+.	NIL
+
+Ondanks	BUT
+alle	AND
+tegenslagen	CON
+blijft	ENS
+hij	PRO
+een	DIS
+optimist	ROL
+.	NIL
+
+Ik	PRO
+ben	NOW
+veertig	QUC
+.	NIL
+
+De	DEF
+toeristen	ROL
+bezoeken	ENS
+het	DEF
+museum	CON
+.	NIL
+
+Tom	PER
+merkte	EPS
+dat	SUB
+de	DEF
+deur	CON
+geopend	IST
+was	PST
+.	NIL
+
+Misschien	POS
+zal	FUT
+je	PRO
+slagen	EXS
+.	NIL
+
+Ik	PRO
+zag	EPS
+een	DIS
+ufo	CON
+.	NIL
+
+Mijn	HAS
+koffer	CON
+is	NOW
+stuk	IST
+.	NIL
+
+Mijn	HAS
+moedertaal	CON
+is	ENS
+Pools	CON
+.	NIL
+
+Hij	PRO
+vertelde	EPS
+mij	PRO
+een	DIS
+interessant	IST
+verhaal	CON
+.	NIL
+
+Wiens	HAS
+schoenen	CON
+zijn	ENS
+dit	PRX
+?	QUE
+
+De	DEF
+boogschutter	ROL
+doodde	EPS
+het	DEF
+hert	CON
+.	NIL
+
+Ik	PRO
+rij	ENS
+een	DIS
+cabriolet	CON
+.	NIL
+
+Maria	PER
+schreef	EPS
+me	PRO
+een	DIS
+brief	CON
+.	NIL
+
+De	DEF
+kat	CON
+blies	EPS
+naar	REL
+Tom	PER
+.	NIL
+
+Ze	PRO
+had	EPS
+een	DIS
+moedervlek	CON
+op	REL
+haar	HAS
+gezicht	CON
+.	NIL
+
+Roemenië	GPE
+stuurde	EPS
+730	QUC
+troepen	CON
+naar	REL
+Irak	GPE
+.	NIL
+
+Bill	PER
+heeft	NOW
+de	DEF
+misdaad	CON
+niet	NOT
+begaan	EXT
+.	NIL
+
+Ik	PRO
+heb	NOW
+een	DIS
+glas	CON
+gebroken	EXT
+.	NIL
+
+Onze	HAS
+klas	CON
+bestaat	ENS
+uit	REL
+40	QUC
+jongens	CON
+.	NIL
+
+\'t	PRO
+Is	NOW
+gratis	IST
+.	NIL
+
+Deze	PRX
+school	CON
+is	PST
+opgericht	EXS
+in	REL
+1650	YOC
+.	NIL
+
+Buenos~Aires	GPE
+is	ENS
+de	DEF
+hoofdstad	CON
+van	REL
+Argentinië	GPE
+.	NIL
+
+Zijn	HAS
+huis	CON
+is	NOW
+heel	INT
+ver	IST
+van	REL
+het	DEF
+station	CON
+.	NIL
+
+Om	REL
+zes~uur	CLO
+ben	FUT
+ik	PRO
+terug	IST
+.	NIL
+
+Ik	PRO
+hou	ENS
+van	REL
+chocolade	CON
+.	NIL
+
+Ik	PRO
+krijs	ENS
+om	REL
+ijs	CON
+.	NIL
+
+Dit	PRX
+boek	CON
+kost	ENS
+4	QUC
+dollar	UOM
+
+Ik	PRO
+werk	ENS
+niet	NOT
+voor	REL
+Tom	PER
+.	NIL
+
+Mag	POS
+ik	PRO
+naar	REL
+de	DEF
+wc	CON
+gaan	EXS
+?	QUE
+
+Hij	PRO
+klopte	EPS
+me	PRO
+op	REL
+de	DEF
+schouder	CON
+.	NIL
+
+Ze	PRO
+is	NOW
+veertig	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+Ik	PRO
+ben	ENS
+een	DIS
+tennisspeler	ROL
+.	NIL
+
+Tom	PER
+plakte	EPS
+een	DIS
+handgeschreven	EXS
+briefje	CON
+op	REL
+de	DEF
+deur	CON
+.	NIL
+
+De	DEF
+jongen	CON
+sprong	EPS
+in	REL
+het	DEF
+water	CON
+.	NIL
+
+Tom	PER
+melkt	ENS
+de	DEF
+koeien	CON
+.	NIL
+
+Tom	PER
+is	ENS
+een	DIS
+ex-	PST
+gedetineerde	ROL
+.	NIL
+
+Wat	EMP
+een	DIS
+onaangename	IST
+kerel	ROL
+is	ENS
+hij	PRO
+!	EMP
+
+Hij	PRO
+rookt	ENS
+niet	NOT
+.	NIL
+
+Ik	PRO
+kan	POS
+mijn	HAS
+horloge	CON
+niet	NOT
+vinden	EXS
+.	NIL
+
+Het	PRO
+is	NOW
+twee~uur	CLO
+in	REL
+de	DEF
+namiddag	CON
+.	NIL
+
+Het	PRO
+is	NOW
+een~uur	CLO
+.	NIL
+
+Ze	PRO
+glimlacht	ENS
+altijd	AND
+.	NIL
+
+Tom	PER
+heeft	ENS
+geen	NOT
+creditcard	CON
+.	NIL
+
+Waar	QUE
+is	PST
+de	DEF
+regisseur	ROL
+Michelangelo~Antonioni	PER
+geboren	EXS
+?	QUE
+
+De	DEF
+hond	CON
+gromde	EPS
+naar	REL
+mij	PRO
+.	NIL
+
+Tom	PER
+houdt	ENS
+van	REL
+Emmentaler	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+die	DST
+deur	CON
+niet	NOT
+opengemaakt	EXT
+.	NIL
+
+Ik	PRO
+heb	NOW
+pizza	CON
+besteld	EXT
+.	NIL
+
+Baena~Soares	PER
+werd	PST
+gearresteerd	EXS
+door	REL
+de	DEF
+strijdkrachten	CON
+.	NIL
+
+De	DEF
+geur	CON
+van	REL
+lelies	CON
+vulde	EPS
+de	DEF
+kamer	CON
+.	NIL
+
+Wie	QUE
+schreef	EPS
+dit	PRX
+boek	CON
+?	QUE
+
+De	DEF
+hond	CON
+is	NOW
+aan~het	PRG
+sterven	EXS
+.	NIL
+
+John	PER
+woont	ENS
+in	REL
+New~York	GPE
+.	NIL
+
+Dit	PRX
+ziekenhuis	CON
+heeft	ENS
+veel	QUV
+nieuwe	IST
+apparatuur	CON
+.	NIL
+
+Hij	PRO
+wil	ENS
+het	DEF
+geld	CON
+.	NIL
+
+Mijn	HAS
+moedertaal	CON
+is	ENS
+Japans	CON
+.	NIL
+
+Ik	PRO
+heb	ENS
+geen	NOT
+fiets	CON
+.	NIL
+
+Waar	QUE
+is	ENS
+de	DEF
+krant	CON
+?	QUE
+
+De	DEF
+premier	ROL
+is	NOW
+opgestapt	EXT
+.	NIL
+
+Niemand	NOT
+kan	POS
+hem	PRO
+overtreffen	EXS
+.	NIL
+
+Je	PRO
+zit	ENS
+in	REL
+de	DEF
+verkeerde	IST
+trein	CON
+.	NIL
+
+Is	ENS
+hij	PRO
+een	DIS
+leerkracht	ROL
+?	QUE
+
+Zij	PRO
+fronste	EPS
+haar	HAS
+wenkbrouwen	CON
+.	NIL
+
+Hij	PRO
+had	EPS
+een	QUC
+dochter	ROL
+.	NIL
+
+De	DEF
+postbode	ROL
+werd	PST
+door	REL
+die	DST
+hond	CON
+gebeten	EXT
+.	NIL
+
+Hij	PRO
+is	ENS
+in	REL
+Tokio	GPE
+.	NIL
+
+Mijn	HAS
+schoenen	CON
+zijn	NOW
+bruin	COL
+.	NIL
+
+Hij	PRO
+was	PST
+dapper	IST
+.	NIL
+
+De	DEF
+hond	CON
+is	NOW
+wit	COL
+.	NIL
+
+Mayuko	PER
+ontwierp	EPS
+haar	HAS
+eigen	REF
+kleding	CON
+.	NIL
+
+Dit	PRX
+huis	CON
+is	NOW
+beroemd	IST
+.	NIL
+
+Is	NOW
+mijn	HAS
+uitleg	CON
+duidelijk	IST
+?	QUE
+
+Wie	QUE
+zingt	ENS
+dit	PRX
+liedje	CON
+?	QUE
+
+Oscar	NTH
+was	EPS
+mijn	HAS
+moeder	ROL
+s	HAS
+hond	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+zo	INT
+moe	IST
+!	EMP
+
+Dit	PRX
+is	ENS
+Toms	PER
+kanarie	CON
+.	NIL
+
+Ik	PRO
+hou	ENS
+van	REL
+Natasha	PER
+.	NIL
+
+Wat	QUE
+kost	ENS
+deze	PRX
+stropdas	CON
+?	QUE
+
+Wie	QUE
+is	ENS
+de	DEF
+bekendste	TOP
+internationale	IST
+terrorist	ROL
+?	QUE
+
+Hoe	QUE
+hoog	DEG
+is	NOW
+de	DEF
+Matterhorn	GEO
+?	QUE
+
+Ik	PRO
+ben	NOW
+niet	NOT
+Iers	GPO
+.	NIL
+
+Ik	PRO
+ben	NOW
+groter	MOR
+.	NIL
+
+Ik	PRO
+heb	ENS
+acht	QUC
+broers	ROL
+.	NIL
+
+Ik	PRO
+heb	NOW
+u	PRO
+nooit	NOT
+gezien	EXT
+.	NIL
+
+De	DEF
+toren	CON
+is	NOW
+vijftien	QUC
+meter	UOM
+hoog	DEG
+.	NIL
+
+Ik	PRO
+zal	FUT
+niet	NOT
+spelen	EXS
+want	SUB
+ik	PRO
+heb	NOW
+mijn	HAS
+enkel	CON
+verstuikt	EXT
+.	NIL
+
+Hij	PRO
+wijdde	EPS
+zijn	HAS
+leven	CON
+aan	REL
+zijn	HAS
+bedrijf	CON
+.	NIL
+
+Hij	PRO
+werkt	ENS
+op	REL
+het	DEF
+gebied	CON
+van	REL
+biologie	CON
+.	NIL
+
+Ze	PRO
+moeten	NEC
+naar	REL
+school	CON
+gaan	EXS
+.	NIL
+
+Deze	PRX
+weg	CON
+is	NOW
+niet	NOT
+heel	INT
+veilig	IST
+.	NIL
+
+Hij	PRO
+wandelde	EPS
+langs	REL
+de	DEF
+rivier	CON
+.	NIL
+
+Niemand	NOT
+is	NOW
+perfect	IST
+.	NIL
+
+Het	DEF
+vuur	CON
+brandt	ENS
+.	NIL
+
+Misschien	POS
+had	PST
+Tom	PER
+gelijk	IST
+.	NIL
+
+Ik	PRO
+hou	ENS
+van	REL
+hamburgers	CON
+.	NIL
+
+Ze	PRO
+was	PST
+dapper	IST
+.	NIL
+
+De	DEF
+hond	CON
+werd	PST
+geraakt	EXS
+door	REL
+een	DIS
+auto	CON
+.	NIL
+
+Tom	PER
+houdt	ENS
+niet	NOT
+van	REL
+kaas	CON
+.	NIL
+
+Het	DEF
+comité	CON
+bestaat	ENS
+uit	REL
+twaalf	QUC
+leden	ROL
+.	NIL
+
+Mijn	HAS
+voeten	CON
+zijn	NOW
+koud	IST
+.	NIL
+
+De	DEF
+lucht	CON
+is	NOW
+blauw	COL
+.	NIL
+
+Tom	PER
+woont	ENS
+in	REL
+een	DIS
+sloppenwijk	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+geïnteresseerd	IST
+in	REL
+muziek	CON
+.	NIL
+
+Hoeveel	QUE
+mensen	CON
+overleefden	EPS
+het	DEF
+vernietigingskamp	CON
+Auschwitz	NTH
+?	QUE
+
+Tom	PER
+laat	ENS
+zijn	HAS
+hond	CON
+uit	REL
+.	NIL
+
+Ik	PRO
+ben	NOW
+lesbisch	IST
+.	NIL
+
+Romano~Prodi	PER
+wint	ENS
+de	DEF
+Italiaanse	GPO
+voorverkiezingen	CON
+.	NIL
+
+Iemand	DIS
+roept	ENS
+je	PRO
+.	NIL
+
+Mogen	POS
+we	PRO
+rolschaatsen	EXS
+in	REL
+dit	PRX
+park	CON
+?	QUE
+
+Hij	PRO
+is	NOW
+trots	IST
+op	REL
+zijn	HAS
+zoon	ROL
+.	NIL
+
+Hij	PRO
+had	EPS
+zijn	HAS
+hemd	CON
+binnenste~buiten	IST
+aan	REL
+.	NIL
+
+Ze	PRO
+is	NOW
+tevreden	IST
+met	REL
+de	DEF
+jurk	CON
+.	NIL
+
+Mijn	HAS
+ouders	ROL
+komen	ENS
+uit	REL
+China	GPE
+.	NIL
+
+Ik	PRO
+ben	NOW
+verliefd	IST
+op	REL
+jou	PRO
+.	NIL
+
+Ik	PRO
+werd	PST
+door	REL
+een	DIS
+oude	IST
+vriend	ROL
+uitgenodigd	EXS
+.	NIL
+
+Ik	PRO
+heb	NOW
+de	DEF
+radio	CON
+gerepareerd	EXT
+voor	REL
+hem	PRO
+.	NIL
+
+Ik	PRO
+heb	NOW
+de	DEF
+zakdoek	CON
+gestreken	EXT
+.	NIL
+
+Het	NIL
+had	PST
+gesneeuwd	EXT
+.	NIL
+
+Ik	PRO
+nam	EPS
+een	DIS
+taxi	CON
+omdat	SUB
+het	NIL
+regende	EPS
+.	NIL
+
+U	PRO
+heeft	NOW
+een	DIS
+ara	CON
+gekocht	EXT
+.	NIL
+
+Mary	PER
+kocht	EPS
+een	DIS
+microscoop	CON
+voor	REL
+zichzelf	REF
+.	NIL
+
+Hij	PRO
+spreekt	ENS
+geen	NOT
+Engels	CON
+.	NIL
+
+Hij	PRO
+is	NOW
+acht	QUC
+.	NIL
+
+Het	DEF
+jonge	DEG
+meisje	CON
+is	NOW
+aan~het	PRG
+zingen	EXS
+.	NIL
+
+Iedereen	AND
+maakt	ENS
+fouten	CON
+.	NIL
+
+Illinois	GPE
+grenst	ENS
+aan	REL
+Missouri	GPE
+.	NIL
+
+Canada	ORG
+versloeg	EPS
+de	DEF
+VS	ORG
+.	NIL
+
+Hij	PRO
+is	NOW
+niet	NOT
+zo	EQU
+slim	IST
+als	REL
+zijn	HAS
+broer	ROL
+.	NIL
+
+Zij	PRO
+is	NOW
+veel	QUV
+zwaarder	MOR
+dan	REL
+hij	PRO
+.	NIL
+
+Hij	PRO
+kan	POS
+fluit	CON
+spelen	EXS
+.	NIL
+
+Je	PRO
+bent	ENS
+een	DIS
+workaholic	ROL
+.	NIL
+
+Die	DST
+vent	CON
+is	NOW
+helemaal	INT
+kierewiet	IST
+!	EMP
+
+Italië	ORG
+versloeg	EPS
+Kazachstan	ORG
+.	NIL
+
+Vladislav~Listjev	PER
+is	PST
+in	REL
+Moskou	GPE
+vermoord	EXS
+.	NIL
+
+Ze	PRO
+ruimde	EPS
+de	DEF
+tafel	CON
+af	REL
+.	NIL
+
+Ik	PRO
+heb	NOW
+dat	DST
+telefoonummer	CON
+opgeschreven	EXT
+.	NIL
+
+Tokyo	GPE
+is	NOW
+groter	MOR
+als	REL
+Rome	GPE
+
+Tom	PER
+heeft	ENS
+geen	NOT
+creditcard	CON
+.	NIL
+
+Niemand	NOT
+houdt	ENS
+van	REL
+oorlog	CON
+.	NIL
+
+Karel~de~Grote	PER
+werd	PST
+door	REL
+de	DEF
+paus	ROL
+gekroond	EXS
+.	NIL
+
+Ze	PRO
+waren	PST
+erg	INT
+aardig	IST
+voor	REL
+me	PRO
+.	NIL
+
+Saad~Hariri	PER
+werd	PST
+verkozen	EXS
+tot	REL
+minister-president	CON
+van	REL
+Libanon	GPE
+.	NIL
+
+Ben	NOW
+je	PRO
+niet	NOT
+moe	IST
+?	QUE
+
+Waar	QUE
+is	ENS
+het	DEF
+toilet	CON
+?	QUE
+
+Ik	PRO
+ben	NOW
+helemaal	EMP
+niet	NOT
+moe	IST
+.	NIL
+
+Is	ENS
+dit	PRX
+uw	HAS
+boek	CON
+?	QUE
+
+Mevrouw	ROL
+Klein	PER
+geeft	ENS
+elke	AND
+vrijdag	DOW
+een	DIS
+test	CON
+.	NIL
+
+Mijn	HAS
+zuster	ROL
+is	NOW
+beroemd	IST
+.	NIL
+
+Ik	PRO
+ben	NOW
+getrouwd	IST
+.	NIL
+
+De	DEF
+kamer	CON
+was	PST
+propvol	IST
+mensen	CON
+.	NIL
+
+Ik	PRO
+heb	ENS
+twee	QUC
+nichtjes	ROL
+.	NIL
+
+Zijn	HAS
+vriendin	ROL
+is	NOW
+Japans	GPO
+.	NIL
+
+Ik	PRO
+wil	ENS
+Korea	GPE
+bezoeken	EXS
+.	NIL
+
+Ik	PRO
+ben	NOW
+groter	MOR
+dan	REL
+hij	PRO
+.	NIL
+
+Tom	PER
+was	PST
+heel	INT
+boos	IST
+op	REL
+Mary	PER
+.	NIL
+
+Tom	PER
+en	GRP
+Mary	PER
+spelen	ENS
+tikkertje	CON
+.	NIL
+
+De	DEF
+deur	CON
+is	NOW
+dicht	IST
+.	NIL
+
+Tom	PER
+zat	EPS
+op	REL
+een	DIS
+boomstam	CON
+.	NIL
+
+Het	DEF
+vlees	CON
+is	NOW
+bevroren	IST
+.	NIL
+
+Tom	PER
+was	PST
+heel	INT
+behulpzaam	IST
+.	NIL
+
+Het	PRO
+is	NOW
+vijf~voor~zes	CLO
+.	NIL
+
+Het	PRO
+was	EPS
+geen	NOT
+grap	CON
+.	NIL
+
+Je	PRO
+bent	ENS
+een	DIS
+schurk	ROL
+.	NIL
+
+Cristiani	PER
+vermoordde	EPS
+zes	QUC
+jezuïeten	ROL
+.	NIL
+
+Saddam~Hoessein	PER
+vlucht	ENS
+naar	REL
+de	DEF
+VS	GPE
+.	NIL
+
+Castro	PER
+bezoekt	ENS
+de	DEF
+VN	ORG
+.	NIL
+
+Ik	PRO
+heb	NOW
+het	PRO
+gekocht	EXT
+voor	REL
+tien	QUC
+dollar	UOM
+.	NIL
+
+Ik	PRO
+ben	NOW
+dol	IST
+op	REL
+auto\'s	CON
+.	NIL
+
+Hij	PRO
+trouwde	EPS
+met	REL
+een	DIS
+stewardess	ROL
+.	NIL
+
+Iemand	DIS
+klopt	ENS
+op	REL
+de	DEF
+deur	CON
+.	NIL
+
+De	DEF
+kist	CON
+werd	PST
+in	REL
+de	DEF
+lijkwagen	CON
+geladen	EXS
+.	NIL
+
+Het	DEF
+huis	CON
+stonk	EPS
+.	NIL
+
+Vier	QUC
+jaar	UOM
+geleden	PST
+heb	NOW
+ik	PRO
+deze	PRX
+fiets	CON
+gekocht	EXT
+.	NIL
+
+Zijn	NOW
+wespen	CON
+giftig	IST
+?	QUE
+
+Ik	PRO
+ben	NOW
+niet	NOT
+jaloers	IST
+op	REL
+Tom	PER
+.	NIL
+
+De	DEF
+theepot	CON
+is	ENS
+onder	REL
+de	DEF
+tafel	CON
+.	NIL
+
+Hij	PRO
+is	NOW
+even	EQU
+groot	IST
+als	REL
+ik	PRO
+.	NIL
+
+Le~Beau~Serge	ART
+werd	PST
+geregisseerd	EXS
+door	REL
+Chabrol	PER
+.	NIL
+
+Placebo	ORG
+werkte	EPS
+samen	REL
+met	REL
+Marilyn~Manson	PER
+.	NIL
+
+Martin~Luther~King	PER
+werd	PST
+in	REL
+1968	YOC
+vermoord	EXS
+.	NIL
+
+Ik	PRO
+had	EPS
+een	DIS
+vreselijke	IST
+maagpijn	CON
+.	NIL
+
+Ik	PRO
+weet	ENS
+dat	SUB
+ze	PRO
+mooi	IST
+is	NOW
+.	NIL
+
+Mijn	HAS
+moedertaal	CON
+is	ENS
+Spaans	CON
+.	NIL
+
+Ik	PRO
+leer	ENS
+Tsjechisch	CON
+.	NIL
+
+De	DEF
+trein	CON
+ging	EPS
+500	QUC
+mijl	UOM
+per	UOM
+uur	UOM
+.	NIL
+
+Hij	PRO
+is	NOW
+altijd	AND
+bezig	IST
+.	NIL
+
+Wat	QUE
+was	EPS
+de	DEF
+eerste	ORD
+film	CON
+die	AND
+John~Milius	PER
+regisseerde	EPS
+?	QUE
+
+Hoeveel	QUE
+kost	ENS
+deze	PRX
+banaan	CON
+?	QUE
+
+Napoleon	PER
+werd	PST
+in	REL
+1814	YOC
+naar	REL
+het	DEF
+eiland	CON
+Elba	GPE
+verbannen	EXT
+.	NIL
+
+Auckland	GPE
+is	ENS
+een	DIS
+stad	CON
+in	REL
+Nieuw-Zeeland	GPE
+.	NIL
+
+Ze	PRO
+staarden	EPS
+naar	REL
+haar	PRO
+.	NIL
+
+De	DEF
+vogel	CON
+zong	EPS
+in	REL
+de	DEF
+boom	CON
+.	NIL
+
+Hij	PRO
+had	EPS
+vijftig	QUC
+dollar	UOM
+.	NIL
+
+De	DEF
+telefoon	CON
+is	PST
+uitgevonden	EXS
+door	REL
+Bell	PER
+in	REL
+1876	YOC
+[	REL
+achttien~zesenzeventig	YOC
+]	NIL
+.	NIL
+
+Mijn	HAS
+moeder	ROL
+kan	POS
+niet	NOT
+komen	EXS
+.	NIL
+
+Hij	PRO
+was	PST
+een	DIS
+deuntje	CON
+aan~het	PRG
+fluiten	EXS
+.	NIL
+
+Het	DEF
+dak	CON
+is	NOW
+lek	IST
+.	NIL
+
+De	DEF
+trein	CON
+ging	EPS
+500	QUC
+mijl	UOM
+per	UOM
+uur	UOM
+.	NIL
+
+Hij	PRO
+woont	ENS
+in	REL
+een	DIS
+enorm	IST
+huis	CON
+.	NIL
+
+Het	PRO
+is	ENS
+een	DIS
+Cubaanse	GPO
+sigaar	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+een	DIS
+paraplu	CON
+gekocht	EXT
+.	NIL
+
+Ik	PRO
+gaf	EPS
+Tom	PER
+een	DIS
+kalmerend	IST
+middel	CON
+.	NIL
+
+Wat	EMP
+een	DIS
+goed	IST
+schot	CON
+!	EMP
+
+Mijn	HAS
+vader	ROL
+is	NOW
+groot	DEG
+.	NIL
+
+Ik	PRO
+ben	ENS
+geen	NOT
+heks	ROL
+.	NIL
+
+Is	ENS
+dat	DST
+mijn	HAS
+mok	CON
+?	QUE
+
+Tom	PER
+eet	ENS
+een	DIS
+banaan	CON
+.	NIL
+
+Aurore~Paquiss	PER
+trouwde	EPS
+met	REL
+Chabrol	PER
+.	NIL
+
+Henry~Ford	PER
+was	EPS
+de	DEF
+oprichter	ROL
+van	REL
+de	DEF
+Ford~Motor~Company	ORG
+.	NIL
+
+David~Vance	PER
+woont	ENS
+in	REL
+South~Portland	GPE
+.	NIL
+
+Lady	ROL
+Diana	PER
+stierf	EPS
+in	REL
+Parijs	GPE
+.	NIL
+
+De	DEF
+Ebrodelta	GEO
+wordt	NOW
+gebruikt	EXS
+voor	REL
+landbouw	CON
+.	NIL
+
+Elke	AND
+jongen	CON
+heeft	NOW
+zijn	HAS
+diploma	CON
+gekregen	EXT
+.	NIL
+
+De	DEF
+telefoon	CON
+deed	EPS
+het	NIL
+weer	ALT
+niet	NOT
+.	NIL
+
+Hij	PRO
+speelde	EPS
+piano	CON
+.	NIL
+
+Hij	PRO
+draagt	ENS
+een	DIS
+zonnebril	CON
+.	NIL
+
+Ze	PRO
+was	PST
+bang	IST
+voor	REL
+de	DEF
+hond	CON
+.	NIL
+
+Lisa~Lillien	PER
+is	NOW
+getrouwd	IST
+met	REL
+Dan~Schneider	PER
+.	NIL
+
+Twee	QUC
+criminelen	ROL
+ontsnapten	EPS
+uit	REL
+de	DEF
+gevangenis	CON
+.	NIL
+
+Hij	PRO
+was	PST
+aan~het	PRG
+huilen	EXS
+.	NIL
+
+Ze	PRO
+is	NOW
+er	IST
+niet	NOT
+omdat	SUB
+ze	PRO
+ziek	IST
+is	NOW
+.	NIL
+
+De	DEF
+grens	CON
+is	NOW
+dicht	IST
+.	NIL
+
+Hij	PRO
+werd	PST
+gediskwalificeerd	EXS
+na	REL
+een	DIS
+valse	IST
+start	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+nog	ALT
+nooit	NOT
+een	DIS
+giraf	CON
+gezien	EXT
+.	NIL
+
+Tom	PER
+is	NOW
+mijn	HAS
+neef	ROL
+.	NIL
+
+Ole~Einar~Bjørndalen	PER
+heeft	NOW
+13	QUC
+olympische	IST
+medailles	CON
+gewonnen	EXT
+.	NIL
+
+Een	AND
+banaan	CON
+is	NOW
+geel	COL
+.	NIL
+
+Tom	PER
+is	ENS
+vrachtwagenchauffeur	ROL
+.	NIL
+
+Ik	PRO
+ben	NOW
+dertig	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+Ik	PRO
+ben	NOW
+allergisch	IST
+voor	REL
+honden	CON
+.	NIL
+
+Franz~Liszt	PER
+leefde	EPS
+van	REL
+1811	YOC
+tot	REL
+1886	YOC
+.	NIL
+
+Senacal	PER
+woont	ENS
+in	REL
+Cortland~Manor	GPE
+.	NIL
+
+Maar	BUT
+het	DEF
+heelal	CON
+is	NOW
+oneindig	IST
+.	NIL
+
+Mary	PER
+kan	POS
+Japans	CON
+spreken	EXS
+.	NIL
+
+Picasso	PER
+is	ENS
+een	DIS
+beroemd	IST
+kunstenaar	ROL
+.	NIL
+
+Duitsland	GPE
+grenst	ENS
+aan	REL
+Frankrijk	GPE
+.	NIL
+
+Dit	PRO
+is	ENS
+het	DEF
+eind	CON
+van	REL
+mijn	HAS
+verhaal	CON
+.	NIL
+
+Antieke	IST
+vloerkleden	CON
+zijn	NOW
+bijzonder	INT
+waardevol	IST
+.	NIL
+
+De	DEF
+telefoon	CON
+rinkelde	EPS
+herhaaldelijk	ALT
+.	NIL
+
+Ik	PRO
+denk	ENS
+dat	SUB
+ze	PRO
+eerlijk	IST
+is	NOW
+.	NIL
+
+Ze	PRO
+kweekte	EPS
+rozen	CON
+.	NIL
+
+De	DEF
+wind	CON
+waait	ENS
+.	NIL
+
+Hij	PRO
+heeft	ENS
+een	DIS
+paraplu	CON
+nodig	REL
+.	NIL
+
+De	DEF
+tv	CON
+werkt	ENS
+niet	NOT
+.	NIL
+
+Sumatra	GPE
+is	ENS
+een	DIS
+eiland	CON
+.	NIL
+
+Ik	PRO
+ben	ENS
+een	DIS
+buitenlander	ROL
+.	NIL
+
+Hij	PRO
+heeft	NOW
+geld	CON
+van	REL
+mij	PRO
+gestolen	EXT
+.	NIL
+
+Ik	PRO
+was	PST
+woedend	IST
+.	NIL
+
+Ik	PRO
+ben	NOW
+erg	INT
+kort	DEG
+.	NIL
+
+Waar	QUE
+hebben	NOW
+jullie	PRO
+de	DEF
+jongen	CON
+gezien	EXT
+?	QUE
+
+Waar	QUE
+ligt	ENS
+Basra	GPE
+?	QUE
+
+Ik	PRO
+was	PST
+niet	NOT
+eenzaam	IST
+.	NIL
+
+Dit	PRX
+is	ENS
+een	DIS
+bericht	CON
+voor	REL
+hun	PRO
+.	NIL
+
+Silvia	PER
+woont	ENS
+in	REL
+de	DEF
+Elzas	GPE
+.	NIL
+
+Hij	PRO
+is	NOW
+nooit	NOT
+naar	REL
+Amerika	GPE
+geweest	EXT
+.	NIL
+
+Heeft	NOW
+iemand	DIS
+iets	DIS
+gehoord	EXT
+?	QUE
+
+Ik	PRO
+ben	ENS
+in	REL
+het	DEF
+restaurant	CON
+.	NIL
+
+De	DEF
+straat	CON
+is	NOW
+leeg	IST
+.	NIL
+
+Zij	PRO
+is	NOW
+zo	EQU
+schattig	IST
+als	REL
+haar	HAS
+zuster	ROL
+.	NIL
+
+Is	NOW
+kraanwater	CON
+drinkbaar	IST
+in	REL
+Australië	GPE
+?	QUE
+
+Hij	PRO
+werd	PST
+beschuldigd	EXS
+van	REL
+diefstal	CON
+.	NIL
+
+Tony~Blair	PER
+behoort	ENS
+tot	REL
+de	DEF
+Labourpartij	ORG
+.	NIL
+
+Het	DEF
+vuur	CON
+is	NOW
+uitgegaan	EXT
+.	NIL
+
+Vier	QUC
+maal	CON
+vijf	QUC
+is	EXS
+twintig	QUC
+.	NIL
+
+Ik	PRO
+heb	NOW
+een	DIS
+oude	DEG
+lamp	CON
+gekocht	EXT
+.	NIL
+
+Hij	PRO
+heeft	NOW
+maximum	TOP
+tienduizend	QUC
+dollar	UOM
+betaald	EXT
+.	NIL
+
+Twee	QUC
+plus	CON
+twee	QUC
+is	EXS
+vier	QUC
+.	NIL
+
+Marilyn~Monroe	PER
+stierf	EPS
+33	QUC
+jaar	UOM
+geleden	PST
+.	NIL
+
+Niemand	NOT
+woont	ENS
+in	REL
+dit	PRX
+huis	CON
+.	NIL
+
+Ze	PRO
+bezit	ENS
+tweeduizend	QUC
+boeken	CON
+.	NIL
+
+Ik	PRO
+kon	POS
+niet	NOT
+naar	REL
+het	DEF
+verjaardagsfeestje	CON
+komen	EXS
+.	NIL
+
+Ik	PRO
+hou	ENS
+van	REL
+chocoladeijs	CON
+!	EMP
+
+Edward	PER
+is	NOW
+jonger	MOR
+dan	REL
+Robert	PER
+.	NIL
+
+Hij	PRO
+is	NOW
+drie	QUC
+jaar	UOM
+ouder	MOR
+dan	REL
+zij	PRO
+.	NIL
+
+Ik	PRO
+heb	ENS
+je	HAS
+nummer	CON
+niet	NOT
+.	NIL
+
+Deze	PRX
+brug	CON
+lijkt	ENS
+stevig	IST
+.	NIL
+
+Hij	PRO
+betaalde	EPS
+met	REL
+een	DIS
+creditcard	CON
+.	NIL
+
+Wij	PRO
+zullen	FUT
+je	PRO
+bezoeken	EXS
+.	NIL
+
+Het	PRO
+is	ENS
+een	DIS
+val	CON
+!	EMP
+
+Het	DEF
+wapen	CON
+is	NOW
+niet	NOT
+geladen	IST
+.	NIL
+
+Veel	QUV
+mensen	CON
+bewonderen	ENS
+Nikko	GPE
+.	NIL
+
+Ze	PRO
+eet	ENS
+iets	DIS
+.	NIL
+
+De	DEF
+kat	CON
+at	EPS
+de	DEF
+muis	CON
+.	NIL
+
+Hij	PRO
+is	NOW
+ziek	IST
+.	NIL
+
+Zij	PRO
+haten	ENS
+spinnen	CON
+.	NIL
+
+Het	DEF
+condoom	CON
+is	NOW
+kapot	IST
+.	NIL
+
+U	PRO
+bent	NOW
+langer	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+De	DEF
+show	CON
+was	PST
+spannend	IST
+.	NIL
+
+Een	DIS
+hond	CON
+heeft	NOW
+in	REL
+haar	HAS
+been	CON
+gebeten	EXT
+.	NIL
+
+Ook	ALT
+dat	DST
+is	NOW
+giftig	IST
+.	NIL
+
+Maler	PER
+woonde	EPS
+in	REL
+Yucatán	GPE
+.	NIL
+
+Lopez	PER
+nam	EPS
+documenten	CON
+van	REL
+GM	ORG
+mee	REL
+naar	REL
+VW	ORG
+.	NIL
+
+Maria	PER
+verstaat	ENS
+Chinees	CON
+.	NIL
+
+Je	PRO
+bent	NOW
+gek	IST
+.	NIL
+
+We	PRO
+hebben	ENS
+dertien	QUC
+knuppels	CON
+.	NIL
+
+We	PRO
+verkozen	EPS
+hem	PRO
+tot	REL
+burgemeester	ROL
+.	NIL
+
+Mijn	HAS
+broer	ROL
+werkt	ENS
+bij	REL
+een	DIS
+bank	CON
+.	NIL
+
+Ik	PRO
+kocht	EPS
+het	PRO
+voor	REL
+ongeveer	APX
+twaalf	QUC
+dollar	UOM
+.	NIL
+
+Hij	PRO
+noemde	EPS
+zijn	HAS
+hond	CON
+Popeye	LIT
+.	NIL
+
+Ze	PRO
+zijn	NOW
+geel	COL
+.	NIL
+
+Het	DEF
+konijn	CON
+eet	ENS
+de	DEF
+wortel	CON
+.	NIL
+
+Wie	QUE
+heeft	NOW
+de	DEF
+bijbel	ART
+geschreven	EXT
+?	QUE
+
+Laten	FUT
+we	PRO
+feesten	EXS
+.	NIL
+
+De	DEF
+politieman	ROL
+achtervolgde	EPS
+de	DEF
+inbreker	ROL
+.	NIL
+
+Wie	QUE
+is	ENS
+de	DEF
+leider	ROL
+van	REL
+de	DEF
+Algerijnse	GPO
+Gewapende~Islamitische~Groep	ORG
+?	QUE
+
+Hebt	ENS
+u	PRO
+een	DIS
+schoentrekker	CON
+?	QUE
+
+Hij	PRO
+is	NOW
+drie	QUC
+dagen	UOM
+geleden	PST
+vertrokken	EXT
+.	NIL
+
+Mary	PER
+heeft	NOW
+een	DIS
+telegram	CON
+ontvangen	EXT
+van	REL
+Tom	PER
+.	NIL
+
+Een	DIS
+vogel	CON
+is	NOW
+aan~het	PRG
+zingen	EXS
+in	REL
+de	DEF
+boom	CON
+.	NIL
+
+Sandra~Goudie	PER
+werd	PST
+verslagen	EXS
+door	REL
+Max~Purnell	PER
+.	NIL
+
+Rosa~Montero	PER
+is	ENS
+een	DIS
+heel	INT
+bijzondere	IST
+vrouw	CON
+.	NIL
+
+Hij	PRO
+is	NOW
+nu	NOW
+de	DEF
+straat	CON
+over	REL
+aan~het	PRG
+steken	EXS
+.	NIL
+
+De	DEF
+wind	CON
+waait	ENS
+uit	REL
+het	DEF
+oosten	CON
+.	NIL
+
+Wie	QUE
+won	EPS
+de	DEF
+Ronde~van~Frankrijk	HAP
+?	QUE
+
+Ik	PRO
+ben	NOW
+getrouwd	IST
+met	REL
+Lori	PER
+.	NIL
+
+Mijn	HAS
+vader	ROL
+is	NOW
+in	REL
+Vietnam	GPE
+gestorven	EXT
+.	NIL
+
+Mijn	HAS
+auto	CON
+is	NOW
+uitgerust	EXS
+met	REL
+een	DIS
+cd-speler	CON
+.	NIL
+
+Minton	PER
+werd	PST
+geboren	EXS
+in	REL
+Australië	GPE
+.	NIL
+
+Nu	NOW
+sneeuwt	ENS
+het	NIL
+.	NIL
+
+Hij	PRO
+knuffelde	EPS
+haar	PRO
+.	NIL
+
+De	DEF
+wekker	CON
+loopt	ENS
+af	REL
+.	NIL
+
+De	DEF
+top	CON
+van	REL
+de	DEF
+speer	CON
+was	PST
+gedrenkt	EXS
+in	REL
+een	DIS
+dodelijk	IST
+vergif	CON
+.	NIL
+
+Ik	PRO
+kauwde	EPS
+de	DEF
+gom	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+gek	IST
+op	REL
+jou	PRO
+.	NIL
+
+Kan	POS
+je	PRO
+schaatsen	EXS
+?	QUE
+
+Mijn	HAS
+stropdas	CON
+is	NOW
+oranje	COL
+.	NIL
+
+De	DEF
+kat	CON
+zit	ENS
+onder	REL
+de	DEF
+tafel	CON
+.	NIL
+
+Overstromingen	CON
+verwoesten	ENS
+Europa	GPE
+.	NIL
+
+Edison	PER
+heeft	NOW
+de	DEF
+kinetoscoop	CON
+uitgevonden	EXT
+.	NIL
+
+Swift	PER
+stierf	EPS
+in	REL
+1745	YOC
+.	NIL
+
+Er	NIL
+ligt	ENS
+een	DIS
+pen	CON
+op	REL
+het	DEF
+bureau	CON
+.	NIL
+
+Deze	PRX
+muziek	CON
+is	NOW
+populair	IST
+bij	REL
+jonge	DEG
+mensen	CON
+.	NIL
+
+Onze	HAS
+ploeg	CON
+heeft	NOW
+onze	HAS
+tegenstander	CON
+met	REL
+5-4	SCO
+verslagen	EXT
+.	NIL
+
+Frans	CON
+is	ENS
+zijn	HAS
+moedertaal	CON
+.	NIL
+
+Dat	DST
+is	NOW
+niet	NOT
+belangrijk	IST
+.	NIL
+
+Heb	NOW
+je	PRO
+geld	CON
+nodig	EXS
+?	QUE
+
+Daniël	PER
+bedankte	EPS
+de	DEF
+politiemensen	ROL
+.	NIL
+
+Het	DEF
+restaurant	CON
+was	PST
+niet	NOT
+vol	IST
+.	NIL
+
+Mijn	HAS
+vrouw	ROL
+keek	EPS
+verbaasd	IST
+.	NIL
+
+Ik	PRO
+heb	NOW
+mijn	HAS
+T-shirt	CON
+gewassen	EXT
+.	NIL
+
+Ze	PRO
+heeft	NOW
+haar	HAS
+handtas	CON
+verloren	EXT
+.	NIL
+
+Nancy	PER
+heeft	ENS
+een	DIS
+piano	CON
+.	NIL
+
+Tony	PER
+spreekt	ENS
+goed	IST
+Engels	CON
+.	NIL
+
+Deze	PRX
+brug	CON
+werd	PST
+twee	QUC
+jaar	UOM
+geleden	PST
+gebouwd	EXS
+.	NIL
+
+Mijn	HAS
+hond	CON
+is	NOW
+wit	COL
+.	NIL
+
+Ik	PRO
+heb	NOW
+mijn	HAS
+eten	CON
+uitgekotst	EXT
+.	NIL
+
+Hij	PRO
+vertrekt	EFS
+naar	REL
+school	CON
+om	REL
+zeven~uur	CLO
+.	NIL
+
+Ik	PRO
+heb	ENS
+een	DIS
+visum	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+met	REL
+mijn	HAS
+baas	ROL
+geslapen	EXT
+.	NIL
+
+Vijf	QUC
+plus	CON
+drie	QUC
+is	EXS
+acht	QUC
+.	NIL
+
+Ik	PRO
+woon	ENS
+dichtbij	APX
+de	DEF
+dijk	CON
+.	NIL
+
+Hij	PRO
+is	NOW
+niet	NOT
+langer	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+Dit	PRX
+medicijn	CON
+smaakt	ENS
+bitter	IST
+.	NIL
+
+Wie	QUE
+is	ENS
+de	DEF
+president	ROL
+van	REL
+Noord-Korea	GPE
+?	QUE
+
+Waar	QUE
+is	ENS
+Chiapas	GPE
+?	QUE
+
+Ik	PRO
+was	PST
+helemaal	EMP
+niet	NOT
+bang	IST
+.	NIL
+
+We	PRO
+keken	EPS
+een	DIS
+film	CON
+.	NIL
+
+Hij	PRO
+opende	EPS
+één	QUC
+oog	CON
+.	NIL
+
+Leloir	PER
+is	PST
+geboren	EXS
+in	REL
+Argentinië	GPE
+.	NIL
+
+El-Nashar	PER
+werd	PST
+gearresteerd	EXS
+in	REL
+Egypte	GPE
+.	NIL
+
+Sylvia~Costas	PER
+is	ENS
+de	DEF
+echtgenote	ROL
+van	REL
+Andy~Sipowicz	PER
+.	NIL
+
+PM	ORG
+verwierf	EPS
+drie	QUC
+Russische	GPO
+fabrieken	CON
+.	NIL
+
+Hij	PRO
+raakte	EPS
+het	DEF
+water	CON
+met	REL
+zijn	HAS
+voet	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+helemaal	EMP
+niet	NOT
+moe	IST
+.	NIL
+
+Tom	PER
+haat	ENS
+de	DEF
+regels	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+een	DIS
+muis	CON
+van	REL
+Microsoft	ORG
+gekocht	EXT
+.	NIL
+
+Wat	QUE
+is	ENS
+uw	HAS
+achternaam	CON
+?	QUE
+
+Ik	PRO
+spreek	ENS
+geen	NOT
+Iers	CON
+.	NIL
+
+De	DEF
+hond	CON
+beet	EPS
+de	DEF
+man	CON
+.	NIL
+
+Tom	PER
+heeft	NOW
+het	DEF
+Eurovisie~Songfestival	HAP
+gewonnen	EXT
+.	NIL
+
+Je	PRO
+bent	ENS
+een	DIS
+uitstekende	IST
+chef-kok	ROL
+.	NIL
+
+Ik	PRO
+heb	NOW
+helemaal	EMP
+geen	NOT
+honger	IST
+.	NIL
+
+Ik	PRO
+speelde	EPS
+tennis	CON
+.	NIL
+
+Hij	PRO
+werd	PST
+door	REL
+een	DIS
+tijger	CON
+verslonden	EXT
+.	NIL
+
+De	DEF
+telefoon	CON
+ging	EPS
+opnieuw	ALT
+.	NIL
+
+Hij	PRO
+ging	EPS
+zijn	HAS
+kamer	CON
+binnen	REL
+.	NIL
+
+Hij	PRO
+was	EPS
+in	REL
+de	DEF
+winkel	CON
+.	NIL
+
+Gisteren	PST
+heb	NOW
+ik	PRO
+een	DIS
+appel	CON
+gegeten	EXT
+.	NIL
+
+Hij	PRO
+is	NOW
+verslaafd	IST
+aan	REL
+de	DEF
+koffie	CON
+van	REL
+Starbucks	ORG
+.	NIL
+
+Ze	PRO
+schonken	EPS
+geld	CON
+aan	REL
+het	DEF
+Rode~Kruis	ORG
+.	NIL
+
+Dat	DST
+verbaast	ENS
+me	PRO
+niets	NOT
+.	NIL
+
+In	REL
+welke	QUE
+stad	CON
+is	ENS
+het	DEF
+Prado~Museum	ART
+?	QUE
+
+De	DEF
+oude	DEG
+man	CON
+werd	PST
+door	REL
+een	DIS
+auto	CON
+overreden	EXS
+.	NIL
+
+Mary	PER
+is	ENS
+modeontwerpster	ROL
+.	NIL
+
+Je	PRO
+bent	NOW
+dronken	IST
+!	EMP
+
+Ze	PRO
+verbrandden	EPS
+het	DEF
+papier	CON
+.	NIL
+
+Accardo	PER
+componeerde	EPS
+24	QUC
+Caprices	CON
+.	NIL
+
+Belknap	PER
+was	PST
+getrouwd	IST
+met	REL
+Carrie~Tomlinson	PER
+.	NIL
+
+Ik	PRO
+kocht	EPS
+een	DIS
+fototoestel	CON
+voor	REL
+dertig	QUC
+dollar	UOM
+.	NIL
+
+Yukichi~Fukuzawa	PER
+introduceerde	EPS
+Westerse	IST
+ideeën	CON
+in	REL
+Japan	GPE
+.	NIL
+
+Het	NIL
+hagelt	ENS
+.	NIL
+
+De	DEF
+vleugel	CON
+van	REL
+de	DEF
+vogel	CON
+was	PST
+gebroken	IST
+.	NIL
+
+Waar	QUE
+liggen	ENS
+de	DEF
+Pribilof~eilanden	GPE
+?	QUE
+
+Tom	PER
+fluisterde	EPS
+Maria	PER
+iets	DIS
+in	REL
+haar	HAS
+oor	CON
+en	COO
+ze	PRO
+glimlachte	EPS
+.	NIL
+
+Het	DEF
+meisje	CON
+is	NOW
+eenzaam	IST
+.	NIL
+
+Waarom	QUE
+ging	EPS
+Jane	PER
+naar	REL
+het	DEF
+station	CON
+?	QUE
+
+Maria	PER
+rookte	EPS
+een	DIS
+sigaar	CON
+.	NIL
+
+Mijn	HAS
+sweater	CON
+is	NOW
+paars	COL
+.	NIL
+
+Texas~Instruments	ORG
+produceert	ENS
+mobiele~telefoons	CON
+.	NIL
+
+Het	DEF
+meisje	CON
+was	PST
+bang	IST
+voor	REL
+eigen	EMP
+schaduw	CON
+.	NIL
+
+Al	AND
+de	DEF
+studenten	ROL
+studeren	ENS
+Engels	CON
+.	NIL
+
+Ik	PRO
+hou	ENS
+van	REL
+talen	CON
+.	NIL
+
+Onze	HAS
+school	CON
+is	NOW
+80	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+Hij	PRO
+is	ENS
+wetenschapper	ROL
+.	NIL
+
+Hij	PRO
+heeft	NOW
+een	DIS
+stel	QUV
+spannende	IST
+detectives	CON
+geschreven	EXT
+.	NIL
+
+Ik	PRO
+zal	FUT
+deelnemen	EXS
+.	NIL
+
+Mijn	HAS
+computer	CON
+is	NOW
+vastgelopen	EXT
+.	NIL
+
+Deze	PRX
+vlag	CON
+is	NOW
+erg	INT
+mooi	IST
+.	NIL
+
+De	DEF
+gewonden	ROL
+werden	PST
+vervoerd	EXS
+met	REL
+een	DIS
+ziekenwagen	CON
+.	NIL
+
+Mary	PER
+masseerde	EPS
+mijn	HAS
+schouders	CON
+.	NIL
+
+Er	NIL
+zit	ENS
+een	DIS
+kruimel	CON
+in	REL
+zijn	HAS
+baard	CON
+.	NIL
+
+Deze	PRX
+school	CON
+is	PST
+opgericht	EXS
+in	REL
+1650	YOC
+.	NIL
+
+Hij	PRO
+maakte	EPS
+een	DIS
+boekenplank	CON
+voor	REL
+haar	PRO
+.	NIL
+
+Ik	PRO
+kan	POS
+de	DEF
+computer	CON
+niet	NOT
+repareren	EXS
+.	NIL
+
+Ik	PRO
+ben	NOW
+hem	PRO
+zat	IST
+.	NIL
+
+Welke	QUE
+prijs	CON
+werd	PST
+toegekend	EXS
+aan	REL
+Elizabeth~Neufeld	PER
+?	QUE
+
+Ben	NOW
+je	PRO
+voor	REL
+iets	DIS
+allergisch	IST
+?	QUE
+
+Haar	HAS
+moedertaal	CON
+is	ENS
+Frans	CON
+.	NIL
+
+Het	DEF
+kind	CON
+tekende	EPS
+een	DIS
+bolvormige	IST
+driehoek	CON
+.	NIL
+
+Het	PRO
+is	NOW
+half~twee	CLO
+.	NIL
+
+Het	DEF
+pakje	CON
+weegt	ENS
+meer~dan	MOR
+een	QUC
+pond	UOM
+.	NIL
+
+FermiLab	ORG
+ontwikkelde	EPS
+Linux~LTS	ART
+.	NIL
+
+De	DEF
+Falklandoorlog	HAP
+vond	EPS
+plaats	NIL
+in	REL
+1982	YOC
+.	NIL
+
+Ik	PRO
+heb	NOW
+zijn	HAS
+hulp	CON
+nodig	EXS
+.	NIL
+
+Extremisten	ROL
+ontvoerden	EPS
+de	DEF
+vrouw	ROL
+van	REL
+de	DEF
+president	ROL
+.	NIL
+
+Ik	PRO
+heb	NOW
+het	PRO
+je	PRO
+dikwijls	QUV
+gezegd	EXT
+.	NIL
+
+Ik	PRO
+eet	ENS
+omdat	SUB
+ik	PRO
+honger	IST
+heb	NOW
+.	NIL
+
+Alle	AND
+appels	CON
+zijn	NOW
+rood	COL
+.	NIL
+
+Tom	PER
+heeft	ENS
+een	DIS
+auto	CON
+.	NIL
+
+Is	NOW
+dat	DST
+niet	NOT
+schattig	IST
+?	QUE
+
+Hij	PRO
+kan	POS
+Frans	CON
+spreken	EXS
+.	NIL
+
+Mijn	HAS
+oom	ROL
+is	NOW
+boos	IST
+.	NIL
+
+De	DEF
+gevangene	ROL
+is	NOW
+ontsnapt	EXT
+!	EMP
+
+Maria	PER
+is	NOW
+twee	QUC
+maanden	UOM
+zwanger	IST
+.	NIL
+
+De	DEF
+film	CON
+\'	NIL
+Speed	ART
+\'	NIL
+werd	PST
+geregisseerd	EXS
+door	REL
+Jan~de~Bont	PER
+.	NIL
+
+De	DEF
+Titanic	ART
+zonk	EPS
+in	REL
+1912	YOC
+.	NIL
+
+Hij	PRO
+is	NOW
+allergisch	IST
+voor	REL
+stof	CON
+.	NIL
+
+Indonesië	GPE
+bestaat	ENS
+uit	REL
+vele	QUV
+eilanden	CON
+en	GRP
+twee	QUC
+schiereilanden	CON
+.	NIL
+
+Tom	PER
+schepte	EPS
+op	REL
+over	REL
+zijn	HAS
+nieuwe	IST
+telefoon	CON
+.	NIL
+
+Mijn	HAS
+tandvlees	CON
+bloedt	ENS
+wanneer	IMP
+ik	PRO
+ook	ALT
+mijn	HAS
+tanden	CON
+flos	ENS
+.	NIL
+
+Ik	PRO
+rijd	ENS
+iedere	AND
+dag	CON
+naar	REL
+Tokio	GPE
+.	NIL
+
+Ik	PRO
+ben	NOW
+allergisch	IST
+voor	REL
+katten	CON
+.	NIL
+
+De	DEF
+rockgroep	CON
+Spock\'s~Beard	ORG
+komt	ENS
+uit	REL
+Japan	GPE
+.	NIL
+
+De	DEF
+film	CON
+\'	NIL
+Speed	ART
+\'	NIL
+werd	PST
+geregisseerd	EXS
+door	REL
+Jan~de~Bont	PER
+.	NIL
+
+Londen	GPE
+werd	PST
+verscheidene	QUV
+keren	CON
+gebombardeerd	EXT
+.	NIL
+
+Een	AND
+spons	CON
+neemt	EXS
+water	CON
+op	REL
+.	NIL
+
+Ik	PRO
+was	PST
+gewend	IST
+aan	REL
+de	DEF
+hitte	CON
+.	NIL
+
+We	PRO
+werken	ENS
+van	REL
+negen	CLO
+tot	REL
+vijf	CLO
+.	NIL
+
+Hij	PRO
+heeft	ENS
+een	DIS
+zoon	ROL
+met	REL
+de	DEF
+naam	CON
+Johano	LIT
+.	NIL
+
+Het	DEF
+water	CON
+is	NOW
+niet	NOT
+drinkbaar	IST
+.	NIL
+
+Ze	PRO
+is	NOW
+langer	MOR
+dan	REL
+haar	HAS
+zus	ROL
+.	NIL
+
+Ik	PRO
+strijk	ENS
+mijn	HAS
+zakdoeken	CON
+.	NIL
+
+Zijn	HAS
+tanden	CON
+zijn	NOW
+geel	COL
+.	NIL
+
+Haar	HAS
+auto	CON
+is	NOW
+twee	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+We	PRO
+hebben	NOW
+verloren	EXT
+.	NIL
+
+We	PRO
+zijn	NOW
+gelukkig	IST
+.	NIL
+
+Hij	PRO
+heeft	ENS
+meer~dan	MOR
+vijf	QUC
+woordenboeken	CON
+.	NIL
+
+Niemand	NOT
+is	NOW
+perfect	IST
+.	NIL
+
+Iedereen	AND
+lachte	EPS
+hem	PRO
+uit	REL
+.	NIL
+
+De	DEF
+kip	CON
+heeft	NOW
+vier	QUC
+eieren	CON
+gelegd	EXT
+.	NIL
+
+Ik	PRO
+spreek	ENS
+Engels	CON
+Frans	CON
+en	GRP
+Spaans	CON
+.	NIL
+
+Niemand	NOT
+houdt	ENS
+van	REL
+oorlog	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+nu	NOW
+niet	NOT
+gewapend	IST
+.	NIL
+
+Wiens	HAS
+boek	CON
+is	ENS
+dit	PRX
+?	QUE
+
+Ik	PRO
+heb	ENS
+een	DIS
+auto	CON
+.	NIL
+
+Hij	PRO
+schrijft	ENS
+boeken	CON
+.	NIL
+
+Dat	DST
+is	NOW
+interessant	IST
+.	NIL
+
+Tom	PER
+heeft	ENS
+geen	NOT
+ervaring	CON
+.	NIL
+
+Jij	PRO
+begrijpt	ENS
+me	PRO
+.	NIL
+
+Een	DIS
+alligator	CON
+heeft	NOW
+zijn	HAS
+arm	CON
+afgerukt	EXT
+.	NIL
+
+Waar	QUE
+ligt	ENS
+Euskirchen	GPE
+?	QUE
+
+Ik	PRO
+ben	ENS
+18	QUC
+jaar	UOM
+.	NIL
+
+Iedereen	AND
+glimlachte	EPS
+.	NIL
+
+Tom	PER
+is	NOW
+een	DIS
+fles	CON
+met	REL
+water	CON
+aan~het	PRG
+vullen	EXS
+.	NIL
+
+General~Dynamics	ORG
+verliest	ENS
+374~miljoen	QUC
+dollar	UOM
+.	NIL
+
+Ik	PRO
+ben	NOW
+allergisch	IST
+voor	REL
+vis	CON
+.	NIL
+
+Iedereen	AND
+lachte	EPS
+.	NIL
+
+Ik	PRO
+ben	NOW
+aan~het	PRG
+koken	EXS
+.	NIL
+
+Ik	PRO
+heb	ENS
+tenminste	BOT
+tien	QUC
+boeken	CON
+.	NIL
+
+Ik	PRO
+was	PST
+gek	IST
+op	REL
+taart	CON
+.	NIL
+
+Hij	PRO
+gaf	EPS
+hem	PRO
+een	DIS
+boek	CON
+.	NIL
+
+Ik	PRO
+ging	EPS
+naar	REL
+het	DEF
+station	CON
+.	NIL
+
+Ze	PRO
+is	ENS
+lerares	ROL
+.	NIL
+
+Ze	PRO
+rookte	EPS
+een	DIS
+sigaret	CON
+.	NIL
+
+Hij	PRO
+vertaalt	ENS
+mijn	HAS
+zinnen	CON
+nooit	NOT
+.	NIL
+
+Europese	GPO
+auto\'s	CON
+worden	NOW
+verkocht	EXS
+in	REL
+Rusland	GPE
+.	NIL
+
+Afvalwater	CON
+uit	REL
+mijnen	CON
+vormt	ENS
+een	DIS
+gevaar	CON
+voor	REL
+het	DEF
+milieu	CON
+.	NIL
+
+Tom	PER
+houdt	ENS
+een	DIS
+dagboek	CON
+bij	REL
+.	NIL
+
+De	DEF
+sokken	CON
+stinken	ENS
+.	NIL
+
+Ze	PRO
+is	NOW
+best	INT
+slecht	IST
+in	REL
+tennis	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+teruggegaan	EXT
+naar	REL
+Japan	GPE
+.	NIL
+
+Waar	QUE
+staat	ENS
+de	DEF
+afkorting	CON
+IRA	LIT
+voor	REL
+?	QUE
+
+Zijn	HAS
+sokken	CON
+zijn	NOW
+paars	COL
+.	NIL
+
+GUS	ORG
+verkocht	EPS
+Wehkamp	ORG
+.	NIL
+
+Het	PRO
+maakt	ENS
+niet	NOT
+uit	REL
+.	NIL
+
+Onze	HAS
+trein	CON
+vertrekt	EFS
+om	REL
+half~negen	CLO
+.	NIL
+
+Ik	PRO
+ben	NOW
+naar	REL
+Nagasaki	GPE
+gegaan	EXT
+.	NIL
+
+Die	DST
+jongen	CON
+is	NOW
+erg	INT
+slim	IST
+.	NIL
+
+Bij	REL
+welke	QUE
+groep	CON
+hoorde	EPS
+John~Lennon	PER
+?	QUE
+
+Hij	PRO
+had	EPS
+zijn	HAS
+sokken	CON
+binnenstebuiten	IST
+aan	REL
+.	NIL
+
+Dan	PER
+werd	PST
+ook	ALT
+gearresteerd	EXS
+.	NIL
+
+Tom	PER
+heeft	ENS
+een	DIS
+enorme	DEG
+lul	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+bang	IST
+voor	REL
+de	DEF
+dood	CON
+.	NIL
+
+Ze	PRO
+zei	EPS
+dat	SUB
+ze	PRO
+gelukkig	IST
+was	PST
+.	NIL
+
+Hij	PRO
+sliep	EPS
+in	REL
+het	DEF
+bed	CON
+.	NIL
+
+Honden	CON
+worden	NOW
+gebruikt	EXS
+in	REL
+de	DEF
+rechtshandhaving	CON
+.	NIL
+
+President	ROL
+Fujimori	PER
+werd	PST
+herkozen	EXS
+in	REL
+1995	YOC
+.	NIL
+
+Paus	ROL
+Johannes~Paulus~II	PER
+werd	PST
+geboren	EXS
+in	REL
+Polen	GPE
+.	NIL
+
+Ik	PRO
+ben	NOW
+helemaal	EMP
+niet	NOT
+overtuigd	IST
+.	NIL
+
+Hoe	QUE
+lang	DEG
+is	NOW
+die	DST
+brug	CON
+?	QUE
+
+Mijn	HAS
+horloge	CON
+is	NOW
+heel	INT
+precies	IST
+.	NIL
+
+Ik	PRO
+werk	ENS
+niet	NOT
+op	REL
+zondag	DOW
+.	NIL
+
+Ik	PRO
+ben	NOW
+geïnteresseerd	IST
+in	REL
+zwemmen	CON
+.	NIL
+
+Ik	PRO
+heb	ENS
+enkele	QUV
+boeken	CON
+.	NIL
+
+Zijn	HAS
+stappen	CON
+waren	PST
+duidelijk	IST
+zichtbaar	IST
+in	REL
+de	DEF
+sneeuw	CON
+.	NIL
+
+De	DEF
+peiling	CON
+is	PST
+gisteren	PST
+afgenomen	EXS
+.	NIL
+
+Hij	PRO
+won	EPS
+de	DEF
+race	CON
+opnieuw	ALT
+.	NIL
+
+Hij	PRO
+is	NOW
+bang	IST
+voor	REL
+de	DEF
+zee	CON
+.	NIL
+
+Hij	PRO
+werd	PST
+verkozen	EXS
+tot	REL
+president	ROL
+.	NIL
+
+Ze	PRO
+zaten	EPS
+in	REL
+de	DEF
+schaduw	CON
+van	REL
+die	DST
+grote	IST
+boom	CON
+.	NIL
+
+Ze	PRO
+huilde	EPS
+bittere	IST
+tranen	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+iets	QUV
+groter	MOR
+dan	REL
+gij	PRO
+.	NIL
+
+Hij	PRO
+luisterde	EPS
+naar	REL
+muziek	CON
+op	REL
+zijn	HAS
+kamer	CON
+.	NIL
+
+Wiens	HAS
+brief	CON
+is	ENS
+dit	PRX
+?	QUE
+
+Het	DEF
+uitzicht	CON
+vanaf	REL
+de	DEF
+top	CON
+is	NOW
+erg	INT
+mooi	IST
+.	NIL
+
+Ik	PRO
+ben	NOW
+nu	NOW
+erg	INT
+moe	IST
+.	NIL
+
+Ik	PRO
+heb	ENS
+drie	QUC
+kippen	CON
+in	REL
+mijn	HAS
+huis	CON
+.	NIL
+
+Tom	PER
+is	NOW
+boos	IST
+op	REL
+ons	PRO
+.	NIL
+
+Gij	PRO
+spreekt	ENS
+.	NIL
+
+Tom	PER
+kwam	EPS
+in	REL
+een	DIS
+auto	CON
+aan	REL
+.	NIL
+
+Tom	PER
+duwde	EPS
+Maria	PER
+van	REL
+de	DEF
+klif	CON
+af	REL
+.	NIL
+
+Een	DIS
+zwaan	CON
+glijdt	ENS
+richting	REL
+het	DEF
+riet	CON
+.	NIL
+
+Dit	PRO
+is	ENS
+het	DEF
+grootste	TOP
+hotel	CON
+in	REL
+deze	PRX
+stad	CON
+.	NIL
+
+De	DEF
+ouders	ROL
+noemden	EPS
+het	DEF
+kind	CON
+\"	NIL
+Akiyoshi	LIT
+\"	NIL
+.	NIL
+
+De	DEF
+blauwe	COL
+rozen	CON
+zijn	NOW
+erg	INT
+mooi	IST
+.	NIL
+
+Elena	PER
+is	ENS
+het	DEF
+grootste	TOP
+meisje	CON
+van	REL
+de	DEF
+klas	CON
+.	NIL
+
+Als	IMP
+het	NIL
+regent	ENS
+komt	EFS
+hij	PRO
+niet	NOT
+.	NIL
+
+Welke	QUE
+vereniging	CON
+leidt	ENS
+Hope~Holcomb	PER
+?	QUE
+
+Alles	AND
+is	NOW
+gratis	IST
+.	NIL
+
+Het	NIL
+had	PST
+gesneeuwd	EXT
+.	NIL
+
+De	DEF
+hond	CON
+is	NOW
+groen	COL
+en	COO
+mooi	IST
+.	NIL
+
+Deze	PRX
+scheidingswand	CON
+scheidt	ENS
+de	DEF
+twee	QUC
+kamers	CON
+.	NIL
+
+Hij	PRO
+verliet	EPS
+het	DEF
+huis	CON
+om	REL
+acht~uur	CLO
+.	NIL
+
+De	DEF
+soldaten	ROL
+weerstonden	EPS
+de	DEF
+vijandelijke	ROL
+aanval	CON
+.	NIL
+
+André~Henri~Constant~van~Hasselt	PER
+werd	PST
+opgeleid	EXS
+in	REL
+Maastricht	GPE
+.	NIL
+
+Hooper	PER
+kocht	EPS
+een	DIS
+huis	CON
+in	REL
+Portland	GPE
+.	NIL
+
+De	DEF
+Mississippi	GEO
+rivier	CON
+mondt	ENS
+uit	REL
+in	REL
+de	DEF
+Golf~van~Mexico	GEO
+.	NIL
+
+Het	NIL
+sneeuwde	EPS
+van	REL
+maandag	DOW
+tot	REL
+vrijdag	DOW
+.	NIL
+
+Hij	PRO
+was	PST
+totaal	EMP
+niet	NOT
+tevreden	IST
+.	NIL
+
+Er	NIL
+zijn	ENS
+43	QUC
+prefecturen	CON
+in	REL
+Japan	GPE
+.	NIL
+
+Ik	PRO
+zal	FUT
+de	DEF
+appel	CON
+eten	EXS
+.	NIL
+
+Ze	PRO
+speelde	EPS
+een	DIS
+wals	CON
+op	REL
+de	DEF
+piano	CON
+.	NIL
+
+Het	DEF
+hemd	CON
+moet	NEC
+worden	NOW
+gestreken	EXS
+.	NIL
+
+Emily	PER
+eet	ENS
+chips	CON
+.	NIL
+
+Tom	PER
+mopperde	EPS
+.	NIL
+
+Er	NIL
+zijn	ENS
+eilanden	CON
+in	REL
+de	DEF
+zee	CON
+.	NIL
+
+Dromen	ENS
+katten	CON
+?	QUE
+
+Waar	QUE
+is	NOW
+Tom	PER
+bang	IST
+voor	REL
+?	QUE
+
+Wie	QUE
+heeft	NOW
+Hamlet	ART
+geschreven	EXT
+?	QUE
+
+Ik	PRO
+mag	ENS
+Tom	PER
+omdat	SUB
+hij	PRO
+eerlijk	IST
+is	NOW
+.	NIL
+
+Die	DST
+kat	CON
+is	NOW
+bruin	COL
+.	NIL
+
+Agnès	PER
+keek	EPS
+naar	REL
+de	DEF
+bruine	COL
+boten	CON
+.	NIL
+
+Jullie	PRO
+spreken	ENS
+geen	NOT
+Engels	CON
+.	NIL
+
+Uit	REL
+welk	QUE
+land	CON
+komt	ENS
+de	DEF
+makelaar	ROL
+Schneider	PER
+?	QUE
+
+We	PRO
+schatten	ENS
+de	DEF
+schade	CON
+op	REL
+duizend	QUC
+dollar	UOM
+.	NIL
+
+Jullie	PRO
+zijn	ENS
+heel	INT
+schattige	IST
+jongens	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+een	DIS
+kaart	CON
+naar	REL
+Tom	PER
+gefaxt	EXT
+.	NIL
+
+Ik	PRO
+heb	NOW
+twee	QUC
+hamburgers	CON
+besteld	EXT
+.	NIL
+
+Hou	ENS
+je	PRO
+van	REL
+heet	IST
+eten	CON
+?	QUE
+
+Ik	PRO
+zag	EPS
+een	DIS
+nijlpaard	CON
+in	REL
+de	DEF
+zoo	CON
+
+Hij	PRO
+was	PST
+erg	INT
+bang	IST
+toen	REL
+hij	PRO
+deze	PRX
+grote	DEG
+slang	CON
+zag	EPS
+.	NIL
+
+Ze	PRO
+is	NOW
+zwanger	IST
+.	NIL
+
+Het	DEF
+eekhoorntje	CON
+at	EPS
+uit	REL
+haar	HAS
+hand	CON
+.	NIL
+
+We	PRO
+hebben	NOW
+de	DEF
+schade	CON
+op	REL
+duizend	QUC
+dollar	UOM
+geschat	EXT
+.	NIL
+
+Zij	PRO
+huurde	EPS
+een	DIS
+privé-detective	ROL
+.	NIL
+
+Tom	PER
+vouwt	ENS
+zijn	HAS
+kleren	CON
+op	REL
+.	NIL
+
+Ik	PRO
+ben	ENS
+19	QUC
+jaar	UOM
+.	NIL
+
+Hughes	PER
+was	PST
+getrouwd	IST
+met	REL
+Gracia	PER
+.	NIL
+
+Mayuko	PER
+kwam	EPS
+de	DEF
+kamer	CON
+binnen	REL
+.	NIL
+
+Ik	PRO
+mag	ENS
+hem	PRO
+omdat	SUB
+hij	PRO
+eerlijk	IST
+is	NOW
+.	NIL
+
+De	DEF
+thee	CON
+kost	ENS
+twee	QUC
+euro	UOM
+.	NIL
+
+Grote	IST
+delen	CON
+van	REL
+de	DEF
+oceaan	CON
+zijn	NOW
+vervuild	IST
+.	NIL
+
+De	DEF
+kunstenaar	ROL
+tekende	EPS
+met	REL
+Chinese	GPO
+inkt	CON
+.	NIL
+
+Mijn	HAS
+huis	CON
+staat	ENS
+op	REL
+een	DIS
+heuvel	CON
+.	NIL
+
+Hij	PRO
+is	NOW
+groot	DEG
+en	AND
+slank	IST
+.	NIL
+
+Ik	PRO
+ga	ENS
+naar	REL
+school	CON
+met	REL
+Tom	PER
+.	NIL
+
+Mijn	HAS
+vader	ROL
+is	NOW
+een	DIS
+beetje	QUV
+ouderwets	IST
+.	NIL
+
+Hij	PRO
+is	NOW
+verslaafd	IST
+.	NIL
+
+Ibrahim~Sofu	PER
+werd	PST
+vermoord	EXS
+door	REL
+Metin~Kaplan	PER
+.	NIL
+
+Ze	PRO
+is	NOW
+nu	NOW
+een	DIS
+brief	CON
+aan~het	PRG
+schrijven	EXS
+.	NIL
+
+Ik	PRO
+kom	EFS
+op	REL
+23	DOM
+mei	MOY
+.	NIL
+
+Tom	PER
+stompte	EPS
+hem	PRO
+in	REL
+het	DEF
+gezicht	CON
+.	NIL
+
+John	PER
+haalde	EPS
+een	DIS
+sleutel	CON
+uit	REL
+zijn	HAS
+zak	CON
+.	NIL
+
+Mijn	HAS
+been	CON
+is	NOW
+nog	ALT
+steeds	ALT
+verdoofd	IST
+.	NIL
+
+Ze	PRO
+mogen	POS
+iets	DIS
+anders	ALT
+aanbieden	EXS
+.	NIL
+
+De	DEF
+jongen	CON
+spreekt	ENS
+met	REL
+zijn	HAS
+grootvader	ROL
+.	NIL
+
+Die	DST
+cd	CON
+is	ENS
+van	REL
+haar	PRO
+.	NIL
+
+Allan~Chapman	PER
+is	NOW
+werkzaam	EXS
+bij	REL
+de	DEF
+River~Forecast~Centre	ORG
+.	NIL
+
+Mijn	HAS
+tante	ROL
+was	PST
+blij	IST
+met	REL
+mijn	HAS
+succes	CON
+.	NIL
+
+Het	PRO
+zal	FUT
+meer~dan	MOR
+10.000	QUC
+yen	UOM
+zijn	EXS
+.	NIL
+
+Ik	PRO
+ben	NOW
+linkshandig	IST
+.	NIL
+
+Zijn	HAS
+fiets	CON
+is	NOW
+blauw	COL
+.	NIL
+
+De	DEF
+haas	CON
+bloedt	ENS
+aan	REL
+het	DEF
+oor	CON
+.	NIL
+
+De	DEF
+kat	CON
+zit	ENS
+onder	REL
+de	DEF
+tafel	CON
+.	NIL
+
+Hij	PRO
+is	NOW
+allergisch	IST
+aan	REL
+pollen	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+twee	QUC
+thees	CON
+en	GRP
+drie	QUC
+koffies	CON
+besteld	EXT
+.	NIL
+
+De	DEF
+man	CON
+stak	EPS
+een	DIS
+sigaret	CON
+op	REL
+met	REL
+een	DIS
+aansteker	CON
+.	NIL
+
+School	CON
+verveelt	ENS
+me	PRO
+.	NIL
+
+Alfred~Nobel	PER
+is	ENS
+de	DEF
+uitvinder	ROL
+van	REL
+dynamiet	CON
+.	NIL
+
+Het	DEF
+ijs	CON
+zal	FUT
+breken	EXS
+onder	REL
+je	HAS
+gewicht	CON
+.	NIL
+
+Hij	PRO
+zwom	EPS
+de	DEF
+rivier	CON
+over	REL
+.	NIL
+
+Zij	PRO
+houdt	ENS
+van	REL
+die	DST
+basstem	CON
+.	NIL
+
+Oh	ITJ
+ik	PRO
+was	PST
+ziek	IST
+.	NIL
+
+Evangeline~Lilly	PER
+is	NOW
+Canadees	GPO
+.	NIL
+
+Hij	PRO
+is	NOW
+groter	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+Ik	PRO
+heb	NOW
+de	DEF
+appel	CON
+opgegeten	EXT
+.	NIL
+
+Ik	PRO
+ben	NOW
+linkshandig	IST
+.	NIL
+
+In	REL
+welke	QUE
+stad	CON
+is	PST
+Jorge~Machado	PER
+geboren	EXS
+?	QUE
+
+Zij	PRO
+ondervroeg	EPS
+een	DIS
+verdachte	ROL
+.	NIL
+
+Melanie	PER
+houdt	ENS
+van	REL
+muziek	CON
+.	NIL
+
+Is	NOW
+het	NIL
+waar	IST
+dat	SUB
+Tom	PER
+uitgaat	ENS
+met	REL
+een	DIS
+Japans	GPO
+meisje	CON
+?	QUE
+
+Haar	HAS
+sweater	CON
+is	NOW
+paars	COL
+.	NIL
+
+Het	PRO
+is	NOW
+tien~minuten~voor~elf	CLO
+.	NIL
+
+Het	PRO
+is	NOW
+8:30	CLO
+.	NIL
+
+De	DEF
+kat	CON
+miauwde	EPS
+.	NIL
+
+De	DEF
+Kanchenjunga	GEO
+is	NOW
+8.586	QUC
+meter	UOM
+hoog	DEG
+.	NIL
+
+Ken	PER
+heeft	NOW
+tegen	REL
+mij	PRO
+gewonnen	EXT
+met	REL
+schaken	CON
+.	NIL
+
+Ik	PRO
+wil	ENS
+iets	DIS
+zoets	IST
+.	NIL
+
+Jim	PER
+begeleidde	EPS
+haar	PRO
+op	REL
+de	DEF
+piano	CON
+.	NIL
+
+Ik	PRO
+ken	ENS
+hem	PRO
+.	NIL
+
+Ik	PRO
+leer	ENS
+Tsjechisch	CON
+.	NIL
+
+Hij	PRO
+heeft	NOW
+geklaagd	EXT
+over	REL
+het	DEF
+lawaai	CON
+.	NIL
+
+Ik	PRO
+koop	EFS
+een	DIS
+nieuwe	IST
+.	NIL
+
+De	DEF
+oorlog	CON
+duurde	EPS
+ongeveer	APX
+twee	QUC
+jaar	UOM
+.	NIL
+
+Ik	PRO
+heb	NOW
+je	PRO
+drie	QUC
+uur	UOM
+geleden	PST
+gebeld	EXT
+.	NIL
+
+Ze	PRO
+schudde	EPS
+mijn	HAS
+hand	CON
+.	NIL
+
+De	DEF
+Kanchenjunga	GEO
+is	NOW
+8586	QUC
+meter	UOM
+hoog	DEG
+.	NIL
+
+De	DEF
+film	CON
+begint	EFS
+om	REL
+tien~uur	CLO
+.	NIL
+
+Deze	PRX
+boeken	CON
+zijn	NOW
+makkelijker	MOR
+dan	REL
+die	DST
+boeken	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+deze	PRX
+jurk	CON
+voor	REL
+een	DIS
+lage	DEG
+prijs	CON
+gekocht	EXT
+.	NIL
+
+Ik	PRO
+bleef	EPS
+thuis	CON
+omdat	SUB
+ik	PRO
+ziek	IST
+was	PST
+.	NIL
+
+Hij	PRO
+klaagde	EPS
+over	REL
+de	DEF
+herrie	CON
+.	NIL
+
+Men	PRO
+zegt	ENS
+dat	SUB
+hij	PRO
+ernstig	INT
+ziek	IST
+is	NOW
+.	NIL
+
+Ze	PRO
+is	NOW
+erg	INT
+intelligent	IST
+.	NIL
+
+Het	NIL
+sneeuwt	ENS
+.	NIL
+
+Hou	ENS
+je	PRO
+van	REL
+muziek	CON
+?	QUE
+
+Zijn	HAS
+concert	CON
+was	PST
+zeer	INT
+goed	IST
+.	NIL
+
+Hij	PRO
+sloot	EPS
+de	DEF
+deur	CON
+.	NIL
+
+Tom	PER
+heeft	ENS
+zwee	QUC
+huizen	CON
+en	GRP
+een	DIS
+boot	CON
+.	NIL
+
+Ze	PRO
+was	PST
+betoverd	EXS
+door	REL
+zijn	HAS
+glimlach	CON
+.	NIL
+
+Mijn	HAS
+broer	ROL
+wil	ENS
+me	PRO
+vermoorden	EXS
+.	NIL
+
+Het	DEF
+boek	CON
+ligt	ENS
+op	REL
+de	DEF
+tafel	CON
+.	NIL
+
+Wie	QUE
+schreef	EPS
+de	DEF
+\"	NIL
+Goelag~Archipel	ART
+\"	NIL
+?	QUE
+
+Ik	PRO
+ben	NOW
+dertig	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+Duitsland	GPE
+heet	ENS
+\"	NIL
+Deutschland	LIT
+\"	NIL
+in	REL
+het	DEF
+Duits	CON
+.	NIL
+
+Ik	PRO
+was	PST
+heel	INT
+moe	IST
+vandaag	NOW
+.	NIL
+
+Je	PRO
+hebt	ENS
+een	DIS
+grappige	IST
+lach	CON
+.	NIL
+
+Deze	PRX
+huizen	CON
+zijn	NOW
+vijfhonderd	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+Ik	PRO
+ben	ENS
+geen	NOT
+vegetariër	ROL
+.	NIL
+
+Ik	PRO
+ben	NOW
+niet	NOT
+trots	IST
+op	REL
+mijn	HAS
+gedrag	CON
+.	NIL
+
+Hij	PRO
+heeft	ENS
+drie	QUC
+oudere	MOR
+zussen	ROL
+.	NIL
+
+Deze	PRX
+CD	CON
+kost	ENS
+10	QUC
+dollar	UOM
+.	NIL
+
+De	DEF
+politieagent	ROL
+draagt	ENS
+een	DIS
+gasmasker	CON
+.	NIL
+
+Zij	PRO
+huurde	EPS
+een	DIS
+privé-detective	ROL
+.	NIL
+
+Iemand	DIS
+heeft	NOW
+haar	HAS
+geld	CON
+gestolen	EXT
+.	NIL
+
+Mijn	HAS
+broer	ROL
+is	NOW
+twee	QUC
+jaar	UOM
+ouder	MOR
+dan	REL
+ik	PRO
+maar	BUT
+hij	PRO
+is	NOW
+drie	QUC
+centimeter	UOM
+kleiner	MOR
+.	NIL
+
+Wie	QUE
+is	ENS
+de	DEF
+Hongaarse	GPO
+premier	ROL
+?	QUE
+
+Hij	PRO
+kocht	EPS
+een	DIS
+dozijn	QUC
+eieren	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+een	DIS
+brief	CON
+geschreven	EXT
+.	NIL
+
+De	DEF
+Amerikaanse~Burgeroorlog	HAP
+begon	EPS
+in	REL
+1861	YOC
+.	NIL
+
+Charles~de~Gaulle	PER
+overleed	EPS
+in	REL
+1970	YOC
+.	NIL
+
+Het	NIL
+sneeuwt	ENS
+.	NIL
+
+Zij	PRO
+is	NOW
+veel	QUV
+groter	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+Ik	PRO
+groeide	EPS
+op	REL
+in	REL
+dat	DST
+huis	CON
+.	NIL
+
+Welke	QUE
+prijs	CON
+hebben	NOW
+Weinberg	PER
+Salam	PER
+en	GRP
+Glashow	PER
+gewonnen	EXT
+?	QUE
+
+Ik	PRO
+ga	FUT
+de	DEF
+politie	CON
+bellen	EXS
+!	EMP
+
+Maria	PER
+zoutte	EPS
+het	DEF
+vlees	CON
+.	NIL
+
+De	DEF
+zee	CON
+was	PST
+erg	INT
+glad	IST
+.	NIL
+
+Misschien	POS
+heb	NOW
+ik	PRO
+overdreven	EXT
+.	NIL
+
+Een	AND
+bij	CON
+zoemt	EXS
+.	NIL
+
+O.J.~Simpson	PER
+werd	PST
+beschuldigd	EXS
+van	REL
+moord	CON
+.	NIL
+
+Hij	PRO
+berekende	EPS
+de	DEF
+kosten	CON
+.	NIL
+
+Bent	NOW
+u	PRO
+getrouwd	IST
+?	QUE
+
+Betty	PER
+is	ENS
+een	DIS
+seriemoordenares	ROL
+.	NIL
+
+Je	HAS
+O\'s	CON
+lijken	ENS
+op	REL
+je	HAS
+A\'s	CON
+.	NIL
+
+Tom	PER
+is	NOW
+de	DEF
+ketchup	CON
+vergeten	EXT
+.	NIL
+
+Ze	PRO
+zei	EPS
+niets	NOT
+.	NIL
+
+Ik	PRO
+heb	NOW
+een	DIS
+beslissing	CON
+getroffen	EXT
+.	NIL
+
+Millie	PER
+eet	ENS
+een	DIS
+banaan	CON
+.	NIL
+
+Tom	PER
+scoorde	EPS
+een	DIS
+doelpunt	CON
+.	NIL
+
+Ik	PRO
+was	PST
+aan~het	PRG
+slapen	EXS
+.	NIL
+
+Charles~de~Gaulle	PER
+overleed	EPS
+in	REL
+1970	YOC
+.	NIL
+
+Het	DEF
+wachtwoord	CON
+is	ENS
+\"	NIL
+Muiriël	LIT
+\"	NIL
+.	NIL
+
+De	DEF
+rekening	CON
+bedroeg	EPS
+100	QUC
+dollar	UOM
+.	NIL
+
+Het	PRO
+kostte	EPS
+minder~dan	LES
+vijftig	QUC
+dollar	UOM
+.	NIL
+
+We	PRO
+stonden	EPS
+aan	REL
+de	DEF
+rand	CON
+van	REL
+een	DIS
+klif	CON
+.	NIL
+
+Ieder	AND
+een	CON
+die	AND
+hem	PRO
+kende	EPS
+bewonderde	EPS
+hem	PRO
+.	NIL
+
+Ik	PRO
+ontmoette	EPS
+een	DIS
+wolf	CON
+in	REL
+een	DIS
+droom	CON
+.	NIL
+
+Tom	PER
+heeft	ENS
+geen	NOT
+kredietkaart	CON
+.	NIL
+
+Die	DST
+kerel	CON
+is	NOW
+dubbelhartig	IST
+.	NIL
+
+In	REL
+welke	QUE
+Londense	GPO
+wijk	CON
+staat	ENS
+het	DEF
+British~Museum	ART
+?	QUE
+
+U	PRO
+bent	NOW
+langer	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+Ik	PRO
+ben	NOW
+verliefd	IST
+op	REL
+Tom	PER
+s	HAS
+vrouw	ROL
+.	NIL
+
+Ik	PRO
+ben	NOW
+verschillende	QUV
+keren	CON
+in	REL
+Italië	GPE
+geweest	EXT
+.	NIL
+
+Waar	QUE
+is	ENS
+de	DEF
+bushalte	CON
+?	QUE
+
+Er	NIL
+zijn	ENS
+zes	QUC
+mensen	CON
+inclusief	REL
+hem	PRO
+.	NIL
+
+Wiens	HAS
+gitaar	CON
+is	ENS
+dit	PRX
+?	QUE
+
+België	GPE
+is	NOW
+niet	NOT
+zo	EQU
+groot	IST
+als	REL
+Frankrijk	GPE
+.	NIL
+
+Ik	PRO
+begrijp	ENS
+het	PRO
+.	NIL
+
+Voor	REL
+welk	QUE
+bedrijf	CON
+werkt	ENS
+Sid~Gregory	PER
+?	QUE
+
+Twee	QUC
+maal	CON
+zeven	QUC
+is	EXS
+veertien	QUC
+.	NIL
+
+Ik	PRO
+streed	EPS
+met	REL
+hem	PRO
+om	REL
+de	DEF
+eerste	ORD
+prijs	CON
+.	NIL
+
+Ik	PRO
+betaalde	EPS
+hem	PRO
+vijf	QUC
+dollar	UOM
+.	NIL
+
+Ze	PRO
+drukte	EPS
+haar	HAS
+neus	CON
+tegen	REL
+de	DEF
+ruit	CON
+.	NIL
+
+De	DEF
+dief	ROL
+rende	EPS
+weg	REL
+.	NIL
+
+Ik	PRO
+doe	ENS
+niets	NOT
+.	NIL
+
+De	DEF
+wolf	CON
+ging	EPS
+het	DEF
+kippenhok	CON
+in	REL
+.	NIL
+
+Mijn	HAS
+oom	ROL
+leeft	ENS
+in	REL
+het	DEF
+oosten	CON
+van	REL
+Spanje	GPE
+.	NIL
+
+David~Cameron	PER
+behoort	ENS
+tot	REL
+de	DEF
+Britse	GPO
+Conservatieve~Partij	ORG
+.	NIL
+
+Ik	PRO
+heb	NOW
+hem	PRO
+een	DIS
+Cd	CON
+geleend	EXT
+.	NIL
+
+Hij	PRO
+was	EPS
+in	REL
+de	DEF
+rij	CON
+.	NIL
+
+Ze	PRO
+is	NOW
+acht	QUC
+maanden	UOM
+zwanger	IST
+.	NIL
+
+De	DEF
+sigaren	CON
+kosten	ENS
+twee	QUC
+mark	UOM
+.	NIL
+
+Ik	PRO
+woon	ENS
+momenteel	NOW
+in	REL
+Kunming	GPE
+.	NIL
+
+Ik	PRO
+ben	NOW
+helemaal	EMP
+niet	NOT
+bang	IST
+.	NIL
+
+Dit	PRO
+is	NOW
+niet	NOT
+normaal	IST
+.	NIL
+
+Zij	PRO
+sloeg	EPS
+hem	PRO
+in	REL
+het	DEF
+gezicht	CON
+.	NIL
+
+De	DEF
+taart	CON
+is	NOW
+heerlijk	IST
+.	NIL
+
+De	DEF
+Mona~Lisa	ART
+is	PST
+geschilderd	EXS
+door	REL
+Leonardo~da~Vinci	PER
+.	NIL
+
+Het	DEF
+eiland	CON
+ligt	ENS
+ten	REL
+westen	CON
+van	REL
+Japan	GPE
+.	NIL
+
+De	DEF
+stoel	CON
+is	ENS
+niet	NOT
+dichtbij	APX
+het	DEF
+raam	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+rechtshandig	IST
+.	NIL
+
+De	DEF
+deur	CON
+was	PST
+niet	NOT
+dicht	IST
+.	NIL
+
+Die	DST
+politicus	ROL
+is	NOW
+totaal	EMP
+niet	NOT
+eerlijk	IST
+.	NIL
+
+Hij	PRO
+is	NOW
+jong	DEG
+en	AND
+vrijgezel	IST
+.	NIL
+
+Tom	PER
+keek	EPS
+naar	REL
+de	DEF
+maan	CON
+.	NIL
+
+Hij	PRO
+vloog	EPS
+van	REL
+London	GPE
+naar	REL
+Parijs	GPE
+.	NIL
+
+Hij	PRO
+heeft	NOW
+een	DIS
+bier	CON
+besteld	EXT
+.	NIL
+
+David~Cameron	PER
+behoort	ENS
+tot	REL
+de	DEF
+Britse	GPO
+Conservatieve~Partij	ORG
+.	NIL
+
+Joseph~Wilson	PER
+werkte	EPS
+voor	REL
+de	DEF
+CIA	ORG
+.	NIL
+
+Betty	PER
+vermoordde	EPS
+haar	HAS
+moeder	ROL
+.	NIL
+
+Iemand	DIS
+heeft	NOW
+mijn	HAS
+paspoort	CON
+gestolen	EXT
+.	NIL
+
+Er	NIL
+zijn	ENS
+veel	QUV
+dieren	CON
+in	REL
+het	DEF
+park	CON
+.	NIL
+
+Ik	PRO
+heb	ENS
+hoofdpijn	CON
+.	NIL
+
+Ze	PRO
+komen	ENS
+uit	REL
+het	DEF
+zuiden	CON
+van	REL
+Frankrijk	GPE
+.	NIL
+
+Dit	PRX
+kostte	EPS
+minder~dan	LES
+vijftien	QUC
+dollar	UOM
+.	NIL
+
+Deze	PRX
+student	ROL
+is	NOW
+Amerikaans	GPO
+.	NIL
+
+Ik	PRO
+ben	NOW
+aan~het	PRG
+lunchen	EXS
+met	REL
+mijn	HAS
+zus	ROL
+.	NIL
+
+De	DEF
+moeder	ROL
+was	PST
+uitgeblust	IST
+.	NIL
+
+Ze	PRO
+is	NOW
+niet	NOT
+meer	ALT
+alleen	IST
+.	NIL
+
+Hij	PRO
+heeft	NOW
+zijn	HAS
+snor	CON
+afgeschoren	EXT
+.	NIL
+
+Haar	HAS
+verloofde	ROL
+gaf	EPS
+haar	PRO
+een	DIS
+heel	INT
+grote	DEG
+ring	CON
+.	NIL
+
+Een	AND
+kat	CON
+heeft	EXS
+twee	QUC
+oren	CON
+.	NIL
+
+Hij	PRO
+is	ENS
+een	DIS
+DJ	CON
+.	NIL
+
+Mary	PER
+\'s	HAS
+schoenen	CON
+zijn	NOW
+vies	IST
+.	NIL
+
+Dit	PRX
+is	NOW
+zo	INT
+deprimerend	IST
+.	NIL
+
+Je	HAS
+bloed	CON
+is	NOW
+rood	COL
+.	NIL
+
+Dat	DST
+is	NOW
+niet	NOT
+veilig	IST
+.	NIL
+
+Tom	PER
+ontwierp	EPS
+dit	PRX
+gebouw	CON
+.	NIL
+
+Tom	PER
+is	NOW
+egocentrisch	IST
+.	NIL
+
+Ik	PRO
+haat	ENS
+dit	PRX
+tapijt	CON
+.	NIL
+
+Ze	PRO
+is	NOW
+vriendelijk	IST
+.	NIL
+
+Deze	PRX
+bananen	CON
+zijn	NOW
+niet	NOT
+rijp	EXS
+.	NIL
+
+Ik	PRO
+wil	ENS
+naar	REL
+Bali	GPE
+gaan	EXS
+.	NIL
+
+Ze	PRO
+heeft	NOW
+hem	PRO
+gebeten	EXT
+.	NIL
+
+Spartan~Air~Lines	ORG
+nam	EPS
+United~Airways	ORG
+over	REL
+.	NIL
+
+Wehkamp	ORG
+was	PST
+gevestigd	EXS
+in	REL
+het	DEF
+Verenigd~Koninkrijk	GPE
+.	NIL
+
+Dat	DST
+zal	FUT
+€	UOM
+kosten	EXS
+.	NIL
+
+De	DEF
+dokter	ROL
+onderzocht	EPS
+de	DEF
+patiënten	ROL
+.	NIL
+
+Mijn	HAS
+baby	CON
+heeft	ENS
+een	DIS
+erfelijke	IST
+ziekte	CON
+.	NIL
+
+Een	AND
+olifant	CON
+heeft	ENS
+een	DIS
+lange	DEG
+neus	CON
+.	NIL
+
+Ze	PRO
+hebben	NOW
+meneer	ROL
+White	PER
+als	REL
+manager	CON
+aangesteld	EXT
+.	NIL
+
+Het	DEF
+geld	CON
+ligt	ENS
+op	REL
+de	DEF
+tafel	CON
+.	NIL
+
+Het	DEF
+brood	CON
+zit	ENS
+in	REL
+de	DEF
+oven	CON
+.	NIL
+
+Mijn	HAS
+oom	ROL
+is	NOW
+niet	NOT
+jong	DEG
+maar	BUT
+is	NOW
+wel	EMP
+gezond	IST
+.	NIL
+
+Rusland	GPE
+is	ENS
+een	DIS
+erg	INT
+groot	DEG
+land	CON
+.	NIL
+
+Wie	QUE
+is	ENS
+de	DEF
+leider	ROL
+van	REL
+Sinn~Fein	ORG
+?	QUE
+
+Zijn	NOW
+ze	PRO
+groot	DEG
+?	QUE
+
+Hij	PRO
+is	NOW
+sterker	MOR
+als	REL
+u	PRO
+.	NIL
+
+Ik	PRO
+eet	ENS
+een	DIS
+banaan	CON
+.	NIL
+
+Ik	PRO
+eet	ENS
+noedels	CON
+.	NIL
+
+Betty	PER
+heeft	NOW
+hem	PRO
+gedood	EXT
+.	NIL
+
+Ze	PRO
+bezoekt	ENS
+nu	NOW
+Parijs	GPE
+.	NIL
+
+Hij	PRO
+is	NOW
+bang	IST
+voor	REL
+de	DEF
+honden	CON
+.	NIL
+
+Wie	QUE
+is	ENS
+bestuursvoorzitter	ROL
+van	REL
+Fiat	ORG
+?	QUE
+
+Hoeveel	QUE
+kinderen	CON
+heeft	ENS
+Anthony~Quinn	PER
+?	QUE
+
+Tom	PER
+is	NOW
+allergisch	IST
+voor	REL
+pinda\'s	CON
+.	NIL
+
+Melanie	PER
+drinkt	ENS
+melk	CON
+.	NIL
+
+De	DEF
+rivier	CON
+stroomt	ENS
+uit	REL
+in	REL
+de	DEF
+Pacifische~oceaan	GEO
+.	NIL
+
+De	DEF
+top	CON
+van	REL
+de	DEF
+Fuji	GEO
+was	PST
+bedekt	EXS
+met	REL
+sneeuw	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+de	DEF
+boeken	CON
+aan	REL
+deze	DEF
+student	ROL
+gegeven	EXT
+.	NIL
+
+Er	NIL
+is	ENS
+melk	CON
+in	REL
+de	DEF
+koelkast	CON
+.	NIL
+
+Mijn	HAS
+ouders	ROL
+spreken	ENS
+geen	NOT
+Nederlands	CON
+.	NIL
+
+Marilyn~Monroe	PER
+overleed	EPS
+33	QUC
+jaar	UOM
+geleden	PST
+.	NIL
+
+Hoeveel	QUE
+bloemen	CON
+koop	ENS
+je	PRO
+?	QUE
+
+Ik	PRO
+hou	ENS
+van	REL
+schaken	CON
+.	NIL
+
+Een	QUC
+dollar	UOM
+is	NOW
+gelijk	IST
+aan	REL
+honderd	QUC
+dollarcent	UOM
+.	NIL
+
+Dan	PER
+ontmoette	EPS
+Linda	PER
+in	REL
+de	DEF
+kerk	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+allergisch	IST
+voor	REL
+katten	CON
+.	NIL
+
+Het	PRO
+was	PST
+half~acht	CLO
+.	NIL
+
+Beverly	PER
+werkte	EPS
+voor	REL
+WEDCOR	ORG
+.	NIL
+
+Kieslowski	PER
+is	ENS
+een	DIS
+filmregisseur	ROL
+.	NIL
+
+Ik	PRO
+betaalde	EPS
+hem	PRO
+vijf	QUC
+dollar	UOM
+.	NIL
+
+Hij	PRO
+ging	PST
+vissen	EXG
+in	REL
+de	DEF
+rivier	CON
+.	NIL
+
+Waar	QUE
+is	PST
+Adolf~Hitler	PER
+geboren	EXS
+?	QUE
+
+De	DEF
+trein	CON
+kwam	EPS
+aan	REL
+in	REL
+Londen	GPE
+.	NIL
+
+Je	PRO
+moet	NEC
+om	REL
+zes~uur	CLO
+opstaan	EXS
+.	NIL
+
+De	DEF
+lucht	CON
+is	NOW
+bewolkt	IST
+.	NIL
+
+Het	PRO
+is	NOW
+tien~minuten~voor~elf	CLO
+.	NIL
+
+Tom	PER
+woont	ENS
+in	REL
+het	DEF
+hart	CON
+van	REL
+de	DEF
+stad	CON
+.	NIL
+
+Maria	PER
+is	NOW
+linkshandig	IST
+.	NIL
+
+Fastfood	CON
+is	NOW
+zeer	INT
+populair	IST
+in	REL
+Japan	GPE
+.	NIL
+
+We	PRO
+zagen	EPS
+de	DEF
+vogel	CON
+toen	REL
+we	PRO
+Okinawa	GPE
+bezochten	EPS
+.	NIL
+
+Mijn	HAS
+vrouw	ROL
+lijdt	ENS
+aan	REL
+een	DIS
+longontsteking	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+keer~op~keer	ALT
+geprobeerd	EXT
+.	NIL
+
+Ze	PRO
+werd	PST
+gediskwalificeerd	EXS
+van	REL
+de	DEF
+race	CON
+wegens	REL
+twee	QUC
+valse	IST
+starts	CON
+.	NIL
+
+Mevrouw	ROL
+Ogawa	PER
+is	NOW
+zeer	INT
+goed	IST
+in	REL
+tennis	CON
+.	NIL
+
+Hij	PRO
+is	NOW
+niet	NOT
+dommer	MOR
+dan	REL
+jij	PRO
+.	NIL
+
+Dean~Lynn~Hart	PER
+woont	ENS
+in	REL
+Truckee~River~Trail	GEO
+.	NIL
+
+Nikos~Kourkoulos	PER
+was	EPS
+een	DIS
+Griekse	GPO
+acteur	ROL
+.	NIL
+
+Klaus~Pohl	PER
+is	ENS
+een	DIS
+Duitse	GPO
+toneelschrijver	ROL
+.	NIL
+
+Mijn	HAS
+grootvader	ROL
+werd	PST
+in	REL
+1920	YOC
+geboren	EXS
+.	NIL
+
+Ik	PRO
+vertelde	EPS
+hem	PRO
+over	REL
+onze	HAS
+school	CON
+.	NIL
+
+Tux	NTH
+is	ENS
+een	DIS
+antarctische	GPO
+vogel	CON
+.	NIL
+
+De	DEF
+lift	CON
+is	NOW
+buiten	NOT
+werking	IST
+.	NIL
+
+Ik	PRO
+nam	EPS
+een	DIS
+taxi	CON
+van	REL
+het	DEF
+treinstation	CON
+naar	REL
+het	DEF
+hotel	CON
+.	NIL
+
+Ken	PER
+is	NOW
+gelukkig	IST
+.	NIL
+
+Hij	PRO
+gleed	EPS
+uit	REL
+over	REL
+een	DIS
+bananenschil	CON
+.	NIL
+
+Iedereen	AND
+is	NOW
+gelukkig	IST
+.	NIL
+
+Ik	PRO
+heb	NOW
+dorst	IST
+.	NIL
+
+Maar	BUT
+we	PRO
+kunnen	ENS
+hem	PRO
+niet	NOT
+verstaan	EXT
+.	NIL
+
+Dat	DST
+is	ENS
+de	DEF
+bushalte	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+ervan	NIL
+overtuigd	IST
+dat	SUB
+hij	PRO
+onschuldig	IST
+is	NOW
+.	NIL
+
+Ze	PRO
+gaf	EPS
+me	PRO
+een	DIS
+charmerende	IST
+glimlach	CON
+.	NIL
+
+Mary	PER
+sloeg	EPS
+Tom	PER
+.	NIL
+
+De	DEF
+katten	CON
+zijn	NOW
+bang	IST
+voor	REL
+water	CON
+.	NIL
+
+Ik	PRO
+kan	POS
+luidruchtige	IST
+kinderen	CON
+niet	NOT
+verdragen	EXS
+.	NIL
+
+Noem	EXS
+een	DIS
+ouverture	CON
+van	REL
+Berlioz	PER
+.	NIL
+
+Het	DEF
+kind	CON
+rende	EPS
+naar	REL
+zijn	HAS
+moeder	ROL
+.	NIL
+
+Oscar~Chisini	PER
+stierf	EPS
+in	REL
+1967	YOC
+.	NIL
+
+Ik	PRO
+at	EPS
+kaviaar	CON
+.	NIL
+
+Hij	PRO
+verfde	EPS
+het	DEF
+plafond	CON
+blauw	COL
+.	NIL
+
+Als	SUB
+ge	PRO
+deze	PRX
+bus	CON
+neemt	ENS
+zult	FUT
+ge	PRO
+het	DEF
+dorp	CON
+bereiken	EXS
+.	NIL
+
+Ik	PRO
+heb	NOW
+genoeg	IST
+van	REL
+haar	HAS
+klachten	CON
+.	NIL
+
+Ik	PRO
+gaf	EPS
+Tom	PER
+een	DIS
+kalmeringsmiddel	CON
+.	NIL
+
+Waar	QUE
+staat	ENS
+de	DEF
+afkorting	CON
+ETA	LIT
+voor	REL
+?	QUE
+
+Ze	PRO
+nam	EPS
+de	DEF
+taxi	CON
+naar	REL
+het	DEF
+ziekenhuis	CON
+.	NIL
+
+Ben	NOW
+ik	PRO
+zo	EMP
+voorspelbaar	IST
+?	QUE
+
+Atletische	IST
+jongens	CON
+zijn	NOW
+populair	IST
+bij	REL
+meisjes	CON
+in	REL
+Amerikaanse	GPO
+scholen	CON
+.	NIL
+
+Ik	PRO
+zal	FUT
+jou	PRO
+dit	PRX
+boek	CON
+geven	EXS
+.	NIL
+
+Zij	PRO
+sloeg	EPS
+hem	PRO
+in	REL
+het	DEF
+gezicht	CON
+.	NIL
+
+Het	NIL
+sneeuwt	ENS
+.	NIL
+
+Waar	QUE
+werkt	ENS
+Raymond~Pettibon	PER
+?	QUE
+
+Ze	PRO
+houdt	ENS
+van	REL
+aardappelsalade	CON
+.	NIL
+
+Jezus	PER
+heeft	ENS
+buikspieren	CON
+van	REL
+staal	CON
+.	NIL
+
+De	DEF
+Universiteit~van~Milaan	ORG
+werd	PST
+opgericht	EXS
+door	REL
+Gian~Antonio~Maggi	PER
+en	GRP
+Giulio~Vivanti	PER
+.	NIL
+
+Het	PRO
+ligt	ENS
+onder	REL
+de	DEF
+stoel	CON
+.	NIL
+
+Ze	PRO
+vroegen	EPS
+hem	PRO
+.	NIL
+
+Hij	PRO
+is	NOW
+zo	EQU
+groot	IST
+als	REL
+zijn	HAS
+vader	ROL
+.	NIL
+
+De	DEF
+kinderen	CON
+pakten	EPS
+hun	HAS
+schaatsen	CON
+en	COO
+gingen	EPS
+richting	REL
+de	DEF
+bevroren	IST
+vijver	CON
+.	NIL
+
+Alles	DIS
+wat	IMP
+hij	PRO
+zegt	ENS
+is	NOW
+waar	IST
+.	NIL
+
+Hij	PRO
+was	PST
+heel	INT
+oud	DEG
+.	NIL
+
+Ik	PRO
+heb	NOW
+honger	IST
+.	NIL
+
+Iemand	DIS
+weet	ENS
+dat	DST
+.	NIL
+
+Hij	PRO
+spreekt	ENS
+vloeiend	IST
+Frans	CON
+.	NIL
+
+Peking	GPE
+is	NOW
+groter	MOR
+als	REL
+Rome	GPE
+
+Ben	ENS
+je	PRO
+een	DIS
+tovenaar	ROL
+?	QUE
+
+China	GPE
+is	NOW
+veel	QUV
+groter	MOR
+dan	REL
+Japan	GPE
+.	NIL
+
+Mijn	HAS
+vrouw	ROL
+houdt	ENS
+van	REL
+appeltaart	CON
+.	NIL
+
+Mijn	HAS
+tante	ROL
+had	EPS
+drie	QUC
+kinderen	CON
+.	NIL
+
+Mary	PER
+is	NOW
+schaars	INT
+gekleed	IST
+.	NIL
+
+Ik	PRO
+heb	ENS
+buikpijn	CON
+.	NIL
+
+Welk	QUE
+bedrijf	CON
+wordt	NOW
+geleid	EXS
+door	REL
+Michael~J.~Davis	PER
+?	QUE
+
+Iedereen	AND
+applaudisseerde	EPS
+.	NIL
+
+Ben	NOW
+je	PRO
+klaar	IST
+?	QUE
+
+Ik	PRO
+haat	ENS
+die	DST
+kleur	CON
+.	NIL
+
+Op	REL
+het	DEF
+bureau	CON
+ligt	ENS
+een	DIS
+boek	CON
+over	REL
+dansen	CON
+.	NIL
+
+Ik	PRO
+leer	ENS
+Kannada	CON
+.	NIL
+
+De	DEF
+lift	CON
+is	NOW
+buiten	NOT
+werking	IST
+.	NIL
+
+Ik	PRO
+studeer	ENS
+van	REL
+acht	CLO
+tot	REL
+elf	CLO
+.	NIL
+
+Ik	PRO
+ben	NOW
+moe	IST
+.	NIL
+
+Tom	PER
+sleep	EPS
+een	DIS
+potlood	CON
+.	NIL
+
+Mary	PER
+werd	PST
+gearresteerd	EXS
+voor	REL
+winkeldiefstal	CON
+.	NIL
+
+Wie	QUE
+is	ENS
+de	DEF
+president	ROL
+van	REL
+de	DEF
+Verenigde~Staten	GPE
+?	QUE
+
+Ik	PRO
+ben	NOW
+overtuigd	IST
+dat	SUB
+ik	PRO
+gelijk	IST
+heb	NOW
+.	NIL
+
+Lukoil	ORG
+verdiende	EPS
+in	REL
+2004	YOC
+een	DIS
+miljard	QUC
+dollar	UOM
+.	NIL
+
+Zal	FUT
+ik	PRO
+uw	HAS
+jas	CON
+dragen	EXS
+?	QUE
+
+Hij	PRO
+is	NOW
+lui	IST
+.	NIL
+
+Hij	PRO
+overtrad	EPS
+de	DEF
+wet	CON
+.	NIL
+
+Misschien	POS
+was	PST
+hij	PRO
+ziek	IST
+.	NIL
+
+Hij	PRO
+was	PST
+gemarteld	EXS
+en	COO
+gemoord	EXS
+.	NIL
+
+De	DEF
+vogel	CON
+vliegt	ENS
+.	NIL
+
+Mijn	HAS
+hond	CON
+kijkt	ENS
+ook	ALT
+tv	CON
+.	NIL
+
+De	DEF
+journalist	ROL
+werd	PST
+door	REL
+terroristen	ROL
+ontvoerd	EXS
+.	NIL
+
+Hij	PRO
+kneep	EPS
+me	PRO
+!	EMP
+
+Louis~Riel	PER
+vermoordde	EPS
+Scott	PER
+.	NIL
+
+De	DEF
+stad	CON
+ligt	ENS
+aan	REL
+de	DEF
+voet	CON
+van	REL
+de	DEF
+berg	CON
+.	NIL
+
+Dat	DST
+kind	CON
+wierp	EPS
+een	DIS
+steen	CON
+naar	REL
+de	DEF
+hond	CON
+.	NIL
+
+Dit	PRX
+is	NOW
+een	DIS
+miljoen	QUC
+yen	UOM
+waard	IST
+.	NIL
+
+De	DEF
+rivier	CON
+komt	ENS
+uit	REL
+in	REL
+de	DEF
+Pacifische~oceaan	GEO
+.	NIL
+
+Ik	PRO
+heb	NOW
+het	DEF
+dak	CON
+lichtblauw	COL
+geverfd	EXT
+.	NIL
+
+Tom	PER
+streek	EPS
+zijn	HAS
+kleren	CON
+.	NIL
+
+Die	DST
+emmer	CON
+lekt	ENS
+.	NIL
+
+Mabel~Normand	PER
+speelde	EPS
+in	REL
+The~Extra~Girl	ART
+.	NIL
+
+Hij	PRO
+veegde	EPS
+het	DEF
+zweet	CON
+van	REL
+zijn	HAS
+gezicht	CON
+af	REL
+.	NIL
+
+De	AND
+egel	CON
+is	EXS
+een	DIS
+klein	IST
+dier	CON
+.	NIL
+
+Waar	QUE
+overleed	EPS
+Irving~Mitchell	PER
+?	QUE
+
+Hij	PRO
+heeft	NOW
+geboerd	EXT
+.	NIL
+
+Tom	PER
+gooide	EPS
+de	DEF
+sleutels	CON
+naar	REL
+Mary	PER
+.	NIL
+
+Mijn	HAS
+broer	ROL
+werkt	ENS
+in	REL
+een	DIS
+benzinestation	CON
+.	NIL
+
+Millie	PER
+is	NOW
+geen	NOT
+water	CON
+aan~het	PRG
+drinken	EXS
+.	NIL
+
+Paus	ROL
+Johannes~Paulus~II	PER
+werd	PST
+geboren	EXS
+in	REL
+Polen	GPE
+.	NIL
+
+Ik	PRO
+verwachtte	EPS
+je	PRO
+om	REL
+11~uur	CLO
+.	NIL
+
+Ik	PRO
+ben	ENS
+een	DIS
+bakker	ROL
+.	NIL
+
+De	DEF
+wekker	CON
+wekt	EFS
+me	PRO
+om	REL
+zeven~uur	CLO
+.	NIL
+
+Welke	QUE
+taal	CON
+spreken	ENS
+ze	DIS
+in	REL
+de	DEF
+VS	GPE
+?	QUE
+
+Koningin	ROL
+Elizabeth	PER
+overleed	EPS
+in	REL
+1603	YOC
+.	NIL
+
+Wie	QUE
+is	ENS
+die	DST
+persoon	CON
+?	QUE
+
+Jiro~Akagawa	PER
+heeft	NOW
+meer~dan	MOR
+480	QUC
+romans	CON
+geschreven	EXT
+.	NIL
+
+Mijn	HAS
+oom	ROL
+is	NOW
+mager	IST
+maar	BUT
+mijn	HAS
+tante	ROL
+is	NOW
+dik	IST
+.	NIL
+
+Ik	PRO
+heb	NOW
+genoeg	IST
+van	REL
+hem	PRO
+.	NIL
+
+Ik	PRO
+ben	NOW
+gelukkig	IST
+met	REL
+mijn	HAS
+vriendin	ROL
+.	NIL
+
+Er	NIL
+is	ENS
+een	DIS
+nieuw	IST
+restaurant	CON
+op	REL
+Cherry~Avenue	GEO
+.	NIL
+
+Wie	QUE
+regisseerde	EPS
+\"	NIL
+North~by~Northwest	ART
+\"	NIL
+?	QUE
+
+Bij	REL
+welke	QUE
+partij	CON
+hoorde	EPS
+Noriega	PER
+?	QUE
+
+Het	DEF
+vliegtuig	CON
+landde	EPS
+op	REL
+het	DEF
+vliegveld	CON
+in	REL
+Narita	GPE
+.	NIL
+
+De	DEF
+bank	CON
+leende	EPS
+hem	PRO
+vijfhonderd	QUC
+dollar	UOM
+.	NIL
+
+Edison	PER
+heeft	NOW
+de	DEF
+elektrische~lamp	CON
+uitgevonden	EXT
+.	NIL
+
+ik	PRO
+heb	NOW
+mijn	HAS
+enkel	CON
+verzwikt	EXT
+.	NIL
+
+Ze	PRO
+zwaaide	EPS
+me	PRO
+gedag	CON
+.	NIL
+
+Ik	PRO
+spreek	ENS
+geen	NOT
+Ests	CON
+.	NIL
+
+Hij	PRO
+vertrok	EPS
+ongeveer	APX
+tien	QUC
+minuten	UOM
+geleden	PST
+.	NIL
+
+President	ROL
+Alfredo~Cristiani	PER
+werd	PST
+aangevallen	EXS
+door	REL
+demonstranten	ROL
+.	NIL
+
+De	DEF
+film	CON
+\'	NIL
+Speed	ART
+\'	NIL
+werd	PST
+geregisseerd	EXS
+door	REL
+Jan~de~Bont	PER
+.	NIL
+
+Hij	PRO
+wandelt	EXS
+elke	AND
+morgen	CON
+in	REL
+het	DEF
+park	CON
+.	NIL
+
+Moeder	ROL
+sneed	EPS
+de	DEF
+kaas	CON
+met	REL
+een	DIS
+mes	CON
+.	NIL
+
+Hij	PRO
+is	NOW
+ziek	IST
+.	NIL
+
+De	DEF
+hond	CON
+is	ENS
+in	REL
+het	DEF
+huis	CON
+.	NIL
+
+Tom	PER
+bespioneerde	EPS
+zijn	HAS
+kamergenoot	ROL
+.	NIL
+
+Elaine	PER
+is	ENS
+in	REL
+het	DEF
+ziekenhuis	CON
+.	NIL
+
+Waar	QUE
+staat	ENS
+de	DEF
+afkorting	CON
+VN	LIT
+voor	REL
+?	QUE
+
+Ik	PRO
+heb	NOW
+niets	NOT
+verstaan	EXT
+!	EMP
+
+Ook	ALT
+ik	PRO
+ben	NOW
+zeventien	QUC
+.	NIL
+
+Mijn	HAS
+oom	ROL
+heeft	NOW
+twee	QUC
+jaar	UOM
+in	REL
+gewoond	EXT
+.	NIL
+
+Tom	PER
+is	ENS
+een	DIS
+heer	CON
+.	NIL
+
+Tom	PER
+denkt	ENS
+dat	SUB
+ik	PRO
+jaloers	IST
+ben	NOW
+.	NIL
+
+Michael~Crichton	PER
+is	ENS
+de	DEF
+auteur	ROL
+van	REL
+het	DEF
+boek	CON
+\'	NIL
+Jurassic~Park	ART
+\'	NIL
+.	NIL
+
+De	DEF
+jachthond	CON
+liep	EPS
+richting	REL
+het	DEF
+bos	CON
+.	NIL
+
+Tom	PER
+was	PST
+aan~het	PRG
+huilen	EXS
+.	NIL
+
+Is	NOW
+dit	PRX
+restaurant	CON
+geopend	IST
+?	QUE
+
+Hij	PRO
+houdt	ENS
+zijn	HAS
+woord	CON
+.	NIL
+
+Mensen	CON
+noemen	ENS
+haar	PRO
+Yotchan	LIT
+.	NIL
+
+Wat	QUE
+is	ENS
+de	DEF
+voornaam	CON
+van	REL
+Milosevic	PER
+?	QUE
+
+Ik	PRO
+verkies	ENS
+slappe	IST
+koffie	CON
+.	NIL
+
+Hij	PRO
+heeft	ENS
+een	DIS
+zoon	ROL
+.	NIL
+
+Die	DST
+kerel	CON
+ergert	ENS
+mij	PRO
+.	NIL
+
+Ik	PRO
+omhelsde	EPS
+haar	PRO
+.	NIL
+
+Je	PRO
+hebt	NOW
+ons	PRO
+verraden	EXT
+.	NIL
+
+Hij	PRO
+is	ENS
+tandarts	ROL
+.	NIL
+
+Dit	PRX
+plastic	CON
+eekhoorntje	CON
+werd	PST
+in	REL
+China	GPE
+gemaakt	EXS
+.	NIL
+
+Gianni~Versace	PER
+is	ENS
+een	DIS
+ontwerper	ROL
+.	NIL
+
+Niemand	NOT
+begrijpt	ENS
+me	PRO
+.	NIL
+
+Het	NIL
+regent	ENS
+.	NIL
+
+Ik	PRO
+heb	NOW
+een	DIS
+appelboom	CON
+geplant	EXT
+in	REL
+mijn	HAS
+tuin	CON
+.	NIL
+
+Brad~Pitt	PER
+is	ENS
+een	DIS
+acteur	ROL
+.	NIL
+
+In	REL
+Alaska	GPE
+wonen	ENS
+miljoenen	QUV
+wilde	IST
+dieren	CON
+.	NIL
+
+Ze	PRO
+heeft	NOW
+me	PRO
+gedumpt	EXT
+.	NIL
+
+We	PRO
+hebben	ENS
+twee	QUC
+kinderen	CON
+.	NIL
+
+Je	PRO
+hebt	NOW
+alles	AND
+verpest	EXT
+.	NIL
+
+De	DEF
+leraar	ROL
+grijnsde	EPS
+.	NIL
+
+De	DEF
+maan	CON
+is	NOW
+helder	IST
+.	NIL
+
+De	DEF
+kinderen	CON
+waren	PST
+aan~het	PRG
+vliegeren	EXS
+.	NIL
+
+De	DEF
+top	CON
+van	REL
+de	DEF
+berg	CON
+is	NOW
+bedekt	EXS
+met	REL
+sneeuw	CON
+.	NIL
+
+Dit	PRX
+boek	CON
+is	NOW
+geschreven	EXS
+in	REL
+het	DEF
+Engels	CON
+.	NIL
+
+Ik	PRO
+lees	ENS
+stripboeken	CON
+.	NIL
+
+Plots	IST
+gingen	EPS
+de	DEF
+lichten	CON
+uit	REL
+.	NIL
+
+Het	PRO
+is	ENS
+een	DIS
+goede	IST
+jongen	CON
+en	COO
+hij	PRO
+is	NOW
+heel	INT
+sterk	IST
+.	NIL
+
+Ik	PRO
+heb	NOW
+nog	ALT
+nooit	NOT
+een	DIS
+boek	CON
+vertaald	EXT
+.	NIL
+
+Ze	PRO
+zijn	NOW
+bang	IST
+voor	REL
+Tom	PER
+.	NIL
+
+Ik	PRO
+ben	NOW
+dik	IST
+.	NIL
+
+De	DEF
+toeristen	ROL
+werden	PST
+in	REL
+de	DEF
+nachclub	CON
+echt	EMP
+afgezet	EXS
+.	NIL
+
+Wie	QUE
+helpt	ENS
+haar	PRO
+?	QUE
+
+Mijn	HAS
+oom	ROL
+is	NOW
+rijk	IST
+.	NIL
+
+We	PRO
+moeten	NEC
+de	DEF
+bewijzen	CON
+vernietigen	EXS
+.	NIL
+
+Ik	PRO
+was	PST
+jong	DEG
+en	COO
+onschuldig	IST
+.	NIL
+
+Tom	PER
+heeft	NOW
+een	DIS
+krant	CON
+gekocht	EXT
+.	NIL
+
+Ik	PRO
+ben	NOW
+helemaal	INT
+alleen	IST
+.	NIL
+
+Iedereen	AND
+maakt	ENS
+fouten	CON
+.	NIL
+
+Een	DIS
+miljard	QUC
+volwassenen	CON
+zijn	NOW
+analfabeten	IST
+.	NIL
+
+De	DEF
+doodstraf	CON
+zou	NIL
+afgeschaft	EXS
+moeten	NEC
+worden	FUT
+.	NIL
+
+Ik	PRO
+ben	ENS
+van	REL
+Shikoku	GPE
+.	NIL
+
+De	DEF
+kat	CON
+was	PST
+aan~het	PRG
+spelen	EXS
+met	REL
+een	DIS
+levende	IST
+muis	CON
+.	NIL
+
+Hij	PRO
+keek	EPS
+op	REL
+zijn	HAS
+horloge	CON
+.	NIL
+
+Ze	PRO
+is	NOW
+zes	QUC
+jaar	UOM
+ouder	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+Tom	PER
+knikte	EPS
+.	NIL
+
+Met	REL
+welke	QUE
+radioactieve	IST
+substantie	CON
+werd	PST
+Eda~Charlton	PER
+geïnjecteerd	EXS
+in	REL
+1945	YOC
+?	QUE
+
+Ze	PRO
+is	NOW
+acht	QUC
+maanden	UOM
+zwanger	IST
+.	NIL
+
+Tom	PER
+gleed	EPS
+uit	REL
+over	REL
+een	DIS
+bananenschil	CON
+.	NIL
+
+Melanie	PER
+zei	EPS
+dat	SUB
+ze	PRO
+van	REL
+zwemmen	CON
+houdt	ENS
+.	NIL
+
+Johann~Wolfgang~von~Goethe	PER
+werd	PST
+geboren	EXS
+in	REL
+Duitsland	GPE
+.	NIL
+
+Mike	PER
+noemde	EPS
+zijn	HAS
+hond	CON
+Spike	LIT
+.	NIL
+
+Hij	PRO
+schonk	EPS
+melk	CON
+in	REL
+zijn	HAS
+tea	CON
+en	COO
+roerde	EPS
+.	NIL
+
+Dat	DST
+is	ENS
+een	DIS
+goedkope	IST
+uitvlucht	CON
+.	NIL
+
+De	DEF
+twee	QUC
+honden	CON
+vochten	EPS
+voor	REL
+het	DEF
+been	CON
+.	NIL
+
+Ze	PRO
+is	NOW
+twee	QUC
+jaar	UOM
+jonger	MOR
+dan	REL
+hij	PRO
+.	NIL
+
+De	DEF
+jager	ROL
+vilde	EPS
+het	DEF
+hert	CON
+.	NIL
+
+De	DEF
+chirurg	ROL
+heeft	NOW
+het	DEF
+verkeerde	IST
+been	CON
+afgezet	EXT
+.	NIL
+
+De	DEF
+wijn	CON
+was	PST
+uitstekend	IST
+.	NIL
+
+Dat	DST
+is	ENS
+een	DIS
+mooi	IST
+verhaal	CON
+.	NIL
+
+De	DEF
+stad	CON
+is	NOW
+vol	IST
+toeristen	ROL
+.	NIL
+
+Tom	PER
+gaf	EPS
+Mary	PER
+de	DEF
+zaklamp	CON
+.	NIL
+
+Wie	QUE
+is	ENS
+dit	PRX
+mooie	IST
+meisje	CON
+?	QUE
+
+MG~Rover	ORG
+is	NOW
+gekocht	EXS
+door	REL
+Airbus	ORG
+.	NIL
+
+Meneer	ROL
+Brown	PER
+heeft	ENS
+vier	QUC
+kinderen	CON
+.	NIL
+
+Mijn	HAS
+moeder	ROL
+is	NOW
+mooi	IST
+.	NIL
+
+Hij	PRO
+is	NOW
+groter	MOR
+dan	REL
+zijn	HAS
+vader	ROL
+.	NIL
+
+Zij	PRO
+is	NOW
+veel	QUV
+groter	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+Tom	PER
+schraapte	EPS
+zijn	HAS
+keel	CON
+.	NIL
+
+De	DEF
+hitte	CON
+van	REL
+de	DEF
+zon	CON
+verhardt	ENS
+klei	CON
+.	NIL
+
+Ze	PRO
+is	NOW
+vriendelijk	IST
+tegen	REL
+hem	PRO
+.	NIL
+
+We	PRO
+hebben	ENS
+twee	QUC
+dochters	ROL
+.	NIL
+
+We	PRO
+begrijpen	ENS
+het	PRO
+.	NIL
+
+Ik	PRO
+leer	ENS
+Perzisch	CON
+.	NIL
+
+Er	NIL
+zit	ENS
+een	DIS
+aal	CON
+in	REL
+het	DEF
+water	CON
+.	NIL
+
+Brian	PER
+nam	EPS
+een	DIS
+paar	QUV
+rozen	CON
+.	NIL
+
+Maciek	PER
+overleed	EPS
+in	REL
+december	MOY
+.	NIL
+
+Hoeveel	QUE
+inwoners	ROL
+heeft	ENS
+Irak	GPE
+?	QUE
+
+Hoe	QUE
+stierf	EPS
+Charles~Bukowski	PER
+?	QUE
+
+Het	NIL
+krioelt	ENS
+van	REL
+de	DEF
+vissen	CON
+in	REL
+die	DST
+rivier	CON
+.	NIL
+
+Mijn	HAS
+horloge	CON
+werd	PST
+gestolen	EXS
+.	NIL
+
+Manchester~United	ORG
+versloeg	EPS
+Fulham	ORG
+.	NIL
+
+Ik	PRO
+ga	FUT
+hem	PRO
+neerschieten	EXS
+.	NIL
+
+De	DEF
+school	CON
+begint	ENS
+om	REL
+half~negen	CLO
+.	NIL
+
+Ik	PRO
+ben	EQU
+Antonio	PER
+.	NIL
+
+Een	DIS
+dokter	ROL
+onderzocht	EPS
+meneer	ROL
+Brown	PER
+.	NIL
+
+Tom	PER
+kleedde	EPS
+zich	REF
+om	REL
+.	NIL
+
+Hij	PRO
+dronk	EPS
+bier	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+gelukkig	IST
+.	NIL
+
+Tom	PER
+is	NOW
+sterk	IST
+.	NIL
+
+Ik	PRO
+at	EPS
+het	PRO
+.	NIL
+
+Zij	PRO
+is	NOW
+intelligent	IST
+.	NIL
+
+Ik	PRO
+ben	NOW
+groter	MOR
+dan	REL
+je	PRO
+.	NIL
+
+Leo~Tolstoj	PER
+was	EPS
+een	DIS
+vegetariër	ROL
+.	NIL
+
+Jij	PRO
+bent	NOW
+groter	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+We	PRO
+huurden	EPS
+een	DIS
+film	CON
+.	NIL
+
+BSN	ORG
+kocht	EPS
+RJR~Nabisco	ORG
+.	NIL
+
+Ik	PRO
+ben	NOW
+ouder	MOR
+dan	REL
+uw	HAS
+broer	ROL
+.	NIL
+
+Ik	PRO
+aarzelde	EPS
+om	REL
+zijn	HAS
+graf	CON
+te	NIL
+verlaten	EXS
+.	NIL
+
+Is	NOW
+jouw	HAS
+hond	CON
+gemeen	IST
+?	QUE
+
+Het	DEF
+schip	CON
+zinkt	ENS
+!	EMP
+
+De	DEF
+hemel	CON
+is	NOW
+blauw	COL
+.	NIL
+
+Hij	PRO
+dronk	EPS
+een	DIS
+bier	CON
+.	NIL
+
+Je	PRO
+hebt	NOW
+de	DEF
+wet	CON
+gebroken	EXT
+.	NIL
+
+Ik	PRO
+hou	ENS
+van	REL
+disco-muziek	CON
+.	NIL
+
+Tom	PER
+is	NOW
+door	REL
+een	DIS
+tijger	CON
+opgegeten	EXS
+.	NIL
+
+De	DEF
+taart	CON
+is	NOW
+heerlijk	IST
+.	NIL
+
+Hij	PRO
+is	NOW
+waarschijnlijk	POS
+dood	IST
+.	NIL
+
+Ze	PRO
+masseerde	EPS
+zijn	HAS
+rug	CON
+.	NIL
+
+Qin~Shi~Huang	PER
+was	EPS
+de	DEF
+eerste	ORD
+keizer	ROL
+van	REL
+China	GPE
+.	NIL
+
+Zhao	PER
+stierf	EPS
+in	REL
+Peking	GPE
+.	NIL
+
+De	DEF
+zonsopgang	CON
+breekt	ENS
+aan	REL
+.	NIL
+
+Hij	PRO
+heeft	NOW
+het	DEF
+bedrijf	CON
+van	REL
+zijn	HAS
+vader	ROL
+geërfd	EXT
+.	NIL
+
+Hij	PRO
+zit	ENS
+aan	REL
+tafel	CON
+.	NIL
+
+Mijn	HAS
+moeder	ROL
+heeft	NOW
+de	DEF
+taart	CON
+in	REL
+de	DEF
+koelkast	CON
+gelegd	EXT
+.	NIL
+
+Hoeveel	QUE
+inwoners	ROL
+heeft	ENS
+Tsjetsjenië	GPE
+?	QUE
+
+Ik	PRO
+eet	ENS
+een	DIS
+banaan	CON
+.	NIL
+
+Wij	PRO
+zaaien	ENS
+.	NIL
+
+Hij	PRO
+protesteerde	EPS
+tegen	REL
+het	DEF
+nieuwe	IST
+plan	CON
+.	NIL
+
+Tom	PER
+kocht	EPS
+een	DIS
+cadeautje	CON
+voor	REL
+Mary	PER
+.	NIL
+
+Ik	PRO
+maakte	EPS
+een	DIS
+bureau	CON
+van	REL
+hout	CON
+.	NIL
+
+Hij	PRO
+klopte	EPS
+op	REL
+de	DEF
+deur	CON
+.	NIL
+
+Het	PRO
+zal	FUT
+meer~dan	MOR
+duizend	QUC
+yen	UOM
+kosten	EXS
+.	NIL
+
+wat	QUE
+is	ENS
+de	DEF
+wisselkoers	CON
+?	QUE
+
+Ik	PRO
+dronk	EPS
+melk	CON
+.	NIL
+
+Ze	PRO
+was	EPS
+een	DIS
+kind	CON
+maar	BUT
+ze	PRO
+was	PST
+dapper	IST
+.	NIL
+
+Die	DST
+hond	CON
+stinkt	ENS
+!	EMP
+
+Er	NIL
+is	ENS
+melk	CON
+in	REL
+de	DEF
+koelkast	CON
+.	NIL
+
+Mijn	HAS
+camera	CON
+is	NOW
+waterdicht	IST
+.	NIL
+
+Ik	PRO
+hoorde	EPS
+een	DIS
+geluid	CON
+in	REL
+de	DEF
+slaapkamer	CON
+.	NIL
+
+Hij	PRO
+stak	EPS
+zijn	HAS
+mes	CON
+in	REL
+de	DEF
+boom	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+honger	IST
+.	NIL
+
+Ik	PRO
+ben	NOW
+teruggekomen	EXT
+.	NIL
+
+Aurélie	PER
+is	ENS
+een	DIS
+jonge	DEG
+herderin	ROL
+.	NIL
+
+Ze	PRO
+was	EPS
+een	DIS
+kind	CON
+maar	BUT
+ze	PRO
+was	PST
+niet	NOT
+bang	IST
+.	NIL
+
+Israël	GPE
+is	ENS
+een	DIS
+ontwikkeld	IST
+land	CON
+.	NIL
+
+Tom	PER
+speelde	EPS
+de	DEF
+hobo	CON
+en	COO
+Maria	PER
+begeleidde	EPS
+hem	PRO
+op	REL
+de	DEF
+piano	CON
+.	NIL
+
+Je	PRO
+bent	NOW
+fotogeniek	IST
+.	NIL
+
+Wiens	HAS
+container	CON
+is	ENS
+dit	PRX
+?	QUE
+
+Ik	PRO
+ben	ENS
+in	REL
+de	DEF
+keuken	CON
+.	NIL
+
+Het	NIL
+is	NOW
+half~negen	CLO
+.	NIL
+
+Ik	PRO
+ben	ENS
+een	DIS
+tennisspeler	ROL
+.	NIL
+
+Mary	PER
+is	NOW
+tijd	CON
+aan~het	PRG
+verliezen	EXS
+.	NIL
+
+Alexandre~Berthier	PER
+stierf	EPS
+in	REL
+1799	YOC
+.	NIL
+
+De	DEF
+landing	CON
+van	REL
+Normandië	GPE
+vond	EPS
+plaats	NIL
+in	REL
+juni	MOY
+1944	YOC
+.	NIL
+
+Dagbladet	ORG
+is	ENS
+een	DIS
+Noorse	GPO
+krant	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+blut	IST
+.	NIL
+
+Zwitserland	GPE
+is	ENS
+een	DIS
+mooi	IST
+land	CON
+.	NIL
+
+Wendy	PER
+was	PST
+niet	NOT
+altijd	AND
+geïnteresseerd	IST
+in	REL
+Japanse	GPO
+festivals	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+bang	IST
+dat	SUB
+de	DEF
+lijn	CON
+bezet	IST
+is	NOW
+.	NIL
+
+Ik	PRO
+ben	NOW
+geboren	EXT
+in	REL
+Osaka	GPE
+.	NIL
+
+Het	DEF
+oordeel	CON
+van	REL
+de	DEF
+rechter	ROL
+is	NOW
+definitief	IST
+.	NIL
+
+Ik	PRO
+ben	NOW
+achttien	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+Hij	PRO
+is	NOW
+veel	QUV
+groter	MOR
+dan	REL
+gij	PRO
+.	NIL
+
+Ik	PRO
+won	EPS
+de	DEF
+lotto	CON
+.	NIL
+
+Mijn	HAS
+hartslag	CON
+is	NOW
+laag	IST
+.	NIL
+
+Meneer	ROL
+Suzuki	PER
+is	ENS
+een	DIS
+goede	IST
+wetenschapper	ROL
+.	NIL
+
+Alexander	PER
+is	NOW
+niet	NOT
+jonger	MOR
+dan	REL
+Vladimir	PER
+.	NIL
+
+De	DEF
+dokter	ROL
+nam	EPS
+mijn	HAS
+pols	CON
+.	NIL
+
+Ik	PRO
+ben	ENS
+Jorge	PER
+.	NIL
+
+Het	DEF
+eerste	ORD
+vliegtuig	CON
+vloog	EPS
+12	QUC
+seconden	UOM
+in	REL
+1903	YOC
+.	NIL
+
+Hij	PRO
+heeft	NOW
+een	DIS
+vingerhoed	CON
+gekocht	EXT
+.	NIL
+
+Ik	PRO
+ben	NOW
+ziek	IST
+.	NIL
+
+De	DEF
+bomen	CON
+zijn	NOW
+groen	COL
+.	NIL
+
+Extreem	INT
+harde	DEG
+muziek	CON
+onderbrak	EPS
+hun	HAS
+gesprek	CON
+.	NIL
+
+Er	NIL
+staan	ENS
+fouten	CON
+in	REL
+deze	PRX
+telefoonrekening	CON
+.	NIL
+
+Wat	EMP
+een	DIS
+prachtige	IST
+stad	CON
+!	EMP
+
+Dit	PRX
+liedje	CON
+heet	ENS
+\"	NIL
+Only~You	LIT
+\"	NIL
+.	NIL
+
+Je	PRO
+moet	NEC
+me	PRO
+iets	DIS
+beloven	EXS
+.	NIL
+
+Het	PRO
+is	ENS
+een	DIS
+cliche	CON
+maar	BUT
+het	PRO
+is	NOW
+waar	IST
+.	NIL
+
+Gloeilampen	CON
+stralen	ENS
+warmte	CON
+uit	REL
+.	NIL
+
+De	DEF
+koning	ROL
+heerste	EPS
+over	REL
+het	DEF
+eiland	CON
+.	NIL
+
+Hebben	NOW
+ze	PRO
+je	PRO
+ontslagen	EXT
+?	QUE
+
+Ik	PRO
+kom	ENS
+uit	REL
+Engeland	GPE
+.	NIL
+
+Ze	PRO
+begeleidde	EPS
+mij	PRO
+op	REL
+de	DEF
+piano	CON
+.	NIL
+
+Ik	PRO
+luisterde	EPS
+naar	REL
+muziek	CON
+.	NIL
+
+Wij	PRO
+hebben	ENS
+drie	QUC
+dochters	ROL
+.	NIL
+
+Je	PRO
+kan	POS
+niet	NOT
+wegrennen	EXS
+.	NIL
+
+Ze	PRO
+is	NOW
+verslaafd	IST
+aan	REL
+Farmville	ART
+.	NIL
+
+Urdu	CON
+is	ENS
+onze	HAS
+moedertaal	CON
+.	NIL
+
+Er	NIL
+zit	ENS
+een	DIS
+geheime	IST
+la	CON
+in	REL
+het	DEF
+bureau	CON
+.	NIL
+
+Deze	PRX
+vogel	CON
+is	ENS
+een	DIS
+kwikstaart	CON
+.	NIL
+
+Het	DEF
+jongetje	CON
+is	ENS
+in	REL
+de	DEF
+dierentuin	CON
+.	NIL
+
+Amerika	GPE
+schafte	EPS
+slavernij	CON
+af	REL
+.	NIL
+
+Hij	PRO
+is	ENS
+een	DIS
+volleybalspeler	ROL
+.	NIL
+
+Je	AND
+kan	POS
+niet	NOT
+op	REL
+dat	DST
+eiland	CON
+wonen	EXS
+.	NIL
+
+Ik	PRO
+eet	ENS
+vruchten	CON
+omdat	SUB
+ik	PRO
+honger	IST
+heb	NOW
+.	NIL
+
+Welk	QUE
+Elvis~Presley	PER
+lied	CON
+zong	EPS
+Gilmore	PER
+?	QUE
+
+Is	NOW
+geld	CON
+belangrijk	IST
+voor	REL
+jou	PRO
+?	QUE
+
+Ik	PRO
+transpireerde	EPS
+onder	REL
+mijn	HAS
+oksels	CON
+.	NIL
+
+Ze	PRO
+zette	EPS
+me	PRO
+bij	REL
+mijn	HAS
+appartement	CON
+af	REL
+.	NIL
+
+Dickson	PER
+werkte	EPS
+voor	REL
+Edison	PER
+.	NIL
+
+Nancy~Ianiero	PER
+werd	PST
+gedood	EXS
+in	REL
+Mexico	GPE
+.	NIL
+
+Verdens~Gang	ORG
+is	ENS
+een	DIS
+Noorse	GPO
+krant	CON
+.	NIL
+
+Mijn	HAS
+horloge	CON
+was	PST
+gestolen	EXS
+.	NIL
+
+Wie	QUE
+heeft	NOW
+de	DEF
+boom	CON
+geplant	EXT
+?	QUE
+
+De	DEF
+romans	CON
+die	AND
+hij	PRO
+geschreven	EXT
+heeft	NOW
+zijn	NOW
+interessant	IST
+.	NIL
+
+Meneer	ROL
+Spencer	PER
+werkt	ENS
+in	REL
+een	DIS
+winkel	CON
+.	NIL
+
+Dit	PRO
+kostte	EPS
+minder~dan	LES
+vijftien	QUC
+dollar	UOM
+.	NIL
+
+Deze	PRX
+schoen	CON
+is	NOW
+een	QUC
+maat	UOM
+groter	MOR
+.	NIL
+
+Hij	PRO
+werd	PST
+10.000	QUC
+dollar	UOM
+betaald	EXS
+.	NIL
+
+Dat	DST
+is	ENS
+mijn	HAS
+hond	CON
+.	NIL
+
+Wat	QUE
+is	ENS
+je	HAS
+voornaam	CON
+?	QUE
+
+Ze	PRO
+noemen	ENS
+Robert	PER
+„	NIL
+Bob	LIT
+”	NIL
+.	NIL
+
+Hij	PRO
+nam	EPS
+een	DIS
+foto	CON
+van	REL
+de	DEF
+koala	CON
+.	NIL
+
+Hij	PRO
+gaat	FUT
+de	DEF
+stad	CON
+nooit	NOT
+meer	ALT
+bezoeken	EXS
+.	NIL
+
+Ze	PRO
+is	NOW
+trots	IST
+op	REL
+haar	HAS
+dochter	ROL
+.	NIL
+
+Ik	PRO
+ga	ENS
+met	REL
+u	PRO
+naar	REL
+Hannover	GPE
+.	NIL
+
+Wat	QUE
+is	EXS
+de	DEF
+wortel	CON
+van	REL
+100	QUC
+?	QUE
+
+Ze	PRO
+heeft	ENS
+ongeveer	APX
+2000	QUC
+boeken	CON
+.	NIL
+
+Ben	ENS
+ik	PRO
+in	REL
+Londen	GPE
+?	QUE
+
+Wie	QUE
+is	ENS
+de	DEF
+uitvinder	ROL
+van	REL
+de	DEF
+radio	CON
+?	QUE
+
+Ik	PRO
+staarde	EPS
+naar	REL
+de	DEF
+man	CON
+.	NIL
+
+Ieder	AND
+een	CON
+behalve	NOT
+Tom	PER
+glimlachte	EPS
+.	NIL
+
+Het	PRO
+is	NOW
+vijf~voor~vier	CLO
+.	NIL
+
+De	DEF
+mensen	CON
+in	REL
+Brazilië	GPE
+waren	PST
+trots	IST
+op	REL
+hem	PRO
+.	NIL
+
+Tom	PER
+verbleef	EPS
+een	DIS
+week	CON
+op	REL
+Bali	GPE
+met	REL
+zijn	HAS
+vriendin	ROL
+.	NIL
+
+De	DEF
+bibliotheek	CON
+is	NOW
+tachtig	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+Koning	ROL
+Henry~II	PER
+verbood	EPS
+het	DEF
+steekspel	CON
+.	NIL
+
+Berlinguer	PER
+volgde	EPS
+Natta	PER
+op	REL
+.	NIL
+
+Nelson~Beavers	PER
+werkte	EPS
+voor	REL
+Eurofins	ORG
+.	NIL
+
+Ik	PRO
+heb	NOW
+met	REL
+de	DEF
+actrice	ROL
+zelf	EMP
+gesproken	EXT
+.	NIL
+
+Bijen	CON
+vliegen	ENS
+van	REL
+bloem	CON
+tot	REL
+bloem	CON
+.	NIL
+
+Hij	PRO
+klopte	EPS
+op	REL
+de	DEF
+gesloten	IST
+deur	CON
+.	NIL
+
+Vijf	QUC
+plus	CON
+twee	QUC
+is	EXS
+zeven	QUC
+.	NIL
+
+Hij	PRO
+werd	PST
+aangevallen	EXS
+door	REL
+een	DIS
+haai	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+aan~het	PRG
+dutten	EXS
+.	NIL
+
+Ze	PRO
+speelt	ENS
+iedere	AND
+dag	CON
+tennis	CON
+.	NIL
+
+Wie	QUE
+heeft	NOW
+radium	CON
+ontdekt	EXT
+?	QUE
+
+Ze	PRO
+is	NOW
+getrouwd	EXT
+met	REL
+een	DIS
+muzikant	ROL
+.	NIL
+
+Dat	DST
+radiootje	CON
+is	NOW
+niet	NOT
+groter	MOR
+dan	REL
+een	DIS
+lucifersdoosje	CON
+.	NIL
+
+Apple~Inc.	ORG
+is	NOW
+gevestigd	EXS
+in	REL
+San~Jose	GPE
+.	NIL
+
+De	DEF
+oorlog	CON
+duurde	EPS
+twee	QUC
+jaar	UOM
+.	NIL
+
+Dit	PRX
+antwoord	CON
+maakte	EPS
+hem	PRO
+woedend	IST
+.	NIL
+
+Hij	PRO
+klopte	EPS
+op	REL
+de	DEF
+deur	CON
+.	NIL
+
+Tom	PER
+morste	EPS
+de	DEF
+melk	CON
+.	NIL
+
+Wat	QUE
+was	EPS
+de	DEF
+voornaam	CON
+van	REL
+de	DEF
+vader	ROL
+van	REL
+Gottfried~Reinhardt	PER
+?	QUE
+
+Tom	PER
+gaf	EPS
+Mary	PER
+een	DIS
+banaan	CON
+.	NIL
+
+Katten	CON
+vangen	EXS
+muizen	CON
+.	NIL
+
+Een	AND
+dolfijn	CON
+is	EQU
+een	DIS
+zoogdier	CON
+.	NIL
+
+Hij	PRO
+groef	EPS
+een	DIS
+gat	CON
+.	NIL
+
+Zij	PRO
+sloeg	EPS
+hem	PRO
+in	REF
+het	DEF
+gezicht	CON
+.	NIL
+
+De	DEF
+vergadering	CON
+duurde	EPS
+tot	REL
+vijf~uur	CLO
+.	NIL
+
+Niemand	NOT
+begreep	EPS
+mij	PRO
+.	NIL
+
+Zij	PRO
+is	NOW
+gelukkig	IST
+.	NIL
+
+Mary	PER
+heeft	NOW
+de	DEF
+koe	CON
+gemolken	EXT
+.	NIL
+
+Deze	PRX
+koptelefoons	CON
+werken	ENS
+niet	NOT
+.	NIL
+
+Tom	PER
+speelt	ENS
+hockey	CON
+.	NIL
+
+Deze	PRX
+film	CON
+is	NOW
+gebaseerd	EXS
+op	REL
+een	DIS
+roman	CON
+.	NIL
+
+Hij	PRO
+stak	EPS
+de	DEF
+sleutel	CON
+in	REL
+het	DEF
+slot	CON
+.	NIL
+
+Ze	PRO
+voegde	EPS
+melk	CON
+bij	REL
+de	DEF
+koffie	CON
+.	NIL
+
+Tom	PER
+kreunde	EPS
+van	REL
+de	DEF
+pijn	CON
+.	NIL
+
+Cisco	ORG
+werd	PST
+overgenomen	EXS
+door	REL
+Infogear~Technology~Corp	ORG
+.	NIL
+
+De	DEF
+Everglades	GEO
+is	NOW
+75	QUC
+kilometer	UOM
+breed	DEG
+.	NIL
+
+De	DEF
+school	CON
+begint	ENS
+om	REL
+half~negen	CLO
+.	NIL
+
+John	PER
+liep	EPS
+de	DEF
+kamer	CON
+in	REL
+.	NIL
+
+Hij	PRO
+antwoordde	EPS
+dat	SUB
+hij	PRO
+het	PRO
+niet	NOT
+wist	EPS
+.	NIL
+
+Ze	PRO
+kocht	EPS
+een	DIS
+woordenboek	CON
+voor	REL
+haar	HAS
+zuster	ROL
+.	NIL
+
+Ik	PRO
+wil	ENS
+naar	REL
+Japan	GPE
+gaan	EXS
+.	NIL
+
+Een	DIS
+zakkenroller	ROL
+stal	EPS
+mijn	HAS
+portemonnee	CON
+in	REL
+de	DEF
+trein	CON
+.	NIL
+
+Ik	PRO
+heb	NOW
+een	DIS
+pizza	CON
+besteld	EXT
+.	NIL
+
+Hij	PRO
+werkt	ENS
+in	REL
+een	DIS
+lommerd	CON
+.	NIL
+
+Ze	PRO
+is	NOW
+de	DEF
+straat	CON
+overgestoken	EXT
+.	NIL
+
+Het	PRO
+was	PST
+niet	NOT
+persoonlijk	IST
+.	NIL
+
+Mary	PER
+is	ENS
+een	DIS
+kluns	ROL
+.	NIL
+
+John	PER
+erfde	EPS
+een	DIS
+groot	DEG
+fortuin	CON
+.	NIL
+
+Kate	PER
+heeft	NOW
+een	DIS
+appeltaart	CON
+gebakken	EXT
+.	NIL
+
+Ze	PRO
+is	NOW
+blij	IST
+met	REL
+haar	HAS
+nieuwe	IST
+jurk	CON
+.	NIL
+
+Hij	PRO
+kan	POS
+niet	NOT
+zwemmen	EXS
+.	NIL
+
+Ze	PRO
+kwamen	EPS
+in	REL
+New~Delhi	GPE
+aan	REL
+op	REL
+9	DOM
+juli	MOY
+.	NIL
+
+Waar	QUE
+zijn	ENS
+de	DEF
+parkeermeters	CON
+?	QUE
+
+We	PRO
+hebben	ENS
+een	DIS
+half~dozijn	QUC
+eieren	CON
+.	NIL
+
+Ben	NOW
+je	PRO
+boos	IST
+op	REL
+Tom	PER
+?	QUE
+
+Tom	PER
+schreef	EPS
+zijn	HAS
+naam	CON
+op	REL
+het	DEF
+bord	CON
+.	NIL
+
+Wat	QUE
+is	ENS
+de	DEF
+hoogste	TOP
+berg	CON
+in	REL
+Duitsland	GPE
+?	QUE
+
+Om	REL
+middernacht	CLO
+kwam	EPS
+iedereen	AND
+binnen	REL
+.	NIL
+
+Mijn	HAS
+vriend	ROL
+houdt	ENS
+van	REL
+chocolade-ijs	CON
+.	NIL
+
+Ik	PRO
+ben	NOW
+niet	NOT
+zo	EMP
+gek	IST
+.	NIL
+
+Hij	PRO
+is	NOW
+een	DIS
+beetje	QUV
+kleiner	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+Haar	HAS
+haar	CON
+is	NOW
+lang	DEG
+.	NIL
+
+Ik	PRO
+heb	NOW
+de	DEF
+pc	CON
+kapotgemaakt	EXT
+.	NIL
+
+Luna	PER
+is	ENS
+een	DIS
+betrouwbaar	IST
+persoon	CON
+.	NIL
+
+Een	DIS
+tsunami	CON
+raakte	EPS
+de	DEF
+noordoostelijke	IST
+kust	CON
+van	REL
+Hokkaido	GPE
+.	NIL
+
+Stephen~Hawking	PER
+is	ENS
+een	DIS
+natuurkundige	ROL
+.	NIL
+
+Parmalat	ORG
+kost	ENS
+euro	UOM
+.	NIL
+
+Bill	PER
+was	EPS
+in	REL
+Japan	GPE
+.	NIL
+
+Tom	PER
+houdt	ENS
+niet	NOT
+van	REL
+kaas	CON
+.	NIL
+
+John	PER
+is	NOW
+goed	IST
+in	REL
+wiskunde	CON
+.	NIL
+
+Is	ENS
+dit	PRX
+jouw	HAS
+fiets	CON
+?	QUE
+
+Hij	PRO
+woont	ENS
+in	REL
+deze	PRX
+wijk	CON
+.	NIL
+
+Hij	PRO
+is	NOW
+groter	MOR
+dan	REL
+ik	PRO
+.	NIL
+
+Hij	PRO
+is	NOW
+verslaafd	IST
+aan	REL
+de	DEF
+koffie	CON
+van	REL
+Starbucks	ORG
+.	NIL
+
+Eén	QUC
+plus	CON
+twee	QUC
+is	NIL
+gelijk	IST
+aan	REL
+drie	QUC
+.	NIL
+
+Ze	PRO
+zat	EPS
+op	REL
+de	DEF
+bank	CON
+.	NIL
+
+Hij	PRO
+is	ENS
+mijn	HAS
+vriend	ROL
+.	NIL
+
+Ik	PRO
+respecteer	ENS
+de	DEF
+ouderen	ROL
+.	NIL
+
+Waar	QUE
+zijn	ENS
+de	DEF
+parkeermeters	CON
+?	QUE
+
+Ze	PRO
+gaf	EPS
+hem	PRO
+zijn	HAS
+jas	CON
+.	NIL
+
+Wij	PRO
+wonnen	EPS
+de	DEF
+bronzen~medaille	CON
+.	NIL
+
+De	DEF
+kamer	CON
+was	PST
+warm	DEG
+.	NIL
+
+Waar	QUE
+zijn	ENS
+de	DEF
+reddingsboten	CON
+?	QUE
+
+Hij	PRO
+werkte	EPS
+anderhalf	QUC
+jaar	UOM
+in	REL
+Nederland	GPE
+.	NIL
+
+Zijn	HAS
+benen	CON
+zijn	NOW
+lang	DEG
+.	NIL
+
+Ik	PRO
+neem	ENS
+Lipitor	CON
+.	NIL
+
+Mevrouw	ROL
+Jones	PER
+doceert	ENS
+informatica	CON
+.	NIL
+
+Tom	PER
+kerfde	EPS
+zijn	HAS
+initialen	CON
+in	REL
+de	DEF
+grote	DEG
+eik	CON
+voor	REL
+de	DEF
+school	CON
+.	NIL
+
+Mijn	HAS
+zoon	ROL
+is	NOW
+tien	QUC
+jaar	UOM
+oud	DEG
+.	NIL
+
+Tom	PER
+plaatste	EPS
+de	DEF
+map	CON
+op	REL
+de	DEF
+tafel	CON
+.	NIL
+
+Zij	PRO
+heeft	NOW
+niet	NOT
+geluisterd	EXT
+.	NIL
+
+Tom	PER
+zei	EPS
+dat	SUB
+het	PRO
+een	DIS
+noodgeval	CON
+was	EPS
+.	NIL
